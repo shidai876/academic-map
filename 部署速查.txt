@@ -1,0 +1,9 @@
+Academic Map 2.0 部署速查
+1. GitHub 新建 public 仓库 academic-map
+2. 解压 ZIP，把所有内容上传到仓库根目录
+3. Settings → Pages → Source 选择 GitHub Actions
+4. Actions → Daily Research Radar → Run workflow
+5. 等几分钟 → Settings → Pages → 打开固定网址并收藏
+6. 可选：申请免费 OpenAlex API key，存为 Actions secret：OPENALEX_API_KEY
+
+个人笔记保存在浏览器，不会自动上传。换电脑前在网站“备份”里导出 JSON。

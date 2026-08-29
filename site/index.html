@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Academic Map 2.0 · 免费科研雷达</title>
+<style>
+:root{--bg:#f5f7fb;--panel:#fff;--text:#182135;--muted:#718096;--line:#e5e9f2;--blue:#3157d5;--blue2:#eef3ff;--green:#2e8b65;--orange:#bf7622;--red:#b84848;--shadow:0 8px 28px rgba(31,49,84,.07);--r:17px}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}
+button,input,select,textarea{font:inherit}.app{display:grid;grid-template-columns:245px 1fr;min-height:100vh}
+aside{background:#111a2e;color:#fff;padding:20px 15px;position:sticky;top:0;height:100vh}.brand{padding:5px 10px 20px}.brand b{font-size:19px}.brand div{font-size:12px;color:#9facc6;margin-top:3px}
+nav{display:flex;flex-direction:column;gap:5px}nav button{border:0;background:transparent;color:#c4cee4;text-align:left;padding:11px 12px;border-radius:10px;cursor:pointer}nav button:hover,nav button.on{background:#22304d;color:white}
+.aside-note{position:absolute;bottom:18px;left:15px;right:15px;background:#1a2845;border:1px solid #2c3d62;border-radius:13px;padding:11px;font-size:11px;color:#b8c3d9;line-height:1.6}
+main{width:100%;max-width:1520px;margin:auto;padding:26px}.view{display:none}.view.on{display:block}
+.top{display:flex;justify-content:space-between;align-items:flex-start;gap:15px;margin-bottom:18px}.top h1{font-size:27px;margin:0}.top p{margin:6px 0 0;color:var(--muted);font-size:13px}
+.actions{display:flex;gap:8px;flex-wrap:wrap}.btn{border:1px solid var(--line);background:white;padding:9px 13px;border-radius:10px;cursor:pointer;color:var(--text)}.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}.btn.danger{color:var(--red)}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow);padding:17px}.grid{display:grid;gap:14px}.g4{grid-template-columns:repeat(4,minmax(0,1fr))}.g3{grid-template-columns:repeat(3,minmax(0,1fr))}.g2{grid-template-columns:1fr 1fr}.metric .label{font-size:12px;color:var(--muted)}.metric .num{font-size:29px;font-weight:800;margin:5px 0}.metric .sub{font-size:11px;color:var(--muted)}
+.section{margin-top:15px}.head{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:11px}.head h2{font-size:17px;margin:0}.small{font-size:11px;color:var(--muted)}
+.notice{padding:11px 13px;background:#fff9ed;border:1px solid #f0dfba;border-radius:12px;color:#7a5925;font-size:12px;line-height:1.6}
+.filters{display:flex;flex-wrap:wrap;gap:8px}.input,select,textarea{border:1px solid #dfe5ee;border-radius:9px;background:#fff;padding:9px 10px;outline:none;color:var(--text)}.input:focus,select:focus,textarea:focus{border-color:#9baded;box-shadow:0 0 0 3px rgba(49,87,213,.10)}.input.search{min-width:280px;flex:1}
+.paper{border:1px solid var(--line);border-radius:14px;padding:15px;margin-top:11px;background:#fff}.paper-top{display:flex;justify-content:space-between;gap:13px}.paper h3{margin:0;font-size:16px;line-height:1.5}.paper-meta{color:var(--muted);font-size:11px;margin-top:5px}.score{min-width:68px;text-align:center;border-radius:12px;padding:8px;background:var(--blue2);color:var(--blue);font-weight:800;height:max-content}.score strong{font-size:19px;display:block}
+.tags{margin-top:8px}.tag{display:inline-block;border-radius:999px;background:#f0f3f8;padding:4px 8px;font-size:10px;margin:2px 3px 2px 0;color:#526079}.tag.hot{background:#fff0e4;color:#a95b15}.tag.core{background:#eaf6f1;color:#237451}
+.paper-grid{display:grid;grid-template-columns:1.3fr .7fr;gap:13px;margin-top:12px}.box{background:#f8faff;border-radius:12px;padding:11px;font-size:12px;line-height:1.65}.box b{display:block;margin-bottom:4px}.authors{font-size:12px;line-height:1.7}.paper-actions{display:flex;gap:7px;flex-wrap:wrap;margin-top:11px}.mini{border:1px solid var(--line);background:#fff;border-radius:8px;padding:6px 9px;font-size:11px;cursor:pointer}.mini.primary{background:var(--blue);color:#fff;border-color:var(--blue)}
+.radar-row{display:grid;grid-template-columns:1fr 1fr;gap:14px}.rank{display:flex;justify-content:space-between;gap:12px;padding:9px 0;border-bottom:1px solid var(--line);font-size:12px}.rank:last-child{border:0}.trend-up{color:var(--green)}.trend-down{color:var(--red)}.trend-flat{color:var(--muted)}
+.local-list{display:flex;flex-direction:column;gap:9px}.local-item{border:1px solid var(--line);border-radius:12px;padding:12px}.local-top{display:flex;justify-content:space-between;gap:10px}.local-title{font-weight:750}.local-meta{font-size:11px;color:var(--muted);margin-top:3px}.local-note{font-size:12px;margin-top:7px;line-height:1.6}
+.empty{border:1px dashed #d6dce8;border-radius:13px;padding:24px;text-align:center;color:var(--muted);font-size:12px}
+.modal{display:none;position:fixed;inset:0;background:rgba(12,20,37,.45);align-items:center;justify-content:center;padding:18px;z-index:20}.modal.on{display:flex}.modal-card{width:min(720px,100%);max-height:90vh;overflow:auto;background:#fff;border-radius:18px;padding:18px}.form{display:grid;grid-template-columns:1fr 1fr;gap:11px}.form .full{grid-column:1/-1}label{font-size:11px;color:var(--muted);display:block;margin-bottom:4px}
+.daily{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.daily-card{border:1px solid var(--line);border-radius:13px;padding:12px}.daily-card.done{background:#f3faf7;border-color:#cce8db}.daily-card b{display:block;margin:4px 0}.progress{height:8px;border-radius:999px;background:#e9edf5;overflow:hidden}.progress span{display:block;height:100%;background:var(--blue)}
+.review{min-height:250px;display:flex;align-items:center;justify-content:center;text-align:center;flex-direction:column}.review-q{font-size:21px;font-weight:800}.review-a{display:none;margin-top:15px;color:var(--muted);line-height:1.8}.review-a.on{display:block}
+.toast{position:fixed;right:20px;bottom:20px;background:#162038;color:#fff;padding:10px 13px;border-radius:9px;font-size:12px;opacity:0;transform:translateY(8px);transition:.2s;z-index:50}.toast.on{opacity:1;transform:none}
+a{color:var(--blue);text-decoration:none}.loading{animation:pulse 1.2s infinite}@keyframes pulse{50%{opacity:.45}}
+@media(max-width:1050px){.app{grid-template-columns:1fr}aside{height:auto;position:static}.aside-note{display:none}nav{flex-direction:row;overflow:auto}.g4,.daily{grid-template-columns:repeat(2,1fr)}.paper-grid,.radar-row,.g2{grid-template-columns:1fr}}
+@media(max-width:620px){main{padding:16px}.g4,.g3,.daily,.form{grid-template-columns:1fr}.form .full{grid-column:auto}.top{flex-direction:column}.paper-top{flex-direction:column}.input.search{min-width:100%}}
+</style>
+</head>
+<body>
+<div class="app">
+<aside>
+  <div class="brand"><b>Academic Map 2.0</b><div>免费科研雷达 · 膜分离</div></div>
+  <nav id="nav">
+    <button class="on" data-v="radar">📡 科研雷达</button>
+    <button data-v="today">✅ 今日4项</button>
+    <button data-v="people">👤 人物库</button>
+    <button data-v="teams">🏫 团队库</button>
+    <button data-v="journals">📚 期刊库</button>
+    <button data-v="hotspots">🔥 热点库</button>
+    <button data-v="saved">⭐ 收藏文献</button>
+    <button data-v="inbox">📝 待补课</button>
+    <button data-v="review">🧠 随机复习</button>
+    <button data-v="backup">⚙️ 备份</button>
+  </nav>
+  <div class="aside-note">公开网页只保存公开文献雷达。<br>你的人物笔记、团队笔记、收藏等只保存在当前浏览器，不上传 GitHub。</div>
+</aside>
+<main>
+<section id="radar" class="view on"></section>
+<section id="today" class="view"></section>
+<section id="people" class="view"></section>
+<section id="teams" class="view"></section>
+<section id="journals" class="view"></section>
+<section id="hotspots" class="view"></section>
+<section id="saved" class="view"></section>
+<section id="inbox" class="view"></section>
+<section id="review" class="view"></section>
+<section id="backup" class="view"></section>
+</main>
+</div>
+
+<div class="modal" id="modal"><div class="modal-card"><div class="head"><h2 id="modalTitle">新增</h2><button class="mini" onclick="closeModal()">关闭</button></div><form id="form"></form></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+const LS='academic_map_v2_personal';
+let radar={status:'loading',works:[],trends:{},stats:{}};
+let db=loadLocal();
+const TYPES={
+ people:{label:'人物',icon:'👤',name:'姓名',org:'单位/学校',direction:'研究方向'},
+ teams:{label:'团队',icon:'🏫',name:'团队/机构',org:'学校/机构',direction:'团队强项'},
+ journals:{label:'期刊',icon:'📚',name:'期刊名称',org:'定位',direction:'常见内容'},
+ hotspots:{label:'热点',icon:'🔥',name:'热点名称',org:'所属领域',direction:'一句话解释'}
+};
+function baseDB(){return {people:[],teams:[],journals:[],hotspots:[],saved:[],inbox:[],createdAt:new Date().toISOString()}}
+function loadLocal(){try{return Object.assign(baseDB(),JSON.parse(localStorage.getItem(LS)||'{}'))}catch(e){return baseDB()}}
+function saveLocal(){localStorage.setItem(LS,JSON.stringify(db));renderAll()}
+const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]));
+const day=s=>(s||'').slice(0,10), today=()=>new Date().toISOString().slice(0,10);
+function fmt(s){if(!s)return '未知日期';try{return new Date(s).toLocaleDateString('zh-CN')}catch(e){return s}}
+function toast(s){let t=document.getElementById('toast');t.textContent=s;t.classList.add('on');setTimeout(()=>t.classList.remove('on'),1600)}
+function norm(s){return String(s||'').trim().toLowerCase()}
+function exists(type,name){return db[type].some(x=>norm(x.name)===norm(name))}
+function renderTop(title,sub,actions=''){return `<div class="top"><div><h1>${title}</h1><p>${sub}</p></div><div class="actions">${actions}</div></div>`}
+function sourceLink(w){return w.doi?`https://doi.org/${encodeURI(w.doi)}`:(w.openalex_url||'#')}
+
+async function loadRadar(){
+ try{
+   const r=await fetch('./data/radar.json?ts='+Date.now(),{cache:'no-store'});
+   if(!r.ok)throw new Error('HTTP '+r.status);
+   radar=await r.json();
+ }catch(e){
+   radar={status:'error',message:String(e),works:[],stats:{},trends:{}};
+ }
+ renderAll();
+}
+function scoreLabel(s){if(s>=75)return '强烈建议看';if(s>=55)return '建议浏览';if(s>=35)return '可快速扫';return '低优先级'}
+function paperHtml(w){
+ const inst=(w.institutions||[]).slice(0,4);
+ const authors=(w.authors||[]).slice(0,6);
+ const numbers=(w.key_numbers||[]).slice(0,5);
+ return `<article class="paper">
+   <div class="paper-top">
+     <div><h3><a href="${esc(sourceLink(w))}" target="_blank" rel="noopener">${esc(w.title||'Untitled')}</a></h3>
+       <div class="paper-meta">${esc(w.journal||'来源未标注')} · ${esc(w.publication_date||'日期未知')} · ${esc(w.source_db||'')}</div>
+     </div>
+     <div class="score"><strong>${w.score||0}</strong>${esc(scoreLabel(w.score||0))}</div>
+   </div>
+   <div class="tags">${(w.topics||[]).map((x,i)=>`<span class="tag ${i<2?'core':''}">${esc(x)}</span>`).join('')}${(w.keyword_hits||[]).slice(0,5).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div>
+   <div class="paper-grid">
+     <div class="box"><b>自动结构化速览（非AI）</b>${esc(w.brief||'暂无摘要信息。')}${numbers.length?`<br><b style="display:inline">数据线索：</b>${numbers.map(esc).join('；')}`:''}</div>
+     <div class="box authors"><b>作者 / 团队</b>
+       第一作者：${esc(w.first_author||'元数据未标注')}<br>
+       主要作者：${authors.map(esc).join('、')||'未标注'}<br>
+       机构：${inst.map(esc).join('、')||'元数据未标注'}<br>
+       <span class="small">通讯作者：仅在来源元数据明确提供时才显示，本版不推测。</span>
+     </div>
+   </div>
+   ${w.abstract?`<details style="margin-top:9px"><summary class="small" style="cursor:pointer">查看摘要</summary><div class="box" style="margin-top:7px">${esc(w.abstract)}</div></details>`:''}
+   <div class="paper-actions">
+     <button class="mini primary" onclick='savePaper(${JSON.stringify(w.id)})'>⭐ 收藏</button>
+     ${w.first_author?`<button class="mini" onclick='addFromPaper("people",${JSON.stringify(w.id)})'>＋ 第一作者</button>`:''}
+     ${inst[0]?`<button class="mini" onclick='addFromPaper("teams",${JSON.stringify(w.id)})'>＋ 团队</button>`:''}
+     ${(w.topics||[])[0]?`<button class="mini" onclick='addFromPaper("hotspots",${JSON.stringify(w.id)})'>＋ 热点</button>`:''}
+     <button class="mini" onclick='copyGPT(${JSON.stringify(w.id)})'>复制给 GPT 分析</button>
+   </div>
+ </article>`
+}
+function radarView(){
+ const s=radar.stats||{}, t=radar.trends||{}, works=radar.works||[];
+ const status = radar.status==='ok'
+   ? `<span class="tag core">● 已更新</span> ${esc(radar.updated_at_local||radar.updated_at||'')}`
+   : radar.status==='placeholder'
+   ? `<div class="notice">当前是部署前占位数据。把项目部署到 GitHub 并手动运行一次 “Daily Research Radar” 后，这里会自动出现最新文献。</div>`
+   : radar.status==='loading'
+   ? `<span class="loading">正在读取今日科研雷达…</span>`
+   : `<div class="notice">暂时无法读取雷达数据：${esc(radar.message||'未知错误')}</div>`;
+ document.getElementById('radar').innerHTML=
+ renderTop('📡 今日膜分离科研雷达','自动检索公开学术元数据；不使用付费 GPT API。',`<button class="btn" onclick="loadRadar()">↻ 刷新网页数据</button>`) +
+ `<div class="card">${status}</div>
+ <div class="grid g4 section">
+   <div class="card metric"><div class="label">检索候选</div><div class="num">${s.fetched??0}</div><div class="sub">OpenAlex + Crossref</div></div>
+   <div class="card metric"><div class="label">相关文献</div><div class="num">${s.related??works.length}</div><div class="sub">规则筛选后</div></div>
+   <div class="card metric"><div class="label">重点推荐</div><div class="num">${s.recommended??works.filter(x=>x.score>=55).length}</div><div class="sub">匹配度 ≥ 55</div></div>
+   <div class="card metric"><div class="label">雷达时间窗</div><div class="num">${s.window_days??3}<span style="font-size:15px">天</span></div><div class="sub">避免数据库收录延迟</div></div>
+ </div>
+ <div class="card section">
+   <div class="head"><h2>今日文献</h2><span class="small">排序：与你的研究方向匹配度</span></div>
+   <div class="filters">
+     <input id="paperQ" class="input search" placeholder="搜标题、作者、学校、关键词…" oninput="renderPaperList()">
+     <select id="topicF" onchange="renderPaperList()"><option value="">全部主题</option>${[...new Set(works.flatMap(x=>x.topics||[]))].sort().map(x=>`<option>${esc(x)}</option>`).join('')}</select>
+     <select id="scoreF" onchange="renderPaperList()"><option value="0">全部优先级</option><option value="35">≥35</option><option value="55" selected>≥55 推荐</option><option value="75">≥75 强相关</option></select>
+   </div>
+   <div id="paperList"></div>
+ </div>
+ <div class="radar-row section">
+   <div class="card"><div class="head"><h2>🔥 本周热点趋势</h2><span class="small">近7天 vs 前7天</span></div>${rankHtml(t.topics,'topic')}</div>
+   <div class="card"><div class="head"><h2>📚 最近活跃期刊</h2><span class="small">近30天</span></div>${rankHtml(t.journals,'plain')}</div>
+ </div>
+ <div class="grid g3 section">
+   <div class="card"><div class="head"><h2>👤 活跃学者</h2><span class="small">公开元数据</span></div>${rankHtml(t.authors,'plain',true,'people')}</div>
+   <div class="card"><div class="head"><h2>🏫 活跃机构/团队</h2><span class="small">公开元数据</span></div>${rankHtml(t.institutions,'plain',true,'teams')}</div>
+   <div class="card"><div class="head"><h2>⚠️ 反复出现但还没记录</h2></div>${unfamiliarHtml()}</div>
+ </div>`;
+ renderPaperList();
+}
+function rankHtml(arr=[],kind='plain',filterLocal=false,type='people'){
+ if(!arr.length)return '<div class="empty">等待累计更多历史数据。</div>';
+ let a=arr;
+ if(filterLocal)a=a.filter(x=>!exists(type,x.name));
+ return (a.slice(0,8).map(x=>{
+   let trend=x.delta>0?`<span class="trend-up">↑ ${x.delta}</span>`:x.delta<0?`<span class="trend-down">↓ ${Math.abs(x.delta)}</span>`:`<span class="trend-flat">→</span>`;
+   return `<div class="rank"><span>${esc(x.name)}</span><span>${kind==='topic'?trend:''} ${x.count??''}</span></div>`
+ }).join('')||'<div class="empty">这些名字你已经基本记录过了。</div>')
+}
+function unfamiliarHtml(){
+ const a=(radar.trends?.authors||[]).filter(x=>(x.count||0)>=2&&!exists('people',x.name)).slice(0,5);
+ if(!a.length)return '<div class="empty">暂未发现反复出现且未记录的学者。</div>';
+ return a.map(x=>`<div class="rank"><span>${esc(x.name)}<br><span class="small">近30天出现 ${x.count} 次</span></span><button class="mini" onclick='quickAddName("people",${JSON.stringify(x.name)})'>加入人物库</button></div>`).join('')
+}
+function renderPaperList(){
+ const el=document.getElementById('paperList'); if(!el)return;
+ const q=norm(document.getElementById('paperQ')?.value), topic=document.getElementById('topicF')?.value||'', min=Number(document.getElementById('scoreF')?.value||0);
+ const arr=(radar.works||[]).filter(w=>{
+   const hay=[w.title,w.journal,w.first_author,...(w.authors||[]),...(w.institutions||[]),...(w.topics||[]),...(w.keyword_hits||[])].join(' ').toLowerCase();
+   return (!q||hay.includes(q))&&(!topic||(w.topics||[]).includes(topic))&&(w.score||0)>=min;
+ });
+ el.innerHTML=arr.length?arr.map(paperHtml).join(''):'<div class="empty" style="margin-top:12px">当前筛选条件下没有文献。可把“匹配度”调低看看。</div>';
+}
+function getWork(id){return (radar.works||[]).find(x=>x.id===id)}
+function savePaper(id){const w=getWork(id);if(!w)return;if(!db.saved.some(x=>x.id===id)){db.saved.unshift({...w,savedAt:new Date().toISOString()});saveLocal();toast('已收藏')}else toast('已经收藏过')}
+function addFromPaper(type,id){
+ const w=getWork(id); if(!w)return;
+ let x={};
+ if(type==='people')x={name:w.first_author,org:(w.institutions||[])[0]||'',direction:(w.topics||[]).join(' / '),keywords:w.keyword_hits||[],memory:`${w.first_author}＝${(w.institutions||[])[0]||'机构待补'}＋${(w.topics||[]).slice(0,2).join(' / ')}`,note:`来源论文：${w.title}`};
+ if(type==='teams')x={name:(w.institutions||[])[0],org:(w.institutions||[])[0],direction:(w.topics||[]).join(' / '),keywords:w.keyword_hits||[],memory:`${(w.institutions||[])[0]}：近期出现于${(w.topics||[]).slice(0,2).join(' / ')}相关工作。`,note:`来源论文：${w.title}`};
+ if(type==='hotspots')x={name:(w.topics||[])[0],org:'膜分离',direction:w.brief||'',keywords:w.keyword_hits||[],memory:`${(w.topics||[])[0]}＝${w.brief||'待补充'}`,note:`来源论文：${w.title}`};
+ if(!x.name)return toast('元数据不足');
+ if(exists(type,x.name))return toast('已经在你的库里');
+ db[type].unshift({...x,id:crypto.randomUUID(),importance:4,createdAt:new Date().toISOString()});saveLocal();toast('已加入'+TYPES[type].label+'库')
+}
+function quickAddName(type,name){if(exists(type,name))return;db[type].unshift({id:crypto.randomUUID(),name,org:'',direction:'待补课',keywords:[],memory:`${name}＝待补充单位与研究方向`,note:'来自科研雷达高频名单',importance:3,createdAt:new Date().toISOString()});saveLocal();toast('已加入待完善')}
+async function copyGPT(id){
+ const w=getWork(id);if(!w)return;
+ const txt=`请以膜分离博士生的视角分析下面这篇最新论文：\n\n标题：${w.title}\n期刊：${w.journal||''}\n日期：${w.publication_date||''}\nDOI：${w.doi||''}\n作者：${(w.authors||[]).join('、')}\n机构：${(w.institutions||[]).join('、')}\n摘要：${w.abstract||'暂无'}\n\n请回答：1）3句话说明做了什么、怎么做、结果如何；2）创新点；3）关键性能数据；4）作者/团队值得记住什么；5）与二维层状膜、COF/硫属材料、纳滤、离子筛分的关系；6）我是否值得精读以及理由。`;
+ try{await navigator.clipboard.writeText(txt);toast('已复制，可直接粘贴给 GPT')}catch(e){prompt('复制以下内容：',txt)}
+}
+
+function todayView(){
+ const c={people:0,teams:0,journals:0,hotspots:0};Object.keys(c).forEach(t=>c[t]=db[t].filter(x=>day(x.createdAt)===today()).length);const done=Object.values(c).filter(Boolean).length;
+ document.getElementById('today').innerHTML=renderTop('✅ 今日4项','优先从“科研雷达”里选今天的新人物、新团队、新期刊和新热点。')+
+ `<div class="card"><div class="head"><h2>今日进度 ${done}/4</h2></div><div class="progress"><span style="width:${done*25}%"></span></div><div class="daily" style="margin-top:12px">${Object.entries(TYPES).map(([t,m])=>`<div class="daily-card ${c[t]?'done':''}"><div>${m.icon}</div><b>${m.label}</b><span class="small">${c[t]?`已新增 ${c[t]} 条`:'今天还没记录'}</span><div style="margin-top:8px"><button class="mini ${c[t]?'':'primary'}" onclick="openForm('${t}')">${c[t]?'再加一条':'现在记录'}</button></div></div>`).join('')}</div></div>
+ <div class="card section"><div class="head"><h2>建议流程</h2></div><div class="box">先看科研雷达推荐文献 → 从论文卡片直接“加入第一作者 / 团队 / 热点” → 遇到陌生期刊再补进期刊库。<br>目标不是每天记很多，而是下次别人提到时你能迅速定位。</div></div>`;
+}
+function libraryView(type){
+ const m=TYPES[type], arr=db[type];
+ document.getElementById(type).innerHTML=renderTop(`${m.icon} ${m.label}库`,`${m.name}｜${m.org}｜${m.direction}｜一句话记忆`,`<button class="btn primary" onclick="openForm('${type}')">＋ 新增</button>`)+
+ `<div class="card"><div class="filters"><input class="input search" id="${type}q" placeholder="搜索…" oninput="filterLib('${type}')"><select id="${type}imp" onchange="filterLib('${type}')"><option value="">全部重要度</option>${[5,4,3,2,1].map(n=>`<option value="${n}">${'★'.repeat(n)}</option>`).join('')}</select></div><div id="${type}list" class="local-list" style="margin-top:11px"></div></div>`;
+ filterLib(type);
+}
+function filterLib(type){
+ const q=norm(document.getElementById(type+'q')?.value), imp=document.getElementById(type+'imp')?.value||'';
+ const arr=db[type].filter(x=>{const h=[x.name,x.org,x.direction,x.memory,x.note,...(x.keywords||[])].join(' ').toLowerCase();return(!q||h.includes(q))&&(!imp||String(x.importance)===imp)});
+ const el=document.getElementById(type+'list');if(!el)return;
+ el.innerHTML=arr.length?arr.map(x=>`<div class="local-item"><div class="local-top"><div><div class="local-title">${esc(x.name)}</div><div class="local-meta">${esc(x.org||'')} ${x.direction?' · '+esc(x.direction):''} ${x.importance?' · '+'★'.repeat(x.importance):''}</div></div><div><button class="mini" onclick="openForm('${type}','${x.id}')">编辑</button> <button class="mini" onclick="delLocal('${type}','${x.id}')">删除</button></div></div><div class="tags">${(x.keywords||[]).map(k=>`<span class="tag">${esc(k)}</span>`).join('')}</div>${x.memory?`<div class="local-note"><b>一句话：</b>${esc(x.memory)}</div>`:''}${x.note?`<div class="local-note small">${esc(x.note)}</div>`:''}</div>`).join(''):'<div class="empty">还没有记录。</div>';
+}
+function savedView(){
+ document.getElementById('saved').innerHTML=renderTop('⭐ 收藏文献','真正准备精读的论文留在这里。')+`<div class="card">${db.saved.length?db.saved.map(w=>`<div class="local-item"><div class="local-top"><div><div class="local-title"><a target="_blank" href="${esc(sourceLink(w))}">${esc(w.title)}</a></div><div class="local-meta">${esc(w.journal||'')} · ${esc(w.publication_date||'')} · 匹配度 ${w.score||0}</div></div><button class="mini" onclick='removeSaved(${JSON.stringify(w.id)})'>移除</button></div><div class="tags">${(w.topics||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div></div>`).join(''):'<div class="empty">还没有收藏文献。</div>'}</div>`
+}
+function removeSaved(id){db.saved=db.saved.filter(x=>x.id!==id);saveLocal()}
+function inboxView(){
+ document.getElementById('inbox').innerHTML=renderTop('📝 待补课','聊天、组会、会议里听不懂的词先扔进来。')+
+ `<div class="card"><div class="filters"><input class="input search" id="inboxText" placeholder="人名 / 学校 / 期刊 / 技术词…"><button class="btn primary" onclick="addInbox()">记下</button></div><div class="local-list" style="margin-top:12px">${db.inbox.length?db.inbox.map(x=>`<div class="local-item"><div class="local-top"><div><div class="local-title">${esc(x.text)}</div><div class="local-meta">${fmt(x.createdAt)}</div></div><button class="mini" onclick='delInbox(${JSON.stringify(x.id)})'>删除</button></div></div>`).join(''):'<div class="empty">暂无待补课内容。</div>'}</div></div>`
+}
+function addInbox(){let e=document.getElementById('inboxText'),v=e.value.trim();if(!v)return;db.inbox.unshift({id:crypto.randomUUID(),text:v,createdAt:new Date().toISOString()});saveLocal();toast('已记下')}
+function delInbox(id){db.inbox=db.inbox.filter(x=>x.id!==id);saveLocal()}
+function reviewView(){
+ let pool=[];Object.keys(TYPES).forEach(t=>db[t].forEach(x=>pool.push({...x,_type:t})));let x=pool[Math.floor(Math.random()*pool.length)];
+ document.getElementById('review').innerHTML=renderTop('🧠 随机复习','把“见过”变成“别人一提就知道”。',`<button class="btn" onclick="reviewView()">换一题</button>`)+`<div class="card review">${x?`<div class="small">${TYPES[x._type].label}</div><div class="review-q">${esc(x.name)} —— 你能说出它/他大概是做什么的吗？</div><div class="review-a" id="ans">${x.org?`<b>单位/定位：</b>${esc(x.org)}<br>`:''}${x.direction?`<b>方向：</b>${esc(x.direction)}<br>`:''}${x.memory?`<b>一句话：</b>${esc(x.memory)}`:''}</div><button class="btn primary" style="margin-top:16px" onclick="document.getElementById('ans').classList.add('on')">显示答案</button>`:'<div class="empty">先积累一些人物/团队/期刊/热点卡片。</div>'}</div>`;
+}
+function backupView(){
+ document.getElementById('backup').innerHTML=renderTop('⚙️ 个人数据与备份','GitHub 上只有公开雷达数据；你的个人笔记保存在浏览器 localStorage。')+
+ `<div class="g2 grid"><div class="card"><div class="head"><h2>备份 / 恢复</h2></div><p class="small">升级、换浏览器或换电脑前建议先导出。也支持导入 Academic Map 1.0 的 JSON。</p><div class="actions"><button class="btn primary" onclick="exportJSON()">导出个人数据 JSON</button><label class="btn">导入 JSON<input type="file" accept=".json" onchange="importJSON(event)" style="display:none"></label></div></div><div class="card"><div class="head"><h2>本地隐私</h2></div><p class="small">人物笔记、团队笔记、待补课和收藏不会自动上传到 GitHub。清理浏览器网站数据可能会删除它们。</p><button class="btn danger" onclick="resetLocal()">清空本地个人数据</button></div></div>`;
+}
+function exportJSON(){let b=new Blob([JSON.stringify(db,null,2)],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='Academic_Map_个人备份_'+today()+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),1000)}
+function importJSON(e){let f=e.target.files[0];if(!f)return;let r=new FileReader();r.onload=()=>{try{let old=JSON.parse(r.result);let n=baseDB();['people','teams','journals','hotspots','saved','inbox'].forEach(k=>{if(Array.isArray(old[k]))n[k]=old[k]});db=n;saveLocal();toast('导入完成')}catch(err){alert('JSON 格式不正确')}};r.readAsText(f)}
+function resetLocal(){if(confirm('确定清空本浏览器里的个人数据？')){db=baseDB();saveLocal()}}
+function openForm(type,id=null,prefill={}){
+ const m=TYPES[type],x=id?db[type].find(a=>a.id===id):Object.assign({importance:3,keywords:[]},prefill);
+ document.getElementById('modalTitle').textContent=(id?'编辑':'新增')+m.label;
+ document.getElementById('form').innerHTML=`<div class="form">
+ <div><label>${m.name}</label><input class="input" name="name" required value="${esc(x?.name||'')}"></div><div><label>${m.org}</label><input class="input" name="org" value="${esc(x?.org||'')}"></div>
+ <div class="full"><label>${m.direction}</label><input class="input" name="direction" value="${esc(x?.direction||'')}"></div>
+ <div class="full"><label>关键词（逗号分隔）</label><input class="input" name="keywords" value="${esc((x?.keywords||[]).join(', '))}"></div>
+ <div class="full"><label>一句话记忆（最重要）</label><textarea name="memory" rows="3">${esc(x?.memory||'')}</textarea></div>
+ <div><label>重要程度</label><select name="importance">${[1,2,3,4,5].map(n=>`<option value="${n}" ${Number(x?.importance||3)===n?'selected':''}>${'★'.repeat(n)}</option>`).join('')}</select></div>
+ <div><label>备注</label><input class="input" name="note" value="${esc(x?.note||'')}"></div>
+ <div class="full" style="text-align:right"><button type="button" class="btn" onclick="closeModal()">取消</button> <button class="btn primary">保存</button></div></div>`;
+ document.getElementById('form').onsubmit=e=>{e.preventDefault();let fd=new FormData(e.target),o={id:id||crypto.randomUUID(),name:fd.get('name').trim(),org:fd.get('org').trim(),direction:fd.get('direction').trim(),keywords:fd.get('keywords').split(/[,，]/).map(s=>s.trim()).filter(Boolean),memory:fd.get('memory').trim(),note:fd.get('note').trim(),importance:Number(fd.get('importance')),createdAt:id?(x.createdAt||new Date().toISOString()):new Date().toISOString(),updatedAt:new Date().toISOString()};if(id)db[type]=db[type].map(a=>a.id===id?o:a);else db[type].unshift(o);closeModal();saveLocal();toast('已保存')};
+ document.getElementById('modal').classList.add('on');
+}
+function closeModal(){document.getElementById('modal').classList.remove('on')}
+function delLocal(type,id){if(confirm('删除这条记录？')){db[type]=db[type].filter(x=>x.id!==id);saveLocal()}}
+function renderAll(){radarView();todayView();Object.keys(TYPES).forEach(libraryView);savedView();inboxView();reviewView();backupView()}
+function switchView(v){document.querySelectorAll('.view').forEach(x=>x.classList.toggle('on',x.id===v));document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x.dataset.v===v));if(v==='review')reviewView();scrollTo({top:0,behavior:'smooth'})}
+document.getElementById('nav').onclick=e=>{let b=e.target.closest('button[data-v]');if(b)switchView(b.dataset.v)}
+document.getElementById('modal').onclick=e=>{if(e.target.id==='modal')closeModal()}
+renderAll();loadRadar();
+</script>
+</body>
+</html>
