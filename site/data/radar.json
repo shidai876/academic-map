@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-08-29T07:10:01.036208+00:00",
-  "updated_at_local": "2026-08-29 15:09 (UTC+8)",
+  "updated_at": "2026-08-29T22:20:35.271493+00:00",
+  "updated_at_local": "2026-08-30 06:20 (UTC+8)",
   "stats": {
-    "fetched": 1300,
-    "related": 38,
-    "recommended": 14,
+    "fetched": 1333,
+    "related": 39,
+    "recommended": 15,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -357,6 +357,44 @@
       "id": "doi:10.1016/j.memsci.2026.126077"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204164651",
+      "openalex_url": "https://openalex.org/W7204164651",
+      "doi": "10.1016/j.seppur.2026.139872",
+      "title": "Covalently anchored polyamide layers via polyethyleneimine blended supports for robust nanofiltration",
+      "publication_date": "2026-08-25",
+      "journal": "Separation and Purification Technology",
+      "authors": [
+        "Yonggang Li",
+        "Xiyue Cai",
+        "Tong Xiao",
+        "Yan Jin",
+        "Yaohan Chen",
+        "Lei Dai",
+        "Shenghai Li",
+        "Suobo Zhang"
+      ],
+      "first_author": "Yonggang Li",
+      "institutions": [
+        "University of Science and Technology of China",
+        "State Key Laboratory of Polymer Physics and Chemistry",
+        "Guiyang University"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 66,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；团队：University of Science and Technology of China、State Key Laboratory of Polymer Physics and Chemistry；题名线索：Covalently anchored polyamide layers via polyethyleneimine blended supports for robust nanofiltration。",
+      "id": "doi:10.1016/j.seppur.2026.139872"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -402,52 +440,6 @@
       ],
       "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：State Key Laboratory of Fluorine &amp; Nitrogen Chemicals School of Chemical Engineering and Technology Xi'an Jiaotong University Xi'an China、Laoshan Laboratory Qingdao China；摘要首句：ABSTRACT The escalating demand for clean energy and freshwater necessitates integrated rather than compartmentalized technological solutions.。",
       "id": "doi:10.1002/adma.74777"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/anie.9300778",
-      "title": "Solvation‐Gradient Thin‐Film Composite Membranes Decouple Ferricyanide Rejection From Hydroxide Conduction in Alkaline Zinc–Iron Flow Batteries",
-      "publication_date": "2026-08-23",
-      "journal": "Angewandte Chemie International Edition",
-      "authors": [
-        "Junhua Li",
-        "Dan Li",
-        "Yijing Dai",
-        "Zilin Zhao",
-        "Yuzhang Zhu",
-        "Jian Jin"
-      ],
-      "first_author": "Junhua Li",
-      "institutions": [
-        "State Key Laboratory of Bioinspired Interfacial Materials Science, College of Chemistry, Chemical Engineering and Materials Science Soochow University Suzhou P.R. China",
-        "Suzhou Institute for Advanced Research University of Science and Technology of China Suzhou P.R. China"
-      ],
-      "abstract": "ABSTRACT The long‐standing trade‐off between ion selectivity and ionic conductivity in membrane materials stems from the difficulty in rapidly transporting ions through chemically homogeneous channels while simultaneously excluding large ions. Here, we report a solvation‐gradient membrane prepared via reaction‐diffusion‐coupled interfacial polymerization between piperazine and 1,3,5‐tris(bromomethyl)benzene. The resulting membrane comprised a dense outer selective layer approximately 35 nm thick (with a transport pore size of approximately 6 Å) and an NH‐rich inner layer approximately 400 nm thick. The outer layer imposes a high entry/desolvation barrier on large ions, thereby inhibiting their transport, whereas the NH‐rich region supports rapid OH − transport through re‐solvation and hydrogen‐bond reorganization. This depth‐dependent architecture spatially separates ferricyanide rejection from hydroxide conduction. Depth‐resolved spectroscopy and molecular dynamics simulations supported a depth‐dependent solvation environment and revealed stronger water/OH − interactions in the NH‐rich region. Optimization of poly(tertiary amine) (PTA) membranes achieved low Fe(CN) 6 3− permeability (8.07 × 10 −7 cm 2 h −1 ) and OH − conductivity (41.08 mS cm −1 ), enabling an alkaline zinc‐iron flow battery to achieve an energy efficiency of 89.94% at 80 mA cm −2 and stable cycling for over 800 h. This study suggests depth‐dependent solvation regulation as a useful design principle for alleviating the selectivity‐conductivity trade‐off in electrochemical membranes.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分",
-        "聚酰胺/TFC"
-      ],
-      "keyword_hits": [
-        "interfacial polymerization",
-        "permeability",
-        "selectivity",
-        "rejection"
-      ],
-      "score": 59,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "35 nm",
-        "6 Å",
-        "400 nm",
-        "2 h",
-        "89.94%",
-        "800 h"
-      ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 聚酰胺/TFC；团队：State Key Laboratory of Bioinspired Interfacial Materials Science, College of Chemistry, Chemical Engineering and Materials Science Soochow University Suzhou P.R. China、Suzhou Institute for Advanced Research University of Science and Technology of China Suzhou P.R. China；摘要首句：ABSTRACT The long‐standing trade‐off between ion selectivity and ionic conductivity in membrane materials stems from the difficulty in rapidly transporting ions through chemically homogeneous channels while simultaneously exclu…。",
-      "id": "doi:10.1002/anie.9300778"
     },
     {
       "source_db": "Crossref",
@@ -594,50 +586,78 @@
       "id": "doi:10.1016/j.memsci.2026.126080"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/ange.9300778",
-      "title": "Solvation‐Gradient Thin‐Film Composite Membranes Decouple Ferricyanide Rejection From Hydroxide Conduction in Alkaline Zinc–Iron Flow Batteries",
-      "publication_date": "2026-08-23",
-      "journal": "Angewandte Chemie",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204206915",
+      "openalex_url": "https://openalex.org/W7204206915",
+      "doi": "10.1016/j.ces.2026.125012",
+      "title": "Ultrathin MOF-in-COF composite nanofiltration membrane on ceramic tubular support for high-efficiency dye wastewater separation",
+      "publication_date": "2026-08-25",
+      "journal": "Chemical Engineering Science",
       "authors": [
-        "Junhua Li",
-        "Dan Li",
-        "Yijing Dai",
-        "Zilin Zhao",
-        "Yuzhang Zhu",
-        "Jian Jin"
+        "Ziyi Zhang",
+        "Houchao Shan",
+        "Yunfei Jiang",
+        "Xinyong Li",
+        "Zerong Wang",
+        "Zhuyuchen Li",
+        "Di Cai",
+        "Rui Zhang",
+        "Tifeng Jiao"
       ],
-      "first_author": "Junhua Li",
+      "first_author": "Ziyi Zhang",
       "institutions": [
-        "State Key Laboratory of Bioinspired Interfacial Materials Science, College of Chemistry, Chemical Engineering and Materials Science Soochow University Suzhou P.R. China",
-        "Suzhou Institute for Advanced Research University of Science and Technology of China Suzhou P.R. China"
+        "Hunan University of Science and Technology",
+        "Yanshan University",
+        "State Key Laboratory of Metastable Materials Science and Technology",
+        "Beijing University of Chemical Technology"
       ],
-      "abstract": "ABSTRACT The long‐standing trade‐off between ion selectivity and ionic conductivity in membrane materials stems from the difficulty in rapidly transporting ions through chemically homogeneous channels while simultaneously excluding large ions. Here, we report a solvation‐gradient membrane prepared via reaction‐diffusion‐coupled interfacial polymerization between piperazine and 1,3,5‐tris(bromomethyl)benzene. The resulting membrane comprised a dense outer selective layer approximately 35 nm thick (with a transport pore size of approximately 6 Å) and an NH‐rich inner layer approximately 400 nm thick. The outer layer imposes a high entry/desolvation barrier on large ions, thereby inhibiting their transport, whereas the NH‐rich region supports rapid OH − transport through re‐solvation and hydrogen‐bond reorganization. This depth‐dependent architecture spatially separates ferricyanide rejection from hydroxide conduction. Depth‐resolved spectroscopy and molecular dynamics simulations supported a depth‐dependent solvation environment and revealed stronger water/OH − interactions in the NH‐rich region. Optimization of poly(tertiary amine) (PTA) membranes achieved low Fe(CN) 6 3− permeability (8.07 × 10 −7 cm 2 h −1 ) and OH − conductivity (41.08 mS cm −1 ), enabling an alkaline zinc‐iron flow battery to achieve an energy efficiency of 89.94% at 80 mA cm −2 and stable cycling for over 800 h. This study suggests depth‐dependent solvation regulation as a useful design principle for alleviating the selectivity‐conductivity trade‐off in electrochemical membranes.",
+      "abstract": "",
       "cited_by_count": 0,
       "topics": [
-        "离子筛分",
-        "聚酰胺/TFC"
+        "纳滤"
       ],
       "keyword_hits": [
-        "interfacial polymerization",
-        "permeability",
-        "selectivity",
-        "rejection"
+        "nanofiltration"
       ],
-      "score": 51,
+      "score": 56,
       "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "35 nm",
-        "6 Å",
-        "400 nm",
-        "2 h",
-        "89.94%",
-        "800 h"
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Hunan University of Science and Technology、Yanshan University；题名线索：Ultrathin MOF-in-COF composite nanofiltration membrane on ceramic tubular support for high-efficiency dye wastewater separation。",
+      "id": "doi:10.1016/j.ces.2026.125012"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204193331",
+      "openalex_url": "https://openalex.org/W7204193331",
+      "doi": "10.1016/j.jece.2026.124774",
+      "title": "Advanced and smart desalination membranes with their self-healing and self-cleaning properties in the reverse osmosis process – A comprehensive review",
+      "publication_date": "2026-08-25",
+      "journal": "Journal of environmental chemical engineering",
+      "authors": [
+        "Ayoub Belcaid",
+        "Buscotin Horax Beakou",
+        "Drioui nissrine"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 聚酰胺/TFC；团队：State Key Laboratory of Bioinspired Interfacial Materials Science, College of Chemistry, Chemical Engineering and Materials Science Soochow University Suzhou P.R. China、Suzhou Institute for Advanced Research University of Science and Technology of China Suzhou P.R. China；摘要首句：ABSTRACT The long‐standing trade‐off between ion selectivity and ionic conductivity in membrane materials stems from the difficulty in rapidly transporting ions through chemically homogeneous channels while simultaneously exclu…。",
-      "id": "doi:10.1002/ange.9300778"
+      "first_author": "Ayoub Belcaid",
+      "institutions": [
+        "Université Mohammed VI Polytechnique",
+        "Université Hassan 1er",
+        "École Nationale Forestière d'Ingénieurs"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis",
+        "desalination"
+      ],
+      "score": 55,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Université Mohammed VI Polytechnique、Université Hassan 1er；题名线索：Advanced and smart desalination membranes with their self-healing and self-cleaning properties in the reverse osmosis process – A comprehensive review。",
+      "id": "doi:10.1016/j.jece.2026.124774"
     },
     {
       "source_db": "Crossref",
@@ -708,6 +728,38 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China、Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
       "id": "doi:10.1002/anie.4046032"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7167600095",
+      "openalex_url": "https://openalex.org/W7167600095",
+      "doi": "10.1016/j.desal.2026.120730",
+      "title": "System-level design of solvent extraction-based lithium recovery from high-Mg/Li brines: Chemical recycling, utility integration, and byproduct trade-offs",
+      "publication_date": "2026-08-25",
+      "journal": "Desalination",
+      "authors": [
+        "Eunsoo Kim",
+        "M. J. Kim",
+        "Junghwan Kim"
+      ],
+      "first_author": "Eunsoo Kim",
+      "institutions": [
+        "Yonsei University"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 40,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分 / 脱盐/水处理；团队：Yonsei University；题名线索：System-level design of solvent extraction-based lithium recovery from high-Mg/Li brines: Chemical recycling, utility integration, and byproduct trade-offs。",
+      "id": "doi:10.1016/j.desal.2026.120730"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -962,9 +1014,9 @@
       "id": "doi:10.1007/s13762-026-07416-6"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7204499390",
+      "openalex_url": "https://openalex.org/W7204499390",
       "doi": "10.1002/aic.70622",
       "title": "Producing battery‐grade lithium hydroxide: A bipolar membrane with lower water dissociation barriers",
       "publication_date": "2026-08-27",
@@ -977,10 +1029,14 @@
         "Zhifei Wu",
         "Dawei Zhang",
         "Qingchun Yang",
+        "C. Y. Jiang",
         "Chenxiao Jiang"
       ],
       "first_author": "Xu Zhang",
       "institutions": [
+        "Anhui University",
+        "Hefei University of Technology",
+        "University of Science and Technology of China",
         "Anhui Province Key Laboratory of Value‐Added Catalytic Conversion and Reaction Engineering, School of Chemistry and Chemical Engineering Hefei University of Technology Hefei Anhui People's Republic of China",
         "Key Laboratory of Precision and Intelligent Chemistry, School of Chemistry and Materials Science University of Science and Technology of China Hefei Anhui People's Republic of China"
       ],
@@ -996,35 +1052,45 @@
         "99.52%",
         "99.7%"
       ],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：Anhui Province Key Laboratory of Value‐Added Catalytic Conversion and Reaction Engineering, School of Chemistry and Chemical Engineering Hefei University of Technology Hefei Anhui People's Republic of China、Key Laboratory of Precision and Intelligent Chemistry, School of Chemistry and Materials Science University of Science and Technology of China Hefei Anhui People's Republic of China；摘要首句：Abstract Bipolar membrane electrodialysis (BMED) promises to convert Li 2 SO 4 into LiOH, but suffers from inefficient interfacial water dissociation and insufficient alkaline stability.。",
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Anhui University、Hefei University of Technology；摘要首句：Abstract Bipolar membrane electrodialysis (BMED) promises to convert Li 2 SO 4 into LiOH, but suffers from inefficient interfacial water dissociation and insufficient alkaline stability.。",
       "id": "doi:10.1002/aic.70622"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204260937",
-      "openalex_url": "https://openalex.org/W7204260937",
-      "doi": "10.21275/sr26824094142",
-      "title": "Nanomaterials for Water Purification and Environmental Pollution Control: Applications, Challenges and Future Prospects",
-      "publication_date": "2026-08-26",
-      "journal": "International Journal of Science and Research (IJSR)",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/adem.71226",
+      "title": "Efficient Phase‐Change Thermal Management Film Based on Dual‐Network Phase‐Change Microgels: Integrating Mechanical Strength, Self‐Healing, Photothermal Responsiveness, and Desalination Performance",
+      "publication_date": "2026-08-29",
+      "journal": "Advanced Engineering Materials",
       "authors": [
-        "Dr. Rajkumar Hosdodde"
+        "Jiashuo Sun",
+        "Jianyu Jiang",
+        "Junwen Che",
+        "Zhiqiang Zhang",
+        "Yongji Wang",
+        "Hong Zhang",
+        "Yue Yu"
       ],
-      "first_author": "Dr. Rajkumar Hosdodde",
+      "first_author": "Jiashuo Sun",
       "institutions": [
-        "Government Ayurved College, Nanded"
+        "Dalian Polytechnic University School of Textile and Material Engineering Dalian Liaoning China"
       ],
-      "abstract": "Water pollution is one of the major environmental challenges of the modern era, resulting from industrialisation, agricultural activities, urbanisation, mining, and the discharge of untreated wastewater. Conventional water-treatment methods are often effective for common pollutants but may have limitations in removing persistent organic compounds, heavy metals, microorganisms, dyes, pharmaceuticals, and other emerging contaminants. Nanomaterials have attracted considerable attention as advanced materials for water purification and environmental pollution control because of their high surface area, tunable surface chemistry, catalytic activity, adsorption capacity, and antimicrobial properties. Carbon-based nanomaterials such as carbon nanotubes and graphene derivatives, metal and metal-oxide nanoparticles such as iron oxide, titanium dioxide, zinc oxide and silver, nanocomposite membranes, and nano-adsorbents have been investigated for contaminant removal. Their major mechanisms include adsorption, photocatalytic degradation, membrane separation, chemical reduction, and microbial inactivation. Recent research also emphasises green synthesis, immobilised nanomaterials, magnetic nanoparticles, and multifunctional nanocomposites to improve efficiency and reduce environmental risks. However, challenges including high production costs, nanoparticle aggregation, recovery and reuse, membrane fouling, potential toxicity, environmental persistence, scalability, and regulatory requirements must be addressed before widespread implementation. Future research should focus on safe-by-design nanomaterials, sustainable synthesis, life-cycle assessment, regeneration, resource recovery, and integration with conventional treatment systems. Overall, nanotechnology offers significant potential for developing efficient, sustainable, and multifunctional water-treatment technologies when environmental safety and responsible deployment are considered.",
+      "abstract": "Energy shortage and water scarcity are global challenges, and integrating thermal energy storage with seawater desalination is an effective approach to address these issues. In this study, a phase‐change thermal management film (PGPF) with excellent photothermal conversion capability was fabricated via a blending and doping process, combining double‐network phase‐change microgels (PSP), graphene oxide (GO), and poly(vinyl alcohol) (PVA). Inspired by the bioinspired flexible and strong adhesion mechanism of octopus tentacles, PSP was prepared and uniformly “welded” within the material through hydrogen bonding among PSP, GO, and PVA, forming a multinetwork structure. This design significantly enhances the mechanical properties of PGPF in saline environments (up to 130 MPa) and its self‐healing ability, extending its service life during seawater desalination. PGPF efficiently converts solar energy into heat, exhibiting high photothermal conversion efficiency, enabling rapid temperature rise to high levels, and achieving efficient thermal evaporation. Under xenon lamp illumination simulating sunlight, the PGPF temperature quickly reaches 162 °C, demonstrating excellent photothermal performance, with an evaporation rate as high as 3.18 kg·m −2 ·h −1 . The material’s outstanding phase‐change behavior and thermal stability indicate its promising potential for solar‐driven seawater desalination applications.",
       "cited_by_count": 0,
       "topics": [
         "脱盐/水处理"
       ],
-      "keyword_hits": [],
-      "score": 31,
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 30,
       "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Government Ayurved College, Nanded；摘要首句：Water pollution is one of the major environmental challenges of the modern era, resulting from industrialisation, agricultural activities, urbanisation, mining, and the discharge of untreated wastewater.。",
-      "id": "doi:10.21275/sr26824094142"
+      "key_numbers": [
+        "130 MPa"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Dalian Polytechnic University School of Textile and Material Engineering Dalian Liaoning China；摘要首句：Energy shortage and water scarcity are global challenges, and integrating thermal energy storage with seawater desalination is an effective approach to address these issues.。",
+      "id": "doi:10.1002/adem.71226"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -1396,9 +1462,9 @@
       "id": "doi:10.1134/s1061933x26600375"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7204496431",
+      "openalex_url": "https://openalex.org/W7204496431",
       "doi": "10.1002/cjoc.70743",
       "title": "Mechanochemically Synthesized Covalent Organic Framework‐Based Protonic Electrolytes with Superior Proton Conduction for Solid‐State Proton Batteries",
       "publication_date": "2026-08-27",
@@ -1407,18 +1473,26 @@
         "Bao Liu",
         "Sixin Zhang",
         "Ming‐Qian Wang",
-        "Fang‐Ru Lin",
+        "Fang-Ru Lin",
         "Xiaoliu Yu",
         "Guo‐Qin Zhang",
-        "Xu‐Sheng Gao",
+        "Xu-Sheng Gao",
         "Qiao Qiao",
         "Wei Zhuang",
         "Hong‐Bin Luo",
         "Chenjie Zhu",
-        "Xiao‐Ming Ren"
+        "Xiao‐Ming Ren",
+        "Fang‐Ru Lin",
+        "Xu‐Sheng Gao"
       ],
       "first_author": "Bao Liu",
       "institutions": [
+        "Nanjing Tech University",
+        "Weihai Chest Hospital",
+        "Anhui University",
+        "Anhui University of Science and Technology",
+        "Anhui Science and Technology University",
+        "Anhui University of Technology",
         "State Key Laboratory of Materials‐Oriented Chemical Engineering and College of Chemistry and Molecular Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
         "College of Biotechnology and Pharmaceutical Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
         "College of Mechanical and Electrical Engineering Weihai Vocational College Weihai Shandong 264210 China",
@@ -1437,46 +1511,8 @@
       "key_numbers": [
         "72.2%"
       ],
-      "brief": "定位：领域扩展；主题：纳米通道/限域传输；团队：State Key Laboratory of Materials‐Oriented Chemical Engineering and College of Chemistry and Molecular Engineering Nanjing Tech University Nanjing Jiangsu 211816 China、College of Biotechnology and Pharmaceutical Engineering Nanjing Tech University Nanjing Jiangsu 211816 China；摘要首句：Comprehensive Summary The development of solid‐state protonic electrolyte is essential for safe and durable energy storage, yet their practical application remains limited by insufficient proton conductivity and narrow electroc…。",
+      "brief": "定位：领域扩展；主题：纳米通道/限域传输；团队：Nanjing Tech University、Weihai Chest Hospital；摘要首句：Comprehensive Summary The development of solid‐state protonic electrolyte is essential for safe and durable energy storage, yet their practical application remains limited by insufficient proton conductivity and narrow electroc…。",
       "id": "doi:10.1002/cjoc.70743"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204255842",
-      "openalex_url": "https://openalex.org/W7204255842",
-      "doi": "10.1002/smll.75442",
-      "title": "State‐Programmable Conductive and Reactivatable Bio‐Adhesive for High‐Fidelity Epidermal Biointerfaces",
-      "publication_date": "2026-08-26",
-      "journal": "Small",
-      "authors": [
-        "Salahuddin Ahmed",
-        "Marzia Momin",
-        "Jiashu Ren",
-        "Xinyi Wang",
-        "Jirong Lin",
-        "Jia Sun",
-        "Yueqi Deng",
-        "Hyunjin Lee",
-        "Xiaojun Lian",
-        "Tao Zhou"
-      ],
-      "first_author": "Salahuddin Ahmed",
-      "institutions": [
-        "Pennsylvania State University"
-      ],
-      "abstract": "Owing to the inherent trade-off between conformal wetting and mechanical stability at the electrode-skin interface, achieving both microscale conformality and mechanical stability for epidermal electrophysiology remains challenging. Ionically conductive gels provide low interfacial impedance through fluidic wetting but suffer from dehydration and instability, whereas dry soft electrodes offer mechanical stability but lack the rheological adaptability needed for intimate skin contact. Here, we report a state-programmable graft interpenetrating network (g-IPN) that enables a printable and reactivatable conductive adhesive (RCA). The RCA simultaneously achieves high electrical conductivity, state-dependent adhesion, and reversible viscoelasticity. By transitioning from a mechanically robust solid film to a fluidic state via solvent activation, the RCA infiltrates complex skin surfaces and hair-occluded regions, delivering lower interfacial impedance than traditional gels. These properties enable stable electroencephalogram (EEG) and pulse recordings across both rigid and soft electrode platforms, establishing a scalable strategy for high-fidelity epidermal bioelectronic interfaces.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "dehydration"
-      ],
-      "score": 18,
-      "relevance_class": "领域扩展",
-      "key_numbers": [],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Pennsylvania State University；摘要首句：Owing to the inherent trade-off between conformal wetting and mechanical stability at the electrode-skin interface, achieving both microscale conformality and mechanical stability for epidermal electrophysiology remains challen…。",
-      "id": "doi:10.1002/smll.75442"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -1530,180 +1566,180 @@
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 17,
-        "delta": 17
+        "count": 36,
+        "delta": 36
       },
       {
         "name": "纳滤",
-        "count": 10,
-        "delta": 10
+        "count": 22,
+        "delta": 22
       },
       {
         "name": "离子筛分",
-        "count": 10,
-        "delta": 10
+        "count": 18,
+        "delta": 18
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 6,
-        "delta": 6
+        "count": 12,
+        "delta": 12
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 5,
-        "delta": 5
+        "count": 8,
+        "delta": 8
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "COF/MOF膜",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "二维层状膜",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Angewandte Chemie International Edition",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Water",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Angewandte Chemie",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Polymers",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Advanced Functional Materials",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Advanced Science",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Communications Engineering",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Journal of Energy, Materials &amp; Sustainability",
-        "count": 1,
-        "delta": 1
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 1,
-        "delta": 1
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Angewandte Chemie International Edition",
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Angewandte Chemie",
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Polymers",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Advanced Functional Materials",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Advanced Science",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Communications Engineering",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Journal of Energy, Materials &amp; Sustainability",
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Advanced Materials",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Arabian Journal for Science and Engineering",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       }
     ],
     "authors": [
       {
         "name": "Shaofan Duan",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Shuai Jiang",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Feidong Yang",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Pengfei Zhang",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Junhua Li",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Dan Li",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Yijing Dai",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Zilin Zhao",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Yuzhang Zhu",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Jian Jin",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Huixia Lv",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Zhiwei Xing",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Zhuozhi Lai",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Qing Guo",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Kunkun Ren",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Haitao Su",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Jiaming Yi",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Sai Wang",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Mohammad Ali Ebrahimi",
         "count": 2,
         "delta": 2
       },
       {
-        "name": "Kunkun Ren",
+        "name": "Mohammad Ebrahimi",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Liping Zhen",
         "count": 2,
         "delta": 2
       }
@@ -1711,78 +1747,78 @@
     "institutions": [
       {
         "name": "Kobe University",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "State Key Laboratory of Bioinspired Interfacial Materials Science, College of Chemistry, Chemical Engineering and Materials Science Soochow University Suzhou P.R. China",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Suzhou Institute for Advanced Research University of Science and Technology of China Suzhou P.R. China",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Zhejiang Sci-Tech University",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
-        "count": 2,
-        "delta": 2
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Laboratoire de Physique Corpusculaire de Caen",
         "count": 2,
         "delta": 2
       },
       {
-        "name": "Laboratoire de Physique Corpusculaire de Caen",
-        "count": 1,
-        "delta": 1
-      },
-      {
         "name": "GREYC",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Université de Caen Normandie",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Institute CARMeN UMR 6064, ENSICAEN, University of Caen Normandy, 6 Bd. du Maréchal Juin, 14050 Caen, France",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Ji Hua Laboratory",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Lanzhou University",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Inner Mongolia University of Science and Technology",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "Inner Mongolia University of Technology",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       },
       {
         "name": "State Key Laboratory of Natural Product Chemistry College of Chemistry and Chemical Engineering Lanzhou University Lanzhou People's Republic of China",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Advanced Energy Science and Technology Guangdong Laboratory Huizhou People's Republic of China",
+        "count": 2,
+        "delta": 2
+      },
+      {
+        "name": "Sungkyunkwan University",
+        "count": 2,
+        "delta": 2
       }
     ]
   },
