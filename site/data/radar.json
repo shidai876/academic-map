@@ -1,11 +1,12 @@
 {
   "status": "ok",
-  "updated_at": "2026-08-29T06:47:21.658135+00:00",
-  "updated_at_local": "2026-08-29 14:46 (UTC+8)",
+  "version": "2.1",
+  "updated_at": "2026-08-29T07:00:08.447409+00:00",
+  "updated_at_local": "2026-08-29 14:59 (UTC+8)",
   "stats": {
-    "fetched": 446,
-    "related": 11,
-    "recommended": 2,
+    "fetched": 564,
+    "related": 2,
+    "recommended": 0,
     "window_days": 3,
     "sources": [
       "OpenAlex",
@@ -17,131 +18,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1002/anie.4046032",
-      "title": "Carbonyl‐Enriched Nonionic Covalent Organic Framework Nanochannels for High‐Salinity Ionic Thermoelectrics",
-      "publication_date": "2026-08-28",
-      "journal": "Angewandte Chemie International Edition",
-      "authors": [
-        "Huixia Lv",
-        "Zhiwei Xing",
-        "Zhuozhi Lai",
-        "Qing Guo",
-        "Kunkun Ren",
-        "Haitao Su",
-        "Jiaming Yi",
-        "Sai Wang",
-        "Qi Sun"
-      ],
-      "first_author": "Huixia Lv",
-      "institutions": [
-        "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
-        "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China"
-      ],
-      "abstract": "ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media because Donnan exclusion is strongly screened. Here, we report an isoreticular series of nonionic covalent organic framework membranes with comparable one‐dimensional nanochannels but systematically varied pore‐wall oxygen chemistry. Hydroxyl‐substitution‐regulated hydrazone‐to‐β‐ketoenamine tautomerism generates carbonyl‐enriched BthTb‐3OH nanochannels, which preferentially partition and transport cations while suppressing anion migration without relying on covalently anchored charges. Across diverse electrolytes, BthTb‐3OH exhibits broadly cation‐favored transport, with particularly strong cation/anion mobility contrasts in sulfate‐ and phosphate‐containing media. Experiments and molecular dynamics simulations further reveal that the carbonyl‐rich channels couple high K + permselectivity with rapid K + conduction under concentrated‐salt conditions. K 3 PO 4 preconditioning reorganizes the confined transport landscape through retained phosphate/K + species within the carbonyl‐rich nanochannels, facilitating K + transport and amplifying thermodiffusive cation/anion contrast in sulfate media. Consequently, the conditioned membrane delivers a peak power density of 224.2 W m −2 in saturated K 2 SO 4 under a 50 K temperature difference, establishing nonionic COF nanochannels as a charge‐screening‐resistant platform for high‐salinity ionic thermoelectrics.",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "COF/MOF膜",
-        "纳米通道/限域传输"
-      ],
-      "keyword_hits": [
-        "covalent organic framework membrane",
-        "nanochannel",
-        "selectivity"
-      ],
-      "score": 69,
-      "key_numbers": [],
-      "brief": "主题：COF/MOF膜 / 纳米通道/限域传输；团队：Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China、Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
-      "id": "doi:10.1002/anie.4046032"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/ange.4046032",
-      "title": "Carbonyl‐Enriched Nonionic Covalent Organic Framework Nanochannels for High‐Salinity Ionic Thermoelectrics",
-      "publication_date": "2026-08-28",
-      "journal": "Angewandte Chemie",
-      "authors": [
-        "Huixia Lv",
-        "Zhiwei Xing",
-        "Zhuozhi Lai",
-        "Qing Guo",
-        "Kunkun Ren",
-        "Haitao Su",
-        "Jiaming Yi",
-        "Sai Wang",
-        "Qi Sun"
-      ],
-      "first_author": "Huixia Lv",
-      "institutions": [
-        "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
-        "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China"
-      ],
-      "abstract": "ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media because Donnan exclusion is strongly screened. Here, we report an isoreticular series of nonionic covalent organic framework membranes with comparable one‐dimensional nanochannels but systematically varied pore‐wall oxygen chemistry. Hydroxyl‐substitution‐regulated hydrazone‐to‐β‐ketoenamine tautomerism generates carbonyl‐enriched BthTb‐3OH nanochannels, which preferentially partition and transport cations while suppressing anion migration without relying on covalently anchored charges. Across diverse electrolytes, BthTb‐3OH exhibits broadly cation‐favored transport, with particularly strong cation/anion mobility contrasts in sulfate‐ and phosphate‐containing media. Experiments and molecular dynamics simulations further reveal that the carbonyl‐rich channels couple high K + permselectivity with rapid K + conduction under concentrated‐salt conditions. K 3 PO 4 preconditioning reorganizes the confined transport landscape through retained phosphate/K + species within the carbonyl‐rich nanochannels, facilitating K + transport and amplifying thermodiffusive cation/anion contrast in sulfate media. Consequently, the conditioned membrane delivers a peak power density of 224.2 W m −2 in saturated K 2 SO 4 under a 50 K temperature difference, establishing nonionic COF nanochannels as a charge‐screening‐resistant platform for high‐salinity ionic thermoelectrics.",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "COF/MOF膜",
-        "纳米通道/限域传输"
-      ],
-      "keyword_hits": [
-        "covalent organic framework membrane",
-        "nanochannel",
-        "selectivity"
-      ],
-      "score": 60,
-      "key_numbers": [],
-      "brief": "主题：COF/MOF膜 / 纳米通道/限域传输；团队：Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China、Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
-      "id": "doi:10.1002/ange.4046032"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204488994",
-      "openalex_url": "https://openalex.org/W7204488994",
-      "doi": "10.1016/j.mcat.2026.116286",
-      "title": "New PEGylated Xantphos ligands for palladium-catalyzed hydroesterification and enhanced recovery via organic solvent nanofiltration",
-      "publication_date": "2026-08-27",
-      "journal": "Molecular Catalysis",
-      "authors": [
-        "Vitaliy Masliy",
-        "Utpalkumar Thummar",
-        "Sreelakshmi Venugopalan",
-        "Thierry Renouard",
-        "Sophie M. Guillaume",
-        "Murielle Rabiller‐Baudry",
-        "Jean‐François Carpentier"
-      ],
-      "first_author": "Vitaliy Masliy",
-      "institutions": [
-        "Centre National de la Recherche Scientifique",
-        "Institut des Sciences Chimiques de Rennes",
-        "Université de Rennes"
-      ],
-      "abstract": "Homogeneous catalyst recovery from organic media has always been a major challenge and targeted objective. In this work, five new modified Xantphos ligands bearing methyl ester groups, various poly(ethyleneglycol) (PEG) or long aliphatic chains, with molecular weights ranging from 871 to 2413 g.mol –1 (compared to original Xantphos, 587 g.mol –1 ) were synthesized and fully characterized. As part of the synthetic route, a dibrominated Xantphos intermediate was prepared, providing a versatile precursor for the synthesis of structurally diverse Xantphos derivatives through subsequent functionalization. All ligands were evaluated in a palladium-catalyzed hydroesterification reaction of methyl 10-undecenoate in toluene, to investigate the influence of the ligand functional groups on the catalytic performance. The rejection of the catalysts was determined using several organic solvent nanofiltration (OSN) experiments, effectively decreasing the catalyst leaching through the polymeric membrane from 13% to below ICP-AES detection limit. The synthesized ligands exhibited catalytic activities and selectivities comparable to those of conventional Xantphos while showing enhanced membrane rejection. The relationship between ligand structure, catalytic performance and rejection via membrane demonstrates that rational PEG modification enables an effective balance between catalytic efficiency and recoverability. These findings establish PEG-functionalized Xantphos ligands as promising candidates for recovery via membrane and further showcase the versatility of a new dibrominated Xantphos intermediate as a valuable building block for the future development of new ligands.",
-      "cited_by_count": 0,
-      "type": "article",
-      "topics": [
-        "纳滤",
-        "有机溶剂纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "organic solvent nanofiltration",
-        "osn",
-        "rejection"
-      ],
-      "score": 47,
-      "key_numbers": [
-        "13%"
-      ],
-      "brief": "主题：纳滤 / 有机溶剂纳滤；团队：Centre National de la Recherche Scientifique、Institut des Sciences Chimiques de Rennes；摘要首句：Homogeneous catalyst recovery from organic media has always been a major challenge and targeted objective.。",
-      "id": "doi:10.1016/j.mcat.2026.116286"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7204446974",
-      "openalex_url": "https://openalex.org/W7204446974",
       "doi": "10.66173/jenmas.2026.166",
       "title": "Structure-Performance Relationships in Nanofiltration Membranes: From Molecular Architecture to Intelligent Membrane Systems",
       "publication_date": "2026-08-27",
@@ -166,27 +42,21 @@
       "institutions": [
         "Chinese Academy of Sciences",
         "Ahmadu Bello University",
-        "Malaysia University of Science and Technology",
-        "Bandung Institute of Technology",
-        "NED University of Engineering and Technology",
-        "Universiti Teknologi Petronas",
-        "Hiroshima University",
-        "APJ Abdul Kalam Technological University",
-        "Mewar University",
-        "University of Gabès",
-        "Sebelas Maret University",
-        "Universiti Malaysia Pahang Al-Sultan Abdullah",
         "University Technology Malaysia",
         "Institut Teknologi Bandung",
+        "NED University of Engineering and Technology",
+        "Universiti Teknologi Petronas",
         "National University of Science and Technology",
+        "Hiroshima University",
         "Abdul Kalam Technical University",
+        "Mewar University",
         "University of Gahes",
         "Universitas Sebaelas Maret",
         "University of Malaysia Pahang"
       ],
       "abstract": "Nanofiltration (NF) has become an indispensable platform for sustainable separations, yet its continued advancement is constrained by persistent trade-offs between permeability and selectivity, limited solute-solute discrimination, fouling susceptibility, and poor long-term stability under aggressive operating conditions. Despite rapid progress across polyamide chemistry, nanomaterial incorporation, and process modelling, the field remains fragmented, with insights confined to isolated material classes, fabrication routes, or applications, and lacking a unifying framework that connects molecular design to system-level performance. This review addresses that gap by establishing a coherent, multiscale structure–performance framework that traces a continuous mechanistic thread from molecular architecture to industrial module. We first critically examine the molecular-scale design of polyamide selective layers, questioning whether it genuinely reshapes membrane structure and introduces functional engineered nanoscale transport pathways. We then analyse morphology-performance correlations, advanced multiscale predictive modelling, and the rapidly emerging role of artificial intelligence and data-driven design in accelerating membrane discovery and optimization. Beyond material performance, we critically appraise fouling mechanisms and antifouling strategies, sustainability through life-cycle and techno-economic assessment, and the frequently underappreciated lab-to-module performance gap that governs real-world deployment. Throughout, we interrogate conflicting findings, reproducibility and scalability limitations, and the economic and environmental barriers that separate laboratory achievements from industrial reality. By integrating these traditionally siloed domains within a single critical synthesis, this review consolidates fragmented knowledge, identifies the most consequential research gaps, and articulates a scientific roadmap toward highly selective, energy-efficient, and industrially viable NF systems for global water security and sustainable resource recovery.",
       "cited_by_count": 0,
-      "type": "article",
+      "type": "journal-article",
       "topics": [
         "纳滤"
       ],
@@ -194,184 +64,16 @@
         "nanofiltration",
         "selectivity"
       ],
-      "score": 35,
+      "score": 42,
+      "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "主题：纳滤；团队：Chinese Academy of Sciences、Ahmadu Bello University；摘要首句：Nanofiltration (NF) has become an indispensable platform for sustainable separations, yet its continued advancement is constrained by persistent trade-offs between permeability and selectivity, limited solute-solute discriminat…。",
+      "brief": "定位：膜领域相关；主题：纳滤；团队：Chinese Academy of Sciences、Ahmadu Bello University；摘要首句：Nanofiltration (NF) has become an indispensable platform for sustainable separations, yet its continued advancement is constrained by persistent trade-offs between permeability and selectivity, limited solute-solute discriminat…。",
       "id": "doi:10.66173/jenmas.2026.166"
     },
     {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1088/1758-5090/ae9f97",
-      "title": "A bioinspired bilayer periosteum-mimicking membrane for enhanced osteogenesis and angiogenesis in guided bone regeneration",
-      "publication_date": "2026-08-27",
-      "journal": "Biofabrication",
-      "authors": [
-        "Yongjian Sun",
-        "Kaisheng Wang",
-        "Zhang Lujing",
-        "Zhang Yu",
-        "Li Yanni",
-        "Xu Xiaoyue",
-        "Yan Yang",
-        "Chao Zhou"
-      ],
-      "first_author": "Yongjian Sun",
-      "institutions": [
-        "Ocean University of China",
-        "Qilu Hospital of Shandong University (Qingdao)"
-      ],
-      "abstract": "Abstract Guided bone regeneration (GBR) membranes with osteoinductive and angiogenic capabilities are essential for the effective repair of large bone defects. In this study, we design and fabricate a biomimetic bilayer GBR membrane composed of a nano-hydroxyapatite/type I collagen/ polycaprolactone (HC layer) and chitosan/ polycaprolactone (CP layer) composite via electrospinning strategy. The core-shell fibrous architecture replicates the natural periosteum's fibrous hierarchy and provides controlled collagen release, mechanical integrity, and enhanced interfacial functionality. The physical, chemical, and mechanical properties of the membranes were comprehensively characterized, and in vitro assays demonstrated excellent cell adhesion, proliferation, and osteogenic differentiation of pre-osteoblasts on the bilayered membrane. In addition, the membrane promoted endothelial cell migration, tube formation, and upregulation of angiogenesis-related genes, confirming its pro-angiogenic capacity. Furthermore, in vivo evaluation using a critical-sized rat calvarial defect model revealed that the bilayered membrane significantly enhanced new bone formation compared to commercial HAO membranes, as confirmed by micro-CT and histological analysis. This work provides a mechanically robust, biologically active, and structurally biomimetic GBR membrane capable of promoting both osteogenesis and angiogenesis in a coordinated manner. The proposed strategy offers promising potential for the clinical treatment of complex bone defects.",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "二维层状膜"
-      ],
-      "keyword_hits": [
-        "layered membrane"
-      ],
-      "score": 35,
-      "key_numbers": [],
-      "brief": "主题：二维层状膜；团队：Ocean University of China、Qilu Hospital of Shandong University (Qingdao)；摘要首句：Abstract Guided bone regeneration (GBR) membranes with osteoinductive and angiogenic capabilities are essential for the effective repair of large bone defects.。",
-      "id": "doi:10.1088/1758-5090/ae9f97"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1134/s1061933x26600375",
-      "title": "Ion Size-Dependent Flow Modulation and Selectivity in Polyelectrolyte Grafted Nanochannels under Combined Electroosmotic and Pressure-Driven Transport",
-      "publication_date": "2026-08-28",
-      "journal": "Colloid Journal",
-      "authors": [
-        "Amit Malick",
-        "Bhanuman Barman"
-      ],
-      "first_author": "Amit Malick",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "纳米通道/限域传输"
-      ],
-      "keyword_hits": [
-        "nanochannel",
-        "selectivity"
-      ],
-      "score": 30,
-      "key_numbers": [],
-      "brief": "主题：纳米通道/限域传输；题名线索：Ion Size-Dependent Flow Modulation and Selectivity in Polyelectrolyte Grafted Nanochannels under Combined Electroosmotic and Pressure-Driven Transport。",
-      "id": "doi:10.1134/s1061933x26600375"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1063/10.0046487",
-      "title": "Chemical vapor deposition methods proliferate in producing 2D transition metal dichalcogenides",
-      "publication_date": "2026-08-28",
-      "journal": "Scilight",
-      "authors": [
-        "Adam Liebendorfer"
-      ],
-      "first_author": "Adam Liebendorfer",
-      "institutions": [],
-      "abstract": "Fast-growing field finds easier ways to scale up making large-area, high-quality materials for functional electronic and optoelectronic devices.",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "硫属二维材料"
-      ],
-      "keyword_hits": [
-        "chalcogenide"
-      ],
-      "score": 28,
-      "key_numbers": [],
-      "brief": "主题：硫属二维材料；摘要首句：Fast-growing field finds easier ways to scale up making large-area, high-quality materials for functional electronic and optoelectronic devices.。",
-      "id": "doi:10.1063/10.0046487"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/cjoc.70743",
-      "title": "Mechanochemically Synthesized Covalent Organic Framework‐Based Protonic Electrolytes with Superior Proton Conduction for Solid‐State Proton Batteries",
-      "publication_date": "2026-08-27",
-      "journal": "Chinese Journal of Chemistry",
-      "authors": [
-        "Bao Liu",
-        "Sixin Zhang",
-        "Ming‐Qian Wang",
-        "Fang‐Ru Lin",
-        "Xiaoliu Yu",
-        "Guo‐Qin Zhang",
-        "Xu‐Sheng Gao",
-        "Qiao Qiao",
-        "Wei Zhuang",
-        "Hong‐Bin Luo",
-        "Chenjie Zhu",
-        "Xiao‐Ming Ren"
-      ],
-      "first_author": "Bao Liu",
-      "institutions": [
-        "State Key Laboratory of Materials‐Oriented Chemical Engineering and College of Chemistry and Molecular Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
-        "College of Biotechnology and Pharmaceutical Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
-        "College of Mechanical and Electrical Engineering Weihai Vocational College Weihai Shandong 264210 China",
-        "School of Chemistry and Materials Engineering Anhui Science and Technology University Chuzhou Anhui 233100 China"
-      ],
-      "abstract": "Comprehensive Summary The development of solid‐state protonic electrolyte is essential for safe and durable energy storage, yet their practical application remains limited by insufficient proton conductivity and narrow electrochemical stability windows. Although covalent organic frameworks (COFs) have emerged as promising platform for proton conduction owing to their ordered porous channels and tunable functionalities, conventional solvothermal synthesis generally requires harsh conditions, long reaction times, and large amounts of organic solvents. Herein, we report a simple and efficient mechanochemical ball‐milling strategy for facile synthesis of a phosphoric acid‐loaded COF protonic electrolyte (PA@TP‐COF). Benefiting from the ordered nanochannels of TP‐COF and the strong acid‐base interactions between the framework and H 3 PO 4 , continuous hydrogen‐bonding networks are constructed to facilitate efficient proton transport. Consequently, the PA@TP‐COF electrolyte exhibits a high proton conductivity of 6.24 × 10 −2 S·cm −1 with a low activation energy of 0.14 eV. Moreover, the electrolyte delivers a wide electrochemical stability window of 5.6 V. Solid‐state proton batteries assembled with PA@TP‐COF electrolyte achieve remarkable cycling durability with 72.2% capacity retention after 1500 cycles at 1.0 A·g −1 , together with excellent rate capability.",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "COF/MOF膜",
-        "纳米通道/限域传输"
-      ],
-      "keyword_hits": [
-        "nanochannel"
-      ],
-      "score": 28,
-      "key_numbers": [
-        "72.2%",
-        "1.0 A"
-      ],
-      "brief": "主题：COF/MOF膜 / 纳米通道/限域传输；团队：State Key Laboratory of Materials‐Oriented Chemical Engineering and College of Chemistry and Molecular Engineering Nanjing Tech University Nanjing Jiangsu 211816 China、College of Biotechnology and Pharmaceutical Engineering Nanjing Tech University Nanjing Jiangsu 211816 China；摘要首句：Comprehensive Summary The development of solid‐state protonic electrolyte is essential for safe and durable energy storage, yet their practical application remains limited by insufficient proton conductivity and narrow electroc…。",
-      "id": "doi:10.1002/cjoc.70743"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1007/s11837-026-08677-9",
-      "title": "Transition Metal Tin-Chalcogenide Monolayers as High-Performance 2D Anodes for Alkali-Ion Batteries: A DFT Study on Capacity, Conductivity, and Strain Response",
-      "publication_date": "2026-08-28",
-      "journal": "JOM",
-      "authors": [
-        "Shahab Rahimi Herabad",
-        "Mohammad Ali Mohebpour",
-        "H. Rahimpour Soleimani"
-      ],
-      "first_author": "Shahab Rahimi Herabad",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "硫属二维材料"
-      ],
-      "keyword_hits": [
-        "chalcogenide"
-      ],
-      "score": 25,
-      "key_numbers": [],
-      "brief": "主题：硫属二维材料；题名线索：Transition Metal Tin-Chalcogenide Monolayers as High-Performance 2D Anodes for Alkali-Ion Batteries: A DFT Study on Capacity, Conductivity, and Strain Response。",
-      "id": "doi:10.1007/s11837-026-08677-9"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7204476432",
-      "openalex_url": "https://openalex.org/W7204476432",
       "doi": "10.1007/s13369-026-11612-4",
       "title": "Development of iron oxide nanoparticle-embedded polyethersulfone nanocomposite membranes for efficient nickel removal via nanofiltration process",
       "publication_date": "2026-08-27",
@@ -382,127 +84,34 @@
         "Mohammadreza Sheybani Amirabadi"
       ],
       "first_author": "Omid Ahmadi",
-      "institutions": [
-        "University of Kashan"
-      ],
+      "institutions": [],
       "abstract": "",
       "cited_by_count": 0,
-      "type": "article",
+      "type": "journal-article",
       "topics": [
         "纳滤"
       ],
       "keyword_hits": [
         "nanofiltration"
       ],
-      "score": 25,
+      "score": 30,
+      "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "主题：纳滤；团队：University of Kashan；题名线索：Development of iron oxide nanoparticle-embedded polyethersulfone nanocomposite membranes for efficient nickel removal via nanofiltration process。",
+      "brief": "定位：膜领域相关；主题：纳滤；题名线索：Development of iron oxide nanoparticle-embedded polyethersulfone nanocomposite membranes for efficient nickel removal via nanofiltration process。",
       "id": "doi:10.1007/s13369-026-11612-4"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1103/1qxd-f6dt",
-      "title": "Valley- and spin-dependent electronic and transport properties of two-dimensional altermagnetic titanium-based chalcogenide halides",
-      "publication_date": "2026-08-27",
-      "journal": "Physical Review B",
-      "authors": [
-        "Anonymous"
-      ],
-      "first_author": "Anonymous",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "type": "journal-article",
-      "topics": [
-        "硫属二维材料"
-      ],
-      "keyword_hits": [
-        "chalcogenide"
-      ],
-      "score": 25,
-      "key_numbers": [],
-      "brief": "主题：硫属二维材料；题名线索：Valley- and spin-dependent electronic and transport properties of two-dimensional altermagnetic titanium-based chalcogenide halides。",
-      "id": "doi:10.1103/1qxd-f6dt"
     }
   ],
   "trends": {
     "topics": [
       {
-        "name": "纳米通道/限域传输",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "COF/MOF膜",
-        "count": 3,
-        "delta": 3
-      },
-      {
         "name": "纳滤",
-        "count": 3,
-        "delta": 3
-      },
-      {
-        "name": "硫属二维材料",
-        "count": 3,
-        "delta": 3
-      },
-      {
-        "name": "有机溶剂纳滤",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "二维层状膜",
-        "count": 1,
-        "delta": 1
+        "count": 2,
+        "delta": 2
       }
     ],
     "journals": [
       {
-        "name": "Angewandte Chemie International Edition",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Angewandte Chemie",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Molecular Catalysis",
-        "count": 1,
-        "delta": 1
-      },
-      {
         "name": "Journal of Energy, Materials &amp; Sustainability",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Biofabrication",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Colloid Journal",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Scilight",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Chinese Journal of Chemistry",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "JOM",
         "count": 1,
         "delta": 1
       },
@@ -510,116 +119,66 @@
         "name": "Arabian Journal for Science and Engineering",
         "count": 1,
         "delta": 1
-      },
-      {
-        "name": "Physical Review B",
-        "count": 1,
-        "delta": 1
       }
     ],
     "authors": [
       {
-        "name": "Huixia Lv",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Zhiwei Xing",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Zhuozhi Lai",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Qing Guo",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Kunkun Ren",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Haitao Su",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Jiaming Yi",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Sai Wang",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Vitaliy Masliy",
+        "name": "Zakawat Ali",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Utpalkumar Thummar",
+        "name": "Toyese Oyegoke",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Sreelakshmi Venugopalan",
+        "name": "Fahad Mir",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Thierry Renouard",
+        "name": "Auwal Bello",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Sophie M. Guillaume",
+        "name": "Abdul Sami",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Murielle Rabiller‐Baudry",
+        "name": "Mehtab Ali Darban",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Jean‐François Carpentier",
+        "name": "Syeda Kazmi",
+        "count": 1,
+        "delta": 1
+      },
+      {
+        "name": "Ghulam Muhammad",
+        "count": 1,
+        "delta": 1
+      },
+      {
+        "name": "Omid Ahmadi",
+        "count": 1,
+        "delta": 1
+      },
+      {
+        "name": "Mostafa Vatani",
+        "count": 1,
+        "delta": 1
+      },
+      {
+        "name": "Mohammadreza Sheybani Amirabadi",
         "count": 1,
         "delta": 1
       }
     ],
     "institutions": [
-      {
-        "name": "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Centre National de la Recherche Scientifique",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Institut des Sciences Chimiques de Rennes",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Université de Rennes",
-        "count": 1,
-        "delta": 1
-      },
       {
         "name": "Chinese Academy of Sciences",
         "count": 1,
@@ -631,12 +190,12 @@
         "delta": 1
       },
       {
-        "name": "Malaysia University of Science and Technology",
+        "name": "University Technology Malaysia",
         "count": 1,
         "delta": 1
       },
       {
-        "name": "Bandung Institute of Technology",
+        "name": "Institut Teknologi Bandung",
         "count": 1,
         "delta": 1
       },
@@ -649,31 +208,12 @@
         "name": "Universiti Teknologi Petronas",
         "count": 1,
         "delta": 1
-      },
-      {
-        "name": "Ocean University of China",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "Qilu Hospital of Shandong University (Qingdao)",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "State Key Laboratory of Materials‐Oriented Chemical Engineering and College of Chemistry and Molecular Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
-        "count": 1,
-        "delta": 1
-      },
-      {
-        "name": "College of Biotechnology and Pharmaceutical Engineering Nanjing Tech University Nanjing Jiangsu 211816 China",
-        "count": 1,
-        "delta": 1
       }
     ]
   },
   "notes": {
+    "precision_mode": "2.1: core membrane-separation gating + adjacent-topic score caps + off-topic penalties",
     "corresponding_author": "Not inferred unless source metadata explicitly provides it.",
-    "ai": "No paid AI API is used; brief summaries are deterministic metadata/abstract extraction."
+    "ai": "No paid AI API is used."
   }
 }
