@@ -1,24 +1,29 @@
 {
-  "version": "2.1",
-  "window_days": 3,
-  "max_display": 60,
-  "recommend_score": 55,
+  "version": "2.2",
+  "window_days": 7,
+  "max_display": 80,
+  "recommend_score": 50,
   "queries": [
-    "\"membrane separation\" nanofiltration",
-    "\"2D membrane\" ion sieving",
-    "\"laminar membrane\" ion separation",
-    "\"nanosheet membrane\" ion separation",
-    "\"COF membrane\" separation",
-    "\"covalent organic framework membrane\" nanofiltration",
-    "\"MXene membrane\" ion separation",
-    "\"graphene oxide membrane\" ion sieving",
-    "\"organic solvent nanofiltration\"",
-    "\"polyamide nanofiltration\"",
-    "\"thin-film composite\" nanofiltration",
-    "\"subnanometer membrane\" ion transport",
-    "\"angstrom-scale membrane\" ion separation",
-    "\"chalcogenide membrane\" ion separation",
-    "\"lithium magnesium\" membrane separation"
+    "membrane separation",
+    "nanofiltration membrane",
+    "ion separation membrane",
+    "ion sieving membrane",
+    "2D membrane separation",
+    "laminar membrane separation",
+    "nanosheet membrane separation",
+    "COF membrane",
+    "covalent organic framework membrane",
+    "MOF membrane separation",
+    "MXene membrane separation",
+    "graphene oxide membrane separation",
+    "organic solvent nanofiltration",
+    "polyamide nanofiltration membrane",
+    "thin film composite nanofiltration",
+    "subnanometer membrane ion transport",
+    "angstrom membrane ion separation",
+    "chalcogenide membrane separation",
+    "lithium magnesium membrane separation",
+    "desalination nanofiltration membrane"
   ],
   "topic_rules": {
     "二维层状膜": [
@@ -37,8 +42,8 @@
       "ion selectivity",
       "monovalent ion",
       "divalent ion",
-      "lithium magnesium",
-      "li+/mg2+",
+      "lithium",
+      "magnesium",
       "hydrated ion",
       "dehydration"
     ],
@@ -50,166 +55,194 @@
       "mof membrane"
     ],
     "纳滤": [
-      "nanofiltration",
-      "nanofiltration membrane"
+      "nanofiltration"
     ],
     "有机溶剂纳滤": [
       "organic solvent nanofiltration",
       "solvent-resistant nanofiltration",
       "solvent resistant nanofiltration",
-      "osn membrane"
+      "osn"
     ],
     "聚酰胺/TFC": [
-      "polyamide nanofiltration",
       "polyamide membrane",
-      "thin-film composite membrane",
-      "thin film composite membrane",
+      "polyamide nanofiltration",
+      "thin-film composite",
+      "thin film composite",
       "interfacial polymerization"
     ],
     "纳米通道/限域传输": [
-      "membrane nanochannel",
-      "subnanometer membrane",
-      "sub-nanometer membrane",
-      "angstrom-scale membrane",
-      "angstrom membrane",
-      "nanofluidic membrane",
-      "confined ion transport"
+      "nanochannel",
+      "subnanometer",
+      "sub-nanometer",
+      "angstrom-scale",
+      "angstrom scale",
+      "nanofluidic",
+      "confined transport"
     ],
     "硫属二维材料": [
-      "chalcogenide membrane",
-      "mos2 membrane",
-      "molybdenum disulfide membrane",
-      "sns2 membrane",
-      "tin sulfide membrane",
-      "metal sulfide nanosheet membrane"
+      "chalcogenide",
+      "mos2",
+      "molybdenum disulfide",
+      "sns2",
+      "tin sulfide",
+      "metal sulfide nanosheet"
     ],
     "脱盐/水处理": [
-      "desalination membrane",
+      "desalination",
       "salt rejection",
       "reverse osmosis",
-      "water purification membrane"
+      "water purification"
     ]
   },
-  "core_membrane_signals": [
-    "membrane separation",
+  "membrane_words": [
+    "membrane",
+    "membranes",
     "nanofiltration",
     "reverse osmosis",
-    "desalination membrane",
-    "salt rejection",
-    "water permeance",
-    "solvent permeance",
-    "membrane permeance",
-    "ion sieving",
-    "separation membrane",
-    "laminar membrane",
-    "2d membrane",
-    "two-dimensional membrane",
-    "nanosheet membrane",
-    "cof membrane",
-    "covalent organic framework membrane",
-    "mof membrane",
-    "mxene membrane",
-    "graphene oxide membrane",
-    "organic solvent nanofiltration",
-    "solvent-resistant nanofiltration",
-    "thin-film composite membrane",
-    "thin film composite membrane",
-    "polyamide nanofiltration",
-    "chalcogenide membrane"
+    "desalination",
+    "thin-film composite",
+    "thin film composite",
+    "interfacial polymerization"
   ],
-  "adjacent_signals": [
-    "nanochannel",
-    "nanofluidic",
-    "confined transport",
-    "hydrated ion",
-    "dehydration",
-    "ion transport",
-    "covalent organic framework",
-    "metal organic framework",
-    "metal-organic framework",
-    "mxene",
-    "graphene oxide",
-    "chalcogenide",
-    "mos2",
-    "sns2"
+  "separation_words": [
+    "separation",
+    "sieving",
+    "selectivity",
+    "selective",
+    "rejection",
+    "permeance",
+    "permeability",
+    "transport",
+    "fractionation",
+    "purification",
+    "desalination"
+  ],
+  "high_value_pairs": [
+    [
+      "membrane",
+      "ion"
+    ],
+    [
+      "membrane",
+      "separation"
+    ],
+    [
+      "membrane",
+      "sieving"
+    ],
+    [
+      "membrane",
+      "rejection"
+    ],
+    [
+      "membrane",
+      "permeance"
+    ],
+    [
+      "nanofiltration",
+      "ion"
+    ],
+    [
+      "nanofiltration",
+      "salt"
+    ],
+    [
+      "laminar",
+      "membrane"
+    ],
+    [
+      "nanosheet",
+      "membrane"
+    ],
+    [
+      "cof",
+      "membrane"
+    ],
+    [
+      "mxene",
+      "membrane"
+    ],
+    [
+      "graphene oxide",
+      "membrane"
+    ],
+    [
+      "polyamide",
+      "membrane"
+    ]
   ],
   "weighted_keywords": {
-    "30": [
+    "28": [
       "ion sieving",
-      "membrane separation",
       "nanofiltration",
+      "organic solvent nanofiltration",
       "laminar membrane",
       "2d membrane",
       "two-dimensional membrane",
-      "covalent organic framework membrane",
       "cof membrane",
-      "organic solvent nanofiltration",
-      "chalcogenide membrane"
+      "covalent organic framework membrane"
     ],
-    "22": [
+    "20": [
+      "ion separation",
       "selective ion transport",
       "salt rejection",
       "reverse osmosis",
       "nanosheet membrane",
       "mxene membrane",
       "graphene oxide membrane",
-      "polyamide nanofiltration",
-      "thin-film composite membrane",
-      "thin film composite membrane",
-      "subnanometer membrane",
-      "angstrom-scale membrane"
+      "polyamide membrane",
+      "thin-film composite",
+      "thin film composite"
     ],
-    "15": [
+    "13": [
       "hydrated ion",
       "dehydration",
-      "membrane nanochannel",
-      "nanofluidic membrane",
+      "nanochannel",
+      "nanofluidic",
       "interfacial polymerization",
       "mof membrane",
-      "water permeance",
-      "solvent permeance"
+      "permeance",
+      "permeability"
     ],
     "7": [
       "selectivity",
-      "permeance",
       "rejection",
-      "molecular sieving"
+      "molecular sieving",
+      "desalination"
     ]
   },
   "journal_boost": {
+    "Journal of Membrane Science": 15,
+    "Desalination": 13,
+    "Separation and Purification Technology": 10,
+    "Water Research": 10,
     "Nature Water": 12,
     "Nature Communications": 8,
     "Science Advances": 8,
-    "Journal of Membrane Science": 14,
-    "Desalination": 12,
-    "Water Research": 9,
-    "Separation and Purification Technology": 9,
-    "Environmental Science & Technology": 7,
     "ACS Nano": 7,
     "Advanced Materials": 8,
-    "Angewandte Chemie International Edition": 8
+    "Angewandte Chemie International Edition": 8,
+    "Environmental Science & Technology": 7
   },
   "penalty_keywords": {
     "-45": [
       "thermoelectric",
       "thermoelectrics",
+      "ionic thermoelectric",
       "fuel cell",
-      "proton exchange membrane fuel cell",
       "battery electrolyte",
       "solid electrolyte",
       "supercapacitor",
-      "capacitor"
+      "electrochemical energy storage"
     ],
     "-30": [
       "electrocatalysis",
       "photocatalysis",
-      "catalyst",
       "sensor",
       "sensing",
-      "ionic thermoelectric",
-      "electrochemical energy storage"
+      "catalyst"
     ],
-    "-20": [
+    "-18": [
       "membrane bioreactor",
       "hemodialysis",
       "biomedical scaffold",
@@ -218,7 +251,6 @@
   },
   "off_topic_cap_keywords": [
     "thermoelectric",
-    "thermoelectrics",
     "fuel cell",
     "battery",
     "electrolyte",
@@ -229,8 +261,7 @@
     "sensing"
   ],
   "score_caps": {
-    "no_core_but_adjacent": 49,
-    "no_core_no_adjacent": 34,
-    "off_topic_without_core": 29
+    "off_topic_without_membrane_separation": 25,
+    "adjacent_only": 44
   }
 }
