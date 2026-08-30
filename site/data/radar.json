@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-08-29T22:20:35.271493+00:00",
-  "updated_at_local": "2026-08-30 06:20 (UTC+8)",
+  "updated_at": "2026-08-30T22:20:35.345034+00:00",
+  "updated_at_local": "2026-08-31 06:20 (UTC+8)",
   "stats": {
-    "fetched": 1333,
-    "related": 39,
-    "recommended": 15,
+    "fetched": 1326,
+    "related": 36,
+    "recommended": 13,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -52,63 +52,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：Laboratoire de Physique Corpusculaire de Caen、GREYC；摘要首句：Nanofiltration membranes have emerged as a crucial class of pressure-driven separation materials, positioned between ultrafiltration and reverse osmosis in terms of selectivity, permeance, operating pressure, and energy consump…。",
       "id": "doi:10.3390/polym18172066"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7204135520",
-      "openalex_url": "https://openalex.org/W7204135520",
-      "doi": "10.1002/adfm.77919",
-      "title": "Tailoring Sub‐Nanochannels and Ion‐Imprinted Functionality of Palygorskite‐Derived Membranes for Desalination and Lithium‐ion Transport",
-      "publication_date": "2026-08-24",
-      "journal": "Advanced Functional Materials",
-      "authors": [
-        "Liping Zhen",
-        "Genping Meng",
-        "Xisheng Zhao",
-        "Wenting Guo",
-        "Yonghui Chen",
-        "Shuai Wei",
-        "Guowen Hu",
-        "Yuanhang Zhao",
-        "Jiarui Xu",
-        "Baodui Wang"
-      ],
-      "first_author": "Liping Zhen",
-      "institutions": [
-        "Ji Hua Laboratory",
-        "Lanzhou University",
-        "Inner Mongolia University of Science and Technology",
-        "Inner Mongolia University of Technology",
-        "State Key Laboratory of Natural Product Chemistry College of Chemistry and Chemical Engineering Lanzhou University Lanzhou People's Republic of China",
-        "Advanced Energy Science and Technology Guangdong Laboratory Huizhou People's Republic of China",
-        "School of Rare Earth Industry Inner Mongolia University of Science and Technology Inner Mongolia People's Republic of China"
-      ],
-      "abstract": "ABSTRACT Nanofiltration membranes with tailorable sub‐1‐nm channels are essential for desalination and ion separation, yet scalable and eco‐friendly fabrication of function‐switchable membranes remains a formidable challenge. Here, we report a Palygorskite‐carboxymethylcellulose hybrid membrane platform that achieves dual functionality through precise channel engineering. Coordination‐driven self‐assembly in water yields two distinct membrane types from the same material system. The desalination membrane preserves the intrinsic sub‐1‐nm channels of Palygorskite nanorods, delivering high water permeance (&gt;23 L m −2 h −1 bar −1 ) and a Na 2 SO 4 rejection (&gt;99%). By contrast, the Li + /Mg 2+ separation membrane is constructed from acid‐etched nanorods bearing Mg 2+ ‐imprinted sites, affording expanded channels that enable selective Li + transport while capturing Mg 2+ via imprinting adsorption. This membrane achieves a Li + /Mg 2+ selectivity of approximately 175 in mixed solutions. Molecular dynamics simulations indicate rapid and selective transport of water and Li + through the respective sub‐1‐nm channels. Beyond superior separation performance, the membranes exhibit robust mechanical strength, long‐term operational stability, and excellent antifouling and antimicrobial properties. This one‐platform, dual‐function strategy demonstrates the scalable fabrication and tunable performance essential for practical water purification and lithium resource recovery.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分",
-        "纳滤",
-        "纳米通道/限域传输",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "ion separation",
-        "nanochannel",
-        "permeance",
-        "selectivity",
-        "rejection",
-        "desalination"
-      ],
-      "score": 99,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "2 h",
-        "1 bar",
-        "99%"
-      ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤 / 纳米通道/限域传输；团队：Ji Hua Laboratory、Lanzhou University；摘要首句：ABSTRACT Nanofiltration membranes with tailorable sub‐1‐nm channels are essential for desalination and ion separation, yet scalable and eco‐friendly fabrication of function‐switchable membranes remains a formidable challenge.。",
-      "id": "doi:10.1002/adfm.77919"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -398,53 +341,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1002/adma.74777",
-      "title": "Hierarchical Flexible Ceramic Nanofiber Membrane for Simultaneous Membrane Distillation and Photocatalytic Hydrogen Evolution",
-      "publication_date": "2026-08-24",
-      "journal": "Advanced Materials",
-      "authors": [
-        "Pengfei Lin",
-        "Xiaochen Lu",
-        "Jiawei Sun",
-        "Shuai Guo",
-        "Xinping He",
-        "Chunhai Yi",
-        "Zhenyao Wang",
-        "Jiaxin Guo",
-        "Swee Ching Tan",
-        "Alicia Kyoungjin An"
-      ],
-      "first_author": "Pengfei Lin",
-      "institutions": [
-        "State Key Laboratory of Fluorine &amp; Nitrogen Chemicals School of Chemical Engineering and Technology Xi'an Jiaotong University Xi'an China",
-        "Laoshan Laboratory Qingdao China",
-        "Department of Chemical and Biological Engineering the Hong Kong University of Science and Technology Hong Kong China",
-        "Department of Materials Science and Engineering National University of Singapore Singapore Singapore",
-        "Department of Environmental Science and Engineering Macau University of Science and Technology Macau China"
-      ],
-      "abstract": "ABSTRACT The escalating demand for clean energy and freshwater necessitates integrated rather than compartmentalized technological solutions. However, conventional desalination and photocatalytic hydrogen production typically operate as disparate processes, resulting in suboptimal solar energy utilization and increased system complexity. Herein, a hierarchical and flexible ceramic nanofiber membrane is engineered to fundamentally couple photocatalytic hydrogen evolution with thermally assisted membrane distillation, enabling the simultaneous generation of freshwater and hydrogen. The La‐doped ZrO 2 nanofiber scaffold imparts exceptional mechanical robustness and irradiation stability, while in situ‐constructed superhydrophobic UiO‐66‐NH 2 /CdS heterojunctions facilitate highly efficient light harvesting, directed charge separation, and durable anti‐wetting performance. Consequently, the integrated membrane concurrently delivers an outstanding hydrogen evolution rate of 74.8 mmol m −2 h −1 and a sustainable vapor flux of 41.0 L m −2 h −1 with 99.95% salt rejection under simulated solar irradiation. Photoelectrochemical measurements and density functional theory calculations elucidate that the configured type‐II heterojunction intrinsically drives spatial charge separation to boost proton reduction. Furthermore, multiphysics simulations demonstrate that the three‐dimensional fibrous architecture remarkably amplifies light confinement and accelerates rapid gas‐product transport, fundamentally mitigating mass transfer limitations. By synergizing structural resilience with unified processes, this work establishes a scalable materials paradigm for high‐efficiency water–energy co‐generation.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "salt rejection",
-        "rejection",
-        "desalination"
-      ],
-      "score": 66,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "2 h",
-        "99.95%"
-      ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：State Key Laboratory of Fluorine &amp; Nitrogen Chemicals School of Chemical Engineering and Technology Xi'an Jiaotong University Xi'an China、Laoshan Laboratory Qingdao China；摘要首句：ABSTRACT The escalating demand for clean energy and freshwater necessitates integrated rather than compartmentalized technological solutions.。",
-      "id": "doi:10.1002/adma.74777"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.3390/w18172128",
       "title": "Environmental and Economic Assessment of a Solar-Powered UF-RO Brackish-Groundwater Desalination System for Irrigation in the Jordan Valley",
       "publication_date": "2026-08-28",
@@ -660,55 +556,71 @@
       "id": "doi:10.1016/j.jece.2026.124774"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1007/s10965-026-05093-0",
-      "title": "Fabrication and performance of CA-PK-PVP membrane for oil-in-water emulsion separation",
-      "publication_date": "2026-08-24",
-      "journal": "Journal of Polymer Research",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204518788",
+      "openalex_url": "https://openalex.org/W7204518788",
+      "doi": "10.1088/1361-6463/ae9fff",
+      "title": "Pulsed electric field new applications in food supply chains",
+      "publication_date": "2026-08-28",
+      "journal": "Journal of Physics D Applied Physics",
       "authors": [
-        "Syed Khizer Arshad",
-        "Pen-Chi Chiang",
-        "Chang-Tang Chang"
+        "Yasushi Minamitani",
+        "Koichi Takaki",
+        "Katsuyuki Takahashi",
+        "Douyan Wang",
+        "Takao Namihira",
+        "Takahisa Ueno"
       ],
-      "first_author": "Syed Khizer Arshad",
-      "institutions": [],
-      "abstract": "",
+      "first_author": "Yasushi Minamitani",
+      "institutions": [
+        "Yamagata University Hospital",
+        "Iwate University",
+        "Kumamoto University"
+      ],
+      "abstract": "Abstract Ensuring food security and food safety while reducing losses throughout the food supply chain has become a major global challenge. Pulsed electric field (PEF) technology has traditionally been investigated as a non-thermal method for microbial inactivation and food processing; however, recent advances have considerably expanded its potential applications beyond conventional preservation technologies. This review summarizes emerging PEF-based approaches that contribute to food supply-chain stabilization through shelf-life extension, food safety enhancement, quality preservation, and sustainable production. The underlying mechanisms are discussed from the perspective of electrical interactions with biological systems, including electroporation, protein conformational modification, membrane-potential manipulation, and electrically induced stress responses. Recent studies have demonstrated that PEF treatment can reduce α-amylase activity to approximately 10% of its initial value at electric field strengths up to 12.5 kV cm⁻¹ while avoiding thermal aggregation. PEF-induced enzyme control reduced ATP degradation rates in scallop extracts by a factor of 4.6, and ATP resynthesis in frozen bonito muscle increased ATP content to nearly twice that of untreated samples under 5 kV cm⁻¹ and 1400 pulse conditions. For packaged-food sterilization, high-frequency oscillatory pulses (~70 MHz) enabled microbial inactivation through insulating packaging materials, reducing the survival rate of Escherichia coli to 8.7% at 130 kV cm⁻¹. In drying applications, PEF pretreatment accelerated dehydration, reducing drying times by up to 57% while suppressing shrinkage and nutrient losses. Furthermore, PEF technology has demonstrated effective inactivation of foodborne parasites such as Anisakis larvae without detectable deterioration of fish quality and has shown promise as a residue-free pest-control strategy, achieving mortality rates exceeding 90% for poultry red mites under optimized pulse conditions. These findings demonstrate that PEF technology is evolving into a multifunctional platform capable of addressing challenges across the entire food supply chain.",
       "cited_by_count": 0,
       "topics": [
         "离子筛分"
       ],
       "keyword_hits": [
-        "ion separation"
+        "dehydration"
       ],
-      "score": 46,
+      "score": 44,
       "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：离子筛分；题名线索：Fabrication and performance of CA-PK-PVP membrane for oil-in-water emulsion separation。",
-      "id": "doi:10.1007/s10965-026-05093-0"
+      "key_numbers": [
+        "10%",
+        "8.7%",
+        "57%",
+        "90%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Yamagata University Hospital、Iwate University；摘要首句：Abstract Ensuring food security and food safety while reducing losses throughout the food supply chain has become a major global challenge.。",
+      "id": "doi:10.1088/1361-6463/ae9fff"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7204669162",
+      "openalex_url": "https://openalex.org/W7204669162",
       "doi": "10.1002/anie.4046032",
       "title": "Carbonyl‐Enriched Nonionic Covalent Organic Framework Nanochannels for High‐Salinity Ionic Thermoelectrics",
       "publication_date": "2026-08-28",
       "journal": "Angewandte Chemie International Edition",
       "authors": [
         "Huixia Lv",
-        "Zhiwei Xing",
+        "Zhi‐Wei Xing",
         "Zhuozhi Lai",
         "Qing Guo",
         "Kunkun Ren",
         "Haitao Su",
         "Jiaming Yi",
         "Sai Wang",
-        "Qi Sun"
+        "Qi Sun",
+        "Zhiwei Xing"
       ],
       "first_author": "Huixia Lv",
       "institutions": [
+        "Ministry of Education",
+        "Zhejiang Normal University",
+        "Hangzhou Normal University",
         "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
         "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China"
       ],
@@ -726,7 +638,7 @@
       "score": 42,
       "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China、Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
+      "brief": "定位：膜领域相关；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Ministry of Education、Zhejiang Normal University；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
       "id": "doi:10.1002/anie.4046032"
     },
     {
@@ -760,6 +672,72 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：离子筛分 / 脱盐/水处理；团队：Yonsei University；题名线索：System-level design of solvent extraction-based lithium recovery from high-Mg/Li brines: Chemical recycling, utility integration, and byproduct trade-offs。",
       "id": "doi:10.1016/j.desal.2026.120730"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204662174",
+      "openalex_url": "https://openalex.org/W7204662174",
+      "doi": "10.1038/s43247-026-04002-z",
+      "title": "Charge-neutral nanoporous membrane enables one-step electrodialytic dye/salt fractionation",
+      "publication_date": "2026-08-29",
+      "journal": "Communications Earth & Environment",
+      "authors": [
+        "Zijian Yu",
+        "Shuangling Xie",
+        "Jiale Du",
+        "Qin Chen",
+        "Shengqiong Fang",
+        "Dong Han Seo",
+        "Nora Jullok",
+        "Heba Abdallah",
+        "Chuanjie Fang",
+        "Ming Xie",
+        "Shuaifei Zhao",
+        "Patricia Luis",
+        "Bart Van der Bruggen",
+        "Jiuyang Lin",
+        "Wenyuan Ye"
+      ],
+      "first_author": "Zijian Yu",
+      "institutions": [
+        "Jiangxi University of Science and Technology",
+        "Fuzhou University",
+        "UCLouvain",
+        "KU Leuven",
+        "Korea Energy Economics Institute",
+        "Advanced Materials and Devices (United States)",
+        "University of Oulu",
+        "National Research Centre",
+        "Shaoxing University",
+        "Zhejiang University",
+        "University of Bath",
+        "Deakin University",
+        "Korea University",
+        "Biochemical Society",
+        "Chinese Academy of Sciences"
+      ],
+      "abstract": "Abstract Sustainable high-salinity dye-containing wastewater management demands a paradigm shift from conventional pollutant removal to circular resource recovery. Herein, we report a bio-inspired, electro-driven nanoporous membrane as a high-performance anion-conducting platform for one-step electrodialytic separation. Through co-deposition of dopamine and polyethyleneimine, we achieved precise sub-nanometer regulation of membrane properties, including tunable pore sizes (from 1.00 nm to 0.51 nm), near-zero surface charge (from −10.2 mV to −0.9 mV), and reduced electrical resistance (from 6.15 to 3.31 Ω·cm 2 ), enabling an optimal balance between dye rejection and ion transport. Unlike conventional anion exchange membranes that are prone to rapid fouling, our charge-neutral membrane leverages enhanced steric hindrance and minimized electrostatic attraction to achieve a marked selectivity for one-step steady electrodialytic dye/salt fractionation, demonstrating 99.2% desalination efficiency and 99.6%-99.7% high dye recovery with negligible fouling over nine consecutive cycles. This study establishes a facile and scalable strategy for engineering high-performance ion-conducting membranes, offering a promising approach for sustainable valorization of complex industrial waste streams.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳米通道/限域传输",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "selectivity",
+        "rejection",
+        "desalination"
+      ],
+      "score": 38,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "1.00 nm",
+        "0.51 nm",
+        "99.2%",
+        "99.6%",
+        "99.7%"
+      ],
+      "brief": "定位：膜领域相关；主题：纳米通道/限域传输 / 脱盐/水处理；团队：Jiangxi University of Science and Technology、Fuzhou University；摘要首句：Abstract Sustainable high-salinity dye-containing wastewater management demands a paradigm shift from conventional pollutant removal to circular resource recovery.。",
+      "id": "doi:10.1038/s43247-026-04002-z"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -876,26 +854,30 @@
       "id": "doi:10.1016/j.mcat.2026.116286"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7204670894",
+      "openalex_url": "https://openalex.org/W7204670894",
       "doi": "10.1002/ange.4046032",
       "title": "Carbonyl‐Enriched Nonionic Covalent Organic Framework Nanochannels for High‐Salinity Ionic Thermoelectrics",
       "publication_date": "2026-08-28",
       "journal": "Angewandte Chemie",
       "authors": [
         "Huixia Lv",
-        "Zhiwei Xing",
+        "Zhi‐Wei Xing",
         "Zhuozhi Lai",
         "Qing Guo",
         "Kunkun Ren",
         "Haitao Su",
         "Jiaming Yi",
         "Sai Wang",
-        "Qi Sun"
+        "Qi Sun",
+        "Zhiwei Xing"
       ],
       "first_author": "Huixia Lv",
       "institutions": [
+        "Ministry of Education",
+        "Zhejiang Normal University",
+        "Hangzhou Normal University",
         "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
         "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China"
       ],
@@ -913,7 +895,7 @@
       "score": 34,
       "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China、Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
+      "brief": "定位：膜领域相关；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Ministry of Education、Zhejiang Normal University；摘要首句：ABSTRACT High‐salinity electrolytes coupled with low‐grade heat offer an attractive opportunity for ionic thermoelectric conversion, yet conventional fixed‐charge membranes rapidly lose ion permselectivity in concentrated media…。",
       "id": "doi:10.1002/ange.4046032"
     },
     {
@@ -979,39 +961,6 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Tuning polyamide structure via organic-phase incorporation of graphene oxide for high-performance thin-film nanocomposite membranes for forward osmosis seawater desalination。",
       "id": "doi:10.1007/s10853-026-13625-8"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204079117",
-      "openalex_url": "https://openalex.org/W7204079117",
-      "doi": "10.1007/s13762-026-07416-6",
-      "title": "Matrix-dependent UVC/H2O2 degradation of pharmaceuticals in reverse osmosis concentrate",
-      "publication_date": "2026-08-24",
-      "journal": "International Journal of Environmental Science and Technology",
-      "authors": [
-        "Ingrid Ruanna dos Santos Feitosa",
-        "Beatriz De Caroli Vizioli",
-        "Luana Mattos de Oliveira Cruz",
-        "José Roberto Guimarães",
-        "Cassiana Carolina Montagner"
-      ],
-      "first_author": "Ingrid Ruanna dos Santos Feitosa",
-      "institutions": [
-        "Universidade Estadual de Campinas (UNICAMP)"
-      ],
-      "abstract": "Abstract Reverse osmosis is widely applied as an advanced treatment technology due to its high efficiency in removing organic micropollutants from wastewater. However, this process inevitably produces a residue with a high contaminant load, posing environmental challenges and requiring effective post-treatment strategies. In this study, the photoperoxidation process was investigated for the degradation of six pharmaceuticals (acetaminophen, caffeine, naproxen, progesterone, sulfathiazole, and testosterone) in reverse osmosis concentrate and other complex aqueous matrices to assess matrix-driven effects on process efficiency. Experiments in ultrapure water showed negligible removal by UVA photolysis and H 2 O 2 alone, whereas UVC irradiation promoted compound-dependent degradation. UVC-photoperoxidation significantly enhanced removal efficiency, and under optimized conditions (UVC/H 2 O 2 0.87 mmol L −1 ), all pharmaceuticals were degraded within 40 min. Matrix composition strongly governed degradation efficiency. In reverse osmosis concentrate, all compounds were efficiently degraded within 30 min. Similar rapid degradation was observed in the post-Membrane Bioreactor effluent. In contrast, matrices with high dissolved organic matter content, such as surface water and solutions containing elevated humic acid concentrations, strongly inhibited degradation due to UV light attenuation and radical scavenging. Low humic acid accelerated degradation, underscoring dissolved organic matter’s dual role. Naproxen was the least persistent compound, whereas acetaminophen was the most persistent. In saline matrix such as reverse osmosis concentrate, efficient degradation was observed despite elevated conductivity, suggesting the contribution of additional oxidative pathways. Overall, the results show that the matrix composition plays a decisive role in degradation efficiency, emphasizing the need to consider the characteristics of the water when evaluating advanced oxidation processes.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis"
-      ],
-      "score": 33,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Universidade Estadual de Campinas (UNICAMP)；摘要首句：Abstract Reverse osmosis is widely applied as an advanced treatment technology due to its high efficiency in removing organic micropollutants from wastewater.。",
-      "id": "doi:10.1007/s13762-026-07416-6"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -1172,7 +1121,7 @@
       "id": "doi:10.1002/maco.70240"
     },
     {
-      "source_db": "OpenAlex",
+      "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7204166502",
       "openalex_url": "https://openalex.org/W7204166502",
       "doi": "10.58578/mjaei.v3i3.10169",
@@ -1211,86 +1160,6 @@
       "id": "doi:10.58578/mjaei.v3i3.10169"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1115/1.4071885",
-      "title": "Investigating the Influence of Component Heat Capacities on the Desalination Performance of a Solar Still",
-      "publication_date": "2026-08-24",
-      "journal": "Journal of Thermal Science and Engineering Applications",
-      "authors": [
-        "Sunirmit Verma",
-        "Adityabir Singh"
-      ],
-      "first_author": "Sunirmit Verma",
-      "institutions": [
-        "University Centre for Research and Development, Chandigarh University Department of Mechanical Engineering, , , ,"
-      ],
-      "abstract": "Abstract A common assumption in the mathematical analysis of solar stills is that the heat capacities of the basin liner and glass covers are negligible compared to that of water. This work investigates the error invoked when this assumption is applied by including these thermal capacities into the analysis. A double-basin solar still is considered, and its output is calculated both with and without consideration of the heat capacities of the liner and glass covers. For the basin liner, six materials have been considered for the liner, namely, stainless steel, iron, copper, aluminum, graphite, and rubber. Results show that neglecting the heat capacity of the basin liner leads to significant overestimations of daily distillate output, with approximately 4.01% for stainless steel, 3.8% for iron, 3.5% for copper, 2.6% for aluminum, 1.9% for graphite, and 2.1% for rubber. In contrast, neglecting the heat capacities of the glass covers has a minimal impact. The overestimation is only about 0.49% when the lower glass cover's heat capacity is ignored, and just 0.17% when the upper glass cover's is excluded. These findings indicate that, for accurate simulation and performance prediction of solar stills, the thermal capacity of the basin liner should be considered, while that of the glass covers can be safely neglected.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 30,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "4.01%",
-        "3.8%",
-        "3.5%",
-        "2.6%",
-        "1.9%",
-        "2.1%",
-        "0.49%",
-        "0.17%"
-      ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：University Centre for Research and Development, Chandigarh University Department of Mechanical Engineering, , , ,；摘要首句：Abstract A common assumption in the mathematical analysis of solar stills is that the heat capacities of the basin liner and glass covers are negligible compared to that of water.。",
-      "id": "doi:10.1115/1.4071885"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.3390/w18172073",
-      "title": "Desalination and Calcium, Fluoride, and Magnesium Composition: Assessing Water Quality Variations Across Water Sources in Israel",
-      "publication_date": "2026-08-24",
-      "journal": "Water",
-      "authors": [
-        "Nitzan Sagie",
-        "Ronnie Levin",
-        "Luda Groisman",
-        "Kineret Carmi-Sasson",
-        "Natalie De Falco",
-        "Shimon Rachmilevitch",
-        "Lena Novack"
-      ],
-      "first_author": "Nitzan Sagie",
-      "institutions": [
-        "Soroka Clinical Research Center (SCRC), Soroka University Medical Center (SUMC), Beer-Sheva 8410101, Israel",
-        "Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer-Sheva 8410501, Israel",
-        "Department of Environmental Health, Harvard T.H. Chan School of Public Health, Harvard University, Boston, MA 02115, USA",
-        "Public Health Laboratory, Ministry of Health, Tel-Aviv 6108401, Israel",
-        "Zuckerberg Institute for Water Research, Blaustein Institutes for Desert Research, Ben-Gurion University of the Negev, Sde-Boker 8499000, Israel",
-        "Goldman Sonnenfeldt School of Sustainability and Climate Change, Ben-Gurion University of the Negev, Beer-Sheva 8410501, Israel"
-      ],
-      "abstract": "Objective: Due to limited freshwater supplies, Israel increasingly depends on desalination to fulfill its drinking water requirements. However, this process reduces mineral levels such as magnesium (Mg2+), calcium (Ca2+), and fluoride (F−), which could pose health concerns. In this study, we analyze the mineral concentrations across various water sources nationwide. Materials and Methods: We analyzed a national database on drinking water quality for levels of Ca2+, Mg2+, and F− from 2014 to 2024. District-level concentrations were calculated and compared with national means and across primary water sources. Water sources were classified as primarily DSW (DSW) or primarily groundwater-based according to their dominant composition. Results: Nationwide median concentrations were 52 mg/L for Ca2+, 12 mg/L for Mg2+, and 0.15 mg/L for F−. Ca2+ and Mg2+ showed marked regional variation, with significantly higher mean levels in the Northern District (Ca2+: 72 mg/L, p &lt; 0.006; Mg2+: 34 mg/L, p &lt; 0.001) and lowest levels in southern regions, particularly the Southern District (Ca2+: 39 mg/L, p &lt; 0.001; Mg2+: 7 mg/L, p &lt; 0.001) compared to the national average. Fluoride concentrations were generally low, with higher levels in northern regions (0.23 mg/L, p &lt; 0.001) and lower levels in Tel Aviv (0.07 mg/L, p &lt; 0.001) and Jerusalem (0.11 mg/L, p &lt; 0.001). By predominant water source, Ca2+ and Mg2+ concentrations were lowest in DSW (Ca2+: 42 mg/L; Mg2+: 9 mg/L) and highest in groundwater supplies (Ca2+: 83 mg/L; Mg2+: 34 mg/L). Concentrations of F− ranged from 0.12 mg/L in predominantly DSW to 0.23 mg/L in areas supplied primarily by groundwater. Conclusions: Ca2+ levels aligned with international reports, while Mg2+ levels, especially in desalination-reliant areas, remained consistently low. F− concentrations stayed below both the recommended maximums and the optimal levels advised by the U.S. Public Health Service. As desalination efforts grow, concerns have been raised about the potential public health risks associated with low-mineral drinking water, particularly cardiovascular disease and bone disorders.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 30,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：离子筛分 / 脱盐/水处理；团队：Soroka Clinical Research Center (SCRC), Soroka University Medical Center (SUMC), Beer-Sheva 8410101, Israel、Faculty of Health Sciences, Ben-Gurion University of the Negev, Beer-Sheva 8410501, Israel；摘要首句：Objective: Due to limited freshwater supplies, Israel increasingly depends on desalination to fulfill its drinking water requirements.。",
-      "id": "doi:10.3390/w18172073"
-    },
-    {
       "source_db": "OpenAlex",
       "openalex_id": "W7204156178",
       "openalex_url": "https://openalex.org/W7204156178",
@@ -1322,6 +1191,34 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：二维层状膜；团队：Hong Kong Polytechnic University、Zhejiang Sci-Tech University；摘要首句：Electrospinning has evolved from a foundational scientific phenomenon into a versatile and transformative platform technology for fabricating nanofibers.。",
       "id": "doi:10.1007/s42765-026-00751-w"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1134/s0018143926700372",
+      "title": "Lithium Salt Tuned Biopolymer–Gelatin–PVA-Based Membrane Electrolytes: Electrochemical Insights for Solid-State Lithium-Ion Battery",
+      "publication_date": "2026-08-30",
+      "journal": "High Energy Chemistry",
+      "authors": [
+        "Brindha Thirumalai Raj",
+        "Yamuna Rangaiya Thiagarajan",
+        "Sivakumar Periyasamy",
+        "Muthukrishnan Pitchaipillai"
+      ],
+      "first_author": "Brindha Thirumalai Raj",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 26,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分；题名线索：Lithium Salt Tuned Biopolymer–Gelatin–PVA-Based Membrane Electrolytes: Electrochemical Insights for Solid-State Lithium-Ion Battery。",
+      "id": "doi:10.1134/s0018143926700372"
     },
     {
       "source_db": "OpenAlex",
@@ -1566,132 +1463,162 @@
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 36,
-        "delta": 36
+        "count": 51,
+        "delta": 51
       },
       {
         "name": "纳滤",
-        "count": 22,
-        "delta": 22
+        "count": 33,
+        "delta": 33
       },
       {
         "name": "离子筛分",
+        "count": 25,
+        "delta": 25
+      },
+      {
+        "name": "纳米通道/限域传输",
         "count": 18,
         "delta": 18
       },
       {
-        "name": "纳米通道/限域传输",
-        "count": 12,
-        "delta": 12
-      },
-      {
         "name": "聚酰胺/TFC",
-        "count": 8,
-        "delta": 8
+        "count": 11,
+        "delta": 11
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "COF/MOF膜",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "二维层状膜",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Water",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 3,
-        "delta": 3
+        "count": 5,
+        "delta": 5
+      },
+      {
+        "name": "Water",
+        "count": 5,
+        "delta": 5
       },
       {
         "name": "Angewandte Chemie International Edition",
-        "count": 3,
-        "delta": 3
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "Angewandte Chemie",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Polymers",
         "count": 3,
         "delta": 3
       },
       {
-        "name": "Polymers",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Advanced Functional Materials",
-        "count": 2,
-        "delta": 2
-      },
-      {
         "name": "Advanced Science",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Communications Engineering",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Journal of Energy, Materials &amp; Sustainability",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Advanced Materials",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Arabian Journal for Science and Engineering",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Journal of Cleaner Production",
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Frontiers in Membrane Science and Technology",
+        "count": 3,
+        "delta": 3
       }
     ],
     "authors": [
       {
         "name": "Shaofan Duan",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Shuai Jiang",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Feidong Yang",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Pengfei Zhang",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Huixia Lv",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Zhuozhi Lai",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Qing Guo",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Kunkun Ren",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Haitao Su",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Jiaming Yi",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Sai Wang",
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Zhiwei Xing",
@@ -1699,126 +1626,96 @@
         "delta": 4
       },
       {
-        "name": "Zhuozhi Lai",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Qing Guo",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Kunkun Ren",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Haitao Su",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Jiaming Yi",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Sai Wang",
-        "count": 4,
-        "delta": 4
-      },
-      {
         "name": "Mohammad Ali Ebrahimi",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Mohammad Ebrahimi",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
-        "name": "Liping Zhen",
-        "count": 2,
-        "delta": 2
+        "name": "Yuxuan Feng",
+        "count": 3,
+        "delta": 3
       }
     ],
     "institutions": [
       {
         "name": "Kobe University",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Zhejiang Sci-Tech University",
-        "count": 4,
-        "delta": 4
+        "count": 6,
+        "delta": 6
       },
       {
         "name": "Key Laboratory of Biomass Chemical Engineering of Ministry of Education Zhejiang University Hangzhou China",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Fuzhou University",
         "count": 4,
         "delta": 4
       },
       {
-        "name": "Hangzhou Institute of Advanced Studies Zhejiang Normal University Hangzhou China",
+        "name": "University of Science and Technology of China",
+        "count": 4,
+        "delta": 4
+      },
+      {
+        "name": "Anhui University",
         "count": 4,
         "delta": 4
       },
       {
         "name": "Laboratoire de Physique Corpusculaire de Caen",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "GREYC",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Université de Caen Normandie",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Institute CARMeN UMR 6064, ENSICAEN, University of Caen Normandy, 6 Bd. du Maréchal Juin, 14050 Caen, France",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Ji Hua Laboratory",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Lanzhou University",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Inner Mongolia University of Science and Technology",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Inner Mongolia University of Technology",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "State Key Laboratory of Natural Product Chemistry College of Chemistry and Chemical Engineering Lanzhou University Lanzhou People's Republic of China",
-        "count": 2,
-        "delta": 2
-      },
-      {
-        "name": "Advanced Energy Science and Technology Guangdong Laboratory Huizhou People's Republic of China",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
       },
       {
         "name": "Sungkyunkwan University",
-        "count": 2,
-        "delta": 2
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Research Center for Membrane and Film Technology Kobe University Nada Kobe Japan",
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Department of Chemical Science and Engineering Kobe University Nada Kobe Japan",
+        "count": 3,
+        "delta": 3
+      },
+      {
+        "name": "Department of Future Energy Engineering Sungkyunkwan University Suwon Republic of Korea",
+        "count": 3,
+        "delta": 3
       }
     ]
   },
