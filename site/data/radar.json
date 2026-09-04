@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-09-03T22:25:14.390059+00:00",
-  "updated_at_local": "2026-09-04 06:24 (UTC+8)",
+  "updated_at": "2026-09-04T22:24:29.918990+00:00",
+  "updated_at_local": "2026-09-05 06:23 (UTC+8)",
   "stats": {
-    "fetched": 1321,
+    "fetched": 1355,
     "related": 80,
     "recommended": 80,
     "window_days": 7,
@@ -14,6 +14,139 @@
     ]
   },
   "works": [
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.3390/w18172204",
+      "title": "Design of a Three-Stage Membrane Brine Concentrator Using Conventional Nanofiltration Modules Toward Zero Liquid Discharge in Wastewater Reclamation",
+      "publication_date": "2026-09-04",
+      "journal": "Water",
+      "authors": [
+        "Jinwoo Park",
+        "Dongkeon Kim",
+        "Suhan Kim"
+      ],
+      "first_author": "Jinwoo Park",
+      "institutions": [
+        "Department of Civil Engineering, Pukyong National University, 45 Yongso-ro, Nam-gu, Busan 48513, Republic of Korea"
+      ],
+      "abstract": "A membrane brine concentrator (MBC) can reduce the concentrate volume entering thermal processes for zero liquid discharge (ZLD). Previous LSRRO-based studies have largely focused on high-salinity brines using modified or specifically selected low-salt-rejection membranes. This study examined the extent to which water recovery could be increased in wastewater reclamation using conventional nanofiltration (NF) modules in MBC processes. Two brackish water reverse osmosis (BWRO) modules and two NF modules were tested in 2000–40,000 mg/L NaCl. NE4040-90 provided the best balance between salt-concentrating performance and required pressure. An NF module model was developed using experimentally estimated water permeability, salt permeability, and mass-transfer coefficient. It reproduced permeate concentration and feed pressure with normalized root-mean-square errors of 5.73% and 1.20%, respectively. The developed NF module model was then iteratively coupled with the upstream BWRO simulation to evaluate an integrated two-stage BWRO and three-stage MBC process. Compared with conventional BWRO, the integrated system increased overall recovery from 81.0% to 95.9%, reduced concentrate flow from 32 to 7 m3/h, predicted a final concentrate concentration of 51,396 mg/L, and maintained permeate concentration at 34 mg/L while remaining below the 41.4 bar pressure limit. The reduced concentrate load lowered total specific energy consumption from 4.5 to 1.6 kWh/m3 of wastewater feed under the adopted ZLD assumptions. Conventional NF modules therefore provide a practical option for high-recovery wastewater reclamation toward ZLD.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "reverse osmosis",
+        "permeability",
+        "rejection"
+      ],
+      "score": 99,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "5.73%",
+        "1.20%",
+        "81.0%",
+        "95.9%",
+        "41.4 bar"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Department of Civil Engineering, Pukyong National University, 45 Yongso-ro, Nam-gu, Busan 48513, Republic of Korea；摘要首句：A membrane brine concentrator (MBC) can reduce the concentrate volume entering thermal processes for zero liquid discharge (ZLD).。",
+      "id": "doi:10.3390/w18172204"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1680/jgrma.26.00083",
+      "title": "Preparation of high-performance membrane by polymerisation of MXene intermediate layer",
+      "publication_date": "2026-09-04",
+      "journal": "Green Materials",
+      "authors": [
+        "Beibei Zhang",
+        "Cuncun Zhang",
+        "Siyi Wei",
+        "Mingyue Han",
+        "Jin Li",
+        "Kui Hong"
+      ],
+      "first_author": "Beibei Zhang",
+      "institutions": [
+        "Shaanxi University of Chinese Medicine Pharmacy College, Shaanxi Province Key Laboratory of New Drugs and Chinese Medicine Foundation Research, , Xianyang,",
+        "The Second Affiliated Hospital of Shaanxi University of Chinese Medicine Department of Ultrasound Medicine, , Xianyang,",
+        "Shaanxi Bravely Biologicals, Inc. Department of Technology, , Xi'an,"
+      ],
+      "abstract": "In the present work, we developed an efficient strategy to prepare high performance nanofiltration membrane. The polyethersulfone (PES) substructure were chosen as a support layer. Dopamine, polyethyleneimine (PEI) and MXene were used to modification the PES through co-deposition as intermediate layer. The physicochemical properties of membranes were analysed to confirm the successful modification. These modification membrane was evaluated through separation of aqueous salt solution (sodium sulphate (Na2SO4), magnesium sulphate (MgSO4), magnesium chloride (MgCl2), and sodium chloride (NaCl)). Results showed that the modified membranes exhibit enhanced hydrophilicity and reduced surface charge, which contributed to improved antifouling performance. The separation performance demonstrated that the modified membranes exhibiting higher water permeance and enhanced salt rejection. Typically, the optimum membrane achieved a water permeance of 22.25, 19.63, 21.34, and 23.36 L·m−2·h·−1·bar−1 for sodium sulphate, magnesium sulphate, magnesium chloride, and sodium chloride solution, respectively. Compared with the pristine membrane, the membrane modified by dopamine/PEI and nanofiller present significant enhanced of about 58.92%, 46.49%, 47.17%, and 53.68%, respectively. Moreover, the long-term stability tests were carried out. The membrane exhibited stable separation performance during the 75 h continuous test. This novel strategy provides a promising route to fabricate composite membranes, indicating great potential for practical wastewater treatment.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "salt rejection",
+        "permeance",
+        "rejection"
+      ],
+      "score": 99,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "58.92%",
+        "46.49%",
+        "47.17%",
+        "53.68%",
+        "75 h"
+      ],
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤 / 脱盐/水处理；团队：Shaanxi University of Chinese Medicine Pharmacy College, Shaanxi Province Key Laboratory of New Drugs and Chinese Medicine Foundation Research, , Xianyang,、The Second Affiliated Hospital of Shaanxi University of Chinese Medicine Department of Ultrasound Medicine, , Xianyang,；摘要首句：In the present work, we developed an efficient strategy to prepare high performance nanofiltration membrane.。",
+      "id": "doi:10.1680/jgrma.26.00083"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7207752466",
+      "openalex_url": "https://openalex.org/W7207752466",
+      "doi": "10.3390/polym18172153",
+      "title": "Can Tailoring the Polyamide Active Layer of the Desalination Membranes Ease the Recycling of End-of-Life Membranes for Seawater Pretreatment Applications",
+      "publication_date": "2026-09-03",
+      "journal": "Polymers",
+      "authors": [
+        "Abdul Waheed",
+        "Umair Baig"
+      ],
+      "first_author": "Abdul Waheed",
+      "institutions": [
+        "King Fahd University of Petroleum and Minerals"
+      ],
+      "abstract": "Millions of End-of-Life (EoL) reverse osmosis (RO) membranes are discarded each year by desalination facilities worldwide. This poses a significant environmental challenge, as large amounts of solid waste are often managed through landfilling or incineration. Recycling EoL RO membranes for reuse as nanofiltration (NF) or ultrafiltration (UF) membranes is an attractive pathway for the effective management of solid waste. However, the commonly adopted route to degrade the polyamide active layer of the EoL membranes for recycling and reuse requires high-intensity exposure of the membranes to the NaOCl solution. There is a need to develop a route to make membranes more responsive to the low dosage of NaOCl for recycling and reuse of the membranes. The current study explored that tailoring of the membrane active layer could generate a more responsive polyamide membrane to a mild concentration of NaOCl. This was achieved by incorporating monobenzoyl chlorinated aromatic reactants 4-nitrobenzoyl chloride (4-NC) and 3,5-dinitrobenzoyl chloride (3,5-DNC) into the active layer of the membranes. A minor concentration of the 4-NC and 3,5-DNC was added to the trimesoyl chloride-containing organic phase during interfacial polymerization with m-phenylenediamine. Owing to the presence of only one reactive site in 4-NC and 3,5-DNC, the reaction with m-phenylenediamine can hinder crosslinking in certain regions of the m-phenylenediamine and trimesoyl chloride polyamide active layer. This limited number of uncross-linked regions not only increases the membrane permeability with reasonable salt rejection but also makes the membranes more responsive to chlorine. This was realized when the permeate flux was found to be 108, 114, and 200 L m−2 h−1 for the M1 (control), M2 (4-NC), and M3 (3,5-DNC) membranes, respectively, at a feed pressure of 30 bar using 100 ppm of NaOCl for 24 h. On the other hand, the rejection of NaCl was decreased from 97 to 9.6, 93 to 7.1, and 91 to 3.6% with an increase in contact time from 2 h to 24 h for M1, M2, and M3 membranes, respectively. This exposure intensity was significantly less than that commonly used in the literature. Furthermore, the recycled modified membrane, especially M3, showed reversible fouling when the membranes were tested using bovine serum albumin as a model foulant in seawater scenarios.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "salt rejection",
+        "reverse osmosis",
+        "polyamide membrane",
+        "interfacial polymerization",
+        "permeability",
+        "rejection",
+        "desalination"
+      ],
+      "score": 99,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "200 L m−2 h−1",
+        "30 bar",
+        "24 h",
+        "3.6%",
+        "2 h"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：King Fahd University of Petroleum and Minerals；摘要首句：Millions of End-of-Life (EoL) reverse osmosis (RO) membranes are discarded each year by desalination facilities worldwide.。",
+      "id": "doi:10.3390/polym18172153"
+    },
     {
       "source_db": "OpenAlex",
       "openalex_id": "W7205014104",
@@ -180,6 +313,86 @@
       "id": "doi:10.1016/j.desal.2026.120269"
     },
     {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7207677679",
+      "openalex_url": "https://openalex.org/W7207677679",
+      "doi": "10.1038/s41467-026-76628-8",
+      "title": "Suppressing Polyamide Crystallization Unlocks Ultrapermeable and Highly Selective Nanofiltration Membranes",
+      "publication_date": "2026-09-03",
+      "journal": "Nature Communications",
+      "authors": [
+        "Hao Zhang",
+        "J. L. Wu",
+        "Xin Cao",
+        "Jingjing Guo",
+        "Menachem Elimelech",
+        "Yunkun Wang",
+        "Jishan Wu"
+      ],
+      "first_author": "Hao Zhang",
+      "institutions": [
+        "University of Science and Technology of China",
+        "Rice University"
+      ],
+      "abstract": "Abstract Nanofiltration (NF) membranes are essential for water purification. However, their performance is still largely optimized through empirical methods, as polyamide crystallinity remain difficult to control in scalable interfacial polymerization processes. In this study, we introduce an ultra-low-temperature interfacial polymerization strategy at −20 °C that enables direct polyamide chain assembly, suppresses crystallization, and forms a smooth, defect-free, fully amorphous selective layer. Comprehensive characterization confirms the formation of a homogeneous amorphous network, enabling a fourfold increase in water permeability and a threefold improvement in Cl - /SO 4 2- selectivity compared with room-temperature controls, surpassing high-performance NF membranes. The smooth surface further improves the antifouling performance of the NF membrane. Life cycle assessment based on experiments with real industrial wastewater, demonstrate that using the fabricated membrane can reduce treatment costs by 79.1%. This work establishes temperature-controlled chain assembly as a scalable lever for NF design and provides a practical pathway toward next-generation membranes for water treatment.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "interfacial polymerization",
+        "permeability",
+        "selectivity"
+      ],
+      "score": 87,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "79.1%"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：University of Science and Technology of China、Rice University；摘要首句：Abstract Nanofiltration (NF) membranes are essential for water purification.。",
+      "id": "doi:10.1038/s41467-026-76628-8"
+    },
+    {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7206217966",
+      "openalex_url": "https://openalex.org/W7206217966",
+      "doi": "10.1016/j.memsci.2026.126088",
+      "title": "Interpretable machine learning for predicting membrane performance of organic solvent nanofiltration membranes using an open-access database",
+      "publication_date": "2026-09-01",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Sarah Glaß",
+        "Petra Merten",
+        "Torsten Brinkmann",
+        "Volkan Filiz",
+        "Sarah Glass"
+      ],
+      "first_author": "Sarah Glass",
+      "institutions": [
+        "Federal Institute For Materials Research and Testing",
+        "Helmholtz-Zentrum Hereon"
+      ],
+      "abstract": "The discovery and optimization of solvent-resistant nanofiltration (SRNF) membranes remain limited by the complexity of polymeric material systems and the scarcity of harmonized experimental data. Here, we demonstrate how the open membrane database - a preexisting, diverse Findable, Accessible, Interoperable and Reusable (FAIR), open-access membrane database - can be transformed into a robust platform for data-driven materials understanding. Using 5,600+ curated SRNF filtration experiments comprising up to 154 descriptors, we construct interpretable machine-learning models that predict two key crucial performance metrics—solvent permeance and molecular-weight cut-off (MWCO). After systematic data cleaning and feature engineering, ensemble tree-based models outperform linear and distance-based methods, achieving test-set R 2 values of 0.76 for permeance and 0.70 for MWCO. Model explainability via permutation importance and SHapley Additive exPlanations (SHAP) analysis reveals that selective-layer chemistry, deposition method, and nanocomposite components dominate membrane performance, whereas solution conditions influence permeance but not MWCO. External validation of four previously unreported membranes and three literature experiments not in the database confirms the approach's predictive capability, while systematic overestimation of some data points suggests publication bias in the underlying literature. Our results provide mechanistic insight into structure–property relationships in SRNF membranes and establish a possible modeling pipeline for leveraging open experimental data to accelerate the rational design of complex material systems.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "有机溶剂纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "organic solvent nanofiltration",
+        "permeance"
+      ],
+      "score": 87,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤；团队：Federal Institute For Materials Research and Testing、Helmholtz-Zentrum Hereon；摘要首句：The discovery and optimization of solvent-resistant nanofiltration (SRNF) membranes remain limited by the complexity of polymeric material systems and the scarcity of harmonized experimental data.。",
+      "id": "doi:10.1016/j.memsci.2026.126088"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -255,45 +468,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：二维层状膜 / 离子筛分 / 纳米通道/限域传输；题名线索：Adaptive nanofluidic ion sieving via voltage-induced sub-nanometer channel plasticity in MXene membranes。",
       "id": "doi:10.1016/j.matt.2026.102854"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1038/s41467-026-76628-8",
-      "title": "Suppressing Polyamide Crystallization Unlocks Ultrapermeable and Highly Selective Nanofiltration Membranes",
-      "publication_date": "2026-09-03",
-      "journal": "Nature Communications",
-      "authors": [
-        "Hao Zhang",
-        "Jishan Wu",
-        "Xin Cao",
-        "Jingjing Guo",
-        "Menachem Elimelech",
-        "Yunkun Wang"
-      ],
-      "first_author": "Hao Zhang",
-      "institutions": [],
-      "abstract": "Abstract Nanofiltration (NF) membranes are essential for water purification. However, their performance is still largely optimized through empirical methods, as polyamide crystallinity remain difficult to control in scalable interfacial polymerization processes. In this study, we introduce an ultra-low-temperature interfacial polymerization strategy at −20 °C that enables direct polyamide chain assembly, suppresses crystallization, and forms a smooth, defect-free, fully amorphous selective layer. Comprehensive characterization confirms the formation of a homogeneous amorphous network, enabling a fourfold increase in water permeability and a threefold improvement in Cl - /SO 4 2- selectivity compared with room-temperature controls, surpassing high-performance NF membranes. The smooth surface further improves the antifouling performance of the NF membrane. Life cycle assessment based on experiments with real industrial wastewater, demonstrate that using the fabricated membrane can reduce treatment costs by 79.1%. This work establishes temperature-controlled chain assembly as a scalable lever for NF design and provides a practical pathway toward next-generation membranes for water treatment.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "聚酰胺/TFC",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "interfacial polymerization",
-        "permeability",
-        "selectivity"
-      ],
-      "score": 85,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "79.1%"
-      ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；摘要首句：Abstract Nanofiltration (NF) membranes are essential for water purification.。",
-      "id": "doi:10.1038/s41467-026-76628-8"
     },
     {
       "source_db": "Crossref",
@@ -438,45 +612,9 @@
       "id": "doi:10.1016/j.memsci.2026.125953"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204837705",
-      "openalex_url": "https://openalex.org/W7204837705",
-      "doi": "10.1016/j.nxmate.2026.103332",
-      "title": "Cellulose acetate-graphene oxide loose nanofiltration membrane as pre-treatment for salt rejection in a seawater: Synthesis, characterization and fabrication",
-      "publication_date": "2026-08-31",
-      "journal": "Next Materials",
-      "authors": [
-        "Eny Kusrini",
-        "Nofrijon Sofyan",
-        "Rachell Voluntoro",
-        "Agus Budi Prasetyo",
-        "Fauzan Al Chalifa",
-        "Anwar Usman",
-        "Balasubramani Ravindran"
-      ],
-      "first_author": "Eny Kusrini",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "salt rejection",
-        "rejection"
-      ],
-      "score": 81,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；题名线索：Cellulose acetate-graphene oxide loose nanofiltration membrane as pre-treatment for salt rejection in a seawater: Synthesis, characterization and fabrication。",
-      "id": "doi:10.1016/j.nxmate.2026.103332"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7207615550",
+      "openalex_url": "https://openalex.org/W7207615550",
       "doi": "10.1021/acs.est.6c10025",
       "title": "A High-Permeance Nanofiltration Membrane via Complementary Interface Engineering for Enhanced Selectivity between Mineral Salts and Emerging Pollutants",
       "publication_date": "2026-09-02",
@@ -491,6 +629,9 @@
       ],
       "first_author": "Chenghai Lu",
       "institutions": [
+        "Chinese Academy of Engineering",
+        "University of Chinese Academy of Sciences",
+        "Shandong Jianzhu University",
         "Chinese Academy of Sciences , , ,",
         "University of Chinese Academy of Sciences , ,",
         "Shandong Jianzhu University , , ,"
@@ -511,8 +652,49 @@
       "key_numbers": [
         "26.9 L m−2 h−1 bar−1"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Chinese Academy of Sciences , , ,、University of Chinese Academy of Sciences , ,；摘要首句：Abstract Nanofiltration (NF) membranes with high water permeance, superior emerging pollutant (EP) retention, and selective mineral salt passage are highly desirable for high-quality drinking water treatment, yet challenging du…。",
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Chinese Academy of Engineering、University of Chinese Academy of Sciences；摘要首句：Abstract Nanofiltration (NF) membranes with high water permeance, superior emerging pollutant (EP) retention, and selective mineral salt passage are highly desirable for high-quality drinking water treatment, yet challenging du…。",
       "id": "doi:10.1021/acs.est.6c10025"
+    },
+    {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7207726592",
+      "openalex_url": "https://openalex.org/W7207726592",
+      "doi": "10.1016/j.hybadv.2026.100740",
+      "title": "Interfacial Incorporation of Exfoliated Glycine-Hydrotalcite into Polyamide-based Nanofiltration Membranes",
+      "publication_date": "2026-09-01",
+      "journal": "Hybrid Advances",
+      "authors": [
+        "Fajar Indah Puspita Sari",
+        "Roto Roto",
+        "Sri Juari Santosa"
+      ],
+      "first_author": "Fajar Indah Puspita Sari",
+      "institutions": [
+        "Universitas Gadjah Mada",
+        "University of Bangka Belitung"
+      ],
+      "abstract": "ABSTRACT Thin film nanocomposites (TFN) modified with nanofillers are potential alternatives to low-cost nanofiltration to produce fresh water. Here, we study glycine-functionalized hydrotalcite (eHT–gly) as a novel filler to enhance transport and static antifouling tendency of polyamide-based membranes. TFN membranes were prepared by coating a delaminated eHT–gly aqueous dispersion (0.005–0.25 wt%) onto the substrate prior to sequential MPD/TMC interfacial polymerization. The SEM-EDX data revealed a loading-dependent shift in the degree of polyamide layer crosslinking, based on a semi-quantitative O/N indicator. The disappearance of the XRD basal spacing, together with TEM imaging showing thin, electron-translucent nanosheet domains, indicates successful exfoliation. The film hydrophilicity (with a water contact angle of 43.6°) and the presence of a hydration layer facilitated by zwitterionic species of glycine gave better filtration results. The membrane containing 0.125 wt% eHT–gly produced 95% NaCl rejection at 111.7 LMH (at 0.2 MPa), higher than the native eHT membrane with NaCl rejection of 88.6% and flux of 87.7 LMH, respectively. The eHT–gly-modified membranes loaded with ≥0.05 wt% showed reduced static BSA adsorption, indicating a preliminary antifouling tendency. The eHT–gly is a potential nanofiller for surface modification of TFN membranes for low-pressure nanofiltration to produce freshwater from brine water.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "interfacial polymerization",
+        "rejection"
+      ],
+      "score": 79,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "95%",
+        "111.7 LMH",
+        "0.2 MPa",
+        "88.6%",
+        "87.7 LMH"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：Universitas Gadjah Mada、University of Bangka Belitung；摘要首句：ABSTRACT Thin film nanocomposites (TFN) modified with nanofillers are potential alternatives to low-cost nanofiltration to produce fresh water.。",
+      "id": "doi:10.1016/j.hybadv.2026.100740"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -774,6 +956,79 @@
       "id": "doi:10.1016/j.seppur.2026.138476"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7206161563",
+      "openalex_url": "https://openalex.org/W7206161563",
+      "doi": "10.1016/j.desal.2026.120762",
+      "title": "Geometry-dominated perturbation: Boundary layer instability by square-netting spacers in nanofiltration",
+      "publication_date": "2026-09-01",
+      "journal": "Desalination",
+      "authors": [
+        "Kang Liu",
+        "Mengqi Zhang",
+        "Juan Tang",
+        "Huang Haiou"
+      ],
+      "first_author": "Kang Liu",
+      "institutions": [
+        "Beijing Normal University"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "desalination"
+      ],
+      "score": 76,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Beijing Normal University；题名线索：Geometry-dominated perturbation: Boundary layer instability by square-netting spacers in nanofiltration。",
+      "id": "doi:10.1016/j.desal.2026.120762"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7207739321",
+      "openalex_url": "https://openalex.org/W7207739321",
+      "doi": "10.1016/j.desal.2026.120763",
+      "title": "Construction of high-selectivity antifouling nanofiltration membranes through layer-by-layer assembly and in-situ fabrication of ZIF-8",
+      "publication_date": "2026-09-01",
+      "journal": "Desalination",
+      "authors": [
+        "Jiaxue Zhang",
+        "Yingbo Chen",
+        "Pengcheng Wang",
+        "Yanling Fang",
+        "Guangcun Liu",
+        "Liangliang Li"
+      ],
+      "first_author": "Jiaxue Zhang",
+      "institutions": [
+        "Tiangong University",
+        "Qingdao Binhai University",
+        "Tianjin Economic-Technological Development Area"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "selectivity",
+        "desalination"
+      ],
+      "score": 76,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Tiangong University、Qingdao Binhai University；题名线索：Construction of high-selectivity antifouling nanofiltration membranes through layer-by-layer assembly and in-situ fabrication of ZIF-8。",
+      "id": "doi:10.1016/j.desal.2026.120763"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -807,38 +1062,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜；题名线索：MOF membrane incorporated with inorganic lithium ion-sieve for efficient mono/divalent ion separation。",
       "id": "doi:10.1016/j.memsci.2026.125956"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.desal.2026.120762",
-      "title": "Geometry-dominated perturbation: Boundary layer instability by square-netting spacers in nanofiltration",
-      "publication_date": "2026-09-01",
-      "journal": "Desalination",
-      "authors": [
-        "Kang Liu",
-        "Mengqi Zhang",
-        "Juan Tang",
-        "Haiou Huang"
-      ],
-      "first_author": "Kang Liu",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "desalination"
-      ],
-      "score": 74,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；题名线索：Geometry-dominated perturbation: Boundary layer instability by square-netting spacers in nanofiltration。",
-      "id": "doi:10.1016/j.desal.2026.120762"
     },
     {
       "source_db": "Crossref",
@@ -950,41 +1173,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1016/j.desal.2026.120763",
-      "title": "Construction of high-selectivity antifouling nanofiltration membranes through layer-by-layer assembly and in-situ fabrication of ZIF-8",
-      "publication_date": "2026-09-01",
-      "journal": "Desalination",
-      "authors": [
-        "Jiaxue Zhang",
-        "Yingbo Chen",
-        "Pengcheng Wang",
-        "Yanling Fang",
-        "Guangcun Liu",
-        "Liangliang Li"
-      ],
-      "first_author": "Jiaxue Zhang",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "selectivity",
-        "desalination"
-      ],
-      "score": 74,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；题名线索：Construction of high-selectivity antifouling nanofiltration membranes through layer-by-layer assembly and in-situ fabrication of ZIF-8。",
-      "id": "doi:10.1016/j.desal.2026.120763"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.1016/j.seppur.2026.138402",
       "title": "Carboxymethyl cellulose-assisted polyamide nanofiltration membranes for improved desalination efficiency",
       "publication_date": "2026-09-01",
@@ -1012,72 +1200,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；题名线索：Carboxymethyl cellulose-assisted polyamide nanofiltration membranes for improved desalination efficiency。",
       "id": "doi:10.1016/j.seppur.2026.138402"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.watres.2026.126172",
-      "title": "Interfacial flow–kinetics coupling enables nanofiltration with decoupled antibiotic rejection and salt permeation in high-salinity wastewater",
-      "publication_date": "2026-09-01",
-      "journal": "Water Research",
-      "authors": [
-        "Mengzhao Liu",
-        "Hong Chi",
-        "Mengyao Kang",
-        "Liwei Niu",
-        "Xuewu Zhu",
-        "Libin Liu"
-      ],
-      "first_author": "Mengzhao Liu",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "rejection"
-      ],
-      "score": 71,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Interfacial flow–kinetics coupling enables nanofiltration with decoupled antibiotic rejection and salt permeation in high-salinity wastewater。",
-      "id": "doi:10.1016/j.watres.2026.126172"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7206217966",
-      "openalex_url": "https://openalex.org/W7206217966",
-      "doi": "10.1016/j.memsci.2026.126088",
-      "title": "Interpretable machine learning for predicting membrane performance of organic solvent nanofiltration membranes using an open-access database",
-      "publication_date": "2026-09-01",
-      "journal": "Journal of Membrane Science",
-      "authors": [
-        "Sarah Glaß",
-        "Petra Merten",
-        "Torsten Brinkmann",
-        "Volkan Filiz",
-        "Sarah Glass"
-      ],
-      "first_author": "Sarah Glass",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "有机溶剂纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "organic solvent nanofiltration"
-      ],
-      "score": 69,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤；题名线索：Interpretable machine learning for predicting membrane performance of organic solvent nanofiltration membranes using an open-access database。",
-      "id": "doi:10.1016/j.memsci.2026.126088"
     },
     {
       "source_db": "Crossref",
@@ -1212,37 +1334,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤；题名线索：Nanofiltration membrane with ultra-narrow pore size distribution based on linear crosslinking regulation: simultaneous high-efficiency separation of mono-/multivalent anions and cations。",
       "id": "doi:10.1016/j.memsci.2026.125877"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.memsci.2026.125871",
-      "title": "Molecular architecture of multi-charged quaternary ammonium monomers enhances Mg2+/Li+ separation performance of nanofiltration membranes",
-      "publication_date": "2026-09-01",
-      "journal": "Journal of Membrane Science",
-      "authors": [
-        "Xiang Guo",
-        "Xinlei Di",
-        "Ning Zhao",
-        "Bin Zhao",
-        "Liang Wang"
-      ],
-      "first_author": "Xiang Guo",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 69,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Molecular architecture of multi-charged quaternary ammonium monomers enhances Mg2+/Li+ separation performance of nanofiltration membranes。",
-      "id": "doi:10.1016/j.memsci.2026.125871"
     },
     {
       "source_db": "Crossref",
@@ -1402,6 +1493,68 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.1016/j.memsci.2026.125871",
+      "title": "Molecular architecture of multi-charged quaternary ammonium monomers enhances Mg2+/Li+ separation performance of nanofiltration membranes",
+      "publication_date": "2026-09-01",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Xiang Guo",
+        "Xinlei Di",
+        "Ning Zhao",
+        "Bin Zhao",
+        "Liang Wang"
+      ],
+      "first_author": "Xiang Guo",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 69,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Molecular architecture of multi-charged quaternary ammonium monomers enhances Mg2+/Li+ separation performance of nanofiltration membranes。",
+      "id": "doi:10.1016/j.memsci.2026.125871"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1016/j.memsci.2026.126122",
+      "title": "Polyol-engineered polyesteramide hollow fiber nanofiltration membranes with improved chlorine resistance and mineral retention",
+      "publication_date": "2026-09-01",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Yifei Wei",
+        "Can Li",
+        "Daniel Yee Fan Ng",
+        "Choon-Hong Tan",
+        "Rong Wang"
+      ],
+      "first_author": "Yifei Wei",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 69,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Polyol-engineered polyesteramide hollow fiber nanofiltration membranes with improved chlorine resistance and mineral retention。",
+      "id": "doi:10.1016/j.memsci.2026.126122"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1016/j.memsci.2026.125960",
       "title": "Enhancing nanofiltration membrane performance for emerging organic contaminants (EOCs) removal via PEG-mediated monomer diffusion",
       "publication_date": "2026-09-01",
@@ -1436,6 +1589,40 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.1016/j.memsci.2026.126121",
+      "title": "1,10-Diaza-18-crown-6-derived ion-recognition polyamide nanofiltration for efficient NaCl/Na2SO4 separation",
+      "publication_date": "2026-09-01",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Zhifan Zhang",
+        "Yuanhong Shu",
+        "Shanshan Huo",
+        "An Zhou",
+        "Pan Feng",
+        "Haigang Qin",
+        "Xiaorong Meng"
+      ],
+      "first_author": "Zhifan Zhang",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 69,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；题名线索：1,10-Diaza-18-crown-6-derived ion-recognition polyamide nanofiltration for efficient NaCl/Na2SO4 separation。",
+      "id": "doi:10.1016/j.memsci.2026.126121"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1016/j.memsci.2026.125885",
       "title": "Exploring of robust polyurea nanofiltration membranes for recovery of lithium from spent lithium-ion batteries leachate under extreme pH conditions",
       "publication_date": "2026-09-01",
@@ -1462,6 +1649,39 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；题名线索：Exploring of robust polyurea nanofiltration membranes for recovery of lithium from spent lithium-ion batteries leachate under extreme pH conditions。",
       "id": "doi:10.1016/j.memsci.2026.125885"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1016/j.memsci.2026.126130",
+      "title": "A “Dual-Anchoring” Strategy for Construction of Stable Polyurea Composite Nanofiltration Membranes for Lithium Recovery from Spent Lithium-ion Batteries",
+      "publication_date": "2026-09-01",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Xiuping Li",
+        "Chunlei Wang",
+        "Hongye Lv",
+        "Kelin Wu",
+        "Changfa Xiao",
+        "Dawei Ji"
+      ],
+      "first_author": "Xiuping Li",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 69,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；题名线索：A “Dual-Anchoring” Strategy for Construction of Stable Polyurea Composite Nanofiltration Membranes for Lithium Recovery from Spent Lithium-ion Batteries。",
+      "id": "doi:10.1016/j.memsci.2026.126130"
     },
     {
       "source_db": "Crossref",
@@ -1667,9 +1887,90 @@
       "id": "doi:10.1016/j.memsci.2026.125977"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7204854770",
-      "openalex_url": "https://openalex.org/W7204854770",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/app.71458",
+      "title": "Polyimide Membranes for Organic Solvent Nanofiltration ( <scp>OSN</scp> ): A Comprehensive Review of Crosslinking Strategies, Sustainable Fabrication, and Machine Learning‐Assisted Design",
+      "publication_date": "2026-09-04",
+      "journal": "Journal of Applied Polymer Science",
+      "authors": [
+        "Srinath Ravi",
+        "Saikat Sinha Ray",
+        "Dao Thi Thanh Huyen",
+        "In‐Chul Kim",
+        "Young‐Nam Kwon"
+      ],
+      "first_author": "Srinath Ravi",
+      "institutions": [
+        "Department of Civil, Urban, Earth and Environmental Engineering Ulsan National Institute of Science and Technology (UNIST) Ulsan Republic of Korea",
+        "Department of Environmental Science and Engineering SRM University‐AP Amaravati Andhra Pradesh India",
+        "Water Trinez Daejeon Republic of Korea"
+      ],
+      "abstract": "ABSTRACT Organic solvent nanofiltration (OSN) has emerged as an energy‐efficient alternative to conventional separation processes for molecular‐level separations under mild operating conditions. Among the various membrane materials investigated, polyimides (PIs) have attracted significant attention because of their excellent thermal stability, mechanical robustness, and chemical resistance. However, conventional PI membranes often suffer from solvent‐induced swelling and structural instability, limiting their long‐term industrial applicability. To overcome these challenges, extensive research has focused on advanced crosslinking strategies, sustainable fabrication methods, and emerging data‐driven membrane design approaches. Chemical modifications such as diamine crosslinking, metal‐ion coordination, and synergistic multistep crosslinking have significantly enhanced solvent resistance and separation performance, achieving solute rejection values exceeding 99% in harsh solvents including DMF. Simultaneously, sustainable fabrication approaches involving green solvents and bio‐derived materials are gaining increasing importance. In parallel, artificial intelligence (AI) and machine learning techniques are being integrated into membrane research for predictive modeling, optimization, and virtual screening of membrane performance. This review critically discusses recent advances in PI‐based OSN membranes, emphasizing crosslinking chemistry, sustainable fabrication, and AI‐assisted membrane design while highlighting current challenges and future industrial prospects.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "有机溶剂纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "organic solvent nanofiltration",
+        "rejection"
+      ],
+      "score": 66,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "99%"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤；团队：Department of Civil, Urban, Earth and Environmental Engineering Ulsan National Institute of Science and Technology (UNIST) Ulsan Republic of Korea、Department of Environmental Science and Engineering SRM University‐AP Amaravati Andhra Pradesh India；摘要首句：ABSTRACT Organic solvent nanofiltration (OSN) has emerged as an energy‐efficient alternative to conventional separation processes for molecular‐level separations under mild operating conditions.。",
+      "id": "doi:10.1002/app.71458"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204760400",
+      "openalex_url": "https://openalex.org/W7204760400",
+      "doi": "10.1016/j.seppur.2026.139975",
+      "title": "Covalent organic framework interlayered polyamide films for advanced nanofiltration",
+      "publication_date": "2026-09-01",
+      "journal": "Separation and Purification Technology",
+      "authors": [
+        "Shuangqiao Han",
+        "Xueqi Tao",
+        "Yuping Tong",
+        "Pengjia Zhu",
+        "Guang Yuan",
+        "Weiying Wang",
+        "Rui Li",
+        "Huixian Wang",
+        "Xiao Wang"
+      ],
+      "first_author": "Shuangqiao Han",
+      "institutions": [
+        "North China University of Water Resources and Electric Power",
+        "Henan Province Water Conservancy Survey and Design Research",
+        "China Railway Fifth Survey and Design Institute Group",
+        "China Railway Construction Corporation (China)",
+        "China Railway Group (China)"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration"
+      ],
+      "score": 66,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；团队：North China University of Water Resources and Electric Power、Henan Province Water Conservancy Survey and Design Research；题名线索：Covalent organic framework interlayered polyamide films for advanced nanofiltration。",
+      "id": "doi:10.1016/j.seppur.2026.139975"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.3390/pr14172810",
       "title": "Low-Pressure Nanofiltration for the Selective Reduction of Ethanol Content in Wines",
       "publication_date": "2026-08-31",
@@ -1677,16 +1978,12 @@
       "authors": [
         "Vasiliki Thanasi",
         "Miguel Minhalma",
-        "Jorge M. Ricardo‐da‐Silva",
-        "Sofía Catarino",
-        "Maria Norberta de Pinho",
         "Jorge M. Ricardo-da-Silva",
-        "Sofia Catarino"
+        "Sofia Catarino",
+        "Maria Norberta de Pinho"
       ],
       "first_author": "Vasiliki Thanasi",
       "institutions": [
-        "University of Lisbon",
-        "Instituto Politécnico de Lisboa",
         "LEAF-Linking Landscape Environment Agriculture and Food Research Center, Instituto Superior de Agronomia, Universidade de Lisboa, Tapada da Ajuda, 1349-017 Lisboa, Portugal",
         "CeFEMA-Centre of Physics and Engineering of Advanced Materials Research Center, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1, 1049-001 Lisboa, Portugal",
         "Department of Chemical Engineering, Instituto Superior de Engenharia de Lisboa, Polytechnic University of Lisbon, Rua Conselheiro Emídio Navarro 1, 1959-007 Lisbon, Portugal",
@@ -1708,7 +2005,7 @@
         "6.6%",
         "5 bar"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：University of Lisbon、Instituto Politécnico de Lisboa；摘要首句：Given the global shift of the wine industry toward lighter wine styles and lower ethanol content, dealcoholization of wines remains a challenging procedure in terms of selectively removing ethanol from wine samples and, at the …。",
+      "brief": "定位：核心膜分离；主题：纳滤；团队：LEAF-Linking Landscape Environment Agriculture and Food Research Center, Instituto Superior de Agronomia, Universidade de Lisboa, Tapada da Ajuda, 1349-017 Lisboa, Portugal、CeFEMA-Centre of Physics and Engineering of Advanced Materials Research Center, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1, 1049-001 Lisboa, Portugal；摘要首句：Given the global shift of the wine industry toward lighter wine styles and lower ethanol content, dealcoholization of wines remains a challenging procedure in terms of selectively removing ethanol from wine samples and, at the …。",
       "id": "doi:10.3390/pr14172810"
     },
     {
@@ -2077,37 +2374,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1016/j.seppur.2026.138903",
-      "title": "Optimized loose nanofiltration membranes via synergistic polyphenol and surfactant for efficient dye/salt separation",
-      "publication_date": "2026-09-01",
-      "journal": "Separation and Purification Technology",
-      "authors": [
-        "Xi Zheng",
-        "Jing-Jing Sun",
-        "Yue Shen",
-        "Ying-Nan Feng",
-        "Tao Wang"
-      ],
-      "first_author": "Xi Zheng",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 64,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Optimized loose nanofiltration membranes via synergistic polyphenol and surfactant for efficient dye/salt separation。",
-      "id": "doi:10.1016/j.seppur.2026.138903"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.1016/j.seppur.2026.138407",
       "title": "Boosting lithium‑magnesium separation performance and tolerance of nanofiltration membranes via one-step multifunctional quaternary ammonium salt tailoring",
       "publication_date": "2026-09-01",
@@ -2171,6 +2437,47 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；摘要首句：Abstract Amid the accelerating global electrification, the growing demand for lithium resources has highlighted the urgent need for efficient, low-energy, and environmentally friendly separation technologies.。",
       "id": "doi:10.26599/nr.2026.94908770"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204800263",
+      "openalex_url": "https://openalex.org/W7204800263",
+      "doi": "10.1016/j.dwt.2026.101924",
+      "title": "Occurrence, characteristics, and removal of microplastics in conventional and seawater reverse osmosis drinking water treatment plants",
+      "publication_date": "2026-09-01",
+      "journal": "Desalination and Water Treatment",
+      "authors": [
+        "Liqing Ma",
+        "Madineh Khoshmanesh",
+        "Ali Mohammad Sanati",
+        "Bahman Ramavandi",
+        "Asma Barmayeh"
+      ],
+      "first_author": "Liqing Ma",
+      "institutions": [
+        "Tongji University",
+        "Persian Gulf University",
+        "Bushehr University of Medical Sciences"
+      ],
+      "abstract": "Microplastics (MPs) are emerging contaminants increasingly detected in drinking water systems worldwide. However, comparative information on their occurrence and removal in drinking water treatment plants using different source waters remains scarce. This study evaluated the occurrence, characteristics, and removal efficiency of MPs in two drinking water treatment systems in Iran: a conventional freshwater DWTP and a seawater reverse osmosis (SWRO) desalination plant. In the freshwater DWTP, MP concentrations decreased from 118 ± 28 MPs/m³ in raw water to 28± 11 MPs/m³ in treated water, corresponding to a 76% removal efficiency. Fragment-shaped MPs in the 100–500 μm size range, predominantly blue in color, were the most abundant particles, while polyethylene terephthalate (PET), polypropylene (PP), and polyvinyl chloride (PVC) were the dominant polymers. In the SWRO desalination plant, MP concentrations declined from 140 ± 53 MPs/m³ in raw seawater to 17.6± 12 MPs/m³ after treatment, achieving an 87% removal efficiency. Fiber-shaped MPs measuring 500–1000 μm, mainly white and black, predominated, with polyethylene (PE) and PP identified as the most abundant polymers. The estimated daily intake ranged from 0.0008 to 0.006 items/kg/day. These findings provide practical insights into the occurrence, characteristics, and fate of MPs in freshwater and desalination-based water systems.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis",
+        "desalination"
+      ],
+      "score": 63,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "76%",
+        "100–500 μm",
+        "87%",
+        "500–1000 μm"
+      ],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Tongji University、Persian Gulf University；摘要首句：Microplastics (MPs) are emerging contaminants increasingly detected in drinking water systems worldwide.。",
+      "id": "doi:10.1016/j.dwt.2026.101924"
     },
     {
       "source_db": "Crossref",
@@ -2436,6 +2743,41 @@
       "id": "doi:10.1016/j.memsci.2026.125896"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7204991474",
+      "openalex_url": "https://openalex.org/W7204991474",
+      "doi": "10.1002/adma.74906",
+      "title": "Flexible Osmotic Energy Batteries Enabled by Stacked Bicontinuous‐Network Hydrogels",
+      "publication_date": "2026-09-02",
+      "journal": "Advanced Materials",
+      "authors": [
+        "Jingyan Shi",
+        "Chao Li",
+        "Qingfei Fu",
+        "Lijun Yang"
+      ],
+      "first_author": "Jingyan Shi",
+      "institutions": [
+        "Beihang University",
+        "Ningbo University of Technology",
+        "ISRO Propulsion Complex"
+      ],
+      "abstract": "ABSTRACT Reverse dialysis based on hydrogel membranes holds promise for the development of soft electrochemical batteries. However, the energy conversion efficiency is often constrained by excessive swelling, which dilates nanochannels and degrades permselectivity. Here, we present a bicontinuous‐network hydrogel (BCNH) engineered by precisely modulating the hydrophilic and hydrophobic phases to achieve high‐performance osmotic energy conversion. Benefiting from the BCN structure, the hydrophilic ion‐conducting pathways are spatially confined by a percolating hydrophobic matrix, which dramatically suppresses swelling. This structural restraint preserves high permselectivity and enhances mechanical robustness. The resulting BCNH membrane, which simultaneously offers high permselectivity and rapid ionic flux, delivers an outstanding osmotic power density of 21.07 W·m −2 , significantly outperforming conventional homogeneous hydrogels. By integrating cation‐selective and anion‐selective BCNHs into flexible full cells, we achieve a high‐power density of 10.07 W·m −2 , enabling the scalable fabrication of highly flexible battery arrays. Combining integrated high selectivity, ultralow swelling, and robust mechanical properties, the BCNH platform establishes a transformative material foundation for advanced flexible electronics and sustainable energy conversion technologies.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳米通道/限域传输"
+      ],
+      "keyword_hits": [
+        "nanochannel",
+        "selectivity"
+      ],
+      "score": 59,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳米通道/限域传输；团队：Beihang University、Ningbo University of Technology；摘要首句：ABSTRACT Reverse dialysis based on hydrogel membranes holds promise for the development of soft electrochemical batteries.。",
+      "id": "doi:10.1002/adma.74906"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -2468,77 +2810,9 @@
       "id": "doi:10.1016/j.desal.2026.120334"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.seppur.2026.138843",
-      "title": "Role of non-woven support properties and support fabrication parameters in thin-film composite polyamide reverse osmosis membranes",
-      "publication_date": "2026-09-01",
-      "journal": "Separation and Purification Technology",
-      "authors": [
-        "Sevde Korkut",
-        "Berk Esenli",
-        "Ayse Yuksekdag",
-        "Ismail Koyuncu"
-      ],
-      "first_author": "Sevde Korkut",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "聚酰胺/TFC",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis",
-        "thin-film composite"
-      ],
-      "score": 56,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：聚酰胺/TFC / 脱盐/水处理；题名线索：Role of non-woven support properties and support fabrication parameters in thin-film composite polyamide reverse osmosis membranes。",
-      "id": "doi:10.1016/j.seppur.2026.138843"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7204642994",
-      "openalex_url": "https://openalex.org/W7204642994",
-      "doi": "10.1016/j.cej.2026.181353",
-      "title": "Fabrication of acid-resistant poly(amide-triazinamine) nanofiltration membranes via an in-situ competitive copolymerization strategy",
-      "publication_date": "2026-08-29",
-      "journal": "Chemical Engineering Journal",
-      "authors": [
-        "Weipeng Huang",
-        "Zihao Zheng",
-        "Jie Zou",
-        "Shengshu Ai",
-        "Tiantian Li",
-        "Ce Liang"
-      ],
-      "first_author": "Weipeng Huang",
-      "institutions": [
-        "Jilin University",
-        "Changchun Municipal Engineering Design and Research Institute (China)",
-        "Changchun Institute of Technology"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 56,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Jilin University、Changchun Municipal Engineering Design and Research Institute (China)；题名线索：Fabrication of acid-resistant poly(amide-triazinamine) nanofiltration membranes via an in-situ competitive copolymerization strategy。",
-      "id": "doi:10.1016/j.cej.2026.181353"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7207597668",
+      "openalex_url": "https://openalex.org/W7207597668",
       "doi": "10.1016/j.cjche.2026.06.035",
       "title": "Mineralized interlayer modified nanofiltration membrane: Synergistic mechanism of substrate defect improvement and catalytic self-cleaning",
       "publication_date": "2026-09-01",
@@ -2552,7 +2826,9 @@
         "Yongsheng Ren"
       ],
       "first_author": "Qiang Ma",
-      "institutions": [],
+      "institutions": [
+        "Ningxia University"
+      ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
@@ -2561,267 +2837,76 @@
       "keyword_hits": [
         "nanofiltration"
       ],
-      "score": 54,
+      "score": 56,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Mineralized interlayer modified nanofiltration membrane: Synergistic mechanism of substrate defect improvement and catalytic self-cleaning。",
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Ningxia University；题名线索：Mineralized interlayer modified nanofiltration membrane: Synergistic mechanism of substrate defect improvement and catalytic self-cleaning。",
       "id": "doi:10.1016/j.cjche.2026.06.035"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.colsurfa.2026.140657",
-      "title": "Interfacial siloxanization strategy for durable nanofiltration membrane based on two-dimensional materials",
-      "publication_date": "2026-09-01",
-      "journal": "Colloids and Surfaces A: Physicochemical and Engineering Aspects",
-      "authors": [
-        "Haoren Liu",
-        "Kang Huang",
-        "Kai-Ge Zhou"
-      ],
-      "first_author": "Haoren Liu",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Interfacial siloxanization strategy for durable nanofiltration membrane based on two-dimensional materials。",
-      "id": "doi:10.1016/j.colsurfa.2026.140657"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.advmem.2026.100220",
-      "title": "Piperazine-modulated bis-tris-based polyester-amide nanofilm for high-performance nanofiltration membrane",
-      "publication_date": "2026-09-01",
-      "journal": "Advanced Membranes",
-      "authors": [
-        "Rui Han",
-        "Yan Zheng",
-        "Zhen-Liang Xu",
-        "Bai-He Chen",
-        "Jiao Wang",
-        "Muhammad Irfan",
-        "Sun-Jie Xu"
-      ],
-      "first_author": "Rui Han",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Piperazine-modulated bis-tris-based polyester-amide nanofilm for high-performance nanofiltration membrane。",
-      "id": "doi:10.1016/j.advmem.2026.100220"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.ceramint.2026.06.330",
-      "title": "Rapid removal of organic micropollutants using recyclable clay-alumina ceramic composite nanofiltration membrane coated with β-cyclodextrin cross-linked polymeric thin film",
-      "publication_date": "2026-09-01",
-      "journal": "Ceramics International",
-      "authors": [
-        "Debal Ghosh",
-        "Anandarup Goswami",
-        "Aditi Das",
-        "Arnab Mukherjee"
-      ],
-      "first_author": "Debal Ghosh",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Rapid removal of organic micropollutants using recyclable clay-alumina ceramic composite nanofiltration membrane coated with β-cyclodextrin cross-linked polymeric thin film。",
-      "id": "doi:10.1016/j.ceramint.2026.06.330"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.cej.2026.179035",
-      "title": "Mixed-dimensional COF membrane towards fast organic solvent nanofiltration",
-      "publication_date": "2026-09-01",
-      "journal": "Chemical Engineering Journal",
-      "authors": [
-        "Fenglong Dai",
-        "Tingyuan Wang",
-        "Yanan Liu",
-        "Xiaocui Wei",
-        "Fu Zhao",
-        "Enshen Shi",
-        "Yigui Du",
-        "Chunjia Wang",
-        "Shijie Liu",
-        "Chunyang Fan",
-        "Yuhan Wang",
-        "Zhongyi Jiang"
-      ],
-      "first_author": "Fenglong Dai",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "COF/MOF膜",
-        "纳滤",
-        "有机溶剂纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "organic solvent nanofiltration",
-        "cof membrane"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：COF/MOF膜 / 纳滤 / 有机溶剂纳滤；题名线索：Mixed-dimensional COF membrane towards fast organic solvent nanofiltration。",
-      "id": "doi:10.1016/j.cej.2026.179035"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.hybadv.2026.100740",
-      "title": "Interfacial Incorporation of Exfoliated Glycine-Hydrotalcite into Polyamide-based Nanofiltration Membranes",
-      "publication_date": "2026-09-01",
-      "journal": "Hybrid Advances",
-      "authors": [
-        "Fajar Indah Puspita Sari",
-        "Roto Roto",
-        "Sri Juari Santosa"
-      ],
-      "first_author": "Fajar Indah Puspita Sari",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Interfacial Incorporation of Exfoliated Glycine-Hydrotalcite into Polyamide-based Nanofiltration Membranes。",
-      "id": "doi:10.1016/j.hybadv.2026.100740"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1016/j.memsci.2026.125851",
-      "title": "Chlorine-resistant polyester-polyamide TFC membranes via sequential interfacial polymerization for robust membrane distillation",
-      "publication_date": "2026-09-01",
-      "journal": "Journal of Membrane Science",
-      "authors": [
-        "Xueting Song",
-        "Lusi Zou"
-      ],
-      "first_author": "Xueting Song",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "聚酰胺/TFC"
-      ],
-      "keyword_hits": [
-        "interfacial polymerization"
-      ],
-      "score": 54,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：聚酰胺/TFC；题名线索：Chlorine-resistant polyester-polyamide TFC membranes via sequential interfacial polymerization for robust membrane distillation。",
-      "id": "doi:10.1016/j.memsci.2026.125851"
     }
   ],
   "trends": {
     "topics": [
       {
         "name": "纳滤",
-        "count": 242,
-        "delta": 242
+        "count": 288,
+        "delta": 278
       },
       {
         "name": "脱盐/水处理",
-        "count": 122,
-        "delta": 122
+        "count": 126,
+        "delta": 109
       },
       {
         "name": "离子筛分",
-        "count": 81,
-        "delta": 81
+        "count": 88,
+        "delta": 78
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 72,
-        "delta": 72
+        "count": 83,
+        "delta": 78
       },
       {
         "name": "COF/MOF膜",
-        "count": 34,
-        "delta": 34
+        "count": 37,
+        "delta": 35
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 32,
-        "delta": 32
+        "count": 31,
+        "delta": 25
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 20,
+        "count": 22,
         "delta": 20
       },
       {
         "name": "二维层状膜",
-        "count": 18,
-        "delta": 18
+        "count": 21,
+        "delta": 20
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 134,
-        "delta": 134
+        "count": 168,
+        "delta": 168
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 86,
-        "delta": 86
+        "count": 105,
+        "delta": 105
       },
       {
         "name": "Desalination",
-        "count": 33,
-        "delta": 33
+        "count": 40,
+        "delta": 40
       },
       {
         "name": "Journal of Water Process Engineering",
-        "count": 9,
-        "delta": 9
+        "count": 11,
+        "delta": 11
       },
       {
         "name": "Chemical Engineering Journal",
@@ -2834,12 +2919,17 @@
         "delta": 7
       },
       {
-        "name": "Journal of Energy, Materials &amp; Sustainability",
-        "count": 5,
-        "delta": 5
+        "name": "Water",
+        "count": 6,
+        "delta": 6
       },
       {
-        "name": "Water",
+        "name": "Desalination and Water Treatment",
+        "count": 6,
+        "delta": 6
+      },
+      {
+        "name": "Journal of Energy, Materials &amp; Sustainability",
         "count": 5,
         "delta": 5
       },
@@ -2854,91 +2944,86 @@
         "delta": 5
       },
       {
-        "name": "Advanced Functional Materials",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "Angewandte Chemie International Edition",
-        "count": 4,
-        "delta": 4
+        "name": "Polymer Engineering &amp; Science",
+        "count": 5,
+        "delta": 5
       }
     ],
     "authors": [
       {
         "name": "Zhen-Liang Xu",
+        "count": 24,
+        "delta": 24
+      },
+      {
+        "name": "Xiao-Hua Ma",
         "count": 20,
         "delta": 20
       },
       {
         "name": "Rui Han",
-        "count": 16,
-        "delta": 16
-      },
-      {
-        "name": "Xiao-Hua Ma",
-        "count": 16,
-        "delta": 16
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Miao Chen",
-        "count": 12,
-        "delta": 12
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "Dong-Yao Du",
-        "count": 12,
-        "delta": 12
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "Wen-Yi Jiang",
-        "count": 12,
-        "delta": 12
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "Feidong Yang",
-        "count": 10,
-        "delta": 10
+        "count": 11,
+        "delta": 11
       },
       {
         "name": "Pengfei Zhang",
+        "count": 11,
+        "delta": 11
+      },
+      {
+        "name": "Ye-Heng Su",
         "count": 10,
         "delta": 10
       },
       {
-        "name": "Ye-Heng Su",
-        "count": 8,
-        "delta": 8
-      },
-      {
         "name": "Sen Wang",
-        "count": 8,
-        "delta": 8
-      },
-      {
-        "name": "Xuewu Zhu",
-        "count": 8,
-        "delta": 8
-      },
-      {
-        "name": "Jiao Wang",
-        "count": 8,
-        "delta": 8
+        "count": 10,
+        "delta": 10
       },
       {
         "name": "Xiao-Gang Jin",
-        "count": 8,
-        "delta": 8
+        "count": 10,
+        "delta": 10
+      },
+      {
+        "name": "Xuewu Zhu",
+        "count": 9,
+        "delta": 9
+      },
+      {
+        "name": "Jiao Wang",
+        "count": 9,
+        "delta": 9
       },
       {
         "name": "Sun-Jie Xu",
-        "count": 8,
-        "delta": 8
+        "count": 9,
+        "delta": 9
       },
       {
         "name": "Kecheng Guan",
-        "count": 7,
-        "delta": 7
+        "count": 8,
+        "delta": 8
       }
     ],
     "institutions": [
@@ -2946,6 +3031,11 @@
         "name": "Zhejiang Sci-Tech University",
         "count": 8,
         "delta": 8
+      },
+      {
+        "name": "Tiangong University",
+        "count": 7,
+        "delta": 7
       },
       {
         "name": "Kobe University",
@@ -3003,19 +3093,14 @@
         "delta": 5
       },
       {
-        "name": "Tiangong University",
+        "name": "University of Science and Technology of China",
         "count": 5,
         "delta": 5
       },
       {
-        "name": "Fuzhou University",
-        "count": 4,
-        "delta": 4
-      },
-      {
-        "name": "University of Science and Technology of China",
-        "count": 4,
-        "delta": 4
+        "name": "College of Oceanography and Ecological Science Shanghai Ocean University Shanghai China",
+        "count": 5,
+        "delta": 5
       }
     ]
   },
