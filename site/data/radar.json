@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-09-10T22:24:21.504518+00:00",
-  "updated_at_local": "2026-09-11 06:23 (UTC+8)",
+  "updated_at": "2026-09-11T22:25:30.442403+00:00",
+  "updated_at_local": "2026-09-12 06:24 (UTC+8)",
   "stats": {
-    "fetched": 1261,
-    "related": 39,
-    "recommended": 23,
+    "fetched": 1286,
+    "related": 38,
+    "recommended": 24,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -220,9 +220,9 @@
       "id": "doi:10.1038/s41598-026-69302-y"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7212187381",
+      "openalex_url": "https://openalex.org/W7212187381",
       "doi": "10.1002/anie.7341167",
       "title": "Hierarchical Membrane for Photoelectrostatically Gated Monovalent‐Divalent Ion Separation",
       "publication_date": "2026-09-10",
@@ -235,6 +235,8 @@
       ],
       "first_author": "Enis Oğuzhan Eren",
       "institutions": [
+        "Max Planck Institute of Colloids and Interfaces",
+        "University of Alberta",
         "Department of Colloid Chemistry Max Planck Institute of Colloids and Interfaces Potsdam Germany",
         "Department of Chemical and Materials Engineering University of Alberta Edmonton Alberta Canada"
       ],
@@ -252,7 +254,7 @@
       "score": 79,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Department of Colloid Chemistry Max Planck Institute of Colloids and Interfaces Potsdam Germany、Department of Chemical and Materials Engineering University of Alberta Edmonton Alberta Canada；摘要首句：ABSTRACT Monovalent‐divalent ion separation remains a significant challenge for the selective recovery of ions from aqueous solutions.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Max Planck Institute of Colloids and Interfaces、University of Alberta；摘要首句：ABSTRACT Monovalent‐divalent ion separation remains a significant challenge for the selective recovery of ions from aqueous solutions.。",
       "id": "doi:10.1002/anie.7341167"
     },
     {
@@ -401,47 +403,6 @@
       ],
       "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Tongji University、Shanghai Ocean University；摘要首句：Abstract Metal–organic frameworks (MOFs) with crystallographically defined pores and chemically programmable internal structures are attractive candidates for regulating ion transport at the molecular scale.。",
       "id": "doi:10.1021/acsnano.6c08249"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7208831665",
-      "openalex_url": "https://openalex.org/W7208831665",
-      "doi": "10.1021/acs.est.6c05832",
-      "title": "Monomer Quaternization Enables Antibiofouling and Superior Perm-selectivity of Nanofiltration Membranes for Sustainable Water Purification",
-      "publication_date": "2026-09-05",
-      "journal": "Environmental Science &amp; Technology",
-      "authors": [
-        "Zhiwei Qiu",
-        "Yana Li",
-        "Bozhan Ma",
-        "Ruobin Dai",
-        "Zhiwei Wang"
-      ],
-      "first_author": "Zhiwei Qiu",
-      "institutions": [
-        "Tongji University",
-        "Tongji University , , ,"
-      ],
-      "abstract": "Abstract Biofouling poses a substantial challenge to advanced wastewater treatment and reuse via nanofiltration (NF) membranes, while current strategies for enhancing antibiofouling performance often compromise membrane perm-selectivity. Herein, quaternized NF (QPIP-NF) membranes were fabricated via piperazine (PIP) quaternization to simultaneously enhance antibiofouling performance and perm-selectivity. Compared with PIP-NF membranes, QPIP-NF membranes exhibited 1.4-fold higher pure water permeance, slightly increased Na2SO4 rejection, and 1.4-fold higher water/Na2SO4 selectivity, owing to increased surface roughness, reduced polyamide thickness, and improved size-sieving. Furthermore, QPIP-NF membranes also exhibited a 91% improvement in antibacterial efficiency against Escherichia coli and a 48% enhancement in dynamic antibiofouling performance. Kit-based measurements of key bacterial enzyme activities and reactive-species levels, postfouling antibacterial evaluations, and confocal laser scanning microscopy analyses of live/dead cell distributions and biofilm thickness on the membrane surface collectively revealed the antibiofouling mechanism of the QPIP-NF membrane through inhibition of biofilm formation via surface bactericidal activity. Specifically, QPIP-NF membranes inhibited catalase, superoxide dismutase, DNA gyrase, and Na+/K+-ATPase activities while inducing excessive intracellular generation of H2O2 and superoxide anions, thereby ensuring lasting antibacterial activity in the near-membrane region and achieving excellent antibiofouling performance. Our study provides a new avenue for the design of antibiofouling NF membranes with improved perm-selectivity.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "permeance",
-        "selectivity",
-        "rejection"
-      ],
-      "score": 79,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "91%",
-        "48%"
-      ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Tongji University、Tongji University , , ,；摘要首句：Abstract Biofouling poses a substantial challenge to advanced wastewater treatment and reuse via nanofiltration (NF) membranes, while current strategies for enhancing antibiofouling performance often compromise membrane perm-se…。",
-      "id": "doi:10.1021/acs.est.6c05832"
     },
     {
       "source_db": "OpenAlex",
@@ -599,6 +560,44 @@
       "id": "doi:10.1021/acsami.6c10821"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212058842",
+      "openalex_url": "https://openalex.org/W7212058842",
+      "doi": "10.1016/j.apsusc.2026.168370",
+      "title": "Novel piperazine quaternary ammonium monomer-based composite nanofiltration membranes fabricated via one-step interfacial polymerization for the efficient separation of Li+ and Mg2+",
+      "publication_date": "2026-09-09",
+      "journal": "Applied Surface Science",
+      "authors": [
+        "Peng Mu",
+        "Zhengsen Xu",
+        "Yaping Yang",
+        "Yimeng Lv",
+        "Jun Wu",
+        "Chenglong Ran",
+        "Wenli Ding",
+        "Zhong Yu"
+      ],
+      "first_author": "Peng Mu",
+      "institutions": [
+        "Northwest Normal University"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "interfacial polymerization"
+      ],
+      "score": 69,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：Northwest Normal University；题名线索：Novel piperazine quaternary ammonium monomer-based composite nanofiltration membranes fabricated via one-step interfacial polymerization for the efficient separation of Li+ and Mg2+。",
+      "id": "doi:10.1016/j.apsusc.2026.168370"
+    },
+    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7212041418",
       "openalex_url": "https://openalex.org/W7212041418",
@@ -683,51 +682,9 @@
       "id": "doi:10.1016/j.seppur.2026.140056"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7167738550",
-      "openalex_url": "https://openalex.org/W7167738550",
-      "doi": "10.1016/j.memsci.2026.126133",
-      "title": "Integrated transport-reaction nanomeshes in HGO/CoP membranes for high-flux emulsion separation and catalytic antifouling",
-      "publication_date": "2026-09-05",
-      "journal": "Journal of Membrane Science",
-      "authors": [
-        "Sudong Yang",
-        "Mei Zhu",
-        "Zhiying He",
-        "Yixuan Kuang",
-        "Hongyi Li",
-        "Xueting Yuan",
-        "Junjie Zheng",
-        "Zixin Gao",
-        "Fan Yang",
-        "Xinyue Li",
-        "Siyu Zhang",
-        "Qing Xu",
-        "Qian Zhang",
-        "Lin Chen"
-      ],
-      "first_author": "Sudong Yang",
-      "institutions": [
-        "Chengdu University"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "ion separation"
-      ],
-      "score": 63,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：Chengdu University；题名线索：Integrated transport-reaction nanomeshes in HGO/CoP membranes for high-flux emulsion separation and catalytic antifouling。",
-      "id": "doi:10.1016/j.memsci.2026.126133"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7212177281",
+      "openalex_url": "https://openalex.org/W7212177281",
       "doi": "10.1007/s10853-026-13661-4",
       "title": "High-purity hydrogen for decarbonization via dopamine-engineered α-Al2O3/graphene oxide membranes: the impact of gas mixture feed composition on H2/CO2 separation",
       "publication_date": "2026-09-10",
@@ -739,7 +696,9 @@
         "Carla Eponina Hori"
       ],
       "first_author": "Guilherme Guimarães Ascendino",
-      "institutions": [],
+      "institutions": [
+        "Universidade Federal de Uberlândia"
+      ],
       "abstract": "Abstract Ceramic-supported graphene oxide (GO) membranes have been widely employed in gas separation due to their suitable mechanical strength and thermal and chemical stability. However, their large-scale application depends on the proper adjustment of fabrication parameters and permeation conditions. In this study, asymmetric α-alumina (α-Al 2 O 3 ) hollow fiber substrates were fabricated by the phase-inversion method followed by a single sintering step. A polydopamine (PDA) interlayer was deposited on the fiber outer surface to enhance GO adhesion to the substrate. Membrane performance was evaluated over a broad range of feed gas molar compositions, varying the H 2 content from 25 to 75 mol%. The PDA interlayer, containing catechol hydroxyl and amine functional groups and exhibiting a thickness of (154 ± 27) nm, effectively reduced substrate surface roughness from (120.1 ± 5.2) nm to (101.6 ± 6.9) nm, while simultaneously providing functional groups that promoted GO adhesion, thereby enabling the deposition of a more uniform GO coating. The resulting composite membrane, containing a GO selective layer with a thickness of (245 ± 35) nm, exhibited a high H 2 permeance of (2810.8 ± 3.6) GPU and an H 2 /CO 2 separation factor of 27.44 ± 2.92. The best separation performance was obtained for a feed mixture of 75 mol% H 2 and 25 mol% CO 2 , producing a permeate stream with 99 mol% H 2 purity. These results highlight the importance of assessing membrane performance over a wide range of operating compositions to better represent real-world process conditions.",
       "cited_by_count": 0,
       "topics": [
@@ -749,10 +708,10 @@
         "graphene oxide membrane",
         "permeance"
       ],
-      "score": 62,
+      "score": 64,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：二维层状膜；摘要首句：Abstract Ceramic-supported graphene oxide (GO) membranes have been widely employed in gas separation due to their suitable mechanical strength and thermal and chemical stability.。",
+      "brief": "定位：核心膜分离；主题：二维层状膜；团队：Universidade Federal de Uberlândia；摘要首句：Abstract Ceramic-supported graphene oxide (GO) membranes have been widely employed in gas separation due to their suitable mechanical strength and thermal and chemical stability.。",
       "id": "doi:10.1007/s10853-026-13661-4"
     },
     {
@@ -790,6 +749,43 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤；团队：University of Sciences and Technology Houari Boumediene、Universitat Rovira i Virgili；摘要首句：Gas–liquid two-phase flow is widely recognized as an effective strategy for enhancing membrane distillation (MD) performance by mitigating thermal and concentration polarization.。",
       "id": "doi:10.3390/liquids6030030"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1021/acsaenm.6c00474",
+      "title": "Selective Electrocatalytic Hydrogenation of Nitroarenes and Ketones Enabled by Proton Conductive Graphene Oxide Membrane Reactor",
+      "publication_date": "2026-09-11",
+      "journal": "ACS Applied Engineering Materials",
+      "authors": [
+        "Itthipon Moonnee",
+        "Toma Kiyozawa",
+        "Worapon Kiatkittipong",
+        "Muhammad Sohail Ahmad",
+        "Tetsuya Kida"
+      ],
+      "first_author": "Itthipon Moonnee",
+      "institutions": [
+        "Silpakorn University , , ,",
+        "Kumamoto University , , ,"
+      ],
+      "abstract": "Abstract Electrocatalytic hydrogenation offers a sustainable alternative to conventional thermocatalytic methods, which typically requires high temperature and pressure, and toxic additives. Herein, we report a proton-conductive graphene oxide (GO) membrane reactor that enables selective and additive-free electrocatalytic hydrogenation of nitroarenes and ketones under ambient conditions. The GO membrane, dual functionalized with imidazole and cerium ions, exhibits enhanced proton conductivity (0.160 mS cm−1) and near ideal proton selectivity (t = 0.956) along with improved structural stability in aqueous and mixed solvent environments. Integrated into a two-compartment electrochemical system utilizing molecular hydrogen as the sole reductant, the membrane reactor achieves up to 93% yield with excellent chemoselectivity. Mechanistic investigations indicate an azobenzene-mediated pathway during nitroarene reduction. Compared to conventional proton exchange membrane systems, the developed membrane eliminates the need for supporting electrolytes while maintaining efficient proton transport. This work demonstrates a robust and scalable platform for green electrosynthesis and highlights the potential of functionalized GO membranes in advanced catalytic applications.",
+      "cited_by_count": 0,
+      "topics": [
+        "二维层状膜"
+      ],
+      "keyword_hits": [
+        "graphene oxide membrane",
+        "selectivity"
+      ],
+      "score": 58,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "93%"
+      ],
+      "brief": "定位：核心膜分离；主题：二维层状膜；团队：Silpakorn University , , ,、Kumamoto University , , ,；摘要首句：Abstract Electrocatalytic hydrogenation offers a sustainable alternative to conventional thermocatalytic methods, which typically requires high temperature and pressure, and toxic additives.。",
+      "id": "doi:10.1021/acsaenm.6c00474"
     },
     {
       "source_db": "OpenAlex",
@@ -860,6 +856,39 @@
     },
     {
       "source_db": "OpenAlex",
+      "openalex_id": "W7212193753",
+      "openalex_url": "https://openalex.org/W7212193753",
+      "doi": "10.1063/5.0314139",
+      "title": "Study on the influence of feed spacer dimensions and structure on permeation characteristics of reverse osmosis membranes",
+      "publication_date": "2026-09-10",
+      "journal": "International Journal of Fluid Engineering",
+      "authors": [
+        "Guanghui Cao",
+        "Y. Chen",
+        "Longhao Xiang",
+        "Songying Chen"
+      ],
+      "first_author": "Guanghui Cao",
+      "institutions": [
+        "Ministry of Education",
+        "Jinan Institute of Quantum Technology"
+      ],
+      "abstract": "A D2Q9 discrete velocity model within the multiple-relaxation-time framework is developed using the lattice Boltzmann method, coupled with boundary conditions that accurately capture membrane permeation characteristics. Numerical simulations are performed by incorporating feed spacers into unobstructed flow channels, systematically analyzing the effects of spacer structural configurations and dimensional parameters on hydrodynamics and mass transfer performance. The computational results reveal that spacer dimensions and geometric configurations differentially affect reverse osmosis performance, with larger spacer dimensions leading to more pronounced enhancements in flow disturbance intensification and membrane separation efficiency. Among the three spacer geometries (triangular, elliptical, and quadrilateral), the triangular spacer demonstrates the best performance in membrane separation processes, while elliptical and quadrilateral spacers show minimal differences in their effects on separation efficiency.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Ministry of Education、Jinan Institute of Quantum Technology；摘要首句：A D2Q9 discrete velocity model within the multiple-relaxation-time framework is developed using the lattice Boltzmann method, coupled with boundary conditions that accurately capture membrane permeation characteristics.。",
+      "id": "doi:10.1063/5.0314139"
+    },
+    {
+      "source_db": "OpenAlex",
       "openalex_id": "W7211928332",
       "openalex_url": "https://openalex.org/W7211928332",
       "doi": "10.1038/s41598-026-70460-2",
@@ -895,47 +924,35 @@
       "id": "doi:10.1038/s41598-026-70460-2"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7208817631",
-      "openalex_url": "https://openalex.org/W7208817631",
-      "doi": "10.1016/j.dwt.2026.101936",
-      "title": "Synergistic integration of surface patterning and multi-component modification in PVDF membranes for efficient oily wastewater treatment",
-      "publication_date": "2026-09-05",
-      "journal": "Desalination and Water Treatment",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/ep.70689",
+      "title": "Harnessing wind energy for sustainable desalination: Technologies and future directions",
+      "publication_date": "2026-09-10",
+      "journal": "Environmental Progress &amp; Sustainable Energy",
       "authors": [
-        "Zhuo Zhang",
-        "Ping Fang",
-        "Qi Wang",
-        "RongFei Cao",
-        "YuJiao Sun"
+        "Md Atiqur Rahman"
       ],
-      "first_author": "Zhuo Zhang",
+      "first_author": "Md Atiqur Rahman",
       "institutions": [
-        "Xi'an Polytechnic University"
+        "Department of Mechanical Engineering Vignan's Foundation for Science, Technology and Research Deshmukhi, Hyderabad Telangana India",
+        "Department of Mechanical Engineering Vignan's Foundation for Science, Technology &amp; Research Vadlamudi, Guntur Andhra Pradesh India"
       ],
-      "abstract": "Emulsified oily wastewater is difficult to treat because of its complex composition and high stability. This study developed a modified polyvinylidene fluoride (PVDF) membrane by integrating microcrystalline cellulose (MCC), tannic acid (TA), polydopamine (PDA), and controlled surface patterning, thereby combining multi-component chemical functionalization with hierarchical surface structuring. The membrane was fabricated by non-solvent-induced phase separation, surface embossing, MCC modification and regeneration, TA deposition, and PDA self-polymerization. The optimized D4 membrane, prepared with 3% MCC, 1% TA, 6 h PDA polymerization, and a 20 μm imprinting depth, reduced the water contact angle from 81.7° to 44.0° and increased porosity from 67.32% to 82.67%. For edible-oil, engine-oil, and diesel-oil emulsions, D4 achieved fluxes of 170.24, 210.83, and 223.91 L·m⁻²·h⁻¹ with rejection efficiencies of 94.73%, 98.03%, and 95.63%, respectively. In BSA fouling tests, FRR, Rt, Rr, and Rir were 89.6%, 40.3%, 29.9%, and 10.4%, respectively. The improved performance was associated with enhanced hydrophilicity and the SEM-observed peak–valley structure, supporting improved wetting, mass transfer, and fouling reversibility.",
+      "abstract": "Abstract The growing global need for fresh water, along with the reduction of traditional water sources, has made sustainable and energy‐efficient desalination technologies more important. This study offers a detailed review of wind‐powered desalination systems, highlighting their potential to provide eco‐friendly solutions in water‐scarce areas. The various desalination techniques, such as reverse osmosis (RO), mechanical vapor compression (MVC), multi‐stage flash (MSF), and electrodialysis (ED), are critically examined in terms of wind‐energy compatibility, operational efficiency, and energy requirements. It is observed that wind‐powered reverse osmosis desalination techniques are more energy‐efficient than other techniques, such as MVC and MSF, which are applicable in high‐salinity environments. Key challenges associated with the intermittent nature of wind energy are discussed, along with practical mitigation strategies such as energy storage, hybrid renewable integration, and adaptive system design. Furthermore, recent developments in hybrid renewable energy systems (HRES), which combine wind, solar, and storage technologies, are examined for their ability to improve system reliability and lower the levelized cost of water. Techno‐economic factors and optimisation methods are also reviewed to evaluate the feasibility of large‐scale deployment. Overall, the study highlights the significant potential of wind‐powered desalination as a sustainable means of producing freshwater, while identifying key areas for future research and technological advancement.",
       "cited_by_count": 0,
       "topics": [
         "脱盐/水处理"
       ],
       "keyword_hits": [
-        "rejection",
+        "reverse osmosis",
         "desalination"
       ],
-      "score": 51,
+      "score": 50,
       "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "3%",
-        "1%",
-        "6 h",
-        "20 μm",
-        "67.32%",
-        "82.67%",
-        "94.73%",
-        "98.03%"
-      ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Xi'an Polytechnic University；摘要首句：Emulsified oily wastewater is difficult to treat because of its complex composition and high stability.。",
-      "id": "doi:10.1016/j.dwt.2026.101936"
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Department of Mechanical Engineering Vignan's Foundation for Science, Technology and Research Deshmukhi, Hyderabad Telangana India、Department of Mechanical Engineering Vignan's Foundation for Science, Technology &amp; Research Vadlamudi, Guntur Andhra Pradesh India；摘要首句：Abstract The growing global need for fresh water, along with the reduction of traditional water sources, has made sustainable and energy‐efficient desalination technologies more important.。",
+      "id": "doi:10.1002/ep.70689"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -977,49 +994,6 @@
       "id": "doi:10.1021/acs.macromol.6c01169"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7208831352",
-      "openalex_url": "https://openalex.org/W7208831352",
-      "doi": "10.1016/j.apcatb.2026.127472",
-      "title": "Oxygen vacancy and nanoconfinement synergize in CoFe-LDH catalytic membranes for efficient peroxymonosulfate activation and water purification",
-      "publication_date": "2026-09-05",
-      "journal": "Applied Catalysis B: Environmental",
-      "authors": [
-        "Ruilong Zhang",
-        "Renyue Yu",
-        "Puranjan Mishra",
-        "Wenhua Xue",
-        "Jian Ye",
-        "Lulu Wang",
-        "Jing Zhu",
-        "Jianming Pan",
-        "Jonathan W.C. Wong",
-        "Jiangdong Dai",
-        "Jun Zhao"
-      ],
-      "first_author": "Ruilong Zhang",
-      "institutions": [
-        "Jiangsu University",
-        "Hong Kong Baptist University",
-        "Dongguan University of Technology",
-        "Anhui Agricultural University"
-      ],
-      "abstract": "Efficient peroxymonosulfate (PMS)-based degradation of refractory antibiotics is still hindered by slow mass transfer and insufficient utilization of catalytic sites in heterogeneous systems. Although layered double hydroxide (LDH) membranes and oxygen vacancy (Ov) engineering have been explored separately, how Ov-mediated PMS activation works together with nanoconfined transport remains unclear. Herein, we report an Ov-engineered CoFe-LDH catalytic membrane (LDH-8 MEM) for continuous-flow PMS activation and antibiotic degradation. The LDH-8 MEM/PMS system achieved rapid ofloxacin removal with high water permeance and an apparent pseudo-first-order rate constant of 65.09 s -1 under continuous-flow operation. Density functional theory (DFT) calculations indicate that Ov facilitates PMS adsorption and initial O-O bond activation. Electron paramagnetic resonance (EPR) and quenching experiments suggest that 1 O 2 is more involved in OFN oxidation under the tested conditions. Gaussian/Multiwfn analyses and molecular dynamics (MD) simulations suggest that PMS-pollutant hydrogen bonding and nanoconfined channels may favor local reactant enrichment and interfacial contact. This study provides insight into the coupled role of defect sites and confined membrane channels in PMS activation, offering guidance for designing efficient catalytic membranes for water purification.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳米通道/限域传输",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "permeance"
-      ],
-      "score": 44,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：纳米通道/限域传输 / 脱盐/水处理；团队：Jiangsu University、Hong Kong Baptist University；摘要首句：Efficient peroxymonosulfate (PMS)-based degradation of refractory antibiotics is still hindered by slow mass transfer and insufficient utilization of catalytic sites in heterogeneous systems.。",
-      "id": "doi:10.1016/j.apcatb.2026.127472"
-    },
-    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -1057,31 +1031,24 @@
       "id": "doi:10.1002/adfm.78326"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7212014896",
-      "openalex_url": "https://openalex.org/W7212014896",
-      "doi": "10.3390/membranes16090295",
-      "title": "Research on the Characteristics of Heat Transfer and Mass Transfer of Imitation Heart Pulse Membrane Distillation",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212047970",
+      "openalex_url": "https://openalex.org/W7212047970",
+      "doi": "10.1080/10667857.2026.2728021",
+      "title": "Impact of visible laser on graphene formation via laser-induced graphene on polyethersulfone membranes",
       "publication_date": "2026-09-09",
-      "journal": "Membranes",
+      "journal": "Materials Technology",
       "authors": [
-        "Xiaoxuan Zhu",
-        "Zhoujun Lan",
-        "Zhuang Song",
-        "Peng Wang",
-        "Derong Duan",
-        "Zhongyi Jiang"
+        "Entesar Ganash",
+        "Amwaj N. Alzahrani",
+        "Areej Aljarb",
+        "Reem Altuwirqi"
       ],
-      "first_author": "Xiaoxuan Zhu",
+      "first_author": "Entesar Ganash",
       "institutions": [
-        "Tianjin University",
-        "University of Jinan",
-        "Coal Industry Jinan Design & Research Institute (China)",
-        "School of Mechanical Engineering, University of Jinan, Jinan 250022, China",
-        "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, China",
-        "Shandong Guoshun Co., Ltd., Jinan 250030, China"
+        "King Abdulaziz University"
       ],
-      "abstract": "Membrane distillation, a separation technology, has drawn wide attention in industries such as seawater desalination and high-salinity wastewater treatment. However, conventional steady-flow operation suffers from flux decline and membrane fouling, while standard square-wave and sine-wave pulsations provide limited enhancement and stability. To address these issues, this study introduces heartbeat-mimicking pulsatile flow. Its effects on membrane distillation performance were evaluated through comparative (steady vs. pulsatile) experiments, a three-level orthogonal experiment, and tests with various feed solutions and modified membranes. Results show that, under baseline conditions, the heartbeat-mimicking pulsatile flow yielded a 17.5% higher average flux than steady flow, while its conductivity increase was only 25%, far below the 93% for steady flow. In the orthogonal experiment, the heartbeat-mimicking waveform accounted for the largest proportion of total variance (50.1%) among the tested parameters. Furthermore, compared to traditional sine or square waves, this biomimetic pulsation features unique acceleration-rest characteristics, making it highly applicable to complex feed solutions and effectively mitigating membrane fouling. This study aims to identify a new pulsation mode that can overcome the limitations of steady-flow membrane distillation.",
+      "abstract": "Cost-effective methods for producing scalable graphene-based membranes remain a significant challenge. This study presents the fabrication of graphene on polyethersulfone (PES) membranes via the laser-induced graphene (LIG) process using a visible 455 nm laser. Unlike conventional infrared-based LIG approaches, which rely solely on photothermal effects, the use of visible lasers enables graphene synthesis through a combination of photothermal and photochemical mechanisms. Key laser parameters, including power, scanning speed and focus distance, were systematically optimized to achieve few-layer graphene. Raman spectroscopy, TEM and FESEM confirmed the formation of three-dimensional fibrous graphene structures with fibre diameters below 100 nm. The impact of the LIG application on the wettability of the PES membranes was examined, revealing a transition from hydrophilic to hydrophobic surfaces that depended on scan parameters and membrane surface roughness. This approach demonstrates the potential for a scalable and cost-effective method to fabricate graphene-based membranes with potential applications in water treatment and desalination.",
       "cited_by_count": 0,
       "topics": [
         "脱盐/水处理"
@@ -1092,25 +1059,23 @@
       "score": 38,
       "relevance_class": "膜领域相关",
       "key_numbers": [
-        "17.5%",
-        "25%",
-        "93%",
-        "50.1%"
+        "455 nm",
+        "100 nm"
       ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Tianjin University、University of Jinan；摘要首句：Membrane distillation, a separation technology, has drawn wide attention in industries such as seawater desalination and high-salinity wastewater treatment.。",
-      "id": "doi:10.3390/membranes16090295"
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：King Abdulaziz University；摘要首句：Cost-effective methods for producing scalable graphene-based membranes remain a significant challenge.。",
+      "id": "doi:10.1080/10667857.2026.2728021"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7212033535",
-      "openalex_url": "https://openalex.org/W7212033535",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1002/adfm.78338",
       "title": "Desert Plant Inspired Hierarchical Nanofibrous Membranes for Integrated Solar Desalination and Heavy Metal Remediation",
       "publication_date": "2026-09-08",
       "journal": "Advanced Functional Materials",
       "authors": [
         "Yuqiong He",
-        "罗荣刚",
+        "Ronggang Luo",
         "Shengbo Ge",
         "Kaixin Jiang",
         "Kirsten Dyer",
@@ -1118,16 +1083,10 @@
         "Ben Bin Xu",
         "Xuehua Zhang",
         "Guanben Du",
-        "Kaimeng Xu",
-        "Ronggang Luo"
+        "Kaimeng Xu"
       ],
       "first_author": "Yuqiong He",
       "institutions": [
-        "Southwest Forestry University",
-        "Nanjing Forestry University",
-        "Northumbria University",
-        "Offshore Renewable Energy Catapult",
-        "University of Alberta",
         "International Joint Research Centre for Biomass Materials Yunnan Provincial Key Laboratory of Wood and Bamboo Biomass Materials College of Materials and Chemical Engineering Southwest Forestry University Kunming China",
         "Co‐Innovation Centre of Efficient Processing and Utilization of Forest Resources International Innovation Centre For Forest Chemicals and Materials College of Materials Science and Engineering Nanjing Forestry University Nanjing China",
         "School of Engineering Physics and Mathematics Faculty of Science and Environment Northumbria University Newcastle upon Tyne UK",
@@ -1148,7 +1107,7 @@
         "2 h",
         "98.95%"
       ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Southwest Forestry University、Nanjing Forestry University；摘要首句：ABSTRACT Freshwater scarcity is a global challenge, increasingly compounded by heavy metal contamination of water systems.。",
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：International Joint Research Centre for Biomass Materials Yunnan Provincial Key Laboratory of Wood and Bamboo Biomass Materials College of Materials and Chemical Engineering Southwest Forestry University Kunming China、Co‐Innovation Centre of Efficient Processing and Utilization of Forest Resources International Innovation Centre For Forest Chemicals and Materials College of Materials Science and Engineering Nanjing Forestry University Nanjing China；摘要首句：ABSTRACT Freshwater scarcity is a global challenge, increasingly compounded by heavy metal contamination of water systems.。",
       "id": "doi:10.1002/adfm.78338"
     },
     {
@@ -1509,42 +1468,6 @@
       "id": "doi:10.1021/jacsau.6c01003"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.3390/electronics15174019",
-      "title": "Frequency-Domain Enhancement and Multi-Scale Residual Modeling for Single-Image Reflection Separation",
-      "publication_date": "2026-09-05",
-      "journal": "Electronics",
-      "authors": [
-        "Limei Xiao",
-        "Xiaodong Wang",
-        "Ce Li",
-        "Xiaoxue Fan",
-        "Guangqin Zhang"
-      ],
-      "first_author": "Limei Xiao",
-      "institutions": [
-        "School of Automation and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China",
-        "School of Microelectronics Industry-Education Integration, Lanzhou University of Technology, Lanzhou 730050, China"
-      ],
-      "abstract": "Single-image reflection separation aims to recover transmission and reflection layers from an image captured through glass and is an important problem in computational photography and low-level vision. Recent dual-stream interactive methods have achieved substantial progress, but most of them still rely mainly on linear spatial-domain feature modeling and single-scale residual prediction, which limits their ability to handle complex reflection mixtures. To address these issues, this paper proposes a structural enhancement method for a pretrained dual-stream baseline. Inspired by homomorphic filtering, a Homomorphic Frequency Enhancement Module (HFEM) extracts complementary frequency-domain features through a logarithmic transformation and Haar wavelet decomposition and injects them into the local-prior branches of both streams via zero-initialized projections. A multi-scale residual modeling module (MSRM) further aggregates multi-level decoder features to replace the original single-scale residual module. During training, the pretrained baseline is kept frozen, and only the newly introduced modules are optimized. The final implementation introduces 1.528 M additional trainable parameters, including 1.318 M from HFEM and 0.210 M from MSRM, accounting for approximately 0.47% of the complete 328.49 M-parameter adapted model. On five public benchmarks with 494 images in total, the proposed method improves the weighted-average PSNR/SSIM from 26.52 dB/0.916 to 26.74 dB/0.917. Although the overall gain is modest, the frozen training setting shows a more stable optimization process, with a PSNR fluctuation of 0.28 dB compared with 3.65 dB for joint fine-tuning. Ablation results indicate that HFEM is the primary source of the performance gain, while MSRM provides a complementary residual-modeling benefit.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "ion separation"
-      ],
-      "score": 25,
-      "relevance_class": "领域扩展",
-      "key_numbers": [
-        "0.47%"
-      ],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：School of Automation and Electrical Engineering, Lanzhou University of Technology, Lanzhou 730050, China、School of Microelectronics Industry-Education Integration, Lanzhou University of Technology, Lanzhou 730050, China；摘要首句：Single-image reflection separation aims to recover transmission and reflection layers from an image captured through glass and is an important problem in computational photography and low-level vision.。",
-      "id": "doi:10.3390/electronics15174019"
-    },
-    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7210288654",
       "openalex_url": "https://openalex.org/W7210288654",
@@ -1581,43 +1504,43 @@
     "topics": [
       {
         "name": "纳滤",
-        "count": 258,
-        "delta": 16
+        "count": 214,
+        "delta": -74
       },
       {
         "name": "脱盐/水处理",
-        "count": 170,
-        "delta": 48
+        "count": 168,
+        "delta": 42
       },
       {
         "name": "离子筛分",
-        "count": 86,
-        "delta": 5
+        "count": 78,
+        "delta": -10
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 78,
-        "delta": 6
+        "count": 68,
+        "delta": -15
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 36,
-        "delta": 4
+        "count": 38,
+        "delta": 7
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 24,
-        "delta": 4
+        "count": 21,
+        "delta": -1
       },
       {
         "name": "COF/MOF膜",
-        "count": 21,
-        "delta": -13
+        "count": 20,
+        "delta": -17
       },
       {
         "name": "二维层状膜",
-        "count": 15,
-        "delta": -3
+        "count": 13,
+        "delta": -8
       }
     ],
     "journals": [
@@ -1628,8 +1551,8 @@
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 143,
-        "delta": 143
+        "count": 144,
+        "delta": 144
       },
       {
         "name": "Desalination",
@@ -1638,16 +1561,26 @@
       },
       {
         "name": "Journal of Water Process Engineering",
-        "count": 20,
-        "delta": 20
-      },
-      {
-        "name": "Desalination and Water Treatment",
-        "count": 18,
-        "delta": 18
+        "count": 21,
+        "delta": 21
       },
       {
         "name": "Advanced Functional Materials",
+        "count": 19,
+        "delta": 19
+      },
+      {
+        "name": "Desalination and Water Treatment",
+        "count": 19,
+        "delta": 19
+      },
+      {
+        "name": "ACS Applied Materials &amp; Interfaces",
+        "count": 16,
+        "delta": 16
+      },
+      {
+        "name": "Scientific Reports",
         "count": 14,
         "delta": 14
       },
@@ -1660,16 +1593,6 @@
         "name": "Water",
         "count": 12,
         "delta": 12
-      },
-      {
-        "name": "Scientific Reports",
-        "count": 12,
-        "delta": 12
-      },
-      {
-        "name": "ACS Applied Materials &amp; Interfaces",
-        "count": 11,
-        "delta": 11
       },
       {
         "name": "Chemical Engineering Journal",
@@ -1762,16 +1685,21 @@
     "institutions": [
       {
         "name": "Tiangong University",
-        "count": 16,
-        "delta": 16
+        "count": 17,
+        "delta": 17
       },
       {
         "name": "Tongji University",
-        "count": 14,
-        "delta": 14
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "Rice University",
+        "count": 10,
+        "delta": 10
+      },
+      {
+        "name": "Tongji University , , ,",
         "count": 10,
         "delta": 10
       },
@@ -1782,11 +1710,6 @@
       },
       {
         "name": "University of Science and Technology of China",
-        "count": 9,
-        "delta": 9
-      },
-      {
-        "name": "Tongji University , , ,",
         "count": 9,
         "delta": 9
       },
@@ -1806,32 +1729,32 @@
         "delta": 8
       },
       {
+        "name": "Ministry of Education",
+        "count": 8,
+        "delta": 8
+      },
+      {
+        "name": "Shanghai Ocean University",
+        "count": 8,
+        "delta": 8
+      },
+      {
         "name": "Hebei University of Technology",
         "count": 8,
         "delta": 8
       },
       {
-        "name": "Ministry of Education",
-        "count": 7,
-        "delta": 7
-      },
-      {
-        "name": "Shanghai Ocean University",
-        "count": 7,
-        "delta": 7
-      },
-      {
         "name": "University of Chinese Academy of Sciences",
+        "count": 8,
+        "delta": 8
+      },
+      {
+        "name": "Tsinghua University",
         "count": 7,
         "delta": 7
       },
       {
         "name": "Kobe University",
-        "count": 6,
-        "delta": 6
-      },
-      {
-        "name": "Dongguan University of Technology",
         "count": 6,
         "delta": 6
       }
