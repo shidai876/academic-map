@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-09-11T22:25:30.442403+00:00",
-  "updated_at_local": "2026-09-12 06:24 (UTC+8)",
+  "updated_at": "2026-09-12T22:24:55.296695+00:00",
+  "updated_at_local": "2026-09-13 06:24 (UTC+8)",
   "stats": {
-    "fetched": 1286,
-    "related": 38,
-    "recommended": 24,
+    "fetched": 1271,
+    "related": 40,
+    "recommended": 23,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -218,6 +218,49 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：University of Bonab；摘要首句：The crosslinking of polyvinyl chloride (PVC) with polycarbonate (PC) polymers was successfully achieved through a two-step reaction involving the attachment of benzene diamine to polyvinyl chloride, followed by linkage with pol…。",
       "id": "doi:10.1038/s41598-026-69302-y"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1021/acs.iecr.6c03127",
+      "title": "Kinetic Buffering Strategy Enables Interfacially Polymerized Loose Nanofiltration Membranes for Stable Dye/Salt Separation",
+      "publication_date": "2026-09-12",
+      "journal": "Industrial &amp; Engineering Chemistry Research",
+      "authors": [
+        "Xiaoqiang Zhong",
+        "Mengsheng Jiang",
+        "Changxin Li",
+        "Xueli Liu",
+        "Jingye Li",
+        "Bowu Zhang"
+      ],
+      "first_author": "Xiaoqiang Zhong",
+      "institutions": [
+        "Shanghai Normal University , , ,"
+      ],
+      "abstract": "Abstract The application of loose nanofiltration (LNF) membranes for dye/salt separation is hindered by a permeance–stability trade-off arising from uncontrolled interfacial polymerization (IP), which produces heterogeneous polyamide (PA) structures with poor durability. Herein, we introduce a kinetic buffering strategy using piperazine-N,N′-bis(2-ethanesulfonic acid) (PIPES) to regulate the diffusion and reaction of piperazine-2-carboxylic acid (PIP-COOH). Molecular dynamics simulations reveal that PIPES suppresses PIP-COOH migration via electrostatic repulsion and steric hindrance, reducing its diffusion coefficient by 85.1%. This controlled kinetics prevents the formation of an excessively dense incipient PA layer, enabling sustained vertical growth. Under dead-end filtration, the optimized membrane achieves a pure water permeance of 54.3 ± 1.3 L m–2 h–1 bar–1, &amp;gt;97% rejection of anionic dyes, and &amp;lt;3% Na2SO4 rejection. This kinetic buffering strategy resolves the permeance–stability dilemma, offering a rational design principle for robust LNF membranes toward sustainable textile wastewater treatment.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "interfacial polymerization",
+        "permeance",
+        "rejection"
+      ],
+      "score": 79,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "85.1%",
+        "54.3 ± 1.3 L m–2 h–1 bar–1",
+        "97%",
+        "3%"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：Shanghai Normal University , , ,；摘要首句：Abstract The application of loose nanofiltration (LNF) membranes for dye/salt separation is hindered by a permeance–stability trade-off arising from uncontrolled interfacial polymerization (IP), which produces heterogeneous pol…。",
+      "id": "doi:10.1021/acs.iecr.6c03127"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -641,47 +684,6 @@
       "id": "doi:10.1021/acsami.6c14571"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7210292187",
-      "openalex_url": "https://openalex.org/W7210292187",
-      "doi": "10.1016/j.seppur.2026.140056",
-      "title": "pH-controlled assembly of graphene oxide/nitrogen-doped graphene quantum dots membranes for enhanced nanofiltration performance",
-      "publication_date": "2026-09-06",
-      "journal": "Separation and Purification Technology",
-      "authors": [
-        "Julian Noah D. Trinidad",
-        "Hannah Faye M. Austria",
-        "Gabriel V. Carballo",
-        "R.D. Hope T. Cayron",
-        "Lemmuel Tayo",
-        "Wei-Song Hung",
-        "Chien‐Te Hsieh",
-        "Kueir-Rarn Lee",
-        "Juin-Yih Lai"
-      ],
-      "first_author": "Julian Noah D. Trinidad",
-      "institutions": [
-        "Mapúa University",
-        "National Taiwan University of Science and Technology",
-        "University of Makati",
-        "Yuan Ze University",
-        "Chung Yuan Christian University"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 66,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Mapúa University、National Taiwan University of Science and Technology；题名线索：pH-controlled assembly of graphene oxide/nitrogen-doped graphene quantum dots membranes for enhanced nanofiltration performance。",
-      "id": "doi:10.1016/j.seppur.2026.140056"
-    },
-    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7212177281",
       "openalex_url": "https://openalex.org/W7212177281",
@@ -817,42 +819,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：纳滤；团队：Lorestan University、Shahid Beheshti University；题名线索：Fouling-resistant polyethersulfone nanofiltration membrane containing agro-industrial waste-derived bionanostructure for pollutant removal。",
       "id": "doi:10.1016/j.matchemphys.2026.133111"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7208819814",
-      "openalex_url": "https://openalex.org/W7208819814",
-      "doi": "10.1016/j.jwpe.2026.110872",
-      "title": "Sulfonated polysulfone/polyethersulfone hollow fiber nanofiltration membranes with high chlorine resistance and antifouling properties",
-      "publication_date": "2026-09-06",
-      "journal": "Journal of Water Process Engineering",
-      "authors": [
-        "Hui Ye",
-        "Jinke An",
-        "Jing Lv",
-        "Yazhu Sui",
-        "Bo Li",
-        "Keji Li",
-        "Yuzhong Zhang"
-      ],
-      "first_author": "Hui Ye",
-      "institutions": [
-        "Tiangong University",
-        "Pingjin Hospital"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration"
-      ],
-      "score": 56,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Tiangong University、Pingjin Hospital；题名线索：Sulfonated polysulfone/polyethersulfone hollow fiber nanofiltration membranes with high chlorine resistance and antifouling properties。",
-      "id": "doi:10.1016/j.jwpe.2026.110872"
     },
     {
       "source_db": "OpenAlex",
@@ -1109,6 +1075,116 @@
       ],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：International Joint Research Centre for Biomass Materials Yunnan Provincial Key Laboratory of Wood and Bamboo Biomass Materials College of Materials and Chemical Engineering Southwest Forestry University Kunming China、Co‐Innovation Centre of Efficient Processing and Utilization of Forest Resources International Innovation Centre For Forest Chemicals and Materials College of Materials Science and Engineering Nanjing Forestry University Nanjing China；摘要首句：ABSTRACT Freshwater scarcity is a global challenge, increasingly compounded by heavy metal contamination of water systems.。",
       "id": "doi:10.1002/adfm.78338"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1007/s10570-026-07210-0",
+      "title": "Photothermal Janus bacterial cellulose membranes with interfacial evaporation for solar-driven seawater desalination",
+      "publication_date": "2026-09-12",
+      "journal": "Cellulose",
+      "authors": [
+        "Yujia Du",
+        "Xin Huang",
+        "Chenchen Xu",
+        "Wenli Wang",
+        "Zixiang Li",
+        "Xin Xia",
+        "Ying Wang",
+        "Zhiyong Li",
+        "Xuebin Hou",
+        "Huimin Zhou"
+      ],
+      "first_author": "Yujia Du",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 33,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Photothermal Janus bacterial cellulose membranes with interfacial evaporation for solar-driven seawater desalination。",
+      "id": "doi:10.1007/s10570-026-07210-0"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/aenm.71576",
+      "title": "Mechanically Robust Sulfide Electrolyte Membrane Featuring In Situ Dendrite Depletion for High‐Stability All‐Solid‐State Lithium Metal Batteries",
+      "publication_date": "2026-09-12",
+      "journal": "Advanced Energy Materials",
+      "authors": [
+        "Yongtao Zhao",
+        "Rong Hao",
+        "Jianwei Qiu",
+        "Qianqian Fu",
+        "Jiaxuan Feng",
+        "Ning Liu",
+        "Pengchao Si"
+      ],
+      "first_author": "Yongtao Zhao",
+      "institutions": [
+        "State Key Laboratory of Coatings for Advanced Equipment School of Materials Science and Engineering Key Laboratory for Liquid‐Solid Structural Evolution and Processing of Materials (Ministry of Education) Shandong University Jinan People's Republic of China",
+        "Shandong Provincial Key Laboratory of Electrochemical Catalysis and Conversion Jinan People's Republic of China",
+        "Wuhan Institute of Marine Electric Propulsion Wuhan People's Republic of China"
+      ],
+      "abstract": "ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithium metal batteries (ASSLMBs). This study reports a controllable 30 µm sandwich‑structured sulfide SSE membrane, fabricated by hot‑calendaring two Li 5.3 PS 4.3 ClBr 0.7 (LPSClBr) membranes with a poly(vinylidene fluoride‑co‑hexafluoropropylene) (PVDF‑HFP) electrospun scaffold embedded with KH‑792‑modified Li 1.3 Al 0.3 Ti 1.7 (PO 4 ) 3 (LATP@KH) nanoparticles. PVDF‑HFP network accommodates electrode volume changes, while LATP@KH nanofillers serve as fast‐ion‐conducting bridges and fill grain boundaries to suppress lithium nucleation. First‐principles calculations reveal LATP's high density of states at Fermi level (57.10), enabling a Ti 4+ /Ti 3+ redox reaction that in situ depletes infiltrating dendrites. The membrane achieves an ionic conductivity of 2.75 mS cm −1 and a critical current density of 1.0 mA cm −2 . Li symmetric cells cycle stably for over 2000 h at 0.2 mA cm −2 . LiIn||NCM811 full cells deliver 166.15 mAh g −1 at 0.2C (99.8% retention after 300 cycles) and exhibit negligible decay over 1000 cycles at 1C with ∼100% Coulombic efficiency. This work establishes a fast‐ion‐conductor‐modified polymer‐fiber composite architecture for mechanical reinforcement, in situ dendrite depletion and fast ion transport, offering a key design strategy for reliable ASSLMBs.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 31,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "30 µm",
+        "2000 h",
+        "99.8%",
+        "100%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：State Key Laboratory of Coatings for Advanced Equipment School of Materials Science and Engineering Key Laboratory for Liquid‐Solid Structural Evolution and Processing of Materials (Ministry of Education) Shandong University Jinan People's Republic of China、Shandong Provincial Key Laboratory of Electrochemical Catalysis and Conversion Jinan People's Republic of China；摘要首句：ABSTRACT Despite their high ionic conductivities, sulfide solid‐state electrolytes (SSEs) must reconcile ionic conductivity with mechanical integrity for ultrathin membrane fabrication when integrated into all‐solid‐state lithi…。",
+      "id": "doi:10.1002/aenm.71576"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1021/acs.inorgchem.6c04096",
+      "title": "Amine Adsorption in an Electron-Deficient MOF Enhances Photothermal Conversion and Water Evaporation Efficiency",
+      "publication_date": "2026-09-12",
+      "journal": "Inorganic Chemistry",
+      "authors": [
+        "Yunyan Meng",
+        "Hao Zeng",
+        "Chixian He",
+        "Zhengfen Liu",
+        "Jian-Jun Liu"
+      ],
+      "first_author": "Yunyan Meng",
+      "institutions": [
+        "Qujing Normal University , , ,",
+        "Yunnan Minzu University , , ,"
+      ],
+      "abstract": "Abstract The development of novel intermolecular electron-transfer materials for applications like near-infrared (NIR) photothermal conversion and seawater desalination still poses a major challenge. Perylenediimides (PDIs) are a well-known class of organic dyes characterized by their electron-deficient planar structure, ultrafast photoinduced electron transfer, and excellent charge separation capabilities, properties which support their extensive use in a wide range of fields. In this work, we report a PDI-based metal–organic framework, named Zn-PDI-Cl4, designed as a host framework electron-transfer material with excellent stability and tunability. Zn-PDI-Cl4 can be converted into radical anions (Zn-PDI-Cl4•–) in situ through photoinduced electron transfer, with adsorbed dimethylamine serving as the electron donor. This electron transfer enables enhanced NIR absorption and confers high stability to the radical anions, endowing the material with highly efficient photothermal conversion performance, favorable solar-to-water efficiency, and promising potential for solar-driven water evaporation applications. This work provides an effective strategy for designing novel photothermal conversion materials based on intermolecular electron transfer.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 30,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Qujing Normal University , , ,、Yunnan Minzu University , , ,；摘要首句：Abstract The development of novel intermolecular electron-transfer materials for applications like near-infrared (NIR) photothermal conversion and seawater desalination still poses a major challenge.。",
+      "id": "doi:10.1021/acs.inorgchem.6c04096"
     },
     {
       "source_db": "Crossref",
@@ -1504,43 +1580,43 @@
     "topics": [
       {
         "name": "纳滤",
-        "count": 214,
-        "delta": -74
+        "count": 167,
+        "delta": -167
       },
       {
         "name": "脱盐/水处理",
-        "count": 168,
-        "delta": 42
+        "count": 163,
+        "delta": 30
       },
       {
         "name": "离子筛分",
-        "count": 78,
-        "delta": -10
+        "count": 70,
+        "delta": -28
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 68,
-        "delta": -15
+        "count": 59,
+        "delta": -37
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 38,
-        "delta": 7
-      },
-      {
-        "name": "有机溶剂纳滤",
-        "count": 21,
-        "delta": -1
+        "count": 42,
+        "delta": 14
       },
       {
         "name": "COF/MOF膜",
         "count": 20,
-        "delta": -17
+        "delta": -19
+      },
+      {
+        "name": "有机溶剂纳滤",
+        "count": 17,
+        "delta": -8
       },
       {
         "name": "二维层状膜",
-        "count": 13,
-        "delta": -8
+        "count": 11,
+        "delta": -13
       }
     ],
     "journals": [
@@ -1560,32 +1636,37 @@
         "delta": 55
       },
       {
+        "name": "Advanced Functional Materials",
+        "count": 24,
+        "delta": 24
+      },
+      {
         "name": "Journal of Water Process Engineering",
         "count": 21,
         "delta": 21
       },
       {
-        "name": "Advanced Functional Materials",
-        "count": 19,
-        "delta": 19
+        "name": "ACS Applied Materials &amp; Interfaces",
+        "count": 21,
+        "delta": 21
       },
       {
         "name": "Desalination and Water Treatment",
-        "count": 19,
-        "delta": 19
+        "count": 20,
+        "delta": 20
       },
       {
-        "name": "ACS Applied Materials &amp; Interfaces",
+        "name": "Scientific Reports",
         "count": 16,
         "delta": 16
       },
       {
-        "name": "Scientific Reports",
+        "name": "Environmental Science &amp; Technology",
         "count": 14,
         "delta": 14
       },
       {
-        "name": "Environmental Science &amp; Technology",
+        "name": "Environmental Progress &amp; Sustainable Energy",
         "count": 14,
         "delta": 14
       },
@@ -1596,11 +1677,6 @@
       },
       {
         "name": "Chemical Engineering Journal",
-        "count": 10,
-        "delta": 10
-      },
-      {
-        "name": "Processes",
         "count": 10,
         "delta": 10
       }
@@ -1690,16 +1766,16 @@
       },
       {
         "name": "Tongji University",
-        "count": 15,
-        "delta": 15
-      },
-      {
-        "name": "Rice University",
-        "count": 10,
-        "delta": 10
+        "count": 16,
+        "delta": 16
       },
       {
         "name": "Tongji University , , ,",
+        "count": 11,
+        "delta": 11
+      },
+      {
+        "name": "Rice University",
         "count": 10,
         "delta": 10
       },
@@ -1710,6 +1786,21 @@
       },
       {
         "name": "University of Science and Technology of China",
+        "count": 9,
+        "delta": 9
+      },
+      {
+        "name": "Ministry of Education",
+        "count": 9,
+        "delta": 9
+      },
+      {
+        "name": "Shanghai Ocean University",
+        "count": 9,
+        "delta": 9
+      },
+      {
+        "name": "University of Chinese Academy of Sciences",
         "count": 9,
         "delta": 9
       },
@@ -1729,34 +1820,19 @@
         "delta": 8
       },
       {
-        "name": "Ministry of Education",
-        "count": 8,
-        "delta": 8
-      },
-      {
-        "name": "Shanghai Ocean University",
-        "count": 8,
-        "delta": 8
-      },
-      {
         "name": "Hebei University of Technology",
         "count": 8,
         "delta": 8
       },
       {
-        "name": "University of Chinese Academy of Sciences",
+        "name": "Tsinghua University",
         "count": 8,
         "delta": 8
       },
       {
-        "name": "Tsinghua University",
+        "name": "Fuzhou University",
         "count": 7,
         "delta": 7
-      },
-      {
-        "name": "Kobe University",
-        "count": 6,
-        "delta": 6
       }
     ]
   },
