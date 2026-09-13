@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-09-12T22:24:55.296695+00:00",
-  "updated_at_local": "2026-09-13 06:24 (UTC+8)",
+  "updated_at": "2026-09-13T22:26:13.791571+00:00",
+  "updated_at_local": "2026-09-14 06:25 (UTC+8)",
   "stats": {
-    "fetched": 1271,
+    "fetched": 1277,
     "related": 40,
-    "recommended": 23,
+    "recommended": 20,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -61,84 +61,91 @@
       "id": "doi:10.1126/sciadv.aei4200"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7211873487",
-      "openalex_url": "https://openalex.org/W7211873487",
-      "doi": "10.1021/acs.iecr.6c03099",
-      "title": "Synchronizing Interfacial Reactions at Ionic Liquid/Water Interfaces for Enhanced Organic Solvent Nanofiltration Membranes",
-      "publication_date": "2026-09-07",
-      "journal": "Industrial &amp; Engineering Chemistry Research",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212162883",
+      "openalex_url": "https://openalex.org/W7212162883",
+      "doi": "10.1016/j.memsci.2026.126143",
+      "title": "Sequentially regulated reaction and diffusion kinetics in cross-linking assisted phase inversion for sub-nanometer pore engineering in nanofiltration membranes",
+      "publication_date": "2026-09-10",
+      "journal": "Journal of Membrane Science",
       "authors": [
-        "Xi Cheng",
-        "FeiFei Cui",
-        "Guohong Zhang",
-        "Dan Hua",
-        "Guowu Zhan",
-        "Feifei Cui"
+        "Wenliang Wang",
+        "J. Wang",
+        "Jizhou Zhang",
+        "Xueyuan Tang",
+        "Yang Feng",
+        "Yunxia Hu"
       ],
-      "first_author": "Xi Cheng",
+      "first_author": "Wenliang Wang",
       "institutions": [
-        "Huaqiao University",
-        "Huaqiao University , , 668 Jimei Avenue , , ,"
+        "Tiangong University"
       ],
-      "abstract": "Abstract Thin-film nanocomposite (TFN) membranes show great potential for molecular separations, yet their fabrication typically involves multiple steps, including separate nanofiller synthesis, followed by interfacial polymerization. In this work, we report a one-step strategy to fabricate TFN membranes by synchronizing interfacial coordination and polymerization at an ionic liquid/water interface, directly forming an FeTCPP/polyamide hybrid layer on a poly(m-phenyleneisophthalamide) substrate. The membrane prepared with ethanol as a cosolvent in the aqueous phase (denoted TFN-E) was compared with its ethanol-free counterpart (TFN) and a conventional thin-film composite (TFC) membrane in terms of morphology, microstructure, physicochemical properties, and organic solvent nanofiltration (OSN) performance. The effects of nanomaterial loading and ethanol-to-water ratio were investigated. The reaction pathways and the role of ethanol were elucidated. The optimized TFN-E membrane exhibited a permeance 16 times as high as that of the nanomaterial-free TFC membrane (2.4 vs. 0.15 L m–2 h–1 bar–1) while maintaining a high rejection of Congo Red/ethanol. It also demonstrated excellent stability and durability in a variety of organic solvents. This work presents a novel and efficient one-step fabrication route for high-performance TFN membranes for the OSN applications.",
+      "abstract": "Efficient removal of Ca 2+ and Mg 2+ is critical for water softening; however, nanofiltration (NF) membranes remain constrained by the permeability-selectivity trade-off, largely because precise control over the selective-layer structure is difficult to achieve. Herein, we report an in situ cross-linking assisted non-solvent induced phase separation (CL-NIPS) strategy for regulating coupled reaction-transport processes during membrane formation. An amphiphilic polysulfone- block -β-cyclodextrin copolymer enables homogeneous incorporation of polyethyleneimine (PEI) into the casting solution, while glutaraldehyde (GA) introduced in the coagulation bath triggers rapid PEI-GA Schiff-base cross-linking concurrently with phase inversion. The interfacial reaction promotes PEI retention and formation of a PEI-rich, positively charged selective layer, while subsequent phase inversion develops the porous supporting structure. A controlled bulk-release assay using FITC-labeled PEI further demonstrates that GA-containing coagulation conditions substantially delay and suppress the apparent release of PEI relative to the water control, providing comparative evidence for reaction-modulated PEI retention during membrane formation. The resulting membranes exhibit a high water permeance of 38 L m −2 h −1 bar −1 and >90% rejection of Mg 2+ and Ca 2+ , together with excellent operational stability. Overall, this work demonstrates that reaction coupled phase inversion can be used to regulate PEI retention and selective-layer formation, providing a practical route toward high-permeance, charge selective NF membranes.",
       "cited_by_count": 0,
       "topics": [
         "纳滤",
-        "有机溶剂纳滤",
-        "聚酰胺/TFC"
+        "纳米通道/限域传输"
       ],
       "keyword_hits": [
         "nanofiltration",
-        "organic solvent nanofiltration",
-        "thin-film composite",
-        "interfacial polymerization",
         "permeance",
+        "permeability",
+        "selectivity",
         "rejection"
       ],
-      "score": 99,
+      "score": 94,
       "relevance_class": "核心膜分离",
       "key_numbers": [
-        "0.15 L m–2 h–1 bar–1"
+        "2 h",
+        "1 bar",
+        "90%"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤 / 聚酰胺/TFC；团队：Huaqiao University、Huaqiao University , , 668 Jimei Avenue , , ,；摘要首句：Abstract Thin-film nanocomposite (TFN) membranes show great potential for molecular separations, yet their fabrication typically involves multiple steps, including separate nanofiller synthesis, followed by interfacial polymeri…。",
-      "id": "doi:10.1021/acs.iecr.6c03099"
+      "brief": "定位：核心膜分离；主题：纳滤 / 纳米通道/限域传输；团队：Tiangong University；摘要首句：Efficient removal of Ca 2+ and Mg 2+ is critical for water softening; however, nanofiltration (NF) membranes remain constrained by the permeability-selectivity trade-off, largely because precise control over the selective-layer…。",
+      "id": "doi:10.1016/j.memsci.2026.126143"
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7211898397",
-      "openalex_url": "https://openalex.org/W7211898397",
-      "doi": "10.1007/s43832-026-00439-7",
-      "title": "Engineering nanocomposite polymeric membranes for sustainable water treatment",
-      "publication_date": "2026-09-07",
-      "journal": "Discover Water",
+      "openalex_id": "W7212015116",
+      "openalex_url": "https://openalex.org/W7212015116",
+      "doi": "10.1016/j.desal.2026.120778",
+      "title": "Swelling-resistant MXene/cyclodextrin hybrid membranes with high permeability for efficient dye/salt nanofiltration",
+      "publication_date": "2026-09-09",
+      "journal": "Desalination",
       "authors": [
-        "Moucham Borpatra Gohain",
-        "Pravin G. Ingole"
+        "Yang Lu",
+        "Zhixin Su",
+        "Hongyuan Zhang",
+        "Minhua Liu",
+        "Wenyong Jiang",
+        "Miaojia Pan",
+        "Jie Yang",
+        "Wenhao Su",
+        "Hai Huang",
+        "Faheem Hassan Akhtar",
+        "Hu Zhou",
+        "Tiefan Huang"
       ],
-      "first_author": "Moucham Borpatra Gohain",
+      "first_author": "Yang Lu",
       "institutions": [
-        "North East Institute of Science and Technology",
-        "Academy of Scientific and Innovative Research"
+        "Hunan University of Science and Technology",
+        "Lahore University of Management Sciences"
       ],
-      "abstract": "Rising water pollution, driven by industrialization, urbanization, and agricultural activities, has intensified the demand for efficient and sustainable water treatment technologies. Pressure-driven membrane processes have emerged as promising solutions owing to their high separation efficiency and environmentally friendly operation. This review presents the fundamentals of membrane technology, transport mechanisms, and recent advances in membrane fabrication, including thin-film composite (TFC) and thin-film nanocomposite (TFN) membranes, with particular emphasis on polymeric nanofiltration membranes. It critically discusses the key factors governing membrane performance, including fouling, biofouling, antibacterial and antifouling membrane development, charge-driven separation mechanisms, and the role of nanomaterials in enhancing permeability, selectivity, and membrane stability. The review also examines the practical challenges associated with membrane durability, nanoparticle leaching, scalability, and the economic feasibility of advanced membrane technologies. Finally, it identifies critical research priorities for developing robust, cost-effective, and scalable polymeric membranes for sustainable water purification and wastewater treatment.",
+      "abstract": "",
       "cited_by_count": 0,
       "topics": [
         "纳滤",
-        "聚酰胺/TFC",
         "脱盐/水处理"
       ],
       "keyword_hits": [
         "nanofiltration",
-        "thin-film composite",
         "permeability",
-        "selectivity"
+        "desalination"
       ],
-      "score": 99,
+      "score": 89,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：North East Institute of Science and Technology、Academy of Scientific and Innovative Research；摘要首句：Rising water pollution, driven by industrialization, urbanization, and agricultural activities, has intensified the demand for efficient and sustainable water treatment technologies.。",
-      "id": "doi:10.1007/s43832-026-00439-7"
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Hunan University of Science and Technology、Lahore University of Management Sciences；题名线索：Swelling-resistant MXene/cyclodextrin hybrid membranes with high permeability for efficient dye/salt nanofiltration。",
+      "id": "doi:10.1016/j.desal.2026.120778"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -188,41 +195,8 @@
     },
     {
       "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7211883479",
-      "openalex_url": "https://openalex.org/W7211883479",
-      "doi": "10.1038/s41598-026-69302-y",
-      "title": "Benzene diamine-crosslinked PVC/polycarbonate nanofiltration membranes with enhanced antifouling performance for emerging contaminant removal and water purification",
-      "publication_date": "2026-09-07",
-      "journal": "Scientific Reports",
-      "authors": [
-        "Rohollah Hajiarab",
-        "Habib Etemadi"
-      ],
-      "first_author": "Rohollah Hajiarab",
-      "institutions": [
-        "University of Bonab"
-      ],
-      "abstract": "The crosslinking of polyvinyl chloride (PVC) with polycarbonate (PC) polymers was successfully achieved through a two-step reaction involving the attachment of benzene diamine to polyvinyl chloride, followed by linkage with polycarbonate. The resulting polymer was characterized using Fourier-transform infrared (FT-IR) spectroscopy, thermogravimetric analysis (TGA), differential scanning calorimetry (DSC), and field emission scanning electron microscopy (FE-SEM). FT-IR analysis confirmed the presence of characteristic functional groups, indicating successful crosslinking. TGA and DSC analyses demonstrated enhanced thermal stability, with degradation occurring at elevated temperatures. The crosslinked PVC-PC polymer was then electrospun into nanofibrous membranes, which exhibited high water flux, excellent anti-fouling properties, and efficient salt rejection. The membranes also demonstrated significant removal of heavy metals and pharmaceutical contaminants from water, highlighting their potential in water purification applications. These findings suggest that the crosslinked PVC-PC polymer is a promising material for advanced membrane-based filtration technologies.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "salt rejection",
-        "rejection"
-      ],
-      "score": 86,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：University of Bonab；摘要首句：The crosslinking of polyvinyl chloride (PVC) with polycarbonate (PC) polymers was successfully achieved through a two-step reaction involving the attachment of benzene diamine to polyvinyl chloride, followed by linkage with pol…。",
-      "id": "doi:10.1038/s41598-026-69302-y"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "openalex_id": "W7212382825",
+      "openalex_url": "https://openalex.org/W7212382825",
       "doi": "10.1021/acs.iecr.6c03127",
       "title": "Kinetic Buffering Strategy Enables Interfacially Polymerized Loose Nanofiltration Membranes for Stable Dye/Salt Separation",
       "publication_date": "2026-09-12",
@@ -237,6 +211,7 @@
       ],
       "first_author": "Xiaoqiang Zhong",
       "institutions": [
+        "Shanghai Normal University",
         "Shanghai Normal University , , ,"
       ],
       "abstract": "Abstract The application of loose nanofiltration (LNF) membranes for dye/salt separation is hindered by a permeance–stability trade-off arising from uncontrolled interfacial polymerization (IP), which produces heterogeneous polyamide (PA) structures with poor durability. Herein, we introduce a kinetic buffering strategy using piperazine-N,N′-bis(2-ethanesulfonic acid) (PIPES) to regulate the diffusion and reaction of piperazine-2-carboxylic acid (PIP-COOH). Molecular dynamics simulations reveal that PIPES suppresses PIP-COOH migration via electrostatic repulsion and steric hindrance, reducing its diffusion coefficient by 85.1%. This controlled kinetics prevents the formation of an excessively dense incipient PA layer, enabling sustained vertical growth. Under dead-end filtration, the optimized membrane achieves a pure water permeance of 54.3 ± 1.3 L m–2 h–1 bar–1, &amp;gt;97% rejection of anionic dyes, and &amp;lt;3% Na2SO4 rejection. This kinetic buffering strategy resolves the permeance–stability dilemma, offering a rational design principle for robust LNF membranes toward sustainable textile wastewater treatment.",
@@ -259,13 +234,50 @@
         "97%",
         "3%"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：Shanghai Normal University , , ,；摘要首句：Abstract The application of loose nanofiltration (LNF) membranes for dye/salt separation is hindered by a permeance–stability trade-off arising from uncontrolled interfacial polymerization (IP), which produces heterogeneous pol…。",
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：Shanghai Normal University、Shanghai Normal University , , ,；摘要首句：Abstract The application of loose nanofiltration (LNF) membranes for dye/salt separation is hindered by a permeance–stability trade-off arising from uncontrolled interfacial polymerization (IP), which produces heterogeneous pol…。",
       "id": "doi:10.1021/acs.iecr.6c03127"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7212187381",
-      "openalex_url": "https://openalex.org/W7212187381",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212248991",
+      "openalex_url": "https://openalex.org/W7212248991",
+      "doi": "10.3311/ppch.44178",
+      "title": "Hydraulic Resistances of Membrane Filters and their Role in Industrial-Scale Make-Up Water Treatment",
+      "publication_date": "2026-09-11",
+      "journal": "Periodica Polytechnica Chemical Engineering",
+      "authors": [
+        "Qais Tareq Adeeb Al-Manadat",
+        "Reem Shaheen",
+        "Edit Cséfalvay"
+      ],
+      "first_author": "Qais Tareq Adeeb Al-Manadat",
+      "institutions": [
+        "Budapest University of Technology and Economics"
+      ],
+      "abstract": "This study presents the design and evaluation of a multistage membrane filtration system to produce ultrapure quality make-up water for thermal power plants using the Danube River as the feedwater source. Laboratory-scale filtration experiments were performed using a flat-sheet test cell to determine the hydraulic resistances of ultrafiltration, nanofiltration, and reverse osmosis membranes under varying transmembrane pressures. The experimental results confirm a linear correlation between the applied pressure and the permeate flow rate for all three membrane types under the tested conditions and establish a resistance-in-series model that provides the basis for upscaling calculations. The flow rate requirement for a single block of Paks power plant is 26.1 m3/h of ultrapure water, using 90% recovery per membrane stage. Two-stage microfiltration was applied to sufficiently remove the suspended solid content from raw water. The proposed system comprises ultrafiltration, nanofiltration, two-stage reverse osmosis, and electrodeionization, achieving a cumulative recovery of 53.14% and requiring a raw water feed of 49.11 m3/h. To drive the process, 5 centrifugal pumps were selected across different pressure zones (3, 9, 20, 31, 35 bar), with a total shaft power of 132.6 kW, corresponding to a specific energy consumption of 5.079 kWh/m3. This research provides a viable framework for scaling laboratory membrane setup to industrial pure water production, underscoring the necessity of an abundant feedwater source to compensate for the tradeoffs in multi-stage recovery.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "reverse osmosis"
+      ],
+      "score": 79,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "90%",
+        "53.14%",
+        "35 bar"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Budapest University of Technology and Economics；摘要首句：This study presents the design and evaluation of a multistage membrane filtration system to produce ultrapure quality make-up water for thermal power plants using the Danube River as the feedwater source.。",
+      "id": "doi:10.3311/ppch.44178"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1002/anie.7341167",
       "title": "Hierarchical Membrane for Photoelectrostatically Gated Monovalent‐Divalent Ion Separation",
       "publication_date": "2026-09-10",
@@ -278,8 +290,6 @@
       ],
       "first_author": "Enis Oğuzhan Eren",
       "institutions": [
-        "Max Planck Institute of Colloids and Interfaces",
-        "University of Alberta",
         "Department of Colloid Chemistry Max Planck Institute of Colloids and Interfaces Potsdam Germany",
         "Department of Chemical and Materials Engineering University of Alberta Edmonton Alberta Canada"
       ],
@@ -297,7 +307,7 @@
       "score": 79,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Max Planck Institute of Colloids and Interfaces、University of Alberta；摘要首句：ABSTRACT Monovalent‐divalent ion separation remains a significant challenge for the selective recovery of ions from aqueous solutions.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Department of Colloid Chemistry Max Planck Institute of Colloids and Interfaces Potsdam Germany、Department of Chemical and Materials Engineering University of Alberta Edmonton Alberta Canada；摘要首句：ABSTRACT Monovalent‐divalent ion separation remains a significant challenge for the selective recovery of ions from aqueous solutions.。",
       "id": "doi:10.1002/anie.7341167"
     },
     {
@@ -398,9 +408,9 @@
       "id": "doi:10.1021/acs.est.6c06151"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7211877406",
-      "openalex_url": "https://openalex.org/W7211877406",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1021/acsnano.6c08249",
       "title": "Interfacial Coordination and Dimensional Confinement Enable Continuous Thin MOF-on-MOF Membranes for Ion Sieving",
       "publication_date": "2026-09-08",
@@ -410,17 +420,12 @@
         "Liangmei Rao",
         "Zezhong Jiang",
         "Jiangyan Song",
-        "Xin‐Gui Li",
+        "Xin-Gui Li",
         "Fei Yu",
-        "Jie Ma",
-        "Xin-Gui Li"
+        "Jie Ma"
       ],
       "first_author": "Jinfeng Chen",
       "institutions": [
-        "Tongji University",
-        "Shanghai Ocean University",
-        "Central Pollution Control Board",
-        "Kashi University",
         "Tongji University , , ,",
         "Shanghai Ocean University , , No 999, Huchenghuan Road , ,",
         "Kashi University , , ,",
@@ -444,7 +449,7 @@
       "key_numbers": [
         "95.75%"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Tongji University、Shanghai Ocean University；摘要首句：Abstract Metal–organic frameworks (MOFs) with crystallographically defined pores and chemically programmable internal structures are attractive candidates for regulating ion transport at the molecular scale.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Tongji University , , ,、Shanghai Ocean University , , No 999, Huchenghuan Road , ,；摘要首句：Abstract Metal–organic frameworks (MOFs) with crystallographically defined pores and chemically programmable internal structures are attractive candidates for regulating ion transport at the molecular scale.。",
       "id": "doi:10.1021/acsnano.6c08249"
     },
     {
@@ -482,72 +487,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；团队：Suzhou University of Science and Technology；题名线索：Dual-charged composite nanofiltration membrane enabled by negatively charged CS/SBE-β-CD interlayer for enhanced ion separation。",
       "id": "doi:10.1016/j.envres.2026.125618"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7211914453",
-      "openalex_url": "https://openalex.org/W7211914453",
-      "doi": "10.1016/j.dwt.2026.101930",
-      "title": "Fabrication and characterization of polysulfone nanofiltration membranes modified with L-asparagine functionalized boehmite for enhanced dye and salt removal",
-      "publication_date": "2026-09-07",
-      "journal": "Desalination and Water Treatment",
-      "authors": [
-        "Mehran Jafari",
-        "Fariba Soltanolkottabi",
-        "Hojat Jafari"
-      ],
-      "first_author": "Mehran Jafari",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "desalination"
-      ],
-      "score": 74,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；题名线索：Fabrication and characterization of polysulfone nanofiltration membranes modified with L-asparagine functionalized boehmite for enhanced dye and salt removal。",
-      "id": "doi:10.1016/j.dwt.2026.101930"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7211946284",
-      "openalex_url": "https://openalex.org/W7211946284",
-      "doi": "10.1021/acs.jpcc.6c04371",
-      "title": "Harnessing Nonlinear Nanofluidic Rectification to Suppress Concentration Polarization",
-      "publication_date": "2026-09-09",
-      "journal": "The Journal of Physical Chemistry C",
-      "authors": [
-        "Diego A. Aldave",
-        "Soufiane Abdelghani‐Idrissi",
-        "Alessandro Siria"
-      ],
-      "first_author": "Diego A. Aldave",
-      "institutions": [
-        "Shenzhen University",
-        "Université Gustave Eiffel"
-      ],
-      "abstract": "Abstract Electrokinetic transport in nanoscale systems has garnered significant interest because of its potential applications in desalination, molecular separation, and ion-selective devices. In particular, electroosmotic flow (EOF) through selective membranes offers a promising mechanism for voltage-driven reverse osmosis. However, a fundamental limitation arises from ion concentration polarization, which develops at the membrane extremities, creating a local voltage and increasing osmotic pressure that tend to limit the EOF. Through numerical simulations, we investigate the buildup of polarization at an osmotic diode interface under applied DC and AC electrostatic forces. We demonstrate that the concentration-induced polarization leads to a limitation of EOF efficiency and, under nonlinear rectified and AC fields, gives rise to complex depletion-polarization dynamics that fundamentally differs from recently reported pulsed strategies. We show that imposing a lateral flow to flush the reservoirs effectively mitigates polarization, restoring the EOF efficiency. Our simulations reveal that nonlinear nanofluidic transport, coupled with lateral flow flushing, allows for the suppression of polarization effects and enhances filtering efficiency. These findings provide critical insights into the interplay between electrostatic forcing and CP, offering a deeper understanding of the constraints on voltage-driven reverse osmosis and electrokinetic membrane systems.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳米通道/限域传输",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis",
-        "nanofluidic",
-        "desalination"
-      ],
-      "score": 71,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳米通道/限域传输 / 脱盐/水处理；团队：Shenzhen University、Université Gustave Eiffel；摘要首句：Abstract Electrokinetic transport in nanoscale systems has garnered significant interest because of its potential applications in desalination, molecular separation, and ion-selective devices.。",
-      "id": "doi:10.1021/acs.jpcc.6c04371"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -791,67 +730,45 @@
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7211897289",
-      "openalex_url": "https://openalex.org/W7211897289",
-      "doi": "10.1016/j.matchemphys.2026.133111",
-      "title": "Fouling-resistant polyethersulfone nanofiltration membrane containing agro-industrial waste-derived bionanostructure for pollutant removal",
-      "publication_date": "2026-09-07",
-      "journal": "Materials Chemistry and Physics",
+      "openalex_id": "W7212174689",
+      "openalex_url": "https://openalex.org/W7212174689",
+      "doi": "10.1016/j.memsci.2026.126145",
+      "title": "Interlayer-alloyed MXene/GO nanochannels in heterolamellar membranes for molecular-sieving H2/CO2 separation",
+      "publication_date": "2026-09-10",
+      "journal": "Journal of Membrane Science",
       "authors": [
-        "Soran Kamari",
-        "Afsaneh Shahbazi"
+        "Shenzhen Cong",
+        "Ming Wang",
+        "Si Sun",
+        "Yijing Zhang",
+        "Rongrong He",
+        "Youhua Zhao",
+        "Zhehua Jia",
+        "Qin Shen",
+        "Toraj Mohammadi",
+        "Yatao Zhang"
       ],
-      "first_author": "Soran Kamari",
+      "first_author": "Shenzhen Cong",
       "institutions": [
-        "Lorestan University",
-        "Shahid Beheshti University"
+        "Yangzhou University",
+        "Zhengzhou University",
+        "Membrane Technology & Research (United States)",
+        "Petroleum University of Technology",
+        "Iran University of Science and Technology"
       ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
-        "纳滤"
+        "纳米通道/限域传输"
       ],
       "keyword_hits": [
-        "nanofiltration"
+        "nanochannel"
       ],
       "score": 56,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Lorestan University、Shahid Beheshti University；题名线索：Fouling-resistant polyethersulfone nanofiltration membrane containing agro-industrial waste-derived bionanostructure for pollutant removal。",
-      "id": "doi:10.1016/j.matchemphys.2026.133111"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7212193753",
-      "openalex_url": "https://openalex.org/W7212193753",
-      "doi": "10.1063/5.0314139",
-      "title": "Study on the influence of feed spacer dimensions and structure on permeation characteristics of reverse osmosis membranes",
-      "publication_date": "2026-09-10",
-      "journal": "International Journal of Fluid Engineering",
-      "authors": [
-        "Guanghui Cao",
-        "Y. Chen",
-        "Longhao Xiang",
-        "Songying Chen"
-      ],
-      "first_author": "Guanghui Cao",
-      "institutions": [
-        "Ministry of Education",
-        "Jinan Institute of Quantum Technology"
-      ],
-      "abstract": "A D2Q9 discrete velocity model within the multiple-relaxation-time framework is developed using the lattice Boltzmann method, coupled with boundary conditions that accurately capture membrane permeation characteristics. Numerical simulations are performed by incorporating feed spacers into unobstructed flow channels, systematically analyzing the effects of spacer structural configurations and dimensional parameters on hydrodynamics and mass transfer performance. The computational results reveal that spacer dimensions and geometric configurations differentially affect reverse osmosis performance, with larger spacer dimensions leading to more pronounced enhancements in flow disturbance intensification and membrane separation efficiency. Among the three spacer geometries (triangular, elliptical, and quadrilateral), the triangular spacer demonstrates the best performance in membrane separation processes, while elliptical and quadrilateral spacers show minimal differences in their effects on separation efficiency.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis"
-      ],
-      "score": 51,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Ministry of Education、Jinan Institute of Quantum Technology；摘要首句：A D2Q9 discrete velocity model within the multiple-relaxation-time framework is developed using the lattice Boltzmann method, coupled with boundary conditions that accurately capture membrane permeation characteristics.。",
-      "id": "doi:10.1063/5.0314139"
+      "brief": "定位：核心膜分离；主题：纳米通道/限域传输；团队：Yangzhou University、Zhengzhou University；题名线索：Interlayer-alloyed MXene/GO nanochannels in heterolamellar membranes for molecular-sieving H2/CO2 separation。",
+      "id": "doi:10.1016/j.memsci.2026.126145"
     },
     {
       "source_db": "OpenAlex",
@@ -921,43 +838,91 @@
       "id": "doi:10.1002/ep.70689"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7211911940",
-      "openalex_url": "https://openalex.org/W7211911940",
-      "doi": "10.1021/acs.macromol.6c01169",
-      "title": "2D Sulfur-Enriched Polymer Nanofilm as a Macroscopic RAFT Agent toward Programmable Ion-Sieving Membranes",
-      "publication_date": "2026-09-07",
-      "journal": "Macromolecules",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212022253",
+      "openalex_url": "https://openalex.org/W7212022253",
+      "doi": "10.1016/j.dwt.2026.101939",
+      "title": "Biochar-based flow-electrode capacitive deionization for industrial wastewater desalination: Performance, mechanisms, and regeneration",
+      "publication_date": "2026-09-09",
+      "journal": "Desalination and Water Treatment",
       "authors": [
-        "Panpan Zhang",
-        "Yifan Wu",
-        "Xi Chen",
-        "Xushuai Chen",
-        "Min Chao",
-        "Chunjia Luo",
-        "Luke Yan"
+        "Jian Peng",
+        "Canbin Zhong",
+        "Wei Liu",
+        "Jialin Liao",
+        "Baofu Gao",
+        "Wubiao Lin",
+        "Ruixiong Huang",
+        "Rikun Lai",
+        "Yong Yang",
+        "Huosheng Li",
+        "Jianhao Chen",
+        "Xinqian Zhou",
+        "Jianyou Long"
       ],
-      "first_author": "Panpan Zhang",
+      "first_author": "Jian Peng",
       "institutions": [
-        "Chang'an University",
-        "Chang’an University , , ,"
+        "Guangzhou University",
+        "Shenzhen Bay Laboratory",
+        "Metallurgical Corporation of China (China)",
+        "Panyu Hospital of Chinese Medicine",
+        "Guangzhou Panyu Polytechnic",
+        "South China Municipal Engineering Design and Research Institute (China)"
       ],
-      "abstract": "Abstract Sulfur-containing polymers are promising materials characterized by notable thermal, mechanical, optical, and recyclable properties, but synthesizing them as two-dimensional (2D) nanomaterials remains a significant challenge. Here, we introduce a mild interfacial polymerization (IP) strategy that enables the facile fabrication of large-area, continuous 2D polytrithiocarbonate (PTTC) nanofilms. The resulting nanofilms could be readily transferred to various substrates and used as active layers for separation membranes. Moreover, the PTTC nanofilms serve as macroscopic reversible addition-fragmentation chain-transfer (RAFT) agents, permitting their precise post-synthetic functionalization for reduced pore sizes and engineered surface charge. This programmable modification yields tailored nanofiltration membranes that achieve high ion-pair selectivity (Cl−/SO42−, 87.1; Na+/Mg2+, 22.0), enhanced water flux, and robust stability in harsh acidic environments. This work establishes a versatile platform for creating adaptive 2D polymer films, with promising applications in advanced separations, smart coatings, and sensing technologies.",
+      "abstract": "The regeneration of electrodes treating real industrial wastewater for reuse by flow-electrode capacitive deionization (FCDI) remains underexplored. In this study, watermelon-rind-derived biochar was evaluated as a flow-electrode material for FCDI and compared with commercial activated carbon for the treatment of real electroplating wastewater. Despite its much lower specific surface area than activated carbon (12.77 vs 601.65 m 2 /g), biochar showed superior desalination performance, associated with its larger average pore size (3.41 vs 2.34 nm), rapid wetting, accessible surface functionalities, and favorable interfacial electrochemical properties rather than surface area alone. At 2.0 V with 10 wt% biochar and 0.50 wt% conductive carbon black, the system achieved a conductivity decrease of 95–97% within 12 h. Increasing voltage and biochar loading improved desalination performance, whereas a higher wastewater loading at fixed electrode dosage reduced the efficiency and rate. Among three regeneration protocols, ultrasonic pretreatment before filtration followed by saline redispersion gave the highest fifth-cycle performance retention (50.5%), compared with 37.9% for saline redispersion and 35.8% for ultrasonic water cleansing. Endpoint characterization indicated that capacitive ion storage coexisted with interfacial ion retention and non-capacitive mineral precipitation/scaling. These findings highlight the importance of accessible interfacial properties and scaling control for durable biochar-based FCDI.",
       "cited_by_count": 0,
       "topics": [
-        "纳滤",
-        "聚酰胺/TFC"
+        "脱盐/水处理"
       ],
       "keyword_hits": [
-        "nanofiltration",
-        "interfacial polymerization",
-        "selectivity"
+        "desalination"
       ],
-      "score": 49,
+      "score": 43,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "2.34 nm",
+        "95–97%",
+        "12 h",
+        "50.5%",
+        "37.9%",
+        "35.8%"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Guangzhou University、Shenzhen Bay Laboratory；摘要首句：The regeneration of electrodes treating real industrial wastewater for reuse by flow-electrode capacitive deionization (FCDI) remains underexplored.。",
+      "id": "doi:10.1016/j.dwt.2026.101939"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7211961545",
+      "openalex_url": "https://openalex.org/W7211961545",
+      "doi": "10.1016/j.dwt.2026.101935",
+      "title": "Desalination brine discharge: Environmental impacts, management strategies, and bibliometric insights toward sustainable desalination systems",
+      "publication_date": "2026-09-08",
+      "journal": "Desalination and Water Treatment",
+      "authors": [
+        "Hafssa Choukri",
+        "Ahmed Khadra",
+        "Mohamed Techetach",
+        "Naaila Ouazzani",
+        "Ouafa Cherifi",
+        "Fatima Rafiq"
+      ],
+      "first_author": "Hafssa Choukri",
+      "institutions": [
+        "Cadi Ayyad University"
+      ],
+      "abstract": "Desalination has become an essential component of global water supply strategies over the past two decades in response to accelerating climate change, population growth, and increasing freshwater scarcity. While advances in desalination technologies have significantly improved water production efficiency, the management of desalination brine remains a critical environmental and operational challenge. Brine discharge, characterized by elevated salinity and the presence of chemical additives, poses risks to marine ecosystems, including alterations of microbial communities, physiological stress in marine organisms, and degradation of benthic habitats. Despite the growing body of literature addressing these issues, a comprehensive, field-wide assessment of research trends, thematic evolution, and knowledge gaps related to desalination brine discharge is still lacking. This study presents a systematic bibliometric analysis of 888 publications indexed in the Web of Science database between 2000 and 2025, aiming to map the intellectual structure, global research landscape, and emerging directions in desalination brine discharge research. Publication dynamics, leading journals, influential authors, key institutions, and international collaboration networks were examined, together with keyword co-occurrence and thematic clustering analyses to identify dominant and emerging research themes. The results reveal a rapid growth in brine-related research, with strong contributions from regions facing acute water stress, and an increasing emphasis on environmental impacts, brine management technologies, resource recovery, and circular economy approaches. By integrating bibliometric insights with a critical interpretation of technological and environmental trends, this review highlights major research gaps, including the limited integration of ecotoxicological assessments, long-term field studies, and coupled hydrodynamic–ecological approaches. The findings provide a strategic perspective for researchers, engineers, and policymakers, supporting the development of environmentally sustainable brine management practices and guiding future innovations in desalination systems toward resource-efficient and ecosystem-compatible solutions.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 43,
       "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：纳滤 / 聚酰胺/TFC；团队：Chang'an University、Chang’an University , , ,；摘要首句：Abstract Sulfur-containing polymers are promising materials characterized by notable thermal, mechanical, optical, and recyclable properties, but synthesizing them as two-dimensional (2D) nanomaterials remains a significant cha…。",
-      "id": "doi:10.1021/acs.macromol.6c01169"
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Cadi Ayyad University；摘要首句：Desalination has become an essential component of global water supply strategies over the past two decades in response to accelerating climate change, population growth, and increasing freshwater scarcity.。",
+      "id": "doi:10.1016/j.dwt.2026.101935"
     },
     {
       "source_db": "Crossref",
@@ -997,7 +962,7 @@
       "id": "doi:10.1002/adfm.78326"
     },
     {
-      "source_db": "OpenAlex",
+      "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7212047970",
       "openalex_url": "https://openalex.org/W7212047970",
       "doi": "10.1080/10667857.2026.2728021",
@@ -1008,11 +973,14 @@
         "Entesar Ganash",
         "Amwaj N. Alzahrani",
         "Areej Aljarb",
-        "Reem Altuwirqi"
+        "Reem Altuwirqi",
+        "Entesar A. Ganash",
+        "Reem M. Altuwirqi"
       ],
-      "first_author": "Entesar Ganash",
+      "first_author": "Entesar A. Ganash",
       "institutions": [
-        "King Abdulaziz University"
+        "King Abdulaziz University",
+        "Physics Department, Faculty of Science, King Abdulaziz University"
       ],
       "abstract": "Cost-effective methods for producing scalable graphene-based membranes remain a significant challenge. This study presents the fabrication of graphene on polyethersulfone (PES) membranes via the laser-induced graphene (LIG) process using a visible 455 nm laser. Unlike conventional infrared-based LIG approaches, which rely solely on photothermal effects, the use of visible lasers enables graphene synthesis through a combination of photothermal and photochemical mechanisms. Key laser parameters, including power, scanning speed and focus distance, were systematically optimized to achieve few-layer graphene. Raman spectroscopy, TEM and FESEM confirmed the formation of three-dimensional fibrous graphene structures with fibre diameters below 100 nm. The impact of the LIG application on the wettability of the PES membranes was examined, revealing a transition from hydrophilic to hydrophobic surfaces that depended on scan parameters and membrane surface roughness. This approach demonstrates the potential for a scalable and cost-effective method to fabricate graphene-based membranes with potential applications in water treatment and desalination.",
       "cited_by_count": 0,
@@ -1028,8 +996,49 @@
         "455 nm",
         "100 nm"
       ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：King Abdulaziz University；摘要首句：Cost-effective methods for producing scalable graphene-based membranes remain a significant challenge.。",
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：King Abdulaziz University、Physics Department, Faculty of Science, King Abdulaziz University；摘要首句：Cost-effective methods for producing scalable graphene-based membranes remain a significant challenge.。",
       "id": "doi:10.1080/10667857.2026.2728021"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.3390/membranes16090295",
+      "title": "Research on the Characteristics of Heat Transfer and Mass Transfer of Imitation Heart Pulse Membrane Distillation",
+      "publication_date": "2026-09-09",
+      "journal": "Membranes",
+      "authors": [
+        "Xiaoxuan Zhu",
+        "Zhoujun Lan",
+        "Zhuang Song",
+        "Peng Wang",
+        "Derong Duan",
+        "Zhongyi Jiang"
+      ],
+      "first_author": "Xiaoxuan Zhu",
+      "institutions": [
+        "School of Mechanical Engineering, University of Jinan, Jinan 250022, China",
+        "School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, China",
+        "Shandong Guoshun Co., Ltd., Jinan 250030, China"
+      ],
+      "abstract": "Membrane distillation, a separation technology, has drawn wide attention in industries such as seawater desalination and high-salinity wastewater treatment. However, conventional steady-flow operation suffers from flux decline and membrane fouling, while standard square-wave and sine-wave pulsations provide limited enhancement and stability. To address these issues, this study introduces heartbeat-mimicking pulsatile flow. Its effects on membrane distillation performance were evaluated through comparative (steady vs. pulsatile) experiments, a three-level orthogonal experiment, and tests with various feed solutions and modified membranes. Results show that, under baseline conditions, the heartbeat-mimicking pulsatile flow yielded a 17.5% higher average flux than steady flow, while its conductivity increase was only 25%, far below the 93% for steady flow. In the orthogonal experiment, the heartbeat-mimicking waveform accounted for the largest proportion of total variance (50.1%) among the tested parameters. Furthermore, compared to traditional sine or square waves, this biomimetic pulsation features unique acceleration-rest characteristics, making it highly applicable to complex feed solutions and effectively mitigating membrane fouling. This study aims to identify a new pulsation mode that can overcome the limitations of steady-flow membrane distillation.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 38,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "17.5%",
+        "25%",
+        "93%",
+        "50.1%"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：School of Mechanical Engineering, University of Jinan, Jinan 250022, China、School of Chemical Engineering and Technology, Tianjin University, Tianjin 300072, China；摘要首句：Membrane distillation, a separation technology, has drawn wide attention in industries such as seawater desalination and high-salinity wastewater treatment.。",
+      "id": "doi:10.3390/membranes16090295"
     },
     {
       "source_db": "Crossref",
@@ -1467,163 +1476,190 @@
       "id": "doi:10.1002/ep.70653"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/adfm.78244",
-      "title": "Programming Ion Transport in Phenyl‐Bridged Graphene Layers via Delocalization‐Catalyzed Decoupling",
-      "publication_date": "2026-09-07",
-      "journal": "Advanced Functional Materials",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212365412",
+      "openalex_url": "https://openalex.org/W7212365412",
+      "doi": "10.5281/zenodo.22710140",
+      "title": "Keyora Antarctic Krill Oil EP-12: The Neural Membrane-Cognitive Execution Matrix: From Age-Related Cognitive Slowing and Memory-Synaptic Function to Executive Processing and Vascular-Metabolic Cognitive Risk",
+      "publication_date": "2026-09-11",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
       "authors": [
-        "Rui Wang",
-        "Ruilin Wu",
-        "Shixin Liu",
-        "Yunan Wei",
-        "Lei Wang",
-        "Zhangyuan Wang",
-        "Zhipeng Su",
-        "Runwei Mo"
+        "Xu Jin"
       ],
-      "first_author": "Rui Wang",
+      "first_author": "Xu Jin",
       "institutions": [
-        "School of Mechanical and Power Engineering East China University of Science and Technology Shanghai China",
-        "Shanghai Key Laboratory of Intelligent Sensing and Detection Technology East China University of Science and Technology Shanghai China"
+        "KeyW (United States)"
       ],
-      "abstract": "ABSTRACT Graphene nanomaterials have shown extraordinary potential in capacitive deionization, but their actual performance often falls far short of theoretical predictions due to limited ion diffusion caused by narrow interlayer spacing. More importantly, the relationship between interlayer spacing and desalination efficiency remains unclear, hindering rational design. Here, we develop a delocalization‐catalyzed decoupling strategy that simultaneously regulates the interlayer structure and local electronic environment of phenyl‐bridged holey reduced graphene oxide. In this concept, phenyl bridging induces interlayer expansion and weakens direct graphene–graphene coupling, whereas the associated phenyl–graphene conjugation gives rise to interfacial charge redistribution and electron delocalization that facilitate charge and ion transport within the decoupled layered architecture. Crucially, we establish a semi‐quantitative correlation framework connecting interlayer structure, local electronic environment, local ion distribution, and macroscopic electrochemical behavior. This mechanistic insight advances our understanding of the structure‐activity relationship in layered materials. The electrode exhibited an ultra‐high desalination capacity of 80.6 mg g − 1 , an excellent adsorption rate of 16.12 mg g − 1 min − 1 , and outstanding stability with a capacity retention rate of 93.6% after 450 cycles, which exceeds previously reported. This study provides a semi‐quantitative correlation framework and methodological guidance for the rational design of 2D materials in ion capture and transport.",
+      "abstract": "Background Cognitive aging is frequently described through broad complaints such as forgetfulness, brain fog, slower thinking, or reduced concentration. These descriptions are meaningful as experienced symptoms, but they are not sufficiently precise to define a cognitive phenotype, identify an underlying biological bottleneck, or determine whether a nutritional intervention has produced a measurable response. Normal cognitive aging is heterogeneous. Processing speed, attention, executive function, episodic memory, working memory, language, and other cognitive capacities do not necessarily change at the same rate. Subjective cognitive decline is likewise distinct from objectively measurable impairment. Mild cognitive impairment represents a further clinical stage, while dementia involves a different level of cognitive and functional consequence. The biological architecture beneath cognitive performance is similarly multidimensional. Neural execution depends on membrane organization, receptors, ion channels, synaptic vesicle dynamics, neurotransmission, neural network timing, vascular perfusion, endothelial function, blood-brain-barrier regulation, and systemic metabolic conditions. A nutritional intervention can therefore possess strong biological plausibility at one level without producing measurable cognitive benefit at another. Keyora Antarctic Krill Oil EP-12 develops an evidence-bound cognitive-aging framework centered on Phospholipid Omega-3 and the neural structural-lipid environment. Its principal conceptual systems include: Keyora [The Neural Membrane-Cognitive Execution Matrix] Keyora [The Cognitive Domain Response Map] Keyora [The Cognitive Stage Intervention Gate] Keyora [The Brain Activation-Cognitive Outcome-Disease Progression Separation Rule] and: The Vascular-Metabolic Cognitive Phenotype. Within this architecture, DHA carries the greatest neural structural emphasis because of its established role within brain phospholipids. PC and total phospholipids provide a second membrane-structural axis. Choline contributes to phosphatidylcholine metabolism and acetylcholine synthesis while remaining a multi-pathway nutrient rather than a stand-alone memory-treatment object. EPA supports the broader membrane, inflammatory-lipid, and vascular-metabolic context. DPA is introduced later as a vascular-repair-oriented long-chain n-3 object whose human cognitive and vascular-repair evidence remains substantially more limited than its experimental biology. The controlling principle is that biological plausibility, exposure, neural activation, cognitive performance, global cognition, and disease progression are different evidence objects. Objective The objectives of EP-12 are to: distinguish cognitive decline as a phenotype from a diagnosis; separate normal cognitive aging, subjective cognitive decline, objective impairment, mild cognitive impairment, and dementia according to trajectory, measured performance, and functional impact; establish why persistent cognitive trajectory is more informative than isolated day-to-day variation; separate memory, attention, executive function, processing speed, working memory, global cognition, and daily function as distinct cognitive evidence objects; define Keyora [The Cognitive Domain Response Map] as the rule that an intervention response must be interpreted at the cognitive domain actually measured; establish Keyora [The Cognitive Stage Intervention Gate] so that nutritional support is interpreted within cognitive stage rather than used as a substitute for staging; establish neural membrane lipid architecture as a biological substrate of cognitive execution; define Keyora [The Neural Membrane-Cognitive Execution Matrix] as the relationship linking membrane lipid organization with membrane-dependent signaling and synaptic execution; establish the structural importance of DHA within neural membrane phospholipids without converting that structural importance into automatic cognitive efficacy; preserve Phospholipid Omega-3 as the controlling Keyora intervention identity rather than generic Omega-3; retain molecular form as biologically relevant while rejecting universal superiority claims for phospholipid-form delivery; preserve the distinction between circulating lipid exposure, plasma-phospholipid incorporation, neural membrane biology, and cognitive outcome; establish PC and broader phospholipid architecture as structural components rather than passive packaging around DHA; define Choline as a metabolically distributed nutrient involved in PC synthesis, Betaine-related metabolism, and acetylcholine synthesis; prevent the Choline contribution of Keyora Antarctic Krill Oil from being interpreted as an independently validated memory-treatment dose; define the Memory-Synaptic Phenotype by separating episodic learning, immediate recall, delayed recall, recognition, working memory, and subjective memory experience; distinguish memory encoding, retention, and retrieval problems; evaluate DHA, PC, phospholipid, and Choline mechanisms relevant to synaptic and memory biology without substituting mechanism for human memory outcomes; establish why positive results in one memory test cannot be generalized automatically to global memory or cognition; separate attention, executive control, processing speed, and working-memory execution from long-term memory storage; interpret cognitive slowing as potentially reflecting execution inefficiency rather than memory loss; integrate direct human krill-oil neurophysiological evidence involving cortical oxygenation and P300 responses; establish Keyora [The Brain Activation-Cognitive Outcome-Disease Progression Separation Rule]; distinguish cortical hemodynamic response from electrophysiological response; distinguish both of those from behavioral cognitive performance; distinguish behavioral domain response from global cognition; distinguish cognitive performance from MCI or dementia disease progression; establish the Vascular-Metabolic Cognitive Phenotype as an upstream cognitive-aging layer; integrate cerebral small-vessel disease, neurovascular coupling, cerebral perfusion regulation, endothelial function, BBB / neurovascular-unit biology, and cardiometabolic risk; define hypertension, diabetes or insulin resistance, dyslipidemia, and obesity as interacting cognitive-risk contexts rather than cognitive outcomes; preserve cognitive outcomes and vascular-metabolic outcomes as parallel but non-interchangeable response domains; position EPA and DHA within the stronger human vascular and cardiometabolic evidence base; position DPA as a vascular-repair-oriented experimental component without claiming clinically demonstrated human vessel regeneration or cognitive benefit; identify unresolved vascular-metabolic burden as a potential contributor to apparent cognitive non-response; establish that cognitive non-response should trigger reassessment of domain, exposure, observation period, and upstream contributors rather than automatic supplement escalation. Cognitive Decline Is a Phenotype, Not a Diagnosis A cognitive complaint becomes scientifically useful only when several questions are separated. What has changed? How long has it been changing? Which cognitive domain is affected? Can the change be demonstrated objectively? Has daily function changed? Is the pattern stable, fluctuating, or progressively worsening? A single complaint such as “my memory is worse” cannot answer these questions. An individual may experience slower information processing while retaining normal delayed recall. Another may experience encoding failure because attention is reduced. Another may demonstrate true episodic-memory impairment. Another may notice subjective decline despite normal standardized testing. These states require different interpretation. Normal Cognitive Aging Normal aging is not uniform cognitive deterioration. Some cognitive functions, particularly aspects of processing efficiency, attention, and executive execution, can become less efficient with age while accumulated knowledge and independent function remain substantially preserved. The clinical importance of a slower response therefore depends on functional context. Slower processing does not necessarily mean loss of knowledge. Greater effort does not necessarily mean neurodegenerative disease. Subjective Cognitive Decline and Objective Impairment Subjective cognitive change reflects an experienced decline relative to previous function. Objective impairment requires measurable performance evidence within an appropriate assessment context. The two can coexist. They can also diverge. Persistent subjective decline with otherwise expected test performance is therefore neither meaningless nor equivalent to MCI. The Keyora framework treats subjective and objective evidence as separate longitudinal information sources. Trajectory Over One Bad Day Sleep, illness, stress, pain, fatigue, sensory limitations, medication effects, and environmental demands can alter cognitive performance temporarily. One poor day is therefore a weak longitudinal signal. Persistent or progressive deterioration has greater interpretive weight. Trajectory becomes particularly important when intervention response is later assessed because without a defined baseline and domain, subsequent change cannot be interpreted precisely. Keyora [The Cognitive Stage Intervention Gate] The stage framework places nutritional interpretation after cognitive classification. In early age-related slowing, a nutritional-support task may remain reasonable when daily function is preserved. In subjective cognitive decline, longitudinal observation and repeatable measurement become increasingly important. When objective impairment or MCI becomes plausible, for",
       "cited_by_count": 0,
       "topics": [
-        "脱盐/水处理"
+        "离子筛分"
       ],
       "keyword_hits": [
-        "desalination"
+        "ion separation"
       ],
-      "score": 30,
+      "score": 21,
       "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "93.6%"
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：KeyW (United States)；摘要首句：Background Cognitive aging is frequently described through broad complaints such as forgetfulness, brain fog, slower thinking, or reduced concentration.。",
+      "id": "doi:10.5281/zenodo.22710140"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212379716",
+      "openalex_url": "https://openalex.org/W7212379716",
+      "doi": "10.5281/zenodo.22710139",
+      "title": "Keyora Antarctic Krill Oil EP-12: The Neural Membrane-Cognitive Execution Matrix: From Age-Related Cognitive Slowing and Memory-Synaptic Function to Executive Processing and Vascular-Metabolic Cognitive Risk",
+      "publication_date": "2026-09-11",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Xu Jin"
       ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：School of Mechanical and Power Engineering East China University of Science and Technology Shanghai China、Shanghai Key Laboratory of Intelligent Sensing and Detection Technology East China University of Science and Technology Shanghai China；摘要首句：ABSTRACT Graphene nanomaterials have shown extraordinary potential in capacitive deionization, but their actual performance often falls far short of theoretical predictions due to limited ion diffusion caused by narrow interlay…。",
-      "id": "doi:10.1002/adfm.78244"
+      "first_author": "Xu Jin",
+      "institutions": [
+        "KeyW (United States)"
+      ],
+      "abstract": "Background Cognitive aging is frequently described through broad complaints such as forgetfulness, brain fog, slower thinking, or reduced concentration. These descriptions are meaningful as experienced symptoms, but they are not sufficiently precise to define a cognitive phenotype, identify an underlying biological bottleneck, or determine whether a nutritional intervention has produced a measurable response. Normal cognitive aging is heterogeneous. Processing speed, attention, executive function, episodic memory, working memory, language, and other cognitive capacities do not necessarily change at the same rate. Subjective cognitive decline is likewise distinct from objectively measurable impairment. Mild cognitive impairment represents a further clinical stage, while dementia involves a different level of cognitive and functional consequence. The biological architecture beneath cognitive performance is similarly multidimensional. Neural execution depends on membrane organization, receptors, ion channels, synaptic vesicle dynamics, neurotransmission, neural network timing, vascular perfusion, endothelial function, blood-brain-barrier regulation, and systemic metabolic conditions. A nutritional intervention can therefore possess strong biological plausibility at one level without producing measurable cognitive benefit at another. Keyora Antarctic Krill Oil EP-12 develops an evidence-bound cognitive-aging framework centered on Phospholipid Omega-3 and the neural structural-lipid environment. Its principal conceptual systems include: Keyora [The Neural Membrane-Cognitive Execution Matrix] Keyora [The Cognitive Domain Response Map] Keyora [The Cognitive Stage Intervention Gate] Keyora [The Brain Activation-Cognitive Outcome-Disease Progression Separation Rule] and: The Vascular-Metabolic Cognitive Phenotype. Within this architecture, DHA carries the greatest neural structural emphasis because of its established role within brain phospholipids. PC and total phospholipids provide a second membrane-structural axis. Choline contributes to phosphatidylcholine metabolism and acetylcholine synthesis while remaining a multi-pathway nutrient rather than a stand-alone memory-treatment object. EPA supports the broader membrane, inflammatory-lipid, and vascular-metabolic context. DPA is introduced later as a vascular-repair-oriented long-chain n-3 object whose human cognitive and vascular-repair evidence remains substantially more limited than its experimental biology. The controlling principle is that biological plausibility, exposure, neural activation, cognitive performance, global cognition, and disease progression are different evidence objects. Objective The objectives of EP-12 are to: distinguish cognitive decline as a phenotype from a diagnosis; separate normal cognitive aging, subjective cognitive decline, objective impairment, mild cognitive impairment, and dementia according to trajectory, measured performance, and functional impact; establish why persistent cognitive trajectory is more informative than isolated day-to-day variation; separate memory, attention, executive function, processing speed, working memory, global cognition, and daily function as distinct cognitive evidence objects; define Keyora [The Cognitive Domain Response Map] as the rule that an intervention response must be interpreted at the cognitive domain actually measured; establish Keyora [The Cognitive Stage Intervention Gate] so that nutritional support is interpreted within cognitive stage rather than used as a substitute for staging; establish neural membrane lipid architecture as a biological substrate of cognitive execution; define Keyora [The Neural Membrane-Cognitive Execution Matrix] as the relationship linking membrane lipid organization with membrane-dependent signaling and synaptic execution; establish the structural importance of DHA within neural membrane phospholipids without converting that structural importance into automatic cognitive efficacy; preserve Phospholipid Omega-3 as the controlling Keyora intervention identity rather than generic Omega-3; retain molecular form as biologically relevant while rejecting universal superiority claims for phospholipid-form delivery; preserve the distinction between circulating lipid exposure, plasma-phospholipid incorporation, neural membrane biology, and cognitive outcome; establish PC and broader phospholipid architecture as structural components rather than passive packaging around DHA; define Choline as a metabolically distributed nutrient involved in PC synthesis, Betaine-related metabolism, and acetylcholine synthesis; prevent the Choline contribution of Keyora Antarctic Krill Oil from being interpreted as an independently validated memory-treatment dose; define the Memory-Synaptic Phenotype by separating episodic learning, immediate recall, delayed recall, recognition, working memory, and subjective memory experience; distinguish memory encoding, retention, and retrieval problems; evaluate DHA, PC, phospholipid, and Choline mechanisms relevant to synaptic and memory biology without substituting mechanism for human memory outcomes; establish why positive results in one memory test cannot be generalized automatically to global memory or cognition; separate attention, executive control, processing speed, and working-memory execution from long-term memory storage; interpret cognitive slowing as potentially reflecting execution inefficiency rather than memory loss; integrate direct human krill-oil neurophysiological evidence involving cortical oxygenation and P300 responses; establish Keyora [The Brain Activation-Cognitive Outcome-Disease Progression Separation Rule]; distinguish cortical hemodynamic response from electrophysiological response; distinguish both of those from behavioral cognitive performance; distinguish behavioral domain response from global cognition; distinguish cognitive performance from MCI or dementia disease progression; establish the Vascular-Metabolic Cognitive Phenotype as an upstream cognitive-aging layer; integrate cerebral small-vessel disease, neurovascular coupling, cerebral perfusion regulation, endothelial function, BBB / neurovascular-unit biology, and cardiometabolic risk; define hypertension, diabetes or insulin resistance, dyslipidemia, and obesity as interacting cognitive-risk contexts rather than cognitive outcomes; preserve cognitive outcomes and vascular-metabolic outcomes as parallel but non-interchangeable response domains; position EPA and DHA within the stronger human vascular and cardiometabolic evidence base; position DPA as a vascular-repair-oriented experimental component without claiming clinically demonstrated human vessel regeneration or cognitive benefit; identify unresolved vascular-metabolic burden as a potential contributor to apparent cognitive non-response; establish that cognitive non-response should trigger reassessment of domain, exposure, observation period, and upstream contributors rather than automatic supplement escalation. Cognitive Decline Is a Phenotype, Not a Diagnosis A cognitive complaint becomes scientifically useful only when several questions are separated. What has changed? How long has it been changing? Which cognitive domain is affected? Can the change be demonstrated objectively? Has daily function changed? Is the pattern stable, fluctuating, or progressively worsening? A single complaint such as “my memory is worse” cannot answer these questions. An individual may experience slower information processing while retaining normal delayed recall. Another may experience encoding failure because attention is reduced. Another may demonstrate true episodic-memory impairment. Another may notice subjective decline despite normal standardized testing. These states require different interpretation. Normal Cognitive Aging Normal aging is not uniform cognitive deterioration. Some cognitive functions, particularly aspects of processing efficiency, attention, and executive execution, can become less efficient with age while accumulated knowledge and independent function remain substantially preserved. The clinical importance of a slower response therefore depends on functional context. Slower processing does not necessarily mean loss of knowledge. Greater effort does not necessarily mean neurodegenerative disease. Subjective Cognitive Decline and Objective Impairment Subjective cognitive change reflects an experienced decline relative to previous function. Objective impairment requires measurable performance evidence within an appropriate assessment context. The two can coexist. They can also diverge. Persistent subjective decline with otherwise expected test performance is therefore neither meaningless nor equivalent to MCI. The Keyora framework treats subjective and objective evidence as separate longitudinal information sources. Trajectory Over One Bad Day Sleep, illness, stress, pain, fatigue, sensory limitations, medication effects, and environmental demands can alter cognitive performance temporarily. One poor day is therefore a weak longitudinal signal. Persistent or progressive deterioration has greater interpretive weight. Trajectory becomes particularly important when intervention response is later assessed because without a defined baseline and domain, subsequent change cannot be interpreted precisely. Keyora [The Cognitive Stage Intervention Gate] The stage framework places nutritional interpretation after cognitive classification. In early age-related slowing, a nutritional-support task may remain reasonable when daily function is preserved. In subjective cognitive decline, longitudinal observation and repeatable measurement become increasingly important. When objective impairment or MCI becomes plausible, for",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "ion separation"
+      ],
+      "score": 21,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：KeyW (United States)；摘要首句：Background Cognitive aging is frequently described through broad complaints such as forgetfulness, brain fog, slower thinking, or reduced concentration.。",
+      "id": "doi:10.5281/zenodo.22710139"
     },
     {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1021/jacsau.6c01003",
-      "title": "Hydration Topology Manipulates CO2 Transport in Water-Saturated Micropores of Functionalized Covalent Organic Frameworks",
-      "publication_date": "2026-09-07",
-      "journal": "JACS Au",
+      "doi": "10.1021/acsapm.6c03341",
+      "title": "A Photocurable Conductive Hydrogel with Synergistic Electron and Ion Transport for Long-Term, High-Fidelity Electroencephalography Acquisition",
+      "publication_date": "2026-09-13",
+      "journal": "ACS Applied Polymer Materials",
       "authors": [
-        "Wanting Xie",
-        "Phornphimon Maitarad",
-        "Thanyada Rungrotmongkol",
-        "Changchun Wang",
-        "Jia Guo"
+        "Runyi Han",
+        "Fan Wang",
+        "Guanwen Ding",
+        "Boyuan Zhang",
+        "Jie Li",
+        "Chenbo Gong",
+        "Lin Shi",
+        "Dong Wen",
+        "Zhaopeng Xu"
       ],
-      "first_author": "Wanting Xie",
+      "first_author": "Runyi Han",
       "institutions": [
-        "Fudan University , , ,",
-        "Shanghai University , , ,",
-        "Chulalongkorn University , , ,"
+        "Yanshan University , , , ,",
+        "Southwest Petroleum University , , ,",
+        "University of Science and Technology Beijing , , ,"
       ],
-      "abstract": "Abstract The confinement effect of nanochannels (&amp;lt;2 nm) dictates the gas–liquid distribution at solid–liquid interfaces, yet the effect of interfacial chemistry on their kinetic behaviors lacks insightful understanding. Particularly, the interfacial CO2 transport mechanism is critical for CO2 capture in hydrated environments. Herein, we employ nonequilibrium molecular dynamics simulations combined with density functional theory calculations to elucidate CO2 transport mechanisms in fully hydrated one-dimensional micropores of covalent organic frameworks (COFs). Our results demonstrate that pore-wall chemistry regulates transport not directly through adsorption strength alone, but by reshaping the topology and dynamic organization of confined hydration networks. Without functionalization, the pristine COF channels form an ordered hydration structure that anchors CO2 on adsorption sites and imposes substantial across-layer transport resistance. Functionalization of pore walls disrupts this hydration organization, accelerating CO2 transport via distinct microscopic regimes and promoting spatial coexistence of CO2 and water. Notably, fluorine functionalization establishes a mobility-dominated regime that minimizes friction, inverting the preference from H2O-favored to CO2-favored transport and achieving a nearly 3-fold increase in axial selectivity. This work reveals that CO2 transport is controlled by hydration-mediated transport energetics. These findings offer molecular-level perspectives for design of microporous materials by highlighting importance of balancing interfacial affinity and transport resistance within confined hydration environments.",
+      "abstract": "Abstract Long-term, high-fidelity electroencephalography acquisition requires bioelectronic interfaces that simultaneously exhibit low skin–electrode impedance, stable electrical conductivity, mechanical compliance, and environmental stability. However, most conductive hydrogels suffer from progressive water loss, disruption of conductive pathways, and increasing interfacial impedance during prolonged use, resulting in signal degradation and limiting their application in wearable brain–computer interfaces. This paper reports a conductive hydrogel based on photocurable gelatin methacryloyl (GelMA), which integrates a covalently cross-linked GelMA network, an MXene electronic conductive network, an NaCl-mediated ion transport network, and a glycerol–water hydrogen bond network, thereby establishing a synergistic electronic–ionic conductive interface with enhanced water retention and long-term stability. The rationally engineered multiscale network simultaneously improves mechanical robustness, electrical conductivity, and interfacial conformity while effectively suppressing conductivity decay induced by dehydration. The optimized hydrogel exhibits a compressive strength of 680.1 kPa, an electrical conductivity of 0.304 S m–1 (10 Hz), a low skin–electrode impedance of 6.501 kΩ, and retains 88.35% of its initial water content after 72 h under ambient conditions. Benefiting from the synergistic electron–ion transport mechanism and stable hydrated interface, the hydrogel electrode enables reliable acquisition of resting-state EEG and steady-state visual evoked potential signals, achieving a signal-to-noise ratio of 15.05 dB and maintaining stable electrophysiological performance after 12 h of continuous wear. This work demonstrates a general strategy for constructing long-term stable bioelectronic interfaces through the synergistic regulation of mechanical networks, electron transport, ion migration, and water retention, providing a promising platform for next-generation wearable EEG electrodes and continuous brain–computer interface applications.",
       "cited_by_count": 0,
       "topics": [
-        "纳米通道/限域传输"
+        "离子筛分"
       ],
       "keyword_hits": [
-        "nanochannel",
-        "selectivity"
+        "dehydration"
       ],
-      "score": 25,
+      "score": 18,
       "relevance_class": "领域扩展",
       "key_numbers": [
-        "2 nm"
+        "680.1 kPa",
+        "88.35%",
+        "72 h",
+        "12 h"
       ],
-      "brief": "定位：领域扩展；主题：纳米通道/限域传输；团队：Fudan University , , ,、Shanghai University , , ,；摘要首句：Abstract The confinement effect of nanochannels (&amp;lt;2 nm) dictates the gas–liquid distribution at solid–liquid interfaces, yet the effect of interfacial chemistry on their kinetic behaviors lacks insightful understanding.。",
-      "id": "doi:10.1021/jacsau.6c01003"
+      "brief": "定位：领域扩展；主题：离子筛分；团队：Yanshan University , , , ,、Southwest Petroleum University , , ,；摘要首句：Abstract Long-term, high-fidelity electroencephalography acquisition requires bioelectronic interfaces that simultaneously exhibit low skin–electrode impedance, stable electrical conductivity, mechanical compliance, and environ…。",
+      "id": "doi:10.1021/acsapm.6c03341"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7210288654",
-      "openalex_url": "https://openalex.org/W7210288654",
-      "doi": "10.20517/iontronics.2026.15",
-      "title": "Microenvironments engineering on covalent organic framework nanofluidics for high flux and ion selectivity",
-      "publication_date": "2026-09-07",
-      "journal": "Iontronics",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7212194611",
+      "openalex_url": "https://openalex.org/W7212194611",
+      "doi": "10.3389/fchem.2026.1910454",
+      "title": "Sustainable zeolite synthesis: advances in green strategies and AI-assisted design",
+      "publication_date": "2026-09-10",
+      "journal": "Frontiers in Chemistry",
       "authors": [
-        "Xiulei Li",
-        "Yin Zhang"
+        "Beidi Li",
+        "Nur Hidayatul Nazirah Kamarudin",
+        "Wan Nor Roslam Wan Isahak",
+        "Noorashikin Md Saleh",
+        "Yaqin Tian"
       ],
-      "first_author": "Xiulei Li",
+      "first_author": "Beidi Li",
       "institutions": [
-        "University of Chinese Academy of Sciences"
+        "Shandong University of Science and Technology",
+        "National University of Malaysia"
       ],
-      "abstract": "",
+      "abstract": "Zeolites are porous materials with regular nanochannels, high surface area, tunable acid sites, excellent thermal and hydrothermal stability, and outstanding catalytic performance. These properties make them indispensable in energy and chemical engineering, environmental remediation, selective adsorption, and clean energy technologies. However, conventional hydrothermal synthesis suffers from high energy consumption, strong alkali corrosion, excessive template usage, and the generation of salt containing and organic waste liquids, limiting its sustainability. Consequently, green chemistry based synthesis strategies have become a major research focus, aiming to optimize resource utilization, environmental impact, and material performance simultaneously. This review summarizes recent advances in green zeolite synthesis, including solvent free or low solvent methods, low template or template free strategies, directed agent synthesis, ionothermal synthesis, dry gel conversion, and the use of renewable silicon and aluminum resources. The underlying reaction mechanisms and performance control principles are critically discussed. Through representative case studies, the review highlights how these approaches reduce activation energy, improve atom efficiency, minimize waste generation, and enable precise control of crystal morphology and pore structures. Future perspectives include AI-driven materials design, accurate topology prediction, machine learning-assisted structural characterization and generation, and the optimization of synthesis conditions.",
       "cited_by_count": 0,
       "topics": [
-        "离子筛分",
         "纳米通道/限域传输"
       ],
       "keyword_hits": [
-        "nanofluidic",
-        "selectivity"
+        "nanochannel"
       ],
-      "score": 22,
+      "score": 18,
       "relevance_class": "领域扩展",
       "key_numbers": [],
-      "brief": "定位：领域扩展；主题：离子筛分 / 纳米通道/限域传输；团队：University of Chinese Academy of Sciences；题名线索：Microenvironments engineering on covalent organic framework nanofluidics for high flux and ion selectivity。",
-      "id": "doi:10.20517/iontronics.2026.15"
+      "brief": "定位：领域扩展；主题：纳米通道/限域传输；团队：Shandong University of Science and Technology、National University of Malaysia；摘要首句：Zeolites are porous materials with regular nanochannels, high surface area, tunable acid sites, excellent thermal and hydrothermal stability, and outstanding catalytic performance.。",
+      "id": "doi:10.3389/fchem.2026.1910454"
     }
   ],
   "trends": {
     "topics": [
       {
-        "name": "纳滤",
-        "count": 167,
-        "delta": -167
+        "name": "脱盐/水处理",
+        "count": 159,
+        "delta": 17
       },
       {
-        "name": "脱盐/水处理",
-        "count": 163,
-        "delta": 30
+        "name": "纳滤",
+        "count": 114,
+        "delta": -270
       },
       {
         "name": "离子筛分",
-        "count": 70,
-        "delta": -28
+        "count": 65,
+        "delta": -43
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 59,
-        "delta": -37
+        "count": 50,
+        "delta": -56
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 42,
-        "delta": 14
+        "count": 46,
+        "delta": 21
       },
       {
         "name": "COF/MOF膜",
         "count": 20,
-        "delta": -19
+        "delta": -21
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 17,
-        "delta": -8
+        "count": 12,
+        "delta": -16
       },
       {
         "name": "二维层状膜",
-        "count": 11,
-        "delta": -13
+        "count": 9,
+        "delta": -18
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 253,
-        "delta": 253
+        "count": 255,
+        "delta": 255
       },
       {
         "name": "Separation and Purification Technology",
@@ -1632,13 +1668,23 @@
       },
       {
         "name": "Desalination",
-        "count": 55,
-        "delta": 55
+        "count": 56,
+        "delta": 56
       },
       {
         "name": "Advanced Functional Materials",
-        "count": 24,
-        "delta": 24
+        "count": 28,
+        "delta": 28
+      },
+      {
+        "name": "ACS Applied Materials &amp; Interfaces",
+        "count": 26,
+        "delta": 26
+      },
+      {
+        "name": "Desalination and Water Treatment",
+        "count": 22,
+        "delta": 22
       },
       {
         "name": "Journal of Water Process Engineering",
@@ -1646,27 +1692,17 @@
         "delta": 21
       },
       {
-        "name": "ACS Applied Materials &amp; Interfaces",
-        "count": 21,
-        "delta": 21
-      },
-      {
-        "name": "Desalination and Water Treatment",
-        "count": 20,
-        "delta": 20
+        "name": "Environmental Progress &amp; Sustainable Energy",
+        "count": 18,
+        "delta": 18
       },
       {
         "name": "Scientific Reports",
-        "count": 16,
-        "delta": 16
+        "count": 17,
+        "delta": 17
       },
       {
         "name": "Environmental Science &amp; Technology",
-        "count": 14,
-        "delta": 14
-      },
-      {
-        "name": "Environmental Progress &amp; Sustainable Energy",
         "count": 14,
         "delta": 14
       },
@@ -1761,8 +1797,8 @@
     "institutions": [
       {
         "name": "Tiangong University",
-        "count": 17,
-        "delta": 17
+        "count": 18,
+        "delta": 18
       },
       {
         "name": "Tongji University",
@@ -1771,8 +1807,8 @@
       },
       {
         "name": "Tongji University , , ,",
-        "count": 11,
-        "delta": 11
+        "count": 12,
+        "delta": 12
       },
       {
         "name": "Rice University",
@@ -1805,7 +1841,17 @@
         "delta": 9
       },
       {
+        "name": "Tsinghua University",
+        "count": 9,
+        "delta": 9
+      },
+      {
         "name": "State Key Laboratory of Pollution Control and Resource Reuse",
+        "count": 8,
+        "delta": 8
+      },
+      {
+        "name": "Fuzhou University",
         "count": 8,
         "delta": 8
       },
@@ -1823,16 +1869,6 @@
         "name": "Hebei University of Technology",
         "count": 8,
         "delta": 8
-      },
-      {
-        "name": "Tsinghua University",
-        "count": 8,
-        "delta": 8
-      },
-      {
-        "name": "Fuzhou University",
-        "count": 7,
-        "delta": 7
       }
     ]
   },
