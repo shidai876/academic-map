@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-09-18T22:25:11.076439+00:00",
-  "updated_at_local": "2026-09-19 06:24 (UTC+8)",
+  "updated_at": "2026-09-19T22:24:31.709194+00:00",
+  "updated_at_local": "2026-09-20 06:23 (UTC+8)",
   "stats": {
-    "fetched": 1255,
-    "related": 43,
-    "recommended": 18,
+    "fetched": 1257,
+    "related": 40,
+    "recommended": 20,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -300,68 +300,39 @@
       "id": "doi:10.1016/j.seppur.2026.140166"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7212616208",
-      "openalex_url": "https://openalex.org/W7212616208",
-      "doi": "10.1002/advs.77400",
-      "title": "Heteroatom‐Mediated Covalent Organic Framework Membranes With Nitrogen‐Enriched Nanochannels for Efficient Desalination",
-      "publication_date": "2026-09-13",
-      "journal": "Advanced Science",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7213295964",
+      "openalex_url": "https://openalex.org/W7213295964",
+      "doi": "10.1016/j.memsci.2026.126167",
+      "title": "Electric field responsive loose nanofiltration membranes with intensified interfacial charge regulation for selective dye transport",
+      "publication_date": "2026-09-15",
+      "journal": "Journal of Membrane Science",
       "authors": [
-        "Guishan Hu",
-        "Muning Chen",
-        "Yunqiu Zhou",
-        "Yu Zhen",
-        "Miaomiao Tian",
-        "Yatao Zhang",
-        "Jingwei Hou",
-        "Junyong Zhu",
-        "Yong Wang"
+        "Ji Qi",
+        "Houlong Yang",
+        "Fangang Meng",
+        "Shanshan Zhao"
       ],
-      "first_author": "Guishan Hu",
-      "institutions": [
-        "Zhengzhou University",
-        "The University of Queensland",
-        "Southeast University",
-        "School of Chemical Engineering Zhengzhou University Zhengzhou Henan China",
-        "School of Ecology and Environment Zhengzhou University Zhengzhou Henan China",
-        "School of Chemical Engineering The University of Queensland StLucia Queensland Australia",
-        "School of Energy and Environment Southeast University Nanjing Jiangsu China"
-      ],
-      "abstract": "ABSTRACT Covalent organic framework (COF) membranes synthesized via scalable interfacial polymerization (IP) show significant promise for water purification and desalination. However, random monomer diffusion and rapid polymerization kinetics often result in limited crystallinity and disordered pore architectures within COF membranes, compromising their separation efficacy. Here we address this challenge by introducing a heteroatom precursor engineering strategy to develop ultra‐microporous, highly crystalline COF membranes tailored for monovalent ion rejection. The strategic nitrogen substitution within the aromatic ring of hydrazide monomers enables gradient reduction of their oil–water partition coefficients and reactivity, thereby finely reducing the interfacial reaction kinetics. This inhibited diffusion‐reaction behavior facilitates the self‐healing of nascent polymeric chains into ordered networked structures, yielding crystalline nanofilms with controlled ultrafine pore width (0.40–0.68 nm). Augmented by hetero‐nitrogen‐induced electrostatic interaction and hydrogen‐bond recognition, the resulting ultra‐microporous COF (Tp‐PDHz) membranes exhibited exceptional monovalent‐ion removal capability (e.g., R NaCl = 97.5%, R LiCl = 98.0%), and a high water permeance of 1.2 L m −2 h −1 bar −1 . Molecular dynamics simulations reveal that nitrogen‐enriched nanochannels accelerate water transport via reinforced hydrogen‐bond networks while simultaneously increasing the energy barrier for ion permeation. This work provides a molecular‐level roadmap for the rational design of high‐performance COF membranes in next‐generation water desalination and purification.",
+      "first_author": "Ji Qi",
+      "institutions": [],
+      "abstract": "",
       "cited_by_count": 0,
       "topics": [
-        "离子筛分",
-        "COF/MOF膜",
-        "聚酰胺/TFC",
-        "纳米通道/限域传输",
-        "脱盐/水处理"
+        "纳滤"
       ],
       "keyword_hits": [
-        "cof membrane",
-        "covalent organic framework membrane",
-        "nanochannel",
-        "interfacial polymerization",
-        "permeance",
-        "rejection",
-        "desalination"
+        "nanofiltration"
       ],
-      "score": 79,
+      "score": 69,
       "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "0.40–0.68 nm",
-        "97.5%",
-        "98.0%",
-        "2 h",
-        "1 bar"
-      ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 聚酰胺/TFC；团队：Zhengzhou University、The University of Queensland；摘要首句：ABSTRACT Covalent organic framework (COF) membranes synthesized via scalable interfacial polymerization (IP) show significant promise for water purification and desalination.。",
-      "id": "doi:10.1002/advs.77400"
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Electric field responsive loose nanofiltration membranes with intensified interfacial charge regulation for selective dye transport。",
+      "id": "doi:10.1016/j.memsci.2026.126167"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7213541584",
+      "openalex_url": "https://openalex.org/W7213541584",
       "doi": "10.1007/s11426-026-3517-5",
       "title": "Sub-nanochannel induced by interlayer shifting in covalent organic framework membranes enables ultrahigh proton selectivity",
       "publication_date": "2026-09-15",
@@ -383,7 +354,12 @@
         "Yaxing Wang"
       ],
       "first_author": "Jiaming Li",
-      "institutions": [],
+      "institutions": [
+        "Soochow University",
+        "China National Nuclear Corporation",
+        "China National Chemical Engineering (China)",
+        "Beijing Normal University"
+      ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
@@ -395,10 +371,10 @@
         "nanochannel",
         "selectivity"
       ],
-      "score": 66,
+      "score": 68,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：COF/MOF膜 / 纳米通道/限域传输；题名线索：Sub-nanochannel induced by interlayer shifting in covalent organic framework membranes enables ultrahigh proton selectivity。",
+      "brief": "定位：核心膜分离；主题：COF/MOF膜 / 纳米通道/限域传输；团队：Soochow University、China National Nuclear Corporation；题名线索：Sub-nanochannel induced by interlayer shifting in covalent organic framework membranes enables ultrahigh proton selectivity。",
       "id": "doi:10.1007/s11426-026-3517-5"
     },
     {
@@ -478,6 +454,49 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.2166/wpt.2026.428",
+      "title": "Electrodialysis desalination of wastewater from the petrochemical industry using pulsed electric field",
+      "publication_date": "2026-09-17",
+      "journal": "Water Practice &amp; Technology",
+      "authors": [
+        "N. G. Vurdova",
+        "N. A. Politaeva",
+        "Luopeng Yang",
+        "Jingchun Zhou",
+        "Peng Yang",
+        "Zhiyu Lu"
+      ],
+      "first_author": "N. G. Vurdova",
+      "institutions": [
+        "a National University of Science and Technology ‘MISIS’, Leninsky Prospekt, 4, bldg.1, Moscow 119049, Russia",
+        "b Peter the Great St. Petersburg Polytechnic University, «SPbPU», Polytechnicheskaya. 29, B, Saint-Petersburg 195251, Russia",
+        "c Shandong GRAD Group, Dezhou, Shandong 253079, China",
+        "d School of Thermal Engineering, Shandong Jianzhu University, Jinan, Shandong 250101, China",
+        "e Changji Fangxia Institute of Ecological and Environmental Conservation, Changji Hui Autonomous Prefecture, Xinjiang, Uygur Autonomous Region 831100, China",
+        "f Shandong Guochen industrial group Thermal Equipment Co., Ltd, Jinan, Shandong 250300, China",
+        "g North China Power Engineering Co., Ltd of China Power Engineering Consulting Group, Beijing 100032, China"
+      ],
+      "abstract": "ABSTRACT Schematic graphical abstract of energy-efficient pulsed electrodialysis for oil-refinery wastewater reuse and zero liquid discharge. It shows unipolar pulsed operation at 500 plus or minus 20 Hz, duty cycle s = 2 and current density 5 to 10 mA/cm2 with MK-40 and MA-41 membranes, separating salts, oil products and heavy metals (iron, chromium, nickel) into demineralized water, concentrate and diluate streams, and comparing direct current with pulsed electrodialysis. The indicated outcomes are lower specific energy consumption, faster desalination, improved heavy-metal removal, reduced scaling and pH stabilization. Implementing low-discharge water recycling in industry, including zero liquid discharge (ZLD), requires deep treatment of wastewater (WW). At the demineralisation stage, ion exchange, reverse osmosis or electrodialysis (ED) can be used; for salinity up to 6–8 g/L, ED holds potential. This study shows that ED can be intensified with a pulsed electric field (PEF) instead of direct current (DC): the waveform, amplitude and frequency of the current add control parameters for lowering specific energy consumption. A regime of unipolar pulsed current at 5–10 mA/cm2, 500 ± 20 Hz and a duty cycle of 2 was substantiated and experimentally confirmed for real multicomponent refinery wastewater containing petroleum products and heavy metals (Fe, Cr, Ni, Cu). Under PEF the membrane potential drop and the local pH shift were smaller than under DC, evidence consistent with reduced concentration polarization and water dissociation and with a tendency toward less membrane scaling. Compared with DC, PEF lowered specific energy consumption by a factor of 1.2 at j &amp;lt; jlim and 2.2 at j ≥ 2jlim, roughly doubled membrane exchange productivity, and achieved Fe, Ni and Cr removal above 85%. A mechanism based on ionic-atmosphere relaxation is proposed; longer membrane service life is an expected benefit requiring long-term verification.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis",
+        "desalination"
+      ],
+      "score": 58,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "85%"
+      ],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：a National University of Science and Technology ‘MISIS’, Leninsky Prospekt, 4, bldg.1, Moscow 119049, Russia、b Peter the Great St. Petersburg Polytechnic University, «SPbPU», Polytechnicheskaya. 29, B, Saint-Petersburg 195251, Russia；摘要首句：ABSTRACT Schematic graphical abstract of energy-efficient pulsed electrodialysis for oil-refinery wastewater reuse and zero liquid discharge.。",
+      "id": "doi:10.2166/wpt.2026.428"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.3390/membranes16090302",
       "title": "A Three-Dimensional Framework for Rational Ion Separation with Polymeric Membrane Systems",
       "publication_date": "2026-09-15",
@@ -546,65 +565,6 @@
       "id": "doi:10.1088/2053-1583/aea6ec"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/app.71507",
-      "title": "Eco‐Friendly Nonfluorinated Coating of Omniphobic Membranes With <scp>ZnO</scp> Nanoparticles Re‐Entrant Structures: Design, Characterization, and Desalination Performance via Membrane Distillation",
-      "publication_date": "2026-09-13",
-      "journal": "Journal of Applied Polymer Science",
-      "authors": [
-        "Rendy Muhamad Iqbal",
-        "Mohd Hafiz Dzarfan Othman",
-        "Mohd Akmali Mokhter",
-        "Deni Shidqi Khaerudini",
-        "Fatin Hazirah Abdullah",
-        "Liew Chia Ming",
-        "Mohd Hafiz Puteh",
-        "Hamzah Fansuri",
-        "Triyanda Gunawan",
-        "Mohammed E. Ali Mohsin",
-        "Masniroszaime M. Zain",
-        "Wan Nurul Ffazida Wan Mustapa",
-        "Farahdila Kadirkhan",
-        "Rozaimi Abu Samah"
-      ],
-      "first_author": "Rendy Muhamad Iqbal",
-      "institutions": [
-        "Advanced Membrane Technology Research Center Universiti Teknologi Malaysia Skudai Johor Malaysia",
-        "Department of Chemistry, Faculty of Science Universiti Teknologi Malaysia Skudai Johor Malaysia",
-        "Department of Chemistry, Faculty of Mathematics and Natural Sciences Universitas Palangka Raya Palangka Raya Indonesia",
-        "Department of Chemistry, Faculty of Science and Data Analytics Institut Teknologi Sepuluh Nopember Surabaya Indonesia",
-        "Chemical Engineering Section, Faculty of Engineering Sohar University Sohar Oman",
-        "Research Center for Energy Conversion Technology, National Research and Innovation Agency (BRIN), KST BJ Habibie South Tangerang Banten Indonesia",
-        "Department of Civil Engineering, Faculty of Civil Engineering Universiti Teknologi Malaysia Skudai Johor Malaysia",
-        "Department of Chemical Engineering, College of Engineering King Faisal University Hofuf Saudi Arabia",
-        "Gas Sustainability Technology (GaSTech) R&amp;D Department, Group Research &amp; Technology (GR&amp;T), Project Delivery &amp; Technology (PD&amp;T) PETRONAS Research Sdn. Bhd Kajang Malaysia",
-        "Faculty of Chemical and Process Engineering Technology Universiti Malaysia Pahang Al‐Sultan Abdullah, Lebuh Persiaran Tun Khalil Yaakob Kuantan Pahang Malaysia"
-      ],
-      "abstract": "ABSTRACT Membrane distillation commonly faces challenges such as wetting, fouling, and scaling, which limit its long‐term desalination performance. In this study, an omniphobic membrane was developed via an ecofriendly coating approach, a nonfluorinated omniphobic PVDF hollow fiber membrane via dip coating of zinc oxide nanoparticles with various concentrations of 1–3 wt% as re‐entrant structures, followed by stearic acid grafting. The proposed strategy enhanced surface roughness, reduced surface free energy, and promoted stable omniphobicity without fluorination. A comprehensive characterization was conducted using SEM, AFM, FTIR, XRD, contact angle goniometry, LEP testing, and ICP‐OES analysis to confirm surface morphology, roughness, chemical bonding, and coating stability. The results show that increasing ZnO NPs concentration up to 3 wt% produced a surface roughness of 100.43 nm and contact angle above 120° for all tested liquids. The best membrane exhibited excellent desalination performance with water flux above 14 L/m 2 h and salt rejection of ~99.97% for five consecutive days under 30,000 ppm NaCl feed and 100 ppm humic acid. Accelerated chemical exposure under hot synthetic seawater showed less than 5% salt deposition while water contact angle remained above 90° after 48 h, demonstrating strong resistance to surface coating degradation.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "salt rejection",
-        "rejection",
-        "desalination"
-      ],
-      "score": 58,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "100.43 nm",
-        "2 h",
-        "99.97%",
-        "5%",
-        "48 h"
-      ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Advanced Membrane Technology Research Center Universiti Teknologi Malaysia Skudai Johor Malaysia、Department of Chemistry, Faculty of Science Universiti Teknologi Malaysia Skudai Johor Malaysia；摘要首句：ABSTRACT Membrane distillation commonly faces challenges such as wetting, fouling, and scaling, which limit its long‐term desalination performance.。",
-      "id": "doi:10.1002/app.71507"
-    },
-    {
       "source_db": "OpenAlex",
       "openalex_id": "W7213402465",
       "openalex_url": "https://openalex.org/W7213402465",
@@ -637,6 +597,64 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：COF/MOF膜；题名线索：Co/Ni-LDH modification of COF membranes for efficient dye–salt separation and enhanced fouling resistance。",
       "id": "doi:10.1016/j.jwpe.2026.110954"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7213599234",
+      "openalex_url": "https://openalex.org/W7213599234",
+      "doi": "10.5281/zenodo.22825335",
+      "title": "Keyora Antarctic Krill Oil EP-14: The Persistent Inflammation-Resolution Matrix: Phospholipid Omega-3 Across Metabolic-Adipose Inflammation, Resolution Biology, Vascular Residual Risk, and Response-Guided Escalation",
+      "publication_date": "2026-09-18",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Xu Jin"
+      ],
+      "first_author": "Xu Jin",
+      "institutions": [
+        "KeyW (United States)"
+      ],
+      "abstract": "Background Persistent low-grade inflammation is frequently described as though it were a single biological condition identifiable through one elevated laboratory marker and addressable through one broadly anti-inflammatory intervention. This interpretation is insufficient. Persistent inflammatory signaling can arise from substantially different biological contexts, including metabolic dysfunction, adipose-tissue stress, insulin resistance, vascular and endothelial activation, aging-associated biological change, persistent immune stimulation, infection, tissue injury, immune-mediated disease, environmental exposure, malignancy, and other disease-specific processes. Similar circulating inflammatory signals can therefore emerge from different upstream drivers. The presence of inflammation does not independently identify its cause. Likewise, an inflammatory biomarker does not reconstruct the cellular, tissue, lipid-mediator, resolution, or functional system that produced it. Keyora Antarctic Krill Oil EP-14 consequently defines persistent low-grade inflammation as a biological phenotype rather than a diagnosis. The central framework, Keyora [The Persistent Inflammation-Resolution Matrix], organizes interpretation through: persistent biological driver→ inflammatory activation→ measurable evidence object→ resolution context→ assigned response object→ functional meaning. The article further establishes Keyora [The Inflammation-Resolution Separation Rule], which distinguishes inflammatory suppression from active resolution and tissue recovery; Keyora [The Inflammatory Evidence Object Map], which separates acute-phase, cytokine, cellular, lipid-mediator, and functional evidence; and Keyora [The Biomarker-Function Separation Rule], which prevents biochemical change from being promoted automatically into human functional or clinical benefit. Within this architecture, Keyora Antarctic Krill Oil is positioned as a Phospholipid Omega-3 intervention rather than as a generic anti-inflammatory oil. Its principal biological relevance lies at the intersection of membrane fatty-acid availability, EPA-DHA-DPA substrate biology, inflammatory lipid mediators, and active resolution-related processes. The intervention is therefore matched to a defined biological task only after persistence, driver context, phenotype, and response object have been established. Objective The objectives of EP-14 are to: establish persistent low-grade inflammation as a heterogeneous phenotype rather than a single diagnosis; distinguish acute protective inflammation from persistent inflammatory signaling and chronic low-grade inflammation; establish duration, recurrence, persistence, and termination as biological dimensions distinct from inflammatory intensity; explain why a single elevated inflammatory marker cannot establish biological persistence; distinguish persistent drivers, recurrent activation, and incomplete termination as different potential mechanisms sustaining inflammation; establish why inflammatory signals do not independently reveal their biological cause; differentiate metabolic-adipose, immune or disease-specific, vascular, aging-associated, and environmental inflammatory contexts; identify disease-driven inflammation as a condition requiring etiological clarification rather than automatic nutritional interpretation; establish hs-CRP as a clinically useful systemic acute-phase evidence object rather than a complete inflammatory-system measurement; distinguish analytical sensitivity from biological specificity; define what hs-CRP can and cannot establish; separate systemic acute-phase proteins, cytokines, cellular immune responses, lipid-mediator biology, and functional outcomes; establish Keyora [The Inflammatory Evidence Object Map]; establish Keyora [The Biomarker-Function Separation Rule]; establish Keyora [The Inflammation-Resolution Separation Rule]; define the metabolic-adipose inflammatory phenotype through adipocyte dysfunction, immune participation, altered lipid handling, insulin resistance, and systemic inflammatory spillover; distinguish adiposity from adipose dysfunction; distinguish systemic inflammatory markers from direct evidence of adipose-tissue immune biology; integrate impaired adipose insulin restraint, increased lipolysis, fatty-acid flux, hepatic metabolic burden, and inflammatory signaling; establish baseline inflammatory state as a modifier of intervention-response interpretation; position metabolic-adipose inflammation as a relatively coherent Phospholipid Omega-3 intervention phenotype when lipid-metabolic and membrane-substrate tasks overlap; evaluate human EPA/DHA inflammatory evidence through CRP, hs-CRP, IL-6, TNF-alpha, cellular, and metabolic response objects; incorporate both positive and null human Omega-3 evidence; reject the assumption that membrane incorporation automatically establishes systemic anti-inflammatory efficacy; establish inflammation resolution as an active biological program rather than passive disappearance of inflammatory signaling; distinguish containment, transition, resolution execution, efferocytosis, tissue repair, and functional recovery; establish membrane phospholipid fatty-acid composition as one determinant of lipid-mediator substrate availability; preserve arachidonic-acid biology as functionally diverse rather than uniformly inflammatory; establish EPA, DHA, and n-3 DPA as complementary but non-identical long-chain n-3 substrate objects; integrate EPA-derived 18-HEPE biology; integrate DHA-derived 17-HDHA, 14-HDHA, and related mediator-substrate biology; integrate human n-3 DPA lipid-mediator evidence while preserving dose and preparation boundaries; establish EPA-DHA-DPA Phospholipid Omega-3 Architecture as a membrane-substrate framework rather than proof of complete clinical resolution; evaluate direct human Krill Oil inflammatory evidence separately from generic EPA/DHA evidence; preserve positive, null, and discordant Krill Oil outcomes as separate evidence objects; distinguish preparation-specific Krill Oil evidence from exact finished-Keyora efficacy; define the vascular-endothelial residual inflammatory phenotype; separate atherogenic lipid risk from inflammatory risk; establish residual inflammatory risk as a cardiovascular domain capable of persisting despite lipid improvement; integrate endothelial activation, immune-vascular crosstalk, and NO-related endothelial dysfunction without converting biomarker response into cardiovascular-event evidence; define hs-CRP as a clinically meaningful but nonspecific cardiovascular inflammatory-risk object; reconstruct exact Keyora one- and two-softgel Phospholipid Omega-3 exposure; distinguish twofold exposure from twofold biomarker or clinical response; establish stable-context persistence verification before phenotype assignment; operationalize the framework through Keyora [The Persistent-Inflammation Response and Escalation Algorithm]; define final decisions as Continue, Reclassify, Investigate, or Escalate. Persistent Inflammation Is a Phenotype, Not a Diagnosis Inflammatory signaling is an adaptive component of human biology. A successful acute response involves: trigger recognition→ inflammatory activation→ containment→ removal of threat or damaged material→ transition→ active termination→ tissue recovery. Inflammation therefore becomes pathological not simply because it occurs, but because its magnitude, location, driver, duration, recurrence, or termination becomes inappropriate. Persistent inflammation differs from acute inflammation primarily through continued or recurrent biological activity. A highly intense inflammatory response can be transient. A lower-intensity signal can remain biologically active for prolonged periods. Inflammatory intensity and inflammatory persistence are therefore different variables. Persistent Drivers, Recurrent Activation, and Incomplete Termination Persistent signaling can arise through several routes. A biological driver can remain active. Repeated metabolic, immune, tissue, or environmental stress can reactivate inflammatory pathways before complete return toward baseline. Alternatively, termination biology may remain incomplete. These mechanisms can overlap. The existence of persistent inflammation does not establish that failed resolution is the sole cause. This distinction is essential because only some persistent phenotypes contain a plausible downstream membrane-fatty-acid or lipid-mediator task relevant to Phospholipid Omega-3. Chronic Low-Grade Inflammation Chronic low-grade inflammation is defined by sustained lower-intensity inflammatory activity within a biological context. Its importance is not determined by intensity alone. Persistent lower-grade signaling can remain biologically relevant when associated with: metabolic dysfunction; adipose stress; insulin resistance; vascular disease; aging-associated biology; recurrent environmental exposure; immune dysregulation; disease-specific processes. The heterogeneity of these drivers is precisely why chronic low-grade inflammation should not itself be treated as one diagnosis. An Inflammatory Signal Does Not Identify Its Cause A systemic inflammatory signal sits downstream of its biological driver. Similar CRP or cytokine patterns can arise from: adipose dysfunction; metabolic stress; persistent infection; immune-mediated disease; tissue injury; malignancy; vascular disease; aging; smoking; environmental exposure. The correct Keyora sequence therefore begins upstream of the biomarker. The signal establishes measurable inflammatory activity. It does not establish the cause responsible for producing it. Disease-Driven Infla",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "ion separation"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：KeyW (United States)；摘要首句：Background Persistent low-grade inflammation is frequently described as though it were a single biological condition identifiable through one elevated laboratory marker and addressable through one broadly anti-inflammatory inte…。",
+      "id": "doi:10.5281/zenodo.22825335"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7213599770",
+      "openalex_url": "https://openalex.org/W7213599770",
+      "doi": "10.5281/zenodo.22825336",
+      "title": "Keyora Antarctic Krill Oil EP-14: The Persistent Inflammation-Resolution Matrix: Phospholipid Omega-3 Across Metabolic-Adipose Inflammation, Resolution Biology, Vascular Residual Risk, and Response-Guided Escalation",
+      "publication_date": "2026-09-18",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "authors": [
+        "Xu Jin"
+      ],
+      "first_author": "Xu Jin",
+      "institutions": [
+        "KeyW (United States)"
+      ],
+      "abstract": "Background Persistent low-grade inflammation is frequently described as though it were a single biological condition identifiable through one elevated laboratory marker and addressable through one broadly anti-inflammatory intervention. This interpretation is insufficient. Persistent inflammatory signaling can arise from substantially different biological contexts, including metabolic dysfunction, adipose-tissue stress, insulin resistance, vascular and endothelial activation, aging-associated biological change, persistent immune stimulation, infection, tissue injury, immune-mediated disease, environmental exposure, malignancy, and other disease-specific processes. Similar circulating inflammatory signals can therefore emerge from different upstream drivers. The presence of inflammation does not independently identify its cause. Likewise, an inflammatory biomarker does not reconstruct the cellular, tissue, lipid-mediator, resolution, or functional system that produced it. Keyora Antarctic Krill Oil EP-14 consequently defines persistent low-grade inflammation as a biological phenotype rather than a diagnosis. The central framework, Keyora [The Persistent Inflammation-Resolution Matrix], organizes interpretation through: persistent biological driver→ inflammatory activation→ measurable evidence object→ resolution context→ assigned response object→ functional meaning. The article further establishes Keyora [The Inflammation-Resolution Separation Rule], which distinguishes inflammatory suppression from active resolution and tissue recovery; Keyora [The Inflammatory Evidence Object Map], which separates acute-phase, cytokine, cellular, lipid-mediator, and functional evidence; and Keyora [The Biomarker-Function Separation Rule], which prevents biochemical change from being promoted automatically into human functional or clinical benefit. Within this architecture, Keyora Antarctic Krill Oil is positioned as a Phospholipid Omega-3 intervention rather than as a generic anti-inflammatory oil. Its principal biological relevance lies at the intersection of membrane fatty-acid availability, EPA-DHA-DPA substrate biology, inflammatory lipid mediators, and active resolution-related processes. The intervention is therefore matched to a defined biological task only after persistence, driver context, phenotype, and response object have been established. Objective The objectives of EP-14 are to: establish persistent low-grade inflammation as a heterogeneous phenotype rather than a single diagnosis; distinguish acute protective inflammation from persistent inflammatory signaling and chronic low-grade inflammation; establish duration, recurrence, persistence, and termination as biological dimensions distinct from inflammatory intensity; explain why a single elevated inflammatory marker cannot establish biological persistence; distinguish persistent drivers, recurrent activation, and incomplete termination as different potential mechanisms sustaining inflammation; establish why inflammatory signals do not independently reveal their biological cause; differentiate metabolic-adipose, immune or disease-specific, vascular, aging-associated, and environmental inflammatory contexts; identify disease-driven inflammation as a condition requiring etiological clarification rather than automatic nutritional interpretation; establish hs-CRP as a clinically useful systemic acute-phase evidence object rather than a complete inflammatory-system measurement; distinguish analytical sensitivity from biological specificity; define what hs-CRP can and cannot establish; separate systemic acute-phase proteins, cytokines, cellular immune responses, lipid-mediator biology, and functional outcomes; establish Keyora [The Inflammatory Evidence Object Map]; establish Keyora [The Biomarker-Function Separation Rule]; establish Keyora [The Inflammation-Resolution Separation Rule]; define the metabolic-adipose inflammatory phenotype through adipocyte dysfunction, immune participation, altered lipid handling, insulin resistance, and systemic inflammatory spillover; distinguish adiposity from adipose dysfunction; distinguish systemic inflammatory markers from direct evidence of adipose-tissue immune biology; integrate impaired adipose insulin restraint, increased lipolysis, fatty-acid flux, hepatic metabolic burden, and inflammatory signaling; establish baseline inflammatory state as a modifier of intervention-response interpretation; position metabolic-adipose inflammation as a relatively coherent Phospholipid Omega-3 intervention phenotype when lipid-metabolic and membrane-substrate tasks overlap; evaluate human EPA/DHA inflammatory evidence through CRP, hs-CRP, IL-6, TNF-alpha, cellular, and metabolic response objects; incorporate both positive and null human Omega-3 evidence; reject the assumption that membrane incorporation automatically establishes systemic anti-inflammatory efficacy; establish inflammation resolution as an active biological program rather than passive disappearance of inflammatory signaling; distinguish containment, transition, resolution execution, efferocytosis, tissue repair, and functional recovery; establish membrane phospholipid fatty-acid composition as one determinant of lipid-mediator substrate availability; preserve arachidonic-acid biology as functionally diverse rather than uniformly inflammatory; establish EPA, DHA, and n-3 DPA as complementary but non-identical long-chain n-3 substrate objects; integrate EPA-derived 18-HEPE biology; integrate DHA-derived 17-HDHA, 14-HDHA, and related mediator-substrate biology; integrate human n-3 DPA lipid-mediator evidence while preserving dose and preparation boundaries; establish EPA-DHA-DPA Phospholipid Omega-3 Architecture as a membrane-substrate framework rather than proof of complete clinical resolution; evaluate direct human Krill Oil inflammatory evidence separately from generic EPA/DHA evidence; preserve positive, null, and discordant Krill Oil outcomes as separate evidence objects; distinguish preparation-specific Krill Oil evidence from exact finished-Keyora efficacy; define the vascular-endothelial residual inflammatory phenotype; separate atherogenic lipid risk from inflammatory risk; establish residual inflammatory risk as a cardiovascular domain capable of persisting despite lipid improvement; integrate endothelial activation, immune-vascular crosstalk, and NO-related endothelial dysfunction without converting biomarker response into cardiovascular-event evidence; define hs-CRP as a clinically meaningful but nonspecific cardiovascular inflammatory-risk object; reconstruct exact Keyora one- and two-softgel Phospholipid Omega-3 exposure; distinguish twofold exposure from twofold biomarker or clinical response; establish stable-context persistence verification before phenotype assignment; operationalize the framework through Keyora [The Persistent-Inflammation Response and Escalation Algorithm]; define final decisions as Continue, Reclassify, Investigate, or Escalate. Persistent Inflammation Is a Phenotype, Not a Diagnosis Inflammatory signaling is an adaptive component of human biology. A successful acute response involves: trigger recognition→ inflammatory activation→ containment→ removal of threat or damaged material→ transition→ active termination→ tissue recovery. Inflammation therefore becomes pathological not simply because it occurs, but because its magnitude, location, driver, duration, recurrence, or termination becomes inappropriate. Persistent inflammation differs from acute inflammation primarily through continued or recurrent biological activity. A highly intense inflammatory response can be transient. A lower-intensity signal can remain biologically active for prolonged periods. Inflammatory intensity and inflammatory persistence are therefore different variables. Persistent Drivers, Recurrent Activation, and Incomplete Termination Persistent signaling can arise through several routes. A biological driver can remain active. Repeated metabolic, immune, tissue, or environmental stress can reactivate inflammatory pathways before complete return toward baseline. Alternatively, termination biology may remain incomplete. These mechanisms can overlap. The existence of persistent inflammation does not establish that failed resolution is the sole cause. This distinction is essential because only some persistent phenotypes contain a plausible downstream membrane-fatty-acid or lipid-mediator task relevant to Phospholipid Omega-3. Chronic Low-Grade Inflammation Chronic low-grade inflammation is defined by sustained lower-intensity inflammatory activity within a biological context. Its importance is not determined by intensity alone. Persistent lower-grade signaling can remain biologically relevant when associated with: metabolic dysfunction; adipose stress; insulin resistance; vascular disease; aging-associated biology; recurrent environmental exposure; immune dysregulation; disease-specific processes. The heterogeneity of these drivers is precisely why chronic low-grade inflammation should not itself be treated as one diagnosis. An Inflammatory Signal Does Not Identify Its Cause A systemic inflammatory signal sits downstream of its biological driver. Similar CRP or cytokine patterns can arise from: adipose dysfunction; metabolic stress; persistent infection; immune-mediated disease; tissue injury; malignancy; vascular disease; aging; smoking; environmental exposure. The correct Keyora sequence therefore begins upstream of the biomarker. The signal establishes measurable inflammatory activity. It does not establish the cause responsible for producing it. Disease-Driven Infla",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "ion separation"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：KeyW (United States)；摘要首句：Background Persistent low-grade inflammation is frequently described as though it were a single biological condition identifiable through one elevated laboratory marker and addressable through one broadly anti-inflammatory inte…。",
+      "id": "doi:10.5281/zenodo.22825336"
     },
     {
       "source_db": "Crossref",
@@ -912,50 +930,6 @@
       "id": "doi:10.1016/j.desal.2026.120804"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7213453230",
-      "openalex_url": "https://openalex.org/W7213453230",
-      "doi": "10.1021/acsomega.6c07439",
-      "title": "Effect of N -Methyl-2-pyrrolidone/Dichloromethane Solvent Ratio towards the Retention of Magnesium Sulfate and Ibuprofen by Polylactic Acid Membranes",
-      "publication_date": "2026-09-17",
-      "journal": "ACS Omega",
-      "authors": [
-        "Xin Hui Chai",
-        "Law Yong Ng",
-        "Ching Yin Ng",
-        "Jia Huey Sim",
-        "Zhi Hua Lee",
-        "Ebrahim Mahmoudi",
-        "Nur Hanis Hayati Hairom",
-        "Amelia Kar Mun Chiang",
-        "Josephine Ying Chyi Liew"
-      ],
-      "first_author": "Xin Hui Chai",
-      "institutions": [
-        "Universiti Tunku Abdul Rahman",
-        "UCSI University",
-        "National University of Malaysia",
-        "Tun Hussein Onn University of Malaysia",
-        "Universiti Putra Malaysia"
-      ],
-      "abstract": "Abstract Polylactic acid (PLA) membranes are sustainable alternatives to petroleum-based polymers, yet inherent fragility often necessitates leachable additives for mechanical robustness that may contaminate the permeate. Cost-effective PLA 4032D pellets were used in this work to fabricate additive-free membranes via an evaporation-assisted non-solvent-induced phase separation (E-NIPS), employing N-methyl-2-pyrrolidone/dichloromethane (NMP/DCM) blends as a tuning parameter. E-NIPS implementation decoupled solvent evaporation from liquid–liquid demixing, facilitating a robust, high-crystallinity asymmetric structure. Optimized solvent ratio improved performance stability, yielding higher pure-water flux and enhanced rejection of ibuprofen and magnesium sulfate, chosen as representative pharmaceutical and salt contaminants. At an optimal 10:1 NMP/DCM ratio, membranes achieved a tensile strength of 9.65 ± 1.09 MPa and thermal stability onset near 345 °C. Differential scanning calorimetry confirmed that delayed demixing in NMP-rich formulations provided a kinetic window for ordered lamellae formation, significantly increasing crystallinity relative to DCM-rich amorphous structures. Additionally, 30 week soil burial tests revealed a controlled biodegradation profile regulated by the high-crystallinity matrix. These findings establish a sustainable framework for engineering high-performance, biodegradable membranes for pharmaceutical and salt removal.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "rejection"
-      ],
-      "score": 38,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "1 NM",
-        "9.65 ± 1.09 MPa"
-      ],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：Universiti Tunku Abdul Rahman、UCSI University；摘要首句：Abstract Polylactic acid (PLA) membranes are sustainable alternatives to petroleum-based polymers, yet inherent fragility often necessitates leachable additives for mechanical robustness that may contaminate the permeate.。",
-      "id": "doi:10.1021/acsomega.6c07439"
-    },
-    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -991,9 +965,9 @@
       "id": "doi:10.3390/nano16181149"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7213545107",
+      "openalex_url": "https://openalex.org/W7213545107",
       "doi": "10.1007/s13726-026-01754-5",
       "title": "Forward osmosis membrane incorporating covalent organic frameworks for enhanced desalination performance",
       "publication_date": "2026-09-18",
@@ -1001,11 +975,15 @@
       "authors": [
         "Jamaledin Jamadi-Torab",
         "Assadollah Malekzadeh",
-        "Masoud Rahbari-Sisakht",
-        "Ahmad Fauzi Ismail"
+        "Masoud Rahbari‐Sisakht",
+        "Ahmad Fauzi Ismail",
+        "Masoud Rahbari-Sisakht"
       ],
       "first_author": "Jamaledin Jamadi-Torab",
-      "institutions": [],
+      "institutions": [
+        "Islamic Azad University of Gachsaran",
+        "University of Technology Malaysia"
+      ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
@@ -1014,45 +992,11 @@
       "keyword_hits": [
         "desalination"
       ],
-      "score": 33,
+      "score": 35,
       "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Forward osmosis membrane incorporating covalent organic frameworks for enhanced desalination performance。",
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Islamic Azad University of Gachsaran、University of Technology Malaysia；题名线索：Forward osmosis membrane incorporating covalent organic frameworks for enhanced desalination performance。",
       "id": "doi:10.1007/s13726-026-01754-5"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7212441967",
-      "openalex_url": "https://openalex.org/W7212441967",
-      "doi": "10.1002/clem.70043",
-      "title": "Synergistic Design of Biomass Materials for Moisture‐Induced Electricity Generation",
-      "publication_date": "2026-09-13",
-      "journal": "CleanMat.",
-      "authors": [
-        "Wangxin Liu",
-        "Yanhua Guan",
-        "Guanghui Song",
-        "Chuanling Si",
-        "Lin Dai"
-      ],
-      "first_author": "Wangxin Liu",
-      "institutions": [
-        "Tianjin University of Science and Technology"
-      ],
-      "abstract": "ABSTRACT Harvesting the dispersed, low‐grade energy stored in atmospheric moisture has emerged as an attractive route toward distributed and sustainable power generation. Moisture‐induced electricity generation (MEG) converts chemical potential changes associated with water sorption, ion dissociation, selective ion transport, and interfacial charge transfer into electricity without requiring light, wind, or a liquid water supply. Natural biomass is a promising material platform because its polar and ionizable groups and hierarchical pore channels support moisture uptake, carrier generation, and directional ion transport. However, a single biomass material is unlikely to simultaneously provide high ionic conductivity, a persistent gradient, efficient charge collection, and wet‐state stability. This minireview presents a synergistic design framework across molecular, structural, and device levels. Biomass chemistry regulates carrier generation and ion selectivity, hierarchical structures maintain water activity and ion concentration gradients, and device integration coordinates ionic transport, charge collection, and structural stability. We first outline the fundamental mechanism of biomass‐based MEG and then compare cellulose, sodium alginate, lignin, proteins, chitosan, and microbial materials in terms of their properties, functions, limitations, and suitable application scenarios. Performance optimization strategies are further summarized as ionic regulation, gradient construction, and composite integration. Finally, we discuss the main challenges of conversion efficiency, operating lifetime, wet‐state durability, and biomass variability, together with future directions for practical and sustainable moisture energy harvesting.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "selective ion transport",
-        "selectivity"
-      ],
-      "score": 32,
-      "relevance_class": "领域扩展",
-      "key_numbers": [],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Tianjin University of Science and Technology；摘要首句：ABSTRACT Harvesting the dispersed, low‐grade energy stored in atmospheric moisture has emerged as an attractive route toward distributed and sustainable power generation.。",
-      "id": "doi:10.1002/clem.70043"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -1141,46 +1085,6 @@
       "id": "doi:10.24294/can026310029"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/adfm.78412",
-      "title": "Tandem Ion‐Selective Barriers Enable Directional Ion Gating: Injectable Ion‐Asymmetric Hydrogel Sponges for Hypersaline Desalination",
-      "publication_date": "2026-09-13",
-      "journal": "Advanced Functional Materials",
-      "authors": [
-        "Hang Zhu",
-        "Chengbing Wang",
-        "Tao Lei",
-        "Lu Wang",
-        "Jingjing Jin",
-        "Jiakun Liu",
-        "Songbo Zhao",
-        "Jing Zhang"
-      ],
-      "first_author": "Hang Zhu",
-      "institutions": [
-        "School of Materials Science and Engineering, Shaanxi Key Laboratory of Green Preparation and Functionalization for Inorganic Materials Shaanxi University of Science and Technology Xi'an Shaanxi China",
-        "School of Electronic Information and Artificial Intelligence Shaanxi University of Science and Technology Xi'an Shaanxi China"
-      ],
-      "abstract": "ABSTRACT Solar desalination of hypersaline brines holds promise for addressing water scarcity, yet salt crystallization at the evaporator interface remains a barrier to its practical viability. Here, we report an injectable ion‐asymmetric hydrogel sponge (IAHS) that regulates salt transport through directional ion gating. Leveraging a mold‐free injection strategy, we integrate oppositely charged polymer networks within a sponge skeleton to form a Donnan‐governed tandem ion‐selective barrier, where the positively charged bottom layer excludes cations and the negatively charged top layer excludes anions, enabling directional ion gating. Under the constraint of local electroneutrality, co‐ion exclusion in each layer restricts counter‐ion transport, fundamentally inhibiting salt nucleation and growth at the evaporation interface. Ion transport simulations combined with experiments demonstrate that this asymmetric charge architecture restricts salt‐ion migration towards the evaporation interface, validating the directional ion‐gating mechanism. The rigid sponge matrix sustains unobstructed water transport under high osmotic pressure, and the IAHS achieves an evaporation rate of 4.05 kg m −2 h −1 in 20 wt% brine with no salt accumulation throughout 12 h of continuous operation. Enabled by a mold‐free injection technique, this work introduces an ion‐selective salt‐regulation strategy based on directional ion gating, offering a practical pathway for hypersaline wastewater treatment and scalable solar desalination.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 30,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "2 h",
-        "12 h"
-      ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：School of Materials Science and Engineering, Shaanxi Key Laboratory of Green Preparation and Functionalization for Inorganic Materials Shaanxi University of Science and Technology Xi'an Shaanxi China、School of Electronic Information and Artificial Intelligence Shaanxi University of Science and Technology Xi'an Shaanxi China；摘要首句：ABSTRACT Solar desalination of hypersaline brines holds promise for addressing water scarcity, yet salt crystallization at the evaporator interface remains a barrier to its practical viability.。",
-      "id": "doi:10.1002/adfm.78412"
-    },
-    {
       "source_db": "OpenAlex",
       "openalex_id": "W7213276973",
       "openalex_url": "https://openalex.org/W7213276973",
@@ -1243,6 +1147,37 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.1080/01496395.2026.2730149",
+      "title": "Ionic liquid containing crown ether supported liquid membrane for lithium extraction and purification",
+      "publication_date": "2026-09-18",
+      "journal": "Separation Science and Technology",
+      "authors": [
+        "Rahul Thunuguntla",
+        "Karthik Nayani",
+        "Erik Pollock",
+        "Xianghong Qian",
+        "S. Ranil Wickramasinghe"
+      ],
+      "first_author": "Rahul Thunuguntla",
+      "institutions": [
+        "University of Arkansas"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 28,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：University of Arkansas；题名线索：Ionic liquid containing crown ether supported liquid membrane for lithium extraction and purification。",
+      "id": "doi:10.1080/01496395.2026.2730149"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.3390/appliedchem6030066",
       "title": "Creatine-Functionalized Graphene Oxide Membrane Reactor for Efficient Synthesis of 2-Amino-4H-Chromene Derivatives",
       "publication_date": "2026-09-16",
@@ -1276,37 +1211,6 @@
       ],
       "brief": "定位：膜领域相关；主题：二维层状膜；团队：Laboratory of Bio-Inspired Smart Interface Science, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing 100190, China、School of Future Technology, University of Chinese Academy of Sciences, Beijing 100049, China；摘要首句：Derivatives of 2-amino-4H-chromene possess diverse pharmacological activities.。",
       "id": "doi:10.3390/appliedchem6030066"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7212433974",
-      "openalex_url": "https://openalex.org/W7212433974",
-      "doi": "10.1016/j.cherd.2026.09.008",
-      "title": "Amine functionalized 2D magnesium oxide nanosheet with polyethersulfone hollow fibre membrane for CO2 separation from N2 and CH4",
-      "publication_date": "2026-09-13",
-      "journal": "Process Safety and Environmental Protection",
-      "authors": [
-        "Muhd Izzudin Fikry Zainuddin",
-        "Abdul Latif Ahmad",
-        "Meor Muhammad Hafiz Shah Buddin"
-      ],
-      "first_author": "Muhd Izzudin Fikry Zainuddin",
-      "institutions": [
-        "Universiti Sains Malaysia",
-        "University of Malaya",
-        "Universiti Teknologi MARA"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [],
-      "score": 28,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：Universiti Sains Malaysia、University of Malaya；题名线索：Amine functionalized 2D magnesium oxide nanosheet with polyethersulfone hollow fibre membrane for CO2 separation from N2 and CH4。",
-      "id": "doi:10.1016/j.cherd.2026.09.008"
     },
     {
       "source_db": "Crossref",
@@ -1569,165 +1473,71 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Artificial intelligence for solar‑driven humidification–dehumidification thermal desalination: a vision toward intelligent energy–water systems。",
       "id": "doi:10.1007/s10973-026-16188-7"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7212567188",
-      "openalex_url": "https://openalex.org/W7212567188",
-      "doi": "10.1002/advs.77588",
-      "title": "A Multifunctional Mesoporous Janus Separator With Optimized Mass Transport Regulation Enabling 800‐Cycle Lithium‐Oxygen Batteries",
-      "publication_date": "2026-09-13",
-      "journal": "Advanced Science",
-      "authors": [
-        "Hailiang Mu",
-        "Anlong Liu",
-        "Kun Luo",
-        "Yaming Pang",
-        "Chengde Xie",
-        "Xiaoteng Liu",
-        "Zhihong Luo",
-        "Guangbin Zhu",
-        "Yucheng Wang",
-        "Qirong Liu",
-        "Yongbing Tang"
-      ],
-      "first_author": "Hailiang Mu",
-      "institutions": [
-        "Shenzhen Institutes of Advanced Technology",
-        "Changzhou University",
-        "Shanghai Jiao Tong University",
-        "Chery Automobile (China)",
-        "Northumbria University",
-        "Guilin University of Technology",
-        "Guilin University of Electronic Technology",
-        "Tianjin University"
-      ],
-      "abstract": "ABSTRACT Lithium‐oxygen batteries (LOBs) deliver ultrahigh theoretical specific energy but suffer from limited cycle life caused by lithium dendrite growth, anode corrosion, and cathode passivation. Developing interfacially compatible functional separators is an effective solution, yet coordinating fast ion conduction and multi‐species mass transport regulation remains challenging. We design an asymmetric multifunctional mesoporous Janus separator (mGP), consisting of a ∼ 3.16 nm mesoporous silica (mSiO 2 ) layer and dense, hydrophobic, mechanically tough polyurethane (PU). Via steric confinement, the mSiO 2 nanochannels optimize mass transport behavior: they homogenize Li + flux and accelerate ion transport, suppress intermediate crossover to alleviate the shuttle effect and cathode passivation. The PU layer prevents dendrite piercing, buffers lithium volume variation, and suppresses water‐ and intermediate‐triggered anode corrosion via hydrophobicity. Li||Li symmetric cells with mGP run stably for 1300 h at 0.1 mA cm −2 . LOBs based on mGP achieve exceptional cycling stability: over 800 cycles at 1000 mAh g −1 and 100 cycles at 3000 mAh g −1 , outperforming traditional glass fiber (GF) separators. This work provides a feasible strategy for constructing high‐performance long‐cycle LOBs through deliberate mass transport optimization.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分",
-        "纳米通道/限域传输"
-      ],
-      "keyword_hits": [
-        "nanochannel"
-      ],
-      "score": 18,
-      "relevance_class": "领域扩展",
-      "key_numbers": [
-        "3.16 nm",
-        "1300 h"
-      ],
-      "brief": "定位：领域扩展；主题：离子筛分 / 纳米通道/限域传输；团队：Shenzhen Institutes of Advanced Technology、Changzhou University；摘要首句：ABSTRACT Lithium‐oxygen batteries (LOBs) deliver ultrahigh theoretical specific energy but suffer from limited cycle life caused by lithium dendrite growth, anode corrosion, and cathode passivation.。",
-      "id": "doi:10.1002/advs.77588"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1021/acsapm.6c03341",
-      "title": "A Photocurable Conductive Hydrogel with Synergistic Electron and Ion Transport for Long-Term, High-Fidelity Electroencephalography Acquisition",
-      "publication_date": "2026-09-13",
-      "journal": "ACS Applied Polymer Materials",
-      "authors": [
-        "Runyi Han",
-        "Fan Wang",
-        "Guanwen Ding",
-        "Boyuan Zhang",
-        "Jie Li",
-        "Chenbo Gong",
-        "Lin Shi",
-        "Dong Wen",
-        "Zhaopeng Xu"
-      ],
-      "first_author": "Runyi Han",
-      "institutions": [
-        "Yanshan University , , , ,",
-        "Southwest Petroleum University , , ,",
-        "University of Science and Technology Beijing , , ,"
-      ],
-      "abstract": "Abstract Long-term, high-fidelity electroencephalography acquisition requires bioelectronic interfaces that simultaneously exhibit low skin–electrode impedance, stable electrical conductivity, mechanical compliance, and environmental stability. However, most conductive hydrogels suffer from progressive water loss, disruption of conductive pathways, and increasing interfacial impedance during prolonged use, resulting in signal degradation and limiting their application in wearable brain–computer interfaces. This paper reports a conductive hydrogel based on photocurable gelatin methacryloyl (GelMA), which integrates a covalently cross-linked GelMA network, an MXene electronic conductive network, an NaCl-mediated ion transport network, and a glycerol–water hydrogen bond network, thereby establishing a synergistic electronic–ionic conductive interface with enhanced water retention and long-term stability. The rationally engineered multiscale network simultaneously improves mechanical robustness, electrical conductivity, and interfacial conformity while effectively suppressing conductivity decay induced by dehydration. The optimized hydrogel exhibits a compressive strength of 680.1 kPa, an electrical conductivity of 0.304 S m–1 (10 Hz), a low skin–electrode impedance of 6.501 kΩ, and retains 88.35% of its initial water content after 72 h under ambient conditions. Benefiting from the synergistic electron–ion transport mechanism and stable hydrated interface, the hydrogel electrode enables reliable acquisition of resting-state EEG and steady-state visual evoked potential signals, achieving a signal-to-noise ratio of 15.05 dB and maintaining stable electrophysiological performance after 12 h of continuous wear. This work demonstrates a general strategy for constructing long-term stable bioelectronic interfaces through the synergistic regulation of mechanical networks, electron transport, ion migration, and water retention, providing a promising platform for next-generation wearable EEG electrodes and continuous brain–computer interface applications.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "dehydration"
-      ],
-      "score": 18,
-      "relevance_class": "领域扩展",
-      "key_numbers": [
-        "680.1 kPa",
-        "88.35%",
-        "72 h",
-        "12 h"
-      ],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Yanshan University , , , ,、Southwest Petroleum University , , ,；摘要首句：Abstract Long-term, high-fidelity electroencephalography acquisition requires bioelectronic interfaces that simultaneously exhibit low skin–electrode impedance, stable electrical conductivity, mechanical compliance, and environ…。",
-      "id": "doi:10.1021/acsapm.6c03341"
     }
   ],
   "trends": {
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 134,
-        "delta": -34
+        "count": 135,
+        "delta": -28
       },
       {
         "name": "离子筛分",
-        "count": 81,
-        "delta": 3
+        "count": 80,
+        "delta": 10
       },
       {
         "name": "纳滤",
-        "count": 68,
-        "delta": -146
+        "count": 69,
+        "delta": -98
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 42,
-        "delta": 4
+        "count": 38,
+        "delta": -4
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 34,
-        "delta": -34
+        "count": 30,
+        "delta": -29
       },
       {
         "name": "COF/MOF膜",
-        "count": 25,
-        "delta": 5
+        "count": 24,
+        "delta": 4
       },
       {
         "name": "二维层状膜",
-        "count": 13,
-        "delta": 0
+        "count": 12,
+        "delta": 1
+      },
+      {
+        "name": "硫属二维材料",
+        "count": 4,
+        "delta": 4
       },
       {
         "name": "有机溶剂纳滤",
         "count": 3,
-        "delta": -18
-      },
-      {
-        "name": "硫属二维材料",
-        "count": 2,
-        "delta": 2
+        "delta": -14
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 267,
-        "delta": 267
+        "count": 268,
+        "delta": 268
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 150,
-        "delta": 150
+        "count": 152,
+        "delta": 152
       },
       {
         "name": "Desalination",
-        "count": 62,
-        "delta": 62
+        "count": 64,
+        "delta": 64
       },
       {
         "name": "Advanced Functional Materials",
@@ -1741,8 +1551,8 @@
       },
       {
         "name": "Journal of Water Process Engineering",
-        "count": 23,
-        "delta": 23
+        "count": 24,
+        "delta": 24
       },
       {
         "name": "Desalination and Water Treatment",
@@ -1761,8 +1571,8 @@
       },
       {
         "name": "Angewandte Chemie International Edition",
-        "count": 15,
-        "delta": 15
+        "count": 16,
+        "delta": 16
       },
       {
         "name": "Environmental Science &amp; Technology",
@@ -1771,8 +1581,8 @@
       },
       {
         "name": "Journal of Applied Polymer Science",
-        "count": 13,
-        "delta": 13
+        "count": 14,
+        "delta": 14
       }
     ],
     "authors": [
@@ -1812,17 +1622,17 @@
         "delta": 18
       },
       {
+        "name": "Xuewu Zhu",
+        "count": 15,
+        "delta": 15
+      },
+      {
         "name": "Ye-Heng Su",
         "count": 14,
         "delta": 14
       },
       {
         "name": "Sen Wang",
-        "count": 14,
-        "delta": 14
-      },
-      {
-        "name": "Xuewu Zhu",
         "count": 14,
         "delta": 14
       },
@@ -1864,12 +1674,22 @@
         "delta": 16
       },
       {
+        "name": "King Fahd University of Petroleum and Minerals",
+        "count": 13,
+        "delta": 13
+      },
+      {
         "name": "Tongji University , , ,",
         "count": 12,
         "delta": 12
       },
       {
         "name": "Zhengzhou University",
+        "count": 12,
+        "delta": 12
+      },
+      {
+        "name": "The University of Queensland",
         "count": 12,
         "delta": 12
       },
@@ -1889,12 +1709,17 @@
         "delta": 11
       },
       {
-        "name": "King Fahd University of Petroleum and Minerals",
+        "name": "Islamic University of Madinah",
         "count": 10,
         "delta": 10
       },
       {
         "name": "Rice University",
+        "count": 10,
+        "delta": 10
+      },
+      {
+        "name": "Shandong Jianzhu University",
         "count": 10,
         "delta": 10
       },
@@ -1909,22 +1734,7 @@
         "delta": 10
       },
       {
-        "name": "The University of Queensland",
-        "count": 10,
-        "delta": 10
-      },
-      {
         "name": "Fuzhou University",
-        "count": 9,
-        "delta": 9
-      },
-      {
-        "name": "Ministry of Education",
-        "count": 9,
-        "delta": 9
-      },
-      {
-        "name": "Shanghai Ocean University",
         "count": 9,
         "delta": 9
       }
