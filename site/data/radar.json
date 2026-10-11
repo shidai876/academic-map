@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-10-10T01:45:51.665515+00:00",
-  "updated_at_local": "2026-10-10 09:45 (UTC+8)",
+  "updated_at": "2026-10-11T01:00:51.825433+00:00",
+  "updated_at_local": "2026-10-11 09:00 (UTC+8)",
   "stats": {
-    "fetched": 1296,
-    "related": 40,
+    "fetched": 1337,
+    "related": 37,
     "recommended": 26,
     "window_days": 7,
     "sources": [
@@ -15,21 +15,25 @@
   },
   "works": [
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7221165941",
+      "openalex_url": "https://openalex.org/W7221165941",
       "doi": "10.1177/15579018261495208",
       "title": "Vacuum-Assisted Assembly of GO/MXene Lamellae for Enhanced PES Nanofiltration Performance",
       "publication_date": "2026-10-08",
       "journal": "Environmental Engineering Science",
       "authors": [
-        "Yunxia Liu",
+        "刘云霞",
         "Hongdan Wu",
+        "R. Li",
+        "Fan XianYuan",
+        "Yunxia Liu",
         "Rongxue Li",
         "Xianyuan Fan"
       ],
       "first_author": "Yunxia Liu",
       "institutions": [
+        "Wuhan University of Science and Technology",
         "Hubei Key Laboratory for Efficient Utilization and Agglomeration of Metallurgic Mineral Resources, Wuhan University of Science and Technology, Wuhan, China.",
         "College of Resource and Environmental Engineering, Wuhan University of Science and Technology, Wuhan, China."
       ],
@@ -55,8 +59,47 @@
         "93.8%",
         "84%"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 纳米通道/限域传输；团队：Hubei Key Laboratory for Efficient Utilization and Agglomeration of Metallurgic Mineral Resources, Wuhan University of Science and Technology, Wuhan, China.、College of Resource and Environmental Engineering, Wuhan University of Science and Technology, Wuhan, China.；摘要首句：Polyethersulfone (PES) membranes suffer from intrinsic hydrophobicity and severe fouling, limiting their applicability in dye-containing wastewater treatment.。",
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 纳米通道/限域传输；团队：Wuhan University of Science and Technology、Hubei Key Laboratory for Efficient Utilization and Agglomeration of Metallurgic Mineral Resources, Wuhan University of Science and Technology, Wuhan, China.；摘要首句：Polyethersulfone (PES) membranes suffer from intrinsic hydrophobicity and severe fouling, limiting their applicability in dye-containing wastewater treatment.。",
       "id": "doi:10.1177/15579018261495208"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7220913489",
+      "openalex_url": "https://openalex.org/W7220913489",
+      "doi": "10.1016/j.mtchem.2026.104087",
+      "title": "Evolution of smart nanofiltration membranes: from traditional modification to intelligent precise filtration",
+      "publication_date": "2026-10-08",
+      "journal": "Materials Today Chemistry",
+      "authors": [
+        "Jiahui Wang",
+        "Hui Wang",
+        "Minghui Sun",
+        "Xiaoyu Wang",
+        "Binjie Bai",
+        "Xiaobo Ma",
+        "Jianguo Tang",
+        "Yanxin Wang",
+        "Linjun Huang"
+      ],
+      "first_author": "Jiahui Wang",
+      "institutions": [],
+      "abstract": "As a novel class of functional separation media, smart nanofiltration (NF) membranes are capable of dynamically regulating separation performance upon external environmental stimuli, enabling intelligent and precise filtration with high efficiency. Unlike traditional static NF membranes with fixed, unadjustable separation capacity, such smart membranes offer unique advantages in tunability. Faced with global water scarcity and the growing pressure of industrial wastewater remediation, research communities across the globe have significantly expanded research and development investment in smart NF membranes in recent years. This review systematically summarizes mainstream modification strategies of smart NF membranes, typical stimuli-responsive categories, as well as their practical engineering applications. Five dominant modification techniques, including surface grafting, interfacial polymerization, blending modification, surface coating, and layer-by-layer self-assembly are elaborated, with their respective advantages and drawbacks in practical industrial scenarios comprehensively summarized. In terms of responsive behaviors, five mainstream stimuli-responsive modes are illustrated, along with representative membrane materials corresponding to each responsive type. The state-of-the-art applications and inherent bottlenecks of stimuli-responsive NF membranes are thoroughly discussed. In addition, the emerging multi-stimuli response and its existing application scenarios are also introduced. Finally, this work identifies critical bottlenecks restricting the further industrial translation of smart NF membranes and proposes targeted optimization strategies. We anticipate that smart NF membranes will provide viable solutions to diverse water pollution challenges and deliver prominent advances in resource recovery, precise ion separation, and sustainable industrial circulation in future practical processes.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "纳滤",
+        "聚酰胺/TFC"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "ion separation",
+        "interfacial polymerization"
+      ],
+      "score": 90,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤 / 聚酰胺/TFC；摘要首句：As a novel class of functional separation media, smart nanofiltration (NF) membranes are capable of dynamically regulating separation performance upon external environmental stimuli, enabling intelligent and precise filtration …。",
+      "id": "doi:10.1016/j.mtchem.2026.104087"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -319,25 +362,22 @@
       "id": "doi:10.1016/j.jwpe.2026.111056"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7220427155",
-      "openalex_url": "https://openalex.org/W7220427155",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1002/ange.7674294",
       "title": "Ultrathin <i>b</i> ‐Oriented Co‐Gallate MOF Membranes for Lithium Recovery: Precise Ion Sieving via Geometry‐Confined Dehydration",
       "publication_date": "2026-10-05",
       "journal": "Angewandte Chemie",
       "authors": [
         "Yanwei Sun",
-        "Yi Yang",
+        "Yufan Yang",
         "Tianhao Wang",
         "Xiatong Shao",
-        "Jiashu Lu",
-        "Yufan Yang"
+        "Jiashu Lu"
       ],
       "first_author": "Yanwei Sun",
       "institutions": [
-        "Beijing Normal University, Zhuhai",
-        "Henan University of Science and Technology",
         "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
         "Center for Advanced Materials Research Advanced Institute of Natural Sciences Beijing Normal University Zhuhai China",
         "College of Chemistry and Chemical Engineering Henan University of Science and Technology Luoyang China"
@@ -361,7 +401,7 @@
       "key_numbers": [
         "3.7 Å"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Beijing Normal University, Zhuhai、Henan University of Science and Technology；摘要首句：ABSTRACT Selective K + over Li + separation is indispensable for lithium recovery from salt‐lake brines, whereas simultaneous high‐efficiency separation of K + from interfering Na + and Mg 2+ cations remains challenging for pri…。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Faculty of Arts and Sciences Beijing Normal University Zhuhai China、Center for Advanced Materials Research Advanced Institute of Natural Sciences Beijing Normal University Zhuhai China；摘要首句：ABSTRACT Selective K + over Li + separation is indispensable for lithium recovery from salt‐lake brines, whereas simultaneous high‐efficiency separation of K + from interfering Na + and Mg 2+ cations remains challenging for pri…。",
       "id": "doi:10.1002/ange.7674294"
     },
     {
@@ -402,44 +442,6 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：COF/MOF膜 / 纳滤 / 脱盐/水处理；团队：Northeastern University；题名线索：Engineering COF membranes via post-modified thiol-ene photopolymerization and their applications in dye nanofiltration。",
       "id": "doi:10.1016/j.desal.2026.120910"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7219670959",
-      "openalex_url": "https://openalex.org/W7219670959",
-      "doi": "10.1002/anie.4290539",
-      "title": "Interface‐Induced Growth of Macroscopic, Free‐Standing, and Flexible Monolithic Pure MOF Membrane With Adaptive Porosity",
-      "publication_date": "2026-10-04",
-      "journal": "Angewandte Chemie International Edition",
-      "authors": [
-        "Yuan Zhao",
-        "Mohamed K. Albolkany",
-        "Awei Hu",
-        "Jianquan Wang",
-        "Bo Liu"
-      ],
-      "first_author": "Yuan Zhao",
-      "institutions": [
-        "Hefei National Center for Physical Sciences at Nanoscale",
-        "Alexandria University",
-        "Hefei National Laboratory for Physical Sciences at the Microscale, School of Chemistry and Materials Science University of Science and Technology of China Hefei Anhui China",
-        "Department of Environmental Studies, Institute of Graduate Studies and Research Alexandria University Alexandria Egypt"
-      ],
-      "abstract": "ABSTRACT Membrane‐based separation technologies have emerged as energy‐efficient and environmentally sustainable alternatives to traditional industrial separation processes. However, the development of high‐performance separation membranes faces fundamental material challenges, as amorphous polymeric materials typically exhibit poorly controlled pore size distributions while crystalline porous materials encounter intrinsic difficulties in forming continuous, defect‐free membranes at the macroscopic scale owing to inevitable crystal boundaries. Despite their exceptional structural tunability and separation potential, MOF membranes face fundamental challenges in defect‐free fabrication due to intrinsic crystallinity constraints. Integrating the structural precision of crystalline MOFs with the adaptivity of polymers, we successfully fabricated a macroscopic, free‐standing, and flexible monolithic pure MOF membrane through interface‐induced coordination of Co 2+ with the flexible multidentate amino acid ligand 2,6‐diaminopimelic acid (DAP). The flexible alkyl‐chain backbone suppresses long‐range crystallization and reduces interfacial strain during continuous membrane growth. Locally defined Co–amino‐acid coordination units preserve a framework scaffold, while conformationally flexible alkyl segments impart guest‐responsive latent free volume. The flexible Co‐DAP membrane exhibits guest‐responsive dynamic porosity, in which hydration generates water‐accessible transport pathways that regulate hydrated‐state molecular and ionic transport, enabling osmotically driven water/ion separation through coupled transport and interfacial electrostatic effects under conditions relevant to forward osmosis.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分",
-        "COF/MOF膜"
-      ],
-      "keyword_hits": [
-        "ion separation",
-        "mof membrane"
-      ],
-      "score": 72,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜；团队：Hefei National Center for Physical Sciences at Nanoscale、Alexandria University；摘要首句：ABSTRACT Membrane‐based separation technologies have emerged as energy‐efficient and environmentally sustainable alternatives to traditional industrial separation processes.。",
-      "id": "doi:10.1002/anie.4290539"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -613,66 +615,86 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1002/ange.4290539",
-      "title": "Interface‐Induced Growth of Macroscopic, Free‐Standing, and Flexible Monolithic Pure MOF Membrane With Adaptive Porosity",
-      "publication_date": "2026-10-04",
-      "journal": "Angewandte Chemie",
+      "doi": "10.26656/fr.2017.10(s2).3",
+      "title": "Influence of pressure on the separation of L-citrulline from watermelon rind juice by nanofiltration",
+      "publication_date": "2026-10-10",
+      "journal": "Food Research",
       "authors": [
-        "Yuan Zhao",
-        "Mohamed K. Albolkany",
-        "Awei Hu",
-        "Jianquan Wang",
-        "Bo Liu"
+        "N.T. Vi",
+        "T.M.T. Tran",
+        "Q.D. Lai"
       ],
-      "first_author": "Yuan Zhao",
-      "institutions": [
-        "Hefei National Laboratory for Physical Sciences at the Microscale, School of Chemistry and Materials Science University of Science and Technology of China Hefei Anhui China",
-        "Department of Environmental Studies, Institute of Graduate Studies and Research Alexandria University Alexandria Egypt"
-      ],
-      "abstract": "ABSTRACT Membrane‐based separation technologies have emerged as energy‐efficient and environmentally sustainable alternatives to traditional industrial separation processes. However, the development of high‐performance separation membranes faces fundamental material challenges, as amorphous polymeric materials typically exhibit poorly controlled pore size distributions while crystalline porous materials encounter intrinsic difficulties in forming continuous, defect‐free membranes at the macroscopic scale owing to inevitable crystal boundaries. Despite their exceptional structural tunability and separation potential, MOF membranes face fundamental challenges in defect‐free fabrication due to intrinsic crystallinity constraints. Integrating the structural precision of crystalline MOFs with the adaptivity of polymers, we successfully fabricated a macroscopic, free‐standing, and flexible monolithic pure MOF membrane through interface‐induced coordination of Co 2+ with the flexible multidentate amino acid ligand 2,6‐diaminopimelic acid (DAP). The flexible alkyl‐chain backbone suppresses long‐range crystallization and reduces interfacial strain during continuous membrane growth. Locally defined Co–amino‐acid coordination units preserve a framework scaffold, while conformationally flexible alkyl segments impart guest‐responsive latent free volume. The flexible Co‐DAP membrane exhibits guest‐responsive dynamic porosity, in which hydration generates water‐accessible transport pathways that regulate hydrated‐state molecular and ionic transport, enabling osmotically driven water/ion separation through coupled transport and interfacial electrostatic effects under conditions relevant to forward osmosis.",
+      "first_author": "N.T. Vi",
+      "institutions": [],
+      "abstract": "This study evaluated the feasibility of extracting L-citrulline from watermelon rind juice using nanofiltration under varying operating pressures from 10 to 40 bar. A nanofiltration membrane DK2540F30 with an active filtration area of 2.6 m² and a fully recirculating feed mode was utilized. The effect of pressure was discovered by monitoring the permeate fluxes of pretreated watermelon rind juice in comparison to that of pure water. Simultaneously, the selective separation of L-citrulline and D-glucose in the permeate was also investigated. The permeate flux of pure water demonstrated a linear correlation with the applied pressure within the range of 10 to 40 bar, whereas the flux behavior of the pretreated watermelon rind juice displayed a non-linear response under the same conditions. The optimal operating pressure was determined to be 35 bar, at which the membrane flux achieved its peak value of 30.00 L.m- ².h - ¹, and a significant rejection rate between L-citrulline (-172.26%) and D-glucose (48.43%) was observed. Membrane fouling was also found at this particular pressure as indicated by a pronounced reduction in permeate flux within the first 5 min, followed by a gradual and sustained decline over time. This reduction was mainly associated with a pronounced rise in fouling resistance, which nearly doubled within the first 9 min and was followed by a gradual increase until the 12-minute mark. A pronounced disparity in rejection rates was observed between Lcitrulline (-172.26%) and D-glucose (48.43%). These findings highlight the capability of nanofiltration as an innovative separation approach for the efficient extraction of Lcitrulline from watermelon rind juice.",
       "cited_by_count": 0,
       "topics": [
-        "离子筛分",
-        "COF/MOF膜"
+        "纳滤"
       ],
       "keyword_hits": [
-        "ion separation",
-        "mof membrane"
+        "nanofiltration",
+        "rejection"
       ],
       "score": 64,
       "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜；团队：Hefei National Laboratory for Physical Sciences at the Microscale, School of Chemistry and Materials Science University of Science and Technology of China Hefei Anhui China、Department of Environmental Studies, Institute of Graduate Studies and Research Alexandria University Alexandria Egypt；摘要首句：ABSTRACT Membrane‐based separation technologies have emerged as energy‐efficient and environmentally sustainable alternatives to traditional industrial separation processes.。",
-      "id": "doi:10.1002/ange.4290539"
+      "key_numbers": [
+        "40 bar",
+        "35 bar",
+        "172.26%",
+        "48.43%"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤；摘要首句：This study evaluated the feasibility of extracting L-citrulline from watermelon rind juice using nanofiltration under varying operating pressures from 10 to 40 bar.。",
+      "id": "doi:10.26656/fr.2017.10(s2).3"
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7220996698",
-      "openalex_url": "https://openalex.org/W7220996698",
-      "doi": "10.5281/zenodo.23249033",
-      "title": "Building the Bridge from the ${}^{6}\\Pi_3$ Model to Standard Physics - A Bottom-Up Framework from the Fundamental Geometric Lattice to Emergent Physical Constants and Symmetries",
-      "publication_date": "2026-10-08",
-      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "openalex_id": "W7221141095",
+      "openalex_url": "https://openalex.org/W7221141095",
+      "doi": "10.1016/j.wasman.2026.115916",
+      "title": "Mechanistic insights into ultrafiltration fouling mitigation by coagulation pretreatment in livestock biogas slurry treatment",
+      "publication_date": "2026-10-09",
+      "journal": "Waste Management",
       "authors": [
-        "Álvaro Perea"
+        "Wancen Xie",
+        "Ancheng Luo",
+        "Peng Tang",
+        "Jiuxian Zhao",
+        "Qiyun Tian",
+        "Yuanhang Ke",
+        "Jing Xiao",
+        "Yue Shi",
+        "Hongbing Luo",
+        "Lin Cheng",
+        "Li Jiang"
       ],
-      "first_author": "Álvaro Perea",
+      "first_author": "Wancen Xie",
       "institutions": [
-        "Universidad Nacional de Educación a Distancia"
+        "Sichuan Agricultural University",
+        "Southwest Jiaotong University",
+        "Chinese Academy of Sciences",
+        "Xinjiang Institute of Ecology and Geography",
+        "State Key Laboratory of Desert and Oasis Ecology"
       ],
-      "abstract": "When noise collapses into form and the arbitrary turns into necessity, only peace and reconciliation can endure. ------------------- Added 8th Oct 2026 This update (Chapter 5) presents a preliminary, first-approximation geometric and mechanical reinterpretation of Quantum Field Theory (QFT) within the framework of metric confinement, establishing a foundational core that will be further developed in the coming months. We demonstrate that the axiomatic postulates of standard QFT—such as the spin-statistics theorem, canonical commutation/anticommutation relations, and the existence of half-integer spin—are not arbitrary mathematical definitions, but the emergent, necessary consequences of the elasto-dynamics of submanifolds embedded in a three-dimensional effective space. By analyzing the field operators as symplectic phase-space coordinates, we show that free bosons map onto isotropic transverse membranes, whereas fermions are structured as longitudinal fibers permanently anchored at both ends to the spacetime mesh. This double anchoring imposes a rigid 4π rotational period required for 3D topological unknotting, providing a purely mechanical origin for spin-1/2 and Fermi-Dirac statistics. Furthermore, this boundary condition couples the 1D fiber to the 2D membrane canvas, freezing higher hyperdimensional degrees of freedom into an effective 3D volume (1+2=3) governed by the global structural constant c = 1/(2π²). We extend this paradigm to provide a physical, non-local explanation for: (i) Supersymmetry (SUSY) as the exact counter-balance between membrane surface tension and boundary anchor stress; (ii) Causality and Lorentz covariance as the gauges of local torsional coherence over the network; (iii) Spontaneous symmetry breaking as the mechanical saturation of geometric descent channels; and (iv) the non-renormalizability of General Relativity as a consequence of persistent, non-dissipative geometric vibrations triggered by the hyperdimensional gravitino pulse. Finally, we show that before the 3D-6D separation membrane can tear under extreme localized torque, the network undergoes a local re-compactification phase transition, giving a non-singular elasto-dynamic origin to black holes and their event horizons. -------------------- Epilogue: The Relational Frontier, Antimatter Confinement, and the Origin of Matter The fact that the 13.6 scale closes exactly on the 108 membrane with its own periodic residue 4/37=0.\\overline{108} indicates that the sealing of the 108 membrane is geometrically perfect. The resulting residue 211, the electronic pore, will be a mere geometric distortion in the geometric background. Therefore, this gravitino projection operator onto the 108 membrane is the ultimate frontier of the geometric model: it closes the geometry upon itself—endowing it with a relational nature—and, in turn, this rupture produces reality: the geometric distortion. At this stage, duality gives way to absolute separation: this residue is the inescapable yield that the gravitino is compelled to drag and expel into 3D. Furthermore, this periodic breakdown at 0.\\overline{108} exposes a deeper geometric asymmetry: the simultaneous generation of matter and antimatter. While physical matter is liberated and expelled into 3D space as the active residual yield, antimatter remains a geometric hostage bound strictly within the interior of the 108 membrane. This topological containment prevents antimatter from ever injecting into the 3D manifold, naturally resolving the primordial baryonic asymmetry from pure geometric confinement. It is precisely at this boundary, where pure geometry and its physical distortion become definitively segregated, that I reach the ultimate epistemic frontier as the author of this framework. At this threshold, the analysis inevitably turns inward: I find myself facing the mirror of my own existence as a constituent part of this very tiny geometric distortion. Mathematics and physics are not tools designed to unveil an underlying, pristine geometry, but human interpretations constructed to navigate the meaning of our inescapable metric rupture. Adding layers of theoretical complexity under the assumption that deeper reality demands more intricacy does not advance true understanding; without the self-knowledge that we ourselves are the distortion being observed, further detail merely adds descriptive intricacy rather than genuine insight. Once the origin is pinpointed, the path of the distortion remains unalterably written, leaving physical reality as the self-contained witness to its own metric rupture—a geometry that no volume of acquired knowledge can ever seal. Recognizing oneself in the reflection imposes an absolute obligation to stop; beyond this point, the geometric model can yield no further analytical depth, and continuing to construct formalisms becomes an act of evasion. ------------------------------ Beyond the Metric Boundary: Open Horizon and Future Directions: Yet, this closure does not mark an end, but rather the boundary of the current formulation. In the coming months, I will endeavor to shed light on the structural questions that remain open: symmetry as the fundamental pathway of geometric descent; symmetry breaking as a saturation-driven phase shift of that very pathway; conserved quantities as the metric aligners guiding the gravitino on its journey toward 3D; and the reinterpretation of Feynman diagrams not as perturbative abstractions, but as the physical fiber bundles spun by the gravitino as it threads its path into 3D. As Carl Sagan famously observed, extraordinary claims require extraordinary evidence—and nowhere is this more critical than when confronting a fundamental paradigm shift. Replacing established abstractions with a rigid, relational geometry demands that every decimal, symmetry, and residual boundary condition be proven beyond doubt. Yet, despite these structural advances, it is my deep conviction as the author that the 3D-6D geometry possesses a full, unyielding duality—a feature that would unlock an even higher order of predictive power for this framework. To rigorously explore this avenue, which would constitute the ultimate extraordinary proof, the author intends to focus the upcoming analysis on the following key axes: As a highly suggestive indication of this duality, the fundamental Blasius boundary layer parameters yield an exact match with the metric residual projections: the wall shear stress coefficient f″(0) = 0.33206 = (2.3325 − 0.0044) − 2 and the asymptotic boundary thickness η_∞ = 4.91 offer compelling evidence that continuum fluid friction and low-energy hadronic scattering are dual manifestations of the exact same logarithmic membrane dynamics. Furthermore, the residual tensor component 44 (0.0044) establishes the precise seesaw suppression mechanism that endows the light active neutrinos with their observed physical mass scale, anchored directly to the heavy electroweak/Majorana boundary scale at 233.25 GeV. This alignment confirms that the macroscopic shear boundary of continuum fluid mechanics and the quantum mass-generation thresholds of particle physics are structurally unseparated within the 3D–6D manifold. The second implication is even more extraordinary: it is my conviction as the author that the precursory seismic rupture preceding an earthquake describes an inhibited gravitino 19.6 pulse prior to a massive mass injection into 3D. The elasticity of the 3D-to-6D membrane satisfies the exact metric scale constraint: 1.96 = 1.156 + 0.804, where 0.804 adjusts and aligns as the experimentally observed strain ratio that sustains the active string tension. Here 1.156 is the membrane consolidation- the geometric granularity into which the gravitino converts its primary energy. When the string mechanism decouples, this holding tension is removed, thereby releasing the mass structured upon the membrane granularity directly into 3D space. This exact numerical correspondence reveals an unanchored mass injection regime and a profound distinction between cosmological and geophysical regimes: In cosmology, the string mechanism remains perpetually active. Because this holding tension is continuously maintained, 6D mass structures—such as the proton—are not expelled into 3D space, preserving their exact metric confinement within the permanent network. Conversely, in seismology, the string anchoring is absent, yet the system obeys the exact same pilot-wave and bounce dynamics. Without the stabilizing string tension, the accumulated energy cannot remain bound within the membrane granularity (1.156), causing the metric resistance to collapse abruptly as a macroscopic seismic fracture. Interested researchers in the further development, mathematical validation, and stress-testing of this framework to its ultimate limits are warmly invited to contact the author. Collaborative efforts are particularly welcome in formalizing the 3D-6D dualiity. ---------- Added 25th-27th August 2026, Chapter 4, section 3.5: Dual Asymmetric Renormalization, Relational Metric Closure, and the Informational Arrow of Time Abstract: This update establishes the exact geometric mechanism governing cross-scale renormalization, topological membrane sealing, and the emergence of matter and time within a 10D-to-3D relational framework. Key Findings: Dual Asymmetric Renormalization: The equilibrium of the floating 2.108 membrane is governed by a dual balance between top-down harmonic dissipation from 9D geometry (Euler-Mascheroni constant) and bottom-up geometric counter-pressure from 3D projections (Khinchin constant). This balance stabilizes the 108 membrane, avoiding infinite divergent loops and yielding a finite 6D deformation operator. Prime Spectral Closure and Atomic Scale: The interaction friction tensor exhibits a exact pairing between composite channels and prime stabilizers. The resulting elastic de",
+      "abstract": "The treatment and utilization of livestock biogas slurry (BS) is significantly hindered by severe membrane fouling associated with high turbidity and complex dissolved organic matter (DOM). This study established an integrated coagulation-ultrafiltration (UF) pretreatment system using aluminum sulfate or ferric chloride as coagulants to provide stable influent for subsequent membrane concentration. Results demonstrated that while raw BS caused a rapid increase in transmembrane pressure (TMP) during UF, optimized coagulation at 3 g/L maintained TMP below 10 kPa over 6 h. Specifically, reversible resistance ( R re ) decreased by 92.9–99.0%, and irreversible resistance ( R ir ) decreased by 65.9–79.0%. Particle-related characteristics were closely associated with R re , whereas R ir was governed by multiple interacting factors. Mechanistically, interfacial thermodynamic analysis revealed that optimized coagulation increased the interaction free energies for both membrane-foulant adhesion and foulant-foulant cohesion. This weakened the driving forces for foulant attachment and compaction, resulting in a thinner and looser fouling layer. Nutrient behavior was highly selective during coagulation-UF process. Nitrogen and potassium were largely preserved in the liquid phase, whereas phosphorus exhibited over 99% apparent concentration decrease under the optimized conditions, resulting in an overall nutrient concentration decrease of approximately 12%. Extended 24-h UF and downstream nanofiltration (NF) experiments further supported the improved fouling mitigation benefits of optimized coagulation. These results provided a mechanistic insight and a practical strategy for fouling-controlled BS pretreatment toward subsequent water reuse and nutrient management.",
       "cited_by_count": 0,
       "topics": [
-        "二维层状膜"
+        "纳滤"
       ],
       "keyword_hits": [
-        "2d membrane"
+        "nanofiltration"
       ],
       "score": 59,
       "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：二维层状膜；团队：Universidad Nacional de Educación a Distancia；摘要首句：When noise collapses into form and the arbitrary turns into necessity, only peace and reconciliation can endure.。",
-      "id": "doi:10.5281/zenodo.23249033"
+      "key_numbers": [
+        "10 kPa",
+        "6 h",
+        "92.9–99.0%",
+        "65.9–79.0%",
+        "99%",
+        "12%"
+      ],
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Sichuan Agricultural University、Southwest Jiaotong University；摘要首句：The treatment and utilization of livestock biogas slurry (BS) is significantly hindered by severe membrane fouling associated with high turbidity and complex dissolved organic matter (DOM).。",
+      "id": "doi:10.1016/j.wasman.2026.115916"
     },
     {
       "source_db": "Crossref",
@@ -713,9 +735,9 @@
       "id": "doi:10.3390/resources15100127"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7221031452",
-      "openalex_url": "https://openalex.org/W7221031452",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1021/jacs.6c11960",
       "title": "Redox-Programmed Bipolar Membranes from Electronically Wired Ion-Insertion Hosts for Selective Ion Transport",
       "publication_date": "2026-10-08",
@@ -733,7 +755,6 @@
       ],
       "first_author": "Tamilselvi Gurusamy",
       "institutions": [
-        "The University of Texas at Austin",
         "the University of Texas at Austin , , , ,"
       ],
       "abstract": "Abstract Selective ion separation is critical for resource recovery, water purification, and electrochemical energy technologies, yet it remains difficult to combine high selectivity, high flux, and simultaneous transmembrane uptake and release in a single-membrane architecture. Conventional polymer membranes are scalable but often lack molecular specificity. Redox-active ion-insertion materials provide lattice- and redox-defined ion selectivity, but their transport requires electronic charge compensation, limiting their use as single-stage transport membranes. Here, we establish electronically wired ion insertion hosts as active electrochemical membranes for redox-programmed ion separation. Li+-insertion particles are connected into a composite electronic–ionic conductor (CEIC), transforming a battery-type host into a membrane that stores, relays, and releases Li+ through spatially coupled redox reactions. Li+ transport is dominated by Li1–xMn2O4-mediated insertion/deinsertion, with a minor contribution from direct ionic transport through the porous membrane. Under an applied driving potential, bipolar electrochemistry couples Li+ insertion at the brine side interface with Li+ release at the recovery side interface, producing directional transmembrane transport. A LiMn2O4-based CEIC selectively transports Li+ from Na+-rich brine; integration with a Li+-selective polymer layer further suppresses nonselective ion transport and increases the Li+/Na+ separation factor to ∼2000. Spatially resolved electron energy loss spectroscopy reveals a lithiation gradient across the membrane, providing direct structural evidence of redox-coupled transmembrane transport. Replacement of LiMn2O4 with LiFePO4 further shows that modularity extends to the insertion host itself such that membrane selectivity can be programmed by the choice of insertion chemistry. This work shows that inorganic insertion chemistry can program membrane selectivity beyond the polymer design.",
@@ -750,7 +771,7 @@
       "score": 58,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：The University of Texas at Austin、the University of Texas at Austin , , , ,；摘要首句：Abstract Selective ion separation is critical for resource recovery, water purification, and electrochemical energy technologies, yet it remains difficult to combine high selectivity, high flux, and simultaneous transmembrane u…。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：the University of Texas at Austin , , , ,；摘要首句：Abstract Selective ion separation is critical for resource recovery, water purification, and electrochemical energy technologies, yet it remains difficult to combine high selectivity, high flux, and simultaneous transmembrane u…。",
       "id": "doi:10.1021/jacs.6c11960"
     },
     {
@@ -790,38 +811,43 @@
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7220913489",
-      "openalex_url": "https://openalex.org/W7220913489",
-      "doi": "10.1016/j.mtchem.2026.104087",
-      "title": "Evolution of smart nanofiltration membranes: from traditional modification to intelligent precise filtration",
+      "openalex_id": "W7221049225",
+      "openalex_url": "https://openalex.org/W7221049225",
+      "doi": "10.1016/j.desal.2026.120919",
+      "title": "Electric field-modulated selective Li+/Mg2+ transport in COF nanochannels: Molecular insights for lithium extraction from salt lake brines",
       "publication_date": "2026-10-08",
-      "journal": "Materials Today Chemistry",
+      "journal": "Desalination",
       "authors": [
-        "Jiahui Wang",
-        "Hui Wang",
-        "Minghui Sun",
-        "Xiaoyu Wang",
-        "Binjie Bai",
-        "Xiaobo Ma",
-        "Jianguo Tang",
-        "Yanxin Wang",
-        "Linjun Huang"
+        "Chenchen Ma",
+        "Qi Wang",
+        "Zheng Chang",
+        "Yichao Hu",
+        "Liang Bai",
+        "Jing Ma",
+        "Li Wang",
+        "Xiangming He"
       ],
-      "first_author": "Jiahui Wang",
-      "institutions": [],
+      "first_author": "Chenchen Ma",
+      "institutions": [
+        "Zhejiang Ocean University",
+        "Tsinghua University"
+      ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
-        "纳滤"
+        "离子筛分",
+        "纳米通道/限域传输",
+        "脱盐/水处理"
       ],
       "keyword_hits": [
-        "nanofiltration"
+        "nanochannel",
+        "desalination"
       ],
-      "score": 54,
+      "score": 53,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Evolution of smart nanofiltration membranes: from traditional modification to intelligent precise filtration。",
-      "id": "doi:10.1016/j.mtchem.2026.104087"
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输 / 脱盐/水处理；团队：Zhejiang Ocean University、Tsinghua University；题名线索：Electric field-modulated selective Li+/Mg2+ transport in COF nanochannels: Molecular insights for lithium extraction from salt lake brines。",
+      "id": "doi:10.1016/j.desal.2026.120919"
     },
     {
       "source_db": "Crossref",
@@ -851,6 +877,49 @@
       "key_numbers": [],
       "brief": "定位：核心膜分离；主题：脱盐/水处理；题名线索：Data-Driven Optimization of Reverse Osmosis Desalination Plants Through Long-Term Operational Monitoring and Membrane Fouling Characterization。",
       "id": "doi:10.1007/s41101-026-00577-y"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7221094811",
+      "openalex_url": "https://openalex.org/W7221094811",
+      "doi": "10.1126/sciadv.aef9368",
+      "title": "Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and anion discrimination",
+      "publication_date": "2026-10-09",
+      "journal": "Science Advances",
+      "authors": [
+        "Haopan Sun",
+        "Ning Gan",
+        "Baolong Wu",
+        "LIU Chenglin",
+        "Yan Jin",
+        "Yuzhu Sun",
+        "Jianguo Yu",
+        "Zhaoliang Cui",
+        "Yuqing Lin",
+        "Hideto Matsuyama",
+        "Young Moo Lee"
+      ],
+      "first_author": "Haopan Sun",
+      "institutions": [
+        "East China University of Science and Technology",
+        "Nanjing Tech University",
+        "Kobe University",
+        "Hanyang University"
+      ],
+      "abstract": "Sustainable recovery of critical resources from complex aqueous streams is constrained by membranes that fail to combine rapid ion transport with precise mono/multivalent discrimination. Here, we report Tröger’s base-derived porous organic polymer (POP) membranes with rigid, covalently crosslinked microporous frameworks that stabilize angstrom-scale transport channels while suppressing hydration-induced swelling. These membranes render rapid monovalent-ion transport with near-complete exclusion of multivalent cations and anions, including Mg 2+ , Al 3+ , SO 4 2− , and PO 4 3− . Experiments and simulations show that steric confinement, dehydration penalties, and electrostatic interactions cooperatively raise migration barriers for multivalent ions in confined channels. The membranes achieve comprehensive mono/multivalent discrimination across both cationic and anionic systems. In multistage electrodialysis, they enable stage-amplified lithium enrichment from high-Mg brines with stable long-term operation and downstream recovery of crystalline Li 2 CO 3 . They also facilitate high-purity NaCl enrichment from simulated seawater. Overall, this platform offers a durable and energy-efficient route to selective resource recovery from complex aqueous streams.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "纳米通道/限域传输"
+      ],
+      "keyword_hits": [
+        "dehydration"
+      ],
+      "score": 52,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：East China University of Science and Technology、Nanjing Tech University；摘要首句：Sustainable recovery of critical resources from complex aqueous streams is constrained by membranes that fail to combine rapid ion transport with precise mono/multivalent discrimination.。",
+      "id": "doi:10.1126/sciadv.aef9368"
     },
     {
       "source_db": "Crossref",
@@ -1003,137 +1072,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.3390/w18192458",
-      "title": "Water–Energy Nexus: The Case of a Desalination Plant in the Semi-Arid Region of Brazil",
-      "publication_date": "2026-10-04",
-      "journal": "Water",
-      "authors": [
-        "Silvano Pereira",
-        "Víctor Porto",
-        "Tobias Bleninger",
-        "Julian Hunt",
-        "Eduardo Martins",
-        "Iran Lima Neto",
-        "Daniel Prats"
-      ],
-      "first_author": "Silvano Pereira",
-      "institutions": [
-        "Instituto Universitario del Agua y de las Ciencias Ambientales, Universidad de Alicante, 03690 Alicante, Spain",
-        "Companhia de Água e Esgoto do Ceará (CAGECE), Fortaleza 6025-900, Brazil",
-        "Departamento de Engenharia Hidráulica e Ambiental, Universidade Federal do Ceará, Fortaleza 60455-900, Brazil",
-        "Departamento de Engenharia Ambiental, Universidade Federal do Paraná, Curitiba 81531-980, Brazil",
-        "Biological and Environmental Science and Engineering Division, King Abdullah University of Science and Technology, Thuwal 23955-6900, Saudi Arabia",
-        "Fundação Cearense de Meteorologia e Recursos Hídricos (FUNCEME), Fortaleza 60115-221, Brazil",
-        "Strategic Center of Excellence in Water and Drought Policies (CEPAS), Federal University of Ceará (UFC), Fortaleza 60455-900, Brazil",
-        "Departamento de Ingeniería Química, Universidad de Alicante, 03690 Alicante, Spain"
-      ],
-      "abstract": "Water and energy are interdependent resources essential for economic development and societal well-being. Consequently, increasing water demand has intensified water scarcity in many regions, a problem exacerbated by climate change. In such contexts, seawater desalination can provide a reliable and climate-independent source of freshwater, reducing pressure on conventional water resources through reverse osmosis. This paper provides an assessment of the integrated water–energy benefits of producing 1.0 m3/s drinking water through seawater desalination within a large-scale water-transfer system. It introduces a framework that accounts for the energy recovered from avoided inter-basin transfers, including pumping savings, increased downstream hydroelectric generation in the São Francisco River (SFR) basin (Brazil), and energy consumption for water treatment. To that end, an extensive database was compiled from Brazilian public documents and information, aiming for an integrated analysis of the water matrix of an important part of the Brazilian semi-arid region in relation to its electricity demands. Results reveal that desalination requires less electricity from the grid than transporting and treating water from the SFR, with a favorable balance of 0.29 kWh/m3 and a potential to reach 3.29 kWh/m3 when powered by renewable energy. This study shows that desalination in the Northeast of Brazil can be an asset with an energy-positive balance for the country.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis",
-        "desalination"
-      ],
-      "score": 50,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Instituto Universitario del Agua y de las Ciencias Ambientales, Universidad de Alicante, 03690 Alicante, Spain、Companhia de Água e Esgoto do Ceará (CAGECE), Fortaleza 6025-900, Brazil；摘要首句：Water and energy are interdependent resources essential for economic development and societal well-being.。",
-      "id": "doi:10.3390/w18192458"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7220427570",
-      "openalex_url": "https://openalex.org/W7220427570",
-      "doi": "10.1002/nzc2.70241",
-      "title": "Nano‐Biointerface of Magnesium–Selenium Nanocomposites Enhance Stress Tolerance in Eggplant ( Solanum melongena ) Under Cadmium Toxicity",
-      "publication_date": "2026-10-05",
-      "journal": "New Zealand Journal of Crop and Horticultural Science",
-      "authors": [
-        "Muhammad Kaleem",
-        "Anis Ali Shah",
-        "Muhammad Iftikhar",
-        "Sheeraz Usman",
-        "Asfa Batool",
-        "Hosam O. Elansary"
-      ],
-      "first_author": "Muhammad Kaleem",
-      "institutions": [
-        "University of Education",
-        "State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems",
-        "Lanzhou University",
-        "King Saud University"
-      ],
-      "abstract": "Cadmium (Cd) toxicity severely impairs plant growth, physiology, and biochemical processes. This study investigated the effectiveness of nanoparticle‐based supplements (NCs‐I and NCs‐II) in alleviating Cd‐induced stress in eggplant ( Solanum melongena L.). Cadmium stress significantly reduced root length (41.11%), shoot length (26.97%), shoot fresh weight (35.02%), shoot dry weight (18.08%), chlorophyll a (62.38%), chlorophyll b (81.60%), carotenoids (43.17%), photosynthetic rate (32.44%), stomatal conductance (60.00%), transpiration rate (37.35%), and selenium accumulation in shoots (58.59%) and roots (66.67%). In contrast, Cd stress increased malondialdehyde (MDA) by 36.32%, hydrogen peroxide (H 2 O 2 ) by 77.27%, relative membrane permeability by 58.97%, electrolyte leakage by 47.06%, and proline accumulation by 76.52%, indicating severe oxidative damage. Application of NCs‐I and NCs‐II markedly mitigated Cd toxicity. Compared with Cd treatment alone, Cd + NCs‐II enhanced root length, shoot length, shoot fresh weight, and shoot dry weight by 116.83%, 59.49%, 71.86%, and 47.87%, respectively. Chlorophyll a, chlorophyll b, and carotenoid contents increased by 187.34%, 247.83%, and 193.52%, while relative water content improved by 43.89%. Photosynthetic rate, stomatal conductance, and transpiration rate increased by 62.30%, 185.00%, and 223.08%, respectively. Antioxidant defense was strengthened through increases in CAT (29.41%), POD (31.32%), and APX (71.64%) activities. Furthermore, Cd + NCs‐II enhanced shoot and root selenium accumulation by 235.66% and 377.81%, respectively, while restoring ionic balance through substantial increases in K + , Ca 2+ , and Mg 2+ contents. NCs‐I alone produced the highest improvements in several physiological traits, including chlorophyll content, photosynthetic efficiency, antioxidant enzyme activity, and water status.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "permeability"
-      ],
-      "score": 44,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "41.11%",
-        "26.97%",
-        "35.02%",
-        "18.08%",
-        "62.38%",
-        "81.60%",
-        "43.17%",
-        "32.44%"
-      ],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：University of Education、State Key Laboratory of Herbage Improvement and Grassland Agro-ecosystems；摘要首句：Cadmium (Cd) toxicity severely impairs plant growth, physiology, and biochemical processes.。",
-      "id": "doi:10.1002/nzc2.70241"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7220907618",
-      "openalex_url": "https://openalex.org/W7220907618",
-      "doi": "10.1021/acsestwater.6c00507",
-      "title": "Multiobjective Optimization of Cross-Flow Membrane Channel Geometry via Integrated CFD Modeling and RSM-Desirability Function Analysis",
-      "publication_date": "2026-10-08",
-      "journal": "ACS ES&T Water",
-      "authors": [
-        "Dinghao Ma",
-        "Zile Chen",
-        "Zhe Wei Yang",
-        "Maojun Ye",
-        "朱亚辉",
-        "Yizhen Zhang",
-        "Wentao Shang"
-      ],
-      "first_author": "Dinghao Ma",
-      "institutions": [
-        "Jinan University",
-        "Hong Kong University of Science and Technology",
-        "Shandong University of Science and Technology"
-      ],
-      "abstract": "Abstract Pressure-driven membrane separation processes are pivotal for seawater desalination and wastewater recovery. However, the geometric configuration of the flow channel strongly influences mass-transfer performance and energy consumption. This study applies an integrated three-dimensional computational fluid dynamics (CFD) and response surface methodology (RSM) framework to optimize length-to-height (L/H) and length-to-width (L/W) ratios of cross-flow membrane channels for concentration polarization (CP) mitigation and hydraulic pressure drop (ΔP) reduction. A 13-point central composite design (CCD) was employed to construct second-order polynomial response-surface models (R2 > 0.95). To address the tradeoff between CP mitigation and energy consumption, a desirability-function multiobjective optimization was performed and validated using the nondominated sorting genetic algorithm II (NSGA-II). Results demonstrate that surface solute concentration exhibits a nonmonotonic, U-shaped dependence on L/H, whereas ΔP increases nonlinearly with vertical confinement. The optimal compromise geometry (L/H = 33 and L/W = 3), achieved a 2.21% reduction in the maximum CP and a 66.86% decrease in ΔP relative to the reference design. Six independent CFD validation simulations confirmed the model’s interpolation accuracy, yielding mean relative errors of 0.134% for CP and 1.050% for ΔP. These findings provide a numerically supported, application-specific physical threshold for scaling highly efficient, low-energy membrane modules.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 38,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "2.21%",
-        "66.86%",
-        "0.134%",
-        "1.050%"
-      ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Jinan University、Hong Kong University of Science and Technology；摘要首句：Abstract Pressure-driven membrane separation processes are pivotal for seawater desalination and wastewater recovery.。",
-      "id": "doi:10.1021/acsestwater.6c00507"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.1021/acs.langmuir.6c04741",
       "title": "Explicit Solvent Effects on Ion Selectivity and Membrane Potential of Charged Spherical Liposomes: A Classical Density-Functional Theory Investigation",
       "publication_date": "2026-10-07",
@@ -1159,54 +1097,6 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：离子筛分；团队：Isfahan University of Technology , , ,；摘要首句：Abstract In this work, we use classical density-functional theory (CDFT) to study ion selectivity and membrane potential in cationic and anionic spherical liposomes.。",
       "id": "doi:10.1021/acs.langmuir.6c04741"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7219573842",
-      "openalex_url": "https://openalex.org/W7219573842",
-      "doi": "10.1021/acs.langmuir.6c04005",
-      "title": "Scalable Membrane-Based Lithium-Ion Sieve Sorbent for Selective Lithium Extraction from Brines",
-      "publication_date": "2026-10-04",
-      "journal": "Langmuir",
-      "authors": [
-        "Ana Ivanković",
-        "Adrien Comès",
-        "Martin Stockhausen",
-        "Justyna Florek",
-        "Heinz Ragossnig",
-        "Cana Khalouche",
-        "Thilo Hofmann",
-        "Freddy Kleitz",
-        "Christian M. Pichler",
-        "Adrien Comès"
-      ],
-      "first_author": "Ana Ivanković",
-      "institutions": [
-        "University of Vienna",
-        "TU Wien",
-        "Treibacher (Austria)",
-        "Vienna University of Technology , , Wiedner Hauptstrasse 8-10 , ,",
-        "University of Vienna , , Währinger Strasse 42 , ,",
-        "Amer-Sil S.A. , 61 Rue d’Olm , ,",
-        "University of Vienna , , Josef-Holaubek-Platz (UZA II) , ,",
-        "Treibacher Industrie AG , Auer-von-Welsbach-Strasse 1 , ,"
-      ],
-      "abstract": "Abstract The escalating global demand for lithium, driven by the rapid growth of production of electric vehicles and portable electronics, requires the development of selective and scalable extraction technologies capable of recovering lithium from complex liquid resources such as geothermal-, oilfield-, or low-grade salar brines. This study presents the development and characterization of a novel composite membrane adsorbent based on a monoclinic β-Li2TiO3 (LTO) lithium-ion sieve embedded within a poly(vinyl chloride) (PVC) and silica (SiO2) matrix. The incorporation of SiO2 as a structural component enhances mechanical stability, processability, and wettability of the membrane enabling fabrication via industrially scalable extrusion and calendaring techniques and promoting contact of the Li-bearing brine with LTO particles inside the pore system of the membrane. Three membrane compositions with varying SiO2:LTO ratios (50:50, 40:60 and 30:70 wt %) were systematically investigated. Among the investigated compositions, the 40% SiO2-60% LTO membrane achieved the highest equilibrium adsorption capacity of approximately 37 mg Li+ g–1 HTO at 45 °C from a dilute feed solution (C0 = 100 mg L–1), consistent with endothermic, chemisorption-controlled Li+/H+ exchange kinetics best described by the pseudo-second-order model. Selectivity evaluation in a mixed-cation solution simulating geothermal brine composition yielded a Li+ distribution coefficient (Kd) of 304 mL g–1, with separation factors of 12 over Na+ and Mg2+, and 8 over K+. The membrane retained stable adsorption capacity over several consecutive adsorption–desorption cycles, confirming good chemical and structural stability. These results demonstrate the potential of PVC/SiO2/LTO composite membranes as a promising, cost-effective, and industrially scalable platform for selective lithium recovery from complex brines.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "selectivity"
-      ],
-      "score": 38,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "40%",
-        "60%"
-      ],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：University of Vienna、TU Wien；摘要首句：Abstract The escalating global demand for lithium, driven by the rapid growth of production of electric vehicles and portable electronics, requires the development of selective and scalable extraction technologies capable of re…。",
-      "id": "doi:10.1021/acs.langmuir.6c04005"
     },
     {
       "source_db": "OpenAlex",
@@ -1239,6 +1129,49 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：University of Kirkuk、University of Tikrit；摘要首句：Objective: To assess physicochemical parameters and selected trace/heavy metals in water before and after the reverse osmosis (RO) treatment system at the main dialysis center in Kirkuk, Iraq, and to compare the results with WH…。",
       "id": "doi:10.70882/hck1rx09"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7220999763",
+      "openalex_url": "https://openalex.org/W7220999763",
+      "doi": "10.1002/aenm.71684",
+      "title": "Janus Ag Nanoskin‐Armored Polyimide Bilayer Separator Enables Efficient Li‐Nucleation Regulation for Dendrite‐Free Lithium Metal Battery",
+      "publication_date": "2026-10-07",
+      "journal": "Advanced Energy Materials",
+      "authors": [
+        "Pengpeng Li",
+        "Xinluo Li",
+        "Qingsong Zhang",
+        "Yisong Zhou",
+        "Junyi Han",
+        "Nianyu Yue",
+        "Jiameng Li",
+        "Jiaji Yue",
+        "Guohua Sun",
+        "Nanjun Chen"
+      ],
+      "first_author": "Pengpeng Li",
+      "institutions": [
+        "Hebei University of Science and Technology",
+        "Ningbo Institute of Industrial Technology",
+        "Xiamen University"
+      ],
+      "abstract": "ABSTRACT Uncontrolled lithium (Li) dendrite growth has been regarded as the most critical obstacle for the widespread adoption of Li metal batteries (LMBs), stemming from the preferential nucleation of Li ions (Li + ) at low‐energy‐barrier sites that trigger heterogeneous deposition. Therefore, it is pivotal yet significantly challenging to effectively control Li nucleation and deposition in LMBs. Here, we engineer a Janus Ag nanoskin‐armored polyimide (Ag@PI/PI) bilayer separator by in situ growth Ag nanoparticles on the surface of PI nanofiber and integrating a high‐strength PI nanofiber membrane as the dorsal substrate. Specifically, the Ag nanoskin acts as a three‐dimensional lithiophilic host to seize Li and induce sequential Li nucleation, thereby preventing Li dendrite formation. As a result, the Ag@PI/PI‐Li||Cu cell exhibits a low overpotential of 31.0 mV, high Coulombic efficiency of 98.9%, and prolonged Sand's time of 26.3 h. Significantly, the Ag@PI/PI separator delivers a high Li + transference number (0.70) and exceptional cycling stability (1600 h) in a Li||Li cell. Moreover, the Ag@PI/PI‐based Li||NCM523 cell achieves a remarkable specific capacity of 108.32 mAh g −1 at 5 C while retaining a satisfying capacity retention of 88.7% at 1 C. These results underscore the viability of this universal and efficient Ag nanoskin‐armored strategy for high‐security LMBs applications.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 31,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "98.9%",
+        "26.3 h",
+        "1600 h",
+        "88.7%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Hebei University of Science and Technology、Ningbo Institute of Industrial Technology；摘要首句：ABSTRACT Uncontrolled lithium (Li) dendrite growth has been regarded as the most critical obstacle for the widespread adoption of Li metal batteries (LMBs), stemming from the preferential nucleation of Li ions (Li + ) at low‐en…。",
+      "id": "doi:10.1002/aenm.71684"
     },
     {
       "source_db": "Crossref",
@@ -1350,46 +1283,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1080/15422119.2026.2741070",
-      "title": "Humidification–Dehumidification Desalination and Hybrid Configurations: Productivity, Cost, and Sustainability",
-      "publication_date": "2026-10-04",
-      "journal": "Separation &amp; Purification Reviews",
-      "authors": [
-        "M.A. Elazab",
-        "Hatem Nasr",
-        "Khaled Ramzy",
-        "Tamer M. Mansour",
-        "A.E. Kabeel",
-        "Abdelrahman T. Elgohr",
-        "Mohamed S. Elhadidy",
-        "Mohamed Kamel Elshaarawy"
-      ],
-      "first_author": "M.A. Elazab",
-      "institutions": [
-        "Horus University-Egypt",
-        "Mansoura National University",
-        "Suez Canal University",
-        "Tanta University",
-        "Alsalam University"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 27,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Horus University-Egypt、Mansoura National University；题名线索：Humidification–Dehumidification Desalination and Hybrid Configurations: Productivity, Cost, and Sustainability。",
-      "id": "doi:10.1080/15422119.2026.2741070"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7220992718",
-      "openalex_url": "https://openalex.org/W7220992718",
       "doi": "10.1007/s10967-026-11191-6",
       "title": "Lithium isotope separation: advances in membrane-based technologies",
       "publication_date": "2026-10-08",
@@ -1453,42 +1346,39 @@
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7220854924",
-      "openalex_url": "https://openalex.org/W7220854924",
-      "doi": "10.1111/1749-4877.70214",
-      "title": "Chromosome‐Level Genome Assembly of Strauchbufo raddei and Multi‐Omic Insights Into Drought Adaptation",
-      "publication_date": "2026-10-07",
-      "journal": "Integrative Zoology",
+      "openalex_id": "W7221098769",
+      "openalex_url": "https://openalex.org/W7221098769",
+      "doi": "10.26599/mrse.2026.9520040",
+      "title": "Removal of copper and lead ions by red mud-metakaolin based geopolymer microspheres: Insights into the efficient preparation and adsorption mechanisms",
+      "publication_date": "2026-10-09",
+      "journal": "Materials Reports Solidwaste and Ecomaterials",
       "authors": [
-        "Fanrui Chen",
-        "Rui Su",
-        "Chengqi WANG",
-        "Shengnan Wang",
-        "Jinjing Wang",
-        "Yuquan Miao",
-        "Wenya Zhang",
-        "Wei Zhao"
+        "Kaituo Wang",
+        "Yuxiao Jiang",
+        "Haoyu Chen",
+        "Min Yi",
+        "Lin Shao"
       ],
-      "first_author": "Fanrui Chen",
+      "first_author": "Kaituo Wang",
       "institutions": [
-        "Lanzhou University"
+        "Guangxi University",
+        "Nanning Normal University"
       ],
-      "abstract": "Understanding how amphibians adapt to terrestrial and arid environments is important for elucidating vertebrate terrestrialization. In this study, we present the first chromosome-level, high-quality genome assembly of Strauchbufo raddei, constructed using PacBio HiFi long-read sequencing and Hi-C scaffolding. The assembled genome is 4.47 Gb in size, with a scaffold N50 of 575 Mb and 94.5% BUSCO completeness, and 99.8% of sequences anchored to 11 chromosomes, providing a valuable genomic resource for amphibian evolutionary and ecological studies. Comparative genomic analyses identified 163 significantly expanded gene families in the S. raddei lineage, including transposable-element-associated and immune-related gene families. These expansions suggest lineage-specific genomic contributions to immune and barrier-associated adaptations in xeric environments. To further explore these adaptations, we integrated comparative genomics with transcriptomic data and physiological assays across Xenopus tropicalis, Bufo gargarizans, and S. raddei. Notably, although S. raddei lacks the dermal calcified layer present in B. gargarizans, it exhibits comparable water retention and rehydration capacities. Desiccation experiments demonstrated that S. raddei dynamically modulates epidermal thickness and mucus secretion under dehydration. Transcriptomic analyses revealed upregulation of keratin (KRT) genes and activation of pathways related to epidermal integrity and water balance. Phylogenetic analysis of the KRT gene family identified a lineage-specific expansion in bufonid toads, particularly within KRT10- and KRT14-associated subclades. Together, this study provides a high-quality genomic resource for S. raddei and offers integrative insights into the molecular and physiological basis of amphibian adaptation to arid environments.",
+      "abstract": "Abstract This study used red mud and metakaolin as the main raw material, with sodium silicate as the alkali activator. Red mud-metakaolin based geopolymer microspheres (RM-MGMs) with good sphericity and high mechanical strength are prepared via dispersion-suspension-solidification method. By investigating the adsorption performance of RM-MGMs calcined at different temperatures for Cu2+ and Pb2+, the uncalcined RM-MGMs exhibit excellent heavy metal cation adsorption due to their abundant surface hydroxyl groups and high ion exchange capacity. The optimal adsorption conditions for Cu2+/Pb2+ were adsorbent dosages of 1.5/0.3 g/L, pH of 5.3-5.6/5.0, respectively. Cu2+ adsorption reached equilibrium at 960 min. Pb2+ showed faster adsorption rate due to its smaller hydrated ionic radius and reached equilibrium at 60 min. Kinetic results indicated that the pseudo-second-order model better describes the adsorption process of RM-MGMs for Cu2+/Pb2+. Adsorption isotherm models showed that increasing temperature favors the adsorption of Cu2+/Pb2+ by RM-MGMs. At 318 K, the adsorption capacities of RM-MGMs for Cu2+/Pb2+ reach 0.86/1.43 mmol/g, respectively. In competitive experiments, the removal rates of Cu2+/Pb2+ by RM-MGMs both exceed 80%. RM-MGMs achieve adsorption of Cu2+/Pb2+ through synergistic mechanisms including ion exchange, electrostatic attraction and complexation.",
       "cited_by_count": 0,
       "topics": [
         "离子筛分"
       ],
       "keyword_hits": [
-        "dehydration"
+        "hydrated ion"
       ],
       "score": 18,
       "relevance_class": "领域扩展",
       "key_numbers": [
-        "94.5%",
-        "99.8%"
+        "80%"
       ],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Lanzhou University；摘要首句：Understanding how amphibians adapt to terrestrial and arid environments is important for elucidating vertebrate terrestrialization.。",
-      "id": "doi:10.1111/1749-4877.70214"
+      "brief": "定位：领域扩展；主题：离子筛分；团队：Guangxi University、Nanning Normal University；摘要首句：Abstract This study used red mud and metakaolin as the main raw material, with sodium silicate as the alkali activator.。",
+      "id": "doi:10.26599/mrse.2026.9520040"
     },
     {
       "source_db": "Crossref",
@@ -1571,55 +1461,55 @@
     "topics": [
       {
         "name": "纳滤",
-        "count": 216,
-        "delta": 0
+        "count": 176,
+        "delta": -73
       },
       {
         "name": "离子筛分",
-        "count": 121,
-        "delta": 31
+        "count": 126,
+        "delta": 33
       },
       {
         "name": "脱盐/水处理",
-        "count": 110,
-        "delta": -16
+        "count": 100,
+        "delta": -24
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 109,
-        "delta": 10
+        "count": 88,
+        "delta": -30
       },
       {
         "name": "COF/MOF膜",
-        "count": 58,
-        "delta": 25
+        "count": 54,
+        "delta": 16
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 36,
-        "delta": 6
+        "count": 41,
+        "delta": 15
       },
       {
         "name": "二维层状膜",
-        "count": 26,
-        "delta": 6
+        "count": 22,
+        "delta": 0
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 23,
-        "delta": 7
+        "count": 18,
+        "delta": -3
       },
       {
         "name": "硫属二维材料",
         "count": 5,
-        "delta": 1
+        "delta": 0
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 262,
-        "delta": 262
+        "count": 263,
+        "delta": 263
       },
       {
         "name": "Separation and Purification Technology",
@@ -1638,28 +1528,28 @@
       },
       {
         "name": "Advanced Functional Materials",
-        "count": 41,
-        "delta": 41
-      },
-      {
-        "name": "Desalination and Water Treatment",
-        "count": 40,
-        "delta": 40
-      },
-      {
-        "name": "ACS Applied Materials &amp; Interfaces",
         "count": 38,
         "delta": 38
       },
       {
-        "name": "Membranes",
+        "name": "Desalination and Water Treatment",
+        "count": 38,
+        "delta": 38
+      },
+      {
+        "name": "Desalination",
         "count": 35,
         "delta": 35
       },
       {
-        "name": "Desalination",
-        "count": 32,
-        "delta": 32
+        "name": "Membranes",
+        "count": 34,
+        "delta": 34
+      },
+      {
+        "name": "ACS Applied Materials &amp; Interfaces",
+        "count": 33,
+        "delta": 33
       },
       {
         "name": "Chemical Engineering Journal",
@@ -1679,27 +1569,27 @@
     ],
     "authors": [
       {
-        "name": "Michael Abraham Beke",
-        "count": 18,
-        "delta": 18
-      },
-      {
         "name": "Manuel R. de Guzman",
-        "count": 18,
-        "delta": 18
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Marwin R. Gallardo",
-        "count": 18,
-        "delta": 18
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Hui-An Tsai",
-        "count": 18,
-        "delta": 18
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Chi-Lan Li",
+        "count": 19,
+        "delta": 19
+      },
+      {
+        "name": "Michael Abraham Beke",
         "count": 18,
         "delta": 18
       },
@@ -1740,16 +1630,16 @@
       },
       {
         "name": "Zhongyi Jiang",
-        "count": 15,
-        "delta": 15
-      },
-      {
-        "name": "Chen Wang",
         "count": 14,
         "delta": 14
       },
       {
         "name": "Shu-Hsien Huang",
+        "count": 14,
+        "delta": 14
+      },
+      {
+        "name": "Son Minh Te",
         "count": 14,
         "delta": 14
       }
@@ -1767,13 +1657,18 @@
       },
       {
         "name": "Tiangong University",
-        "count": 18,
-        "delta": 18
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Tongji University",
-        "count": 16,
-        "delta": 16
+        "count": 14,
+        "delta": 14
+      },
+      {
+        "name": "Nanjing Tech University",
+        "count": 14,
+        "delta": 14
       },
       {
         "name": "The University of Queensland",
@@ -1781,12 +1676,12 @@
         "delta": 13
       },
       {
-        "name": "Zhengzhou University",
+        "name": "University of Chinese Academy of Sciences",
         "count": 12,
         "delta": 12
       },
       {
-        "name": "University of Chinese Academy of Sciences",
+        "name": "Chinese Academy of Sciences",
         "count": 12,
         "delta": 12
       },
@@ -1801,32 +1696,27 @@
         "delta": 12
       },
       {
-        "name": "Nanjing Tech University",
+        "name": "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
         "count": 12,
         "delta": 12
       },
       {
-        "name": "Tianjin University",
+        "name": "Center for Advanced Materials Research Advanced Institute of Natural Sciences Beijing Normal University Zhuhai China",
+        "count": 12,
+        "delta": 12
+      },
+      {
+        "name": "College of Chemistry and Chemical Engineering Henan University of Science and Technology Luoyang China",
+        "count": 12,
+        "delta": 12
+      },
+      {
+        "name": "Zhengzhou University",
         "count": 11,
         "delta": 11
       },
       {
-        "name": "School of Chemical Engineering Zhengzhou University Zhengzhou Henan China",
-        "count": 10,
-        "delta": 10
-      },
-      {
-        "name": "School of Ecology and Environment Zhengzhou University Zhengzhou Henan China",
-        "count": 10,
-        "delta": 10
-      },
-      {
-        "name": "Chang’an University , , ,",
-        "count": 10,
-        "delta": 10
-      },
-      {
-        "name": "Shandong Jianzhu University",
+        "name": "Tianjin University",
         "count": 10,
         "delta": 10
       }
