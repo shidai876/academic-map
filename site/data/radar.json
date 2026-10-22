@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-10-21T00:37:26.520745+00:00",
-  "updated_at_local": "2026-10-21 08:36 (UTC+8)",
+  "updated_at": "2026-10-22T00:41:50.190002+00:00",
+  "updated_at_local": "2026-10-22 08:41 (UTC+8)",
   "stats": {
-    "fetched": 1232,
-    "related": 42,
-    "recommended": 26,
+    "fetched": 1207,
+    "related": 43,
+    "recommended": 24,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -15,9 +15,9 @@
   },
   "works": [
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223061228",
+      "openalex_url": "https://openalex.org/W7223061228",
       "doi": "10.1021/acsnano.6c14330",
       "title": "Crown Ether-Functionalized Covalent Organic Framework Membranes for Precise Monovalent Cation Separation",
       "publication_date": "2026-10-20",
@@ -30,11 +30,13 @@
         "Saisai Yu",
         "Zhe Jia",
         "Yuanhan Liu",
-        "Yutao Guan",
-        "Ming Liu"
+        "管玉涛",
+        "Ming Liu",
+        "Yutao Guan"
       ],
       "first_author": "Ziye Song",
       "institutions": [
+        "Zhejiang University",
         "Zhejiang University , , , ,",
         "Zhejiang University , , ,"
       ],
@@ -57,7 +59,7 @@
       "key_numbers": [
         "2 h"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Zhejiang University , , , ,、Zhejiang University , , ,；摘要首句：Abstract Membrane-based separation offers a highly promising paradigm for the precise extraction of monovalent cations, which is critical for bioinspired engineering and advanced ion-separation applications.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Zhejiang University、Zhejiang University , , , ,；摘要首句：Abstract Membrane-based separation offers a highly promising paradigm for the precise extraction of monovalent cations, which is critical for bioinspired engineering and advanced ion-separation applications.。",
       "id": "doi:10.1021/acsnano.6c14330"
     },
     {
@@ -109,9 +111,9 @@
       "id": "doi:10.1038/s41467-026-78649-9"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223013146",
+      "openalex_url": "https://openalex.org/W7223013146",
       "doi": "10.1002/cssc.71123",
       "title": "Graphene Oxide Membranes for Recovery of Catalytically Depolymerized Lignin Monomers and Oligomers",
       "publication_date": "2026-10-20",
@@ -122,12 +124,18 @@
         "Yinglei Han",
         "Muskan Sonker",
         "Scott A. Sinquefield",
-        "Blake A. Simmons",
+        "Blake Alexander Simmons",
         "Hemant Choudhary",
-        "Sankar Nair"
+        "Sankar Nair",
+        "Blake A. Simmons"
       ],
       "first_author": "Natechanok Yutthasaksunthorn",
       "institutions": [
+        "Georgia Institute of Technology",
+        "Joint BioEnergy Institute",
+        "Sandia National Laboratories California",
+        "Renewable Bioproducts Institute",
+        "Lawrence Berkeley National Laboratory",
         "School of Chemical &amp; Biomolecular Engineering Georgia Institute of Technology Atlanta Georgia USA",
         "Deconstruction Division Joint BioEnergy Institute Emeryville California USA",
         "Department of Bioresource and Environmental Security Sandia National Laboratories Livermore California USA",
@@ -154,7 +162,7 @@
         "250 h",
         "2 h"
       ],
-      "brief": "定位：核心膜分离；主题：二维层状膜 / 纳滤 / 纳米通道/限域传输；团队：School of Chemical &amp; Biomolecular Engineering Georgia Institute of Technology Atlanta Georgia USA、Deconstruction Division Joint BioEnergy Institute Emeryville California USA；摘要首句：Efficient lignin valorization requires not only catalytic depolymerization but also a scalable, aqueous separation route that isolates bioavailable low‐molecular‐weight (LMW) products from recalcitrant oligomers/polymers.。",
+      "brief": "定位：核心膜分离；主题：二维层状膜 / 纳滤 / 纳米通道/限域传输；团队：Georgia Institute of Technology、Joint BioEnergy Institute；摘要首句：Efficient lignin valorization requires not only catalytic depolymerization but also a scalable, aqueous separation route that isolates bioavailable low‐molecular‐weight (LMW) products from recalcitrant oligomers/polymers.。",
       "id": "doi:10.1002/cssc.71123"
     },
     {
@@ -544,46 +552,6 @@
       "id": "doi:10.1038/s41467-026-78721-4"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7222329507",
-      "openalex_url": "https://openalex.org/W7222329507",
-      "doi": "10.1016/j.memsci.2026.126303",
-      "title": "Polymer-mediated amino-anchoring strategy to fabricate turing-structured nanofiltration membranes for antibiotic desalination",
-      "publication_date": "2026-10-15",
-      "journal": "Journal of Membrane Science",
-      "authors": [
-        "Qian Chen",
-        "Kai-Xuan Liu",
-        "Mingshu Li",
-        "Feng-Ying Zhang",
-        "Tian‐Zhi Jia",
-        "Mei-Ling Liu",
-        "Shi‐Peng Sun",
-        "Weihong Xing"
-      ],
-      "first_author": "Qian Chen",
-      "institutions": [
-        "Nanjing Tech University",
-        "State Key Laboratory of Materials-Oriented Chemical Engineering",
-        "Suzhou Research Institute"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "desalination"
-      ],
-      "score": 78,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Nanjing Tech University、State Key Laboratory of Materials-Oriented Chemical Engineering；题名线索：Polymer-mediated amino-anchoring strategy to fabricate turing-structured nanofiltration membranes for antibiotic desalination。",
-      "id": "doi:10.1016/j.memsci.2026.126303"
-    },
-    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7222975843",
       "openalex_url": "https://openalex.org/W7222975843",
@@ -632,6 +600,48 @@
       ],
       "brief": "定位：核心膜分离；主题：COF/MOF膜 / 聚酰胺/TFC；团队：Tianjin University、Key Laboratory for Green Chemical Technology of Ministry of Education School of Chemical Engineering and Technology Tianjin University Tianjin China；摘要首句：ABSTRACT Interfacial assembly of ionic covalent organic framework (iCOF) membranes remains a significant challenge.。",
       "id": "doi:10.1002/ange.1338212"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.3390/membranes16100350",
+      "title": "Pressure and Cross-Flow Dependent Interfacial Fouling of Mesoporous PES-PUMA Membranes During Water-in-Oil Emulsion Separation",
+      "publication_date": "2026-10-21",
+      "journal": "Membranes",
+      "authors": [
+        "Alireza Bahramian",
+        "Sedigheh Alavinia"
+      ],
+      "first_author": "Alireza Bahramian",
+      "institutions": [
+        "Chemical Engineering Department, Hamedan University of Technology, Hamedan 65155, Iran",
+        "Department of Organic Chemistry, Faculty of Chemistry and Petroleum Sciences, Bu-Ali Sina University, Hamedan 65155, Iran"
+      ],
+      "abstract": "Water-in-oil (W/O) emulsion treatment is challenging because efficient membrane separation requires simultaneous control of oil transport, water rejection, interfacial interactions, and fouling resistance. However, the coupled effects of operating pressure and cross-flow hydrodynamics on membrane pore accessibility, foulant-layer evolution, and the permeability-rejection trade-off during cyclic W/O emulsion treatment remain insufficiently understood. In this study, an electrospun mesoporous polyurethane–melamine/polyethersulfone (PES-PUMA) membrane was evaluated for the separation of stabilized W/O emulsions under different operating pressures and feed flow rates. At an ultra-low pressure of 20 kPa, the membrane achieved an oil permeate flux of 36.5 ± 2.7 L m−2 h−1 and water rejection of 93.1 ± 2.1%. Increasing the operating pressure to 100 kPa increased the oil permeate flux to 87.6 ± 3.5 L m−2 h−1 while decreasing water rejection to 78.2 ± 1.8%. Increasing the cross-flow rate from 0.05 to 0.5 mL s−1 increased the oil permeate flux from 23.4 ± 0.7 to 90.7 ± 2.1 L m−2 h−1 while decreasing water rejection from 95.3 ± 2.1% to 78.4 ± 1.2%. Quadratic regression models revealed significant nonlinear relationships between hydraulic operating conditions and both separation responses, providing a quantitative description of the pressure- and flow-dependent performance trade-off. Higher cross-flow reduced foulant-layer thickness and favored more reversible fouling, whereas increasing operating pressure promoted pore constriction and compact foulant deposition. These findings establish a quantitative pressure–cross-flow–transport–fouling relationship, demonstrating that hydraulic conditions jointly regulate membrane permeability, water rejection, foulant-layer development, and fouling reversibility. This study therefore provides mechanistic and quantitative insight into optimizing the operation of the established PES–PUMA membrane to balance separation performance and fouling resistance during W/O emulsion treatment.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "ion separation",
+        "permeability",
+        "rejection"
+      ],
+      "score": 71,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "20 kPa",
+        "36.5 ± 2.7 L m−2 h−1",
+        "93.1 ± 2.1%",
+        "100 kPa",
+        "87.6 ± 3.5 L m−2 h−1",
+        "78.2 ± 1.8%",
+        "90.7 ± 2.1 L m−2 h−1",
+        "95.3 ± 2.1%"
+      ],
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Chemical Engineering Department, Hamedan University of Technology, Hamedan 65155, Iran、Department of Organic Chemistry, Faculty of Chemistry and Petroleum Sciences, Bu-Ali Sina University, Hamedan 65155, Iran；摘要首句：Water-in-oil (W/O) emulsion treatment is challenging because efficient membrane separation requires simultaneous control of oil transport, water rejection, interfacial interactions, and fouling resistance.。",
+      "id": "doi:10.3390/membranes16100350"
     },
     {
       "source_db": "OpenAlex",
@@ -758,149 +768,19 @@
       "id": "doi:10.1002/admt.71414"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7222136966",
-      "openalex_url": "https://openalex.org/W7222136966",
-      "doi": "10.1177/09506608261493332",
-      "title": "Hydrophobic materials for hydrophobic membrane engineering",
-      "publication_date": "2026-10-15",
-      "journal": "International Materials Reviews",
-      "authors": [
-        "Wenlong Xu",
-        "Mehrzad Arjmandi",
-        "Loreto García-Fernández",
-        "Mohamed Essalhi",
-        "Iliana Kyriazidou",
-        "Fangli Zhang",
-        "Jie Shen",
-        "Zhaoliang Cui",
-        "Vahid Vatanpour",
-        "Liang Yu",
-        "M. Khayet",
-        "Naser Tavajohi"
-      ],
-      "first_author": "Wenlong Xu",
-      "institutions": [
-        "Jiangsu Academy of Agricultural Sciences",
-        "Universidad Complutense de Madrid",
-        "Université Mohammed VI Polytechnique",
-        "Umeå University",
-        "Luleå University of Technology",
-        "Nanjing Tech University",
-        "Nanyang Technological University",
-        "Kharazmi University",
-        "Istanbul Technical University",
-        "IMDEA Water"
-      ],
-      "abstract": "Hydrophobic materials have become increasingly important for separation technologies operating under humid or chemically aggressive conditions, where conventional membranes often suffer from performance degradation. This review summarizes recent advances in hydrophobic membranes based on fluoropolymers, graphitic materials, zeolites, and porous crystalline frameworks, including metal–organic frameworks (MOFs), covalent organic frameworks (COFs), and hydrogen-bonded organic frameworks (HOFs). The roles of surface hydrophobicity, pore structure, and interfacial interactions in controlling transport, selectivity, and stability are critically discussed across applications in water treatment, organic solvent nanofiltration, gas separation, air purification, and energy-related systems. Representative examples highlight how hydrophobic interfaces mitigate water-induced swelling, pore blocking, and competitive adsorption, thereby enabling stable and efficient separations. Despite substantial progress, challenges remain in scalable fabrication, long-term stability, and cost-effective production, particularly for framework-based membranes. Future directions toward hybrid architectures, defect and interface engineering, and scalable processing are outlined to facilitate the translation of hydrophobic membrane materials into industrially relevant separation technologies.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "有机溶剂纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "organic solvent nanofiltration",
-        "selectivity"
-      ],
-      "score": 66,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤；团队：Jiangsu Academy of Agricultural Sciences、Universidad Complutense de Madrid；摘要首句：Hydrophobic materials have become increasingly important for separation technologies operating under humid or chemically aggressive conditions, where conventional membranes often suffer from performance degradation.。",
-      "id": "doi:10.1177/09506608261493332"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7222339955",
-      "openalex_url": "https://openalex.org/W7222339955",
-      "doi": "10.1016/j.seppur.2026.140575",
-      "title": "Microporous polyamide TFC membrane derived from a bridged-bicyclic diamine monomer for rapid organic solvent nanofiltration",
-      "publication_date": "2026-10-15",
-      "journal": "Separation and Purification Technology",
-      "authors": [
-        "Dan Yang",
-        "Hao Liu",
-        "Bo Wu",
-        "Lei Tian",
-        "Wenjing Li",
-        "Yang Feng",
-        "Nanping Deng",
-        "Yunxia Hu",
-        "Shao‐Lu Li"
-      ],
-      "first_author": "Dan Yang",
-      "institutions": [
-        "Tiangong University",
-        "State Key Laboratory of Advanced Separation Membrane Materials"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "有机溶剂纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "organic solvent nanofiltration"
-      ],
-      "score": 66,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 有机溶剂纳滤；团队：Tiangong University、State Key Laboratory of Advanced Separation Membrane Materials；题名线索：Microporous polyamide TFC membrane derived from a bridged-bicyclic diamine monomer for rapid organic solvent nanofiltration。",
-      "id": "doi:10.1016/j.seppur.2026.140575"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7222253724",
-      "openalex_url": "https://openalex.org/W7222253724",
-      "doi": "10.1016/j.fbp.2026.10.010",
-      "title": "Desalination and flavor improvement of fish sauce via electrodialysis with charge-selective nanofiltration membranes",
-      "publication_date": "2026-10-15",
-      "journal": "Food and Bioproducts Processing",
-      "authors": [
-        "Xiaoru Feng",
-        "Jale Su",
-        "Xianbing Xu",
-        "乌日娜",
-        "Guowan Su",
-        "Ling Zhang"
-      ],
-      "first_author": "Xiaoru Feng",
-      "institutions": [
-        "Dalian Polytechnic University",
-        "Xiamen University of Technology",
-        "Shenyang Agricultural University",
-        "South China University of Technology"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "desalination"
-      ],
-      "score": 63,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Dalian Polytechnic University、Xiamen University of Technology；题名线索：Desalination and flavor improvement of fish sauce via electrodialysis with charge-selective nanofiltration membranes。",
-      "id": "doi:10.1016/j.fbp.2026.10.010"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223026123",
+      "openalex_url": "https://openalex.org/W7223026123",
       "doi": "10.59992/ijsr.2026.v5n10p7",
       "title": "Utilized Physical Materials Nanotechnology for Heavy Water Separation and Purification",
-      "publication_date": "2026-10-21",
+      "publication_date": "2026-10-20",
       "journal": "International Journal for Scientific Research",
       "authors": [
         "Rafid Hameed"
       ],
       "first_author": "Rafid Hameed",
       "institutions": [
+        "University of Tikrit",
         "Assistant Lecturer, Department of Physics, College of Education for Pure Sciences, Tikrit University, Iraq"
       ],
       "abstract": "The weighty water (D2O) is secondhand in basic industry, isotope result, and in different complicated commerces. The water secondhand in the process can be adulterated accompanying burdensome metals, natural resources, salts, active elements, and organic elements. Conventional sciences secondhand for the discharge of the contaminants from the severe water are preferably useless, strength absorbing, and involve big quantities of chemical compound. The current item reviews the use of nanotechnology for killing contaminators from heavy water. The item resolves the standard valuable, field of request, and effectiveness of differing nanomaterials in the way that element nanotubes, graphene group of chemical elements membranes, titanium dioxide nanoparticles, white nanoparticles, nanoparticles of magnetic iron group of chemical elements, and zeolite nanocomposites. These fabrics maybe secondhand through the use of nanofiltration, adsorption, photocatalytic, drawing, and electrochemical oxidation processes. According to the results of the experiments, the use of nanotechnology develops the status of weighty water. The aggregation of difficult metals decreased from 15 to 0.5 ppm (96.7% relocation). Organic dyes cut down from 120 to 8 mg/L (93.3% deportation) and amount of microorganisms dropped by a factor of 10⁴ what resources that the microorganisms were detached accompanying 99.99% effectiveness. The turbidity was decreased from 45 NTU to 2 NTU (clear water) while synthetic oxygen demand and total disappeared mass declined by 88.6% and 83.3%, individually. It means that nanotechnology maybe effective electronics for water cleansing from miscellaneous kinds of contaminators.",
@@ -920,7 +800,7 @@
         "88.6%",
         "83.3%"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Assistant Lecturer, Department of Physics, College of Education for Pure Sciences, Tikrit University, Iraq；摘要首句：The weighty water (D2O) is secondhand in basic industry, isotope result, and in different complicated commerces.。",
+      "brief": "定位：核心膜分离；主题：纳滤；团队：University of Tikrit、Assistant Lecturer, Department of Physics, College of Education for Pure Sciences, Tikrit University, Iraq；摘要首句：The weighty water (D2O) is secondhand in basic industry, isotope result, and in different complicated commerces.。",
       "id": "doi:10.59992/ijsr.2026.v5n10p7"
     },
     {
@@ -971,53 +851,9 @@
       "id": "doi:10.2166/wst.2026.363"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/anie.9495644",
-      "title": "Chalcogen‐Bond‐Driven Electrochemical Bromide Sequestration in Benzothiazole‐Functionalized Covalent Organic Frameworks",
-      "publication_date": "2026-10-15",
-      "journal": "Angewandte Chemie International Edition",
-      "authors": [
-        "Najat Maher Aldaqqa",
-        "Rajesh Dhanushkotti",
-        "Sara Vaca‐Chacon",
-        "Sushil Kumar",
-        "Thibault Terencio",
-        "Kyriaki Polychronopoulou",
-        "Gisha Elizabeth Luckachan",
-        "Dinesh Shetty"
-      ],
-      "first_author": "Najat Maher Aldaqqa",
-      "institutions": [
-        "Department of Chemistry Khalifa University of Science &amp; Technology Abu Dhabi UAE",
-        "Center For Catalysis &amp; Separations (CeCaS) Khalifa University of Science &amp; Technology Abu Dhabi UAE",
-        "CATS Research Group, School of Chemical Sciences and Engineering Yachay Tech University Urcuqui Ecuador",
-        "Mechanical and Nuclear Engineering Department Khalifa University of Science and Technology Abu Dhabi UAE"
-      ],
-      "abstract": "ABSTRACT Bromide contamination in water sources is a growing health concern because it can generate carcinogenic disinfection byproducts during conventional water treatment. However, the selective removal of bromide from reverse osmosis (RO) permeate remains challenging. Herein, we report a benzothiazole‐functionalized covalent organic framework (COF) designed as a chalcogen‐bond donor, where σ‐holes along the C─S bond axes preferentially interact with the softer, more polarizable Br − over Cl − . Two COFs, mesoporous BTzTp (∼2.45 nm) and microporous TTzTp (∼1.13 nm), were investigated to assess the role of pore accessibility while preserving identical recognition sites. The BTzTp@rGO composite exhibited a specific capacitance of 47 F g − 1 and a maximum bromide adsorption capacity of 36.7 mg‐Br − g − 1 at pH 4. Notably, it maintained ∼99% capacitance retention after 50 cycles, representing the highest cycling stability reported for a bromide‐selective HCDI electrode, together with excellent selectivity (α Br/Cl = 10). Density functional theory calculations reveal that selectivity originates from strong chalcogen bonding, evidenced by near‐linear C─S···Br − geometries (178°–179°), normalized contacts of 0.84, HOMO delocalization across the S···Br − interface, and greater charge transfer to Br − (0.222 e) than Cl − (0.154 e). This work demonstrates a viable strategy for highly selective and stable bromide removal in energy‐efficient water purification systems.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis",
-        "selectivity"
-      ],
-      "score": 58,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "2.45 nm",
-        "1.13 nm",
-        "99%"
-      ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Department of Chemistry Khalifa University of Science &amp; Technology Abu Dhabi UAE、Center For Catalysis &amp; Separations (CeCaS) Khalifa University of Science &amp; Technology Abu Dhabi UAE；摘要首句：ABSTRACT Bromide contamination in water sources is a growing health concern because it can generate carcinogenic disinfection byproducts during conventional water treatment.。",
-      "id": "doi:10.1002/anie.9495644"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223032549",
+      "openalex_url": "https://openalex.org/W7223032549",
       "doi": "10.1007/s10668-026-08209-0",
       "title": "Pilot-scale study on the comparison of conventional, hybrid ultrafiltration, and ultrafiltration-nanofiltration treatments for algae-laden lake water",
       "publication_date": "2026-10-20",
@@ -1037,7 +873,12 @@
         "Cheng Cen"
       ],
       "first_author": "Yibo Wu",
-      "institutions": [],
+      "institutions": [
+        "Ningbo University",
+        "University of Nottingham Ningbo China",
+        "Tongji University",
+        "Ministry of Ecology and Environment"
+      ],
       "abstract": "",
       "cited_by_count": 0,
       "topics": [
@@ -1046,28 +887,100 @@
       "keyword_hits": [
         "nanofiltration"
       ],
-      "score": 54,
+      "score": 56,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤；题名线索：Pilot-scale study on the comparison of conventional, hybrid ultrafiltration, and ultrafiltration-nanofiltration treatments for algae-laden lake water。",
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Ningbo University、University of Nottingham Ningbo China；题名线索：Pilot-scale study on the comparison of conventional, hybrid ultrafiltration, and ultrafiltration-nanofiltration treatments for algae-laden lake water。",
       "id": "doi:10.1007/s10668-026-08209-0"
     },
     {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.1021/acsami.6c13949",
+      "title": "Ionic-Liquid-Based Engineering of MOF Membranes: Tuning from H2- to CO2-Selective",
+      "publication_date": "2026-10-21",
+      "journal": "ACS Applied Materials &amp; Interfaces",
+      "authors": [
+        "Zhijun Zhao",
+        "Pengcheng Xiong",
+        "Lars Heinke"
+      ],
+      "first_author": "Zhijun Zhao",
+      "institutions": [
+        "Freie Universität Berlin , , ,"
+      ],
+      "abstract": "Abstract Reprogramming the transport preference of crystalline membranes offers a useful strategy for adapting a single membrane platform to different gas-separation tasks. Herein, we report ionic liquid (IL) engineering of pure ZIF-8 membranes to switch H2/CO2 transport from H2- to CO2-preferential behavior. A continuous ZIF-8 membrane was first fabricated on an anodic aluminum oxide support by cathodic deposition, followed by the loading of an IL of type 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide ([BMIM][TFSI]). The compact, well-intergrown, and crystalline ZIF-8 membrane was preserved after IL incorporation, and vibrational spectroscopy provided evidence for molecular interactions between confined [BMIM][TFSI] and the ZIF-8 framework. Gas-permeation measurements revealed that increasing IL loading decreased both H2 and CO2 permeances, indicating an increased transport resistance caused by partial pore occupation. However, the H2 permeance decreased significantly more rapidly than the CO2 permeance. The H2/CO2 selectivity decreased from 3.6 for the pristine ZIF-8 membrane to approximately 0.3 at 15 vol % ionic-liquid loading, corresponding to a CO2/H2 selectivity close to 3. The separation reversal originates from the combined effects of IL-induced pore narrowing and preferential CO2 affinity. This work demonstrates that confined ILs can reprogram adsorption–diffusion coupling in MOF membranes and provides a route toward process-adaptive gas-separation membranes.",
+      "cited_by_count": 0,
+      "topics": [
+        "COF/MOF膜"
+      ],
+      "keyword_hits": [
+        "mof membrane",
+        "permeance",
+        "selectivity"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：COF/MOF膜；团队：Freie Universität Berlin , , ,；摘要首句：Abstract Reprogramming the transport preference of crystalline membranes offers a useful strategy for adapting a single membrane platform to different gas-separation tasks.。",
+      "id": "doi:10.1021/acsami.6c13949"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/smll.76264",
+      "title": "The “Rigid‐Flexible Coupling” Blueprint: Chemically Welded MOF/Polyimide Porous Hybrids for Multifunctional Separations",
+      "publication_date": "2026-10-21",
+      "journal": "Small",
+      "authors": [
+        "Yixuan Yin",
+        "Haowen Sun",
+        "Huan Liu",
+        "Xiaodong Wang"
+      ],
+      "first_author": "Yixuan Yin",
+      "institutions": [
+        "State Key Laboratory of Organic‐Inorganic Composites Beijing University of Chemical Technology Beijing China"
+      ],
+      "abstract": "ABSTRACT The 2025 Nobel Prize in Chemistry, awarded for pioneering contributions to metal–organic frameworks (MOFs), underscores their revolutionary impact and growing importance in advanced separation technologies. Hybrid porous media that integrate crystalline MOFs within polyimide matrices represent a state‐of‐the‐art platform for tackling the global water‐energy nexus. Nevertheless, their practical performance is often constrained by interfacial incompatibility and inherent structural trade‐offs between rigidity and flexibility. This review establishes a unified “rigid‐flexible coupling” design paradigm, systematically dissecting interfacial engineering strategies that convert weak physical interactions into chemically welded interfaces via covalent grafting, hydrogen bonding, and defect‐mediated coordination. Particular focus is given to the dimensional evolution from two‐dimensional mixed‐matrix membranes to three‐dimensional hierarchical aerogels, which signifies a pivotal shift in mass transport from diffusion‐controlled to convection‐dominated regimes. Building on this framework, the review elucidates how hierarchical architectures enable multifunctional capabilities, including selective ion separation through Donnan exclusion, Janus‐wettability‐governed multiphase separation, and photothermal‐assisted remediation of high‐viscosity crude oil. Finally, it distills materials design principles and discusses emerging frontiers in artificial‐intelligence‐driven materials discovery and four‐dimensional‐responsive systems. By bridging interfacial chemistry, structural hierarchy, and transport physics, this review offers a comprehensive blueprint for the rational design of next‐generation hybrid porous media for sustainable environmental technologies.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "ion separation"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：State Key Laboratory of Organic‐Inorganic Composites Beijing University of Chemical Technology Beijing China；摘要首句：ABSTRACT The 2025 Nobel Prize in Chemistry, awarded for pioneering contributions to metal–organic frameworks (MOFs), underscores their revolutionary impact and growing importance in advanced separation technologies.。",
+      "id": "doi:10.1002/smll.76264"
+    },
+    {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223029605",
+      "openalex_url": "https://openalex.org/W7223029605",
       "doi": "10.3389/frmst.2026.1979356",
       "title": "Membrane transport and applications: from structure and selectivity mechanisms to coupled processes",
       "publication_date": "2026-10-20",
       "journal": "Frontiers in Membrane Science and Technology",
       "authors": [
         "Victor Nikonenko",
+        "A. B. Yaroslavtsev",
+        "Natalia D. Pismenskaya",
+        "D. Yu. Butylskii",
         "Andrey Yaroslavtsev",
         "Natalia Pismenskaya",
         "Dmitrii Butylskii"
       ],
       "first_author": "Victor Nikonenko",
       "institutions": [
+        "Kuban State University",
+        "Russian Academy of Sciences",
+        "Institute of General and Inorganic Chemistry",
+        "NS Kurnakova Institute of General and Inorganic Chemistry",
         "Membrane Institute, Kuban State University",
         "Kurnakov Institute of General and Inorganic Chemistry of the RAS"
       ],
@@ -1085,13 +998,43 @@
       "score": 51,
       "relevance_class": "核心膜分离",
       "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：Membrane Institute, Kuban State University、Kurnakov Institute of General and Inorganic Chemistry of the RAS；摘要首句：Science is commonly divided into fundamental and applied research.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：Kuban State University、Russian Academy of Sciences；摘要首句：Science is commonly divided into fundamental and applied research.。",
       "id": "doi:10.3389/frmst.2026.1979356"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7222939009",
-      "openalex_url": "https://openalex.org/W7222939009",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223049633",
+      "openalex_url": "https://openalex.org/W7223049633",
+      "doi": "10.1016/j.est.2026.125217",
+      "title": "Advances in conductive membrane technologies for sustainable recycling of lithium-ion batteries from electric vehicles",
+      "publication_date": "2026-10-20",
+      "journal": "Journal of Energy Storage",
+      "authors": [
+        "Surajudeen Olalekan Sikiru"
+      ],
+      "first_author": "Surajudeen Olalekan Sikiru",
+      "institutions": [
+        "Universiti Teknologi MARA"
+      ],
+      "abstract": "The rapid expansion of the electric vehicle (EV) sector has markedly escalated the manufacturing and utilization of lithium-ion batteries (LIBs), hence producing a continually rising amount of end-of-life (EoL) battery waste. LIB include precious metals such as lithium, cobalt, nickel, and manganese, the extraction of which from basic sources entails significant ecological repercussions and financial expenditures. Traditional recycling methods, especially pyrometallurgical and hydrometallurgical techniques, are often used; yet they include several drawbacks, such as elevated energy usage, reliance on toxic substances, and the production of secondary waste and contaminants. Consequently, there is an immediate need to advance environmentally friendly, more effective, and sustainable recycling technology. Membrane-based separation has surfaced as a viable option due to its comparatively low energy demands, ease of operation, and capacity for eco-friendly processing. This assessment rigorously examines the function of membrane technologies in the recycling of LIB, focusing specifically on their capacity to selectively extract precious metal ions from intricate battery leachates. Emphasis is placed on conductive membranes that combine electrochemical properties with membrane separation to improve ion selectivity, transport, and recovery efficacy. Notwithstanding these benefits, membrane systems encounter several obstacles, including as membrane fouling, restricted selectivity in multicomponent systems, concentration polarization, membrane deterioration, and difficulty related to large-scale deployment. Recent progress in material engineering, such as nanocomposite membranes, conductive membranes, and hybrid electro-membrane systems, presents significant opportunities to address these constraints. This evaluation highlights the prospects and obstacles linked to membrane technologies and examines their possible incorporation with supplementary processes in sophisticated battery-recycling systems. In conclusion, the creation of efficient, selective, resilient, and scalable membrane systems is vital for the sustainable extraction of crucial materials and facilitating the shift to a circular economy in the swiftly growing electric vehicle battery industry. • Integration of electrochemical functionality with membrane separation enhances ion selectivity and transport, particularly in complex multi-ion battery leachates. • Advanced materials such as graphene, carbon nanotubes, and MXenes significantly improve membrane performance in terms of conductivity, permeability, and selectivity. • Hybrid systems (e.g., electro-membrane crystallization) enable simultaneous separation and recovery, reducing process steps and reagent demand. • Key challenges remain, including membrane fouling, scalability, and cost, requiring further innovation and system integration for industrial application.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "permeability",
+        "selectivity"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Universiti Teknologi MARA；摘要首句：The rapid expansion of the electric vehicle (EV) sector has markedly escalated the manufacturing and utilization of lithium-ion batteries (LIBs), hence producing a continually rising amount of end-of-life (EoL) battery waste.。",
+      "id": "doi:10.1016/j.est.2026.125217"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1021/acs.langmuir.6c03739",
       "title": "Polyamidoamine Demulsifier-Functionalized Polyvinylidene Fluoride Microfiltration Membrane for Antifouling Oil/Water Emulsion Separation",
       "publication_date": "2026-10-19",
@@ -1106,8 +1049,6 @@
       ],
       "first_author": "Xinfan Zhang",
       "institutions": [
-        "Soochow University",
-        "China National Offshore Oil Corporation (China)",
         "Soochow University , , ,",
         "China National Offshore Oil Corporation EnerTech , , ,"
       ],
@@ -1128,52 +1069,39 @@
         "28%",
         "0.8 nm"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：Soochow University、China National Offshore Oil Corporation (China)；摘要首句：Abstract The treatment of oily wastewater has emerged as a critical environmental issue due to the prevalence of oil spills and the discharge of industrial organic pollutants.。",
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Soochow University , , ,、China National Offshore Oil Corporation EnerTech , , ,；摘要首句：Abstract The treatment of oily wastewater has emerged as a critical environmental issue due to the prevalence of oil spills and the discharge of industrial organic pollutants.。",
       "id": "doi:10.1021/acs.langmuir.6c03739"
     },
     {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1002/ange.9495644",
-      "title": "Chalcogen‐Bond‐Driven Electrochemical Bromide Sequestration in Benzothiazole‐Functionalized Covalent Organic Frameworks",
-      "publication_date": "2026-10-15",
-      "journal": "Angewandte Chemie",
+      "doi": "10.1080/00222348.2026.2750907",
+      "title": "Cellulose Acetate Membrane Loaded with β-FeOOH/Expandable Graphite for Oil-in-Water Emulsion Separation",
+      "publication_date": "2026-10-21",
+      "journal": "Journal of Macromolecular Science, Part B",
       "authors": [
-        "Najat Maher Aldaqqa",
-        "Rajesh Dhanushkotti",
-        "Sara Vaca‐Chacon",
-        "Sushil Kumar",
-        "Thibault Terencio",
-        "Kyriaki Polychronopoulou",
-        "Gisha Elizabeth Luckachan",
-        "Dinesh Shetty"
+        "Zhenhuan Hu",
+        "Shihao Ji",
+        "Song Wang"
       ],
-      "first_author": "Najat Maher Aldaqqa",
+      "first_author": "Zhenhuan Hu",
       "institutions": [
-        "Department of Chemistry Khalifa University of Science &amp; Technology Abu Dhabi UAE",
-        "Center For Catalysis &amp; Separations (CeCaS) Khalifa University of Science &amp; Technology Abu Dhabi UAE",
-        "CATS Research Group, School of Chemical Sciences and Engineering Yachay Tech University Urcuqui Ecuador",
-        "Mechanical and Nuclear Engineering Department Khalifa University of Science and Technology Abu Dhabi UAE"
+        "School of Environmental and Chemical Engineering, Shenyang University of Technology"
       ],
-      "abstract": "ABSTRACT Bromide contamination in water sources is a growing health concern because it can generate carcinogenic disinfection byproducts during conventional water treatment. However, the selective removal of bromide from reverse osmosis (RO) permeate remains challenging. Herein, we report a benzothiazole‐functionalized covalent organic framework (COF) designed as a chalcogen‐bond donor, where σ‐holes along the C─S bond axes preferentially interact with the softer, more polarizable Br − over Cl − . Two COFs, mesoporous BTzTp (∼2.45 nm) and microporous TTzTp (∼1.13 nm), were investigated to assess the role of pore accessibility while preserving identical recognition sites. The BTzTp@rGO composite exhibited a specific capacitance of 47 F g − 1 and a maximum bromide adsorption capacity of 36.7 mg‐Br − g − 1 at pH 4. Notably, it maintained ∼99% capacitance retention after 50 cycles, representing the highest cycling stability reported for a bromide‐selective HCDI electrode, together with excellent selectivity (α Br/Cl = 10). Density functional theory calculations reveal that selectivity originates from strong chalcogen bonding, evidenced by near‐linear C─S···Br − geometries (178°–179°), normalized contacts of 0.84, HOMO delocalization across the S···Br − interface, and greater charge transfer to Br − (0.222 e) than Cl − (0.154 e). This work demonstrates a viable strategy for highly selective and stable bromide removal in energy‐efficient water purification systems.",
+      "abstract": "",
       "cited_by_count": 0,
       "topics": [
-        "脱盐/水处理"
+        "离子筛分"
       ],
       "keyword_hits": [
-        "reverse osmosis",
-        "selectivity"
+        "ion separation"
       ],
-      "score": 50,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "2.45 nm",
-        "1.13 nm",
-        "99%"
-      ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Department of Chemistry Khalifa University of Science &amp; Technology Abu Dhabi UAE、Center For Catalysis &amp; Separations (CeCaS) Khalifa University of Science &amp; Technology Abu Dhabi UAE；摘要首句：ABSTRACT Bromide contamination in water sources is a growing health concern because it can generate carcinogenic disinfection byproducts during conventional water treatment.。",
-      "id": "doi:10.1002/ange.9495644"
+      "score": 48,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：School of Environmental and Chemical Engineering, Shenyang University of Technology；题名线索：Cellulose Acetate Membrane Loaded with β-FeOOH/Expandable Graphite for Oil-in-Water Emulsion Separation。",
+      "id": "doi:10.1080/00222348.2026.2750907"
     },
     {
       "source_db": "OpenAlex",
@@ -1220,6 +1148,47 @@
       "id": "doi:10.1016/j.mseb.2026.119941"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223025376",
+      "openalex_url": "https://openalex.org/W7223025376",
+      "doi": "10.3390/membranes16100348",
+      "title": "Towards Intelligent Membrane Systems: A Critical Analysis of Digital Twin–ML Integration for Real–Time Process Optimization, Fouling Management, and Autonomous Design",
+      "publication_date": "2026-10-20",
+      "journal": "Membranes",
+      "authors": [
+        "Olawumi O. Sadare",
+        "Samuel P. Alonge",
+        "A. O. Akinyemi",
+        "Abass A. Adesina",
+        "Shukrah Adesola-Olabiyi",
+        "Lanrewaju Ibrahim Fajimi"
+      ],
+      "first_author": "Olawumi O. Sadare",
+      "institutions": [
+        "Aston University",
+        "University of Johannesburg",
+        "Northeastern University",
+        "Knoxville College",
+        "University of Tennessee at Knoxville"
+      ],
+      "abstract": "Membrane separation is central to potable water production, wastewater reclamation, desalination, gas separation, and decarbonization, yet its economics remain constrained by fouling and by a gap between process data and timely operating decisions. Digital twins (DTs) offer live, bidirectionally coupled virtual representations of physical assets, while machine learning (ML) extracts predictive and prescriptive insights from operational data. Together, they are promising computational approaches for membrane systems. However, their applications have largely evolved independently across fouling prediction, DT development, and ML-based materials discovery. This review argues that these are converging strands of a single trajectory toward self-sensing, self-predicting, and eventually self-designing membrane systems, and that treating them separately obscures key interdependencies. The contributions are threefold. First, applying the digital model/digital shadow/digital twin taxonomy, it shows that most published membrane DTs are digital shadows (DSs). Second, it proposes a five-level autonomy framework, inspired by vehicle automation taxonomies, providing a unified scale for comparing applications ranging from LSTM-based fouling forecasting and reinforcement learning dosing control to autonomous materials laboratories. Third, it integrates autonomous materials design, including self-driving laboratories, inverse design, generative models, and Bayesian search, into the upper levels of this ladder. Evidence is synthesized across reverse osmosis, nanofiltration, ultrafiltration, microfiltration, membrane bioreactors, membrane distillation, and gas separation membranes, with emphasis on critically assessing model performance and generalizability. The study concludes with a roadmap for overcoming data limitations, poor interpretability, interoperability gaps, cybersecurity risks, techno-economic barriers, and regulatory trust deficits that block autonomous membrane systems.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "reverse osmosis",
+        "desalination"
+      ],
+      "score": 38,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：纳滤 / 脱盐/水处理；团队：Aston University、University of Johannesburg；摘要首句：Membrane separation is central to potable water production, wastewater reclamation, desalination, gas separation, and decarbonization, yet its economics remain constrained by fouling and by a gap between process data and timely…。",
+      "id": "doi:10.3390/membranes16100348"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -1256,98 +1225,6 @@
       ],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Mechanical Engineering Department, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia、Interdisciplinary Research Center for Sustainable Energy Systems (IRC-SES), King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia；摘要首句：Global water scarcity and the energy demand of conventional desalination motivate the development of thermal vacuum desalination (VD), which lowers the boiling temperature of saline water and can use low-grade heat from solar, …。",
       "id": "doi:10.3390/eng7100568"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7222273598",
-      "openalex_url": "https://openalex.org/W7222273598",
-      "doi": "10.1016/j.scenv.2026.100343",
-      "title": "Geopolymer-based materials for CO₂/CH₄ separation and H₂S capture: Current evidence, limitations, and research needs",
-      "publication_date": "2026-10-15",
-      "journal": "Sustainable Chemistry for the Environment",
-      "authors": [
-        "Karna Wijaya",
-        "Aldino Javier Saviola",
-        "Hamzah Fansuri",
-        "Tribidasari Anggraningrum Ivandini",
-        "Balasubramani Ravindran",
-        "Chang Soon Woong",
-        "Akhmad Syoufian",
-        "Riska Astin Fitria",
-        "Wangsa Wangsa",
-        "Adyatma Bhagaskara",
-        "Zeyana Nassor Suleiman Al-Ruqaish",
-        "Puji Wahyuningsih",
-        "Dewi Yuanita Lestari",
-        "Desi Riana Saputri",
-        "Sri Mulijani"
-      ],
-      "first_author": "Karna Wijaya",
-      "institutions": [
-        "Universitas Gadjah Mada",
-        "Institut Teknologi Sepuluh Nopember",
-        "University of Indonesia",
-        "Kyonggi University",
-        "Samudra University",
-        "Yogyakarta State University",
-        "Sumatera Institute of Technology",
-        "IPB University"
-      ],
-      "abstract": "Efficient biogas upgrading requires the removal of CO₂ and H₂S to produce biomethane suitable for downstream applications. Geopolymer-based materials have attracted interest because their aluminosilicate structures can be tailored through precursor composition, activation, curing, and secondary-phase incorporation, while waste-derived precursors offer opportunities for resource valorization. This review critically evaluates geopolymer-based CO₂/CH₄ separation and H₂S capture and examines their potential integration into a single membrane platform. The literature provides limited direct evidence of CO₂/CH₄ separation using geopolymer membranes, whereas CO₂/CH₄ adsorption selectivity has been demonstrated in geopolymer-based materials, and H₂S capture has primarily been investigated using particulate or bulk geopolymer sorbents. However, the available literature has yet to establish the integrated performance of a single geopolymer membrane for CO₂/CH₄ separation and H₂S removal under mixed CO₂/CH₄/H₂S feeds. Consequently, the existing evidence remains fragmented across adsorption, gas permeation, and H₂S sorption studies. Key research gaps include establishing the relationship between adsorption properties and membrane-level separation, controlling selective-layer thickness and defects, elucidating gas transport mechanisms, and validating performance under humid, multicomponent conditions. The review also examines membrane architecture, functionalization, composite design, and emerging metal–organic framework (MOF) and covalent organic framework (COF) systems to identify relevant design principles. Altogether, integrated CO₂/CH₄/H₂S purification using geopolymer membranes remains largely at the proof-of-concept stage. Future research should prioritize mixed-gas testing, H₂S breakthrough and regeneration studies, interface engineering, and standardized transport measurements.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "selectivity"
-      ],
-      "score": 38,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：Universitas Gadjah Mada、Institut Teknologi Sepuluh Nopember；摘要首句：Efficient biogas upgrading requires the removal of CO₂ and H₂S to produce biomethane suitable for downstream applications.。",
-      "id": "doi:10.1016/j.scenv.2026.100343"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7222303684",
-      "openalex_url": "https://openalex.org/W7222303684",
-      "doi": "10.1002/anie.3718000",
-      "title": "Bioinspired Adaptive Ångström‐Channels in a Hydrogen‐Bonded Metal–Organic Framework for Selective Water Removal From Gas Streams by Molecular Sieving Dehydration",
-      "publication_date": "2026-10-15",
-      "journal": "Angewandte Chemie International Edition",
-      "authors": [
-        "Yingzhi He",
-        "Yunjia Jiang",
-        "Lingyao Wang",
-        "Weidong Zhu",
-        "Banglin Chen",
-        "Yuanbin Zhang"
-      ],
-      "first_author": "Yingzhi He",
-      "institutions": [
-        "Ministry of Education",
-        "Zhejiang Normal University",
-        "Fujian Normal University",
-        "Key Laboratory of the Ministry of Education for Advanced Catalysis Materials Zhejiang Key Laboratory of Advanced Catalysis and Adsorption Materials, College of Chemistry and Materials Science Zhejiang Normal University Jinhua P. R. China",
-        "Institute of Advanced Fluorine‐Containing Materials Zhejiang Normal University Jinhua P. R. China",
-        "Fujian Provincial Key Laboratory of Polymer Materials, College of Chemistry &amp; Materials Science Fujian Normal University Fuzhou P. R. China"
-      ],
-      "abstract": "ABSTRACT The removal of water from light hydrocarbons is a critical yet energy‐intensive step in petrochemical processes. Conventional adsorbents often suffer from high regeneration temperatures and undesirable co‐adsorption. Inspired by the selective water transport mechanism of aquaporins, we report a hydrogen‐bonded metal–organic framework, ZNU‐33, featuring bioinspired adaptive one‐dimensional channels. The pore walls are decorated with both positively charged (Hbpa + ) and negatively charged (HEDP 4− ) recognition sites. Using in situ single‐crystal x‐ray diffraction, we captured five phases of ZNU‐33, activated (ZNU‐33‐α), intermediate (ZNU‐33‐β), partially dehydrated (ZNU‐33‐γ and ZNU‐33‐γ2), and fully hydrated ZNU‐33, directly visualizing a water‑triggered structural transition. Structural snapshots reveal water uptake proceeding from free‐channel water to Cu 2+ coordination and then to extended hydrogen‐bonded water chains. ZNU‐33 exhibits high water uptake (9.50 mmol/g at 2.85 kPa and 298 K) and negligible adsorption of CO 2 and all light hydrocarbons. Breakthrough experiments demonstrate efficient water removal under wide flow rates, temperatures, and humidity levels, with water‐adsorption capacity recoverable under substantially milder activation conditions than those required by the investigated conventional zeolites. This work not only provides a high‑performance material for selective dehydration, but also establishes a bioinspired adaptive adsorption mechanism for designing water‐selective adsorbents.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "dehydration",
-        "molecular sieving"
-      ],
-      "score": 33,
-      "relevance_class": "领域扩展",
-      "key_numbers": [
-        "2.85 kPa"
-      ],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Ministry of Education、Zhejiang Normal University；摘要首句：ABSTRACT The removal of water from light hydrocarbons is a critical yet energy‐intensive step in petrochemical processes.。",
-      "id": "doi:10.1002/anie.3718000"
     },
     {
       "source_db": "Crossref",
@@ -1390,6 +1267,68 @@
       "key_numbers": [],
       "brief": "定位：领域扩展；主题：离子筛分；团队：Zhongyuan Critical Metals Laboratory, Zhengzhou University, Zhengzhou 450001, China、State Key Laboratory of Critical Metals Beneficiation, Metallurgy and Purification, Zhengzhou 450001, China；摘要首句：Quartz and feldspar are used in a range of industrial applications owing to their distinct physicochemical properties.。",
       "id": "doi:10.3390/separations13100302"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223007942",
+      "openalex_url": "https://openalex.org/W7223007942",
+      "doi": "10.54254/2755-2721/2026.37812",
+      "title": "Two-Dimensional Nanomaterials for Organic Dye Removal from Industrial Wastewater: Performance, Mechanisms, and Prospects",
+      "publication_date": "2026-10-20",
+      "journal": "Applied and Computational Engineering",
+      "authors": [
+        "Xuanyu Tao"
+      ],
+      "first_author": "Xuanyu Tao",
+      "institutions": [
+        "Hebei University of Science and Technology"
+      ],
+      "abstract": "Industrial wastewater poses a serious environmental challenge, as the discharge of large amounts of organic dyes threatens aquatic ecosystems and human health. Accordingly, certain two-dimensional (2D) nanomaterials, such as graphene, MXenes, and molybdenum disulfide, have demonstrated considerable potential for the efficient removal of organic dyes. Their high specific surface area, tunable interlayer spacing, and abundant surface functional groups offer significant advantages in dye adsorption and membrane separation applications. This review examines the adsorption efficiency, removal mechanisms, membrane separation performance, and recyclability of selected 2D nanomaterials for the treatment of industrial dye wastewater. Notably, particular emphasis is placed on the influence of material structural characteristics on dye removal. Furthermore, the effects of different environmental conditions on removal mechanisms, membrane fouling behavior, and long-term operational stability are also discussed. Additionally, environmental accumulation, ecological toxicity, eco-friendly synthesis, and sustainable development strategies are discussed. The paper highlights current research limitations and future directions, providing a theoretical foundation for the efficient and environmentally friendly application of 2D nanomaterials in water treatment.",
+      "cited_by_count": 0,
+      "topics": [
+        "硫属二维材料"
+      ],
+      "keyword_hits": [],
+      "score": 31,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：硫属二维材料；团队：Hebei University of Science and Technology；摘要首句：Industrial wastewater poses a serious environmental challenge, as the discharge of large amounts of organic dyes threatens aquatic ecosystems and human health.。",
+      "id": "doi:10.54254/2755-2721/2026.37812"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/smll.76416",
+      "title": "Plant‐Stem‐Inspired Core–Shell Janus Hydrogel Evaporator for Synergistic Solar Desalination and Hydrovoltaic Generation",
+      "publication_date": "2026-10-21",
+      "journal": "Small",
+      "authors": [
+        "Jiahong Gao",
+        "Junhuan Sun",
+        "Huixin Wang",
+        "Zhe Wang",
+        "Shuhong Wang"
+      ],
+      "first_author": "Jiahong Gao",
+      "institutions": [
+        "School of Chemical Engineering and Materials Heilongjiang University Harbin People's Republic of China"
+      ],
+      "abstract": "ABSTRACT Solar‐driven interfacial evaporation is a promising solution to freshwater scarcity, yet it faces bottlenecks regarding salt accumulation, limited evaporation modes, and single functionality. Here, inspired by plant vascular tissues, we have developed a 3D core–shell Janus hydrogel evaporator to achieve the synergy of high‐efficiency freshwater production and stable hydrovoltaic energy harvesting. To construct this core–shell architecture, an alkali‐induced dehydroflurination strategy is employed to solve the bonding challenge between hydrophobic poly(vinylidene fluoride) (PVDF) and the hydrophilic sodium alginate (SA) core, while simultaneously triggering the in situ oxidation of manganese ions to form MnO 2 , thus conferring antibacterial activity on the device. The PVA/chitosan shell and sodium alginate core are endowed with bio‐inspired vascular channels through a foaming and freeze‐thawing process, which ensures efficient water transport and salt resistance. Crucially, this design leverages the tunable water‐content environment within the hydrogel and the water‐polymer interactions to enable a unique “Hydrogel/Janus dual‐core” evaporation mechanism. Furthermore, the incorporation of dodecasodium phytate markedly enhances the surface charge density, yielding an evaporation rate of 4.22 kg m − 2 h − 1 under one sun and a sustained output voltage of 825 mV in seawater. This bioinspired all‐in‐one platform offers a pathway from passive solar distillation to active water‐energy synergy.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 30,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "2 h"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：School of Chemical Engineering and Materials Heilongjiang University Harbin People's Republic of China；摘要首句：ABSTRACT Solar‐driven interfacial evaporation is a promising solution to freshwater scarcity, yet it faces bottlenecks regarding salt accumulation, limited evaporation modes, and single functionality.。",
+      "id": "doi:10.1002/smll.76416"
     },
     {
       "source_db": "Crossref",
@@ -1565,44 +1504,141 @@
       "id": "doi:10.31838/ines/03.02.02"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7221861349",
-      "openalex_url": "https://openalex.org/W7221861349",
-      "doi": "10.15294/joct.v3i2.63013",
-      "title": "Coconut Shell Liquid Smoke (CSLS) as a Sustainable, Natural Preservative in Fisheries: A Comprehensive Review on Thermochemical Processes, Efficacy, Safety and Future Prospects",
-      "publication_date": "2026-10-15",
-      "journal": "Journal of Clean Technology",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1002/aenm.71717",
+      "title": "An Ultrathin Ionic COF Self‐Supporting Proton Exchange Membrane Through Stacking of Few‐Layer Nanosheets Grown From High‐Curvature Micro‐Interface for Fuel Cell",
+      "publication_date": "2026-10-20",
+      "journal": "Advanced Energy Materials",
       "authors": [
-        "Haniif Prasetiawan",
-        "Dewi Selvia Fardhyanti",
-        "Bayu Triwibowo",
-        "Hanif Ardhiansyah",
-        "Fisa Savanti"
+        "Huimin Zhao",
+        "Bo Pang",
+        "Zihao Fan",
+        "Tianyu Liang",
+        "Xinran Li",
+        "Wanting Chen",
+        "Xuemei Wu",
+        "Fujun Cui",
+        "Gaohong He"
       ],
-      "first_author": "Haniif Prasetiawan",
+      "first_author": "Huimin Zhao",
       "institutions": [
-        "State University of Semarang"
+        "State Key Laboratory of Fine Chemicals Frontier Science Center for Smart Materials School of Chemical Engineering Dalian University of Technology Dalian China",
+        "School of Chemical Engineering Ocean and Life Sciences Dalian University of Technology Panjin China",
+        "Panjin Institute of Industrial Technology Dalian University of Technology Panjin China"
       ],
-      "abstract": "This review article synthesizes findings from the last two decades (2010–2026) on the preparation, chemical composition, preservation efficacy, and safety profile of coconut shell liquid smoke (CSLS) as a natural, sustainable fish preservative. Conventional slow pyrolysis (yielding optimal phenol levels at 450–550°C) and advanced Microwave-Assisted Pyrolysis (MAP, achieving yields up to 34.6% and operating at 255–280°C with 2–3 mm particle sizes) represent the primary thermochemical techniques. Purification via redistillation, filtration, and membrane separation (ultrafiltration/nanofiltration) successfully minimizes toxic polycyclic aromatic hydrocarbons (PAHs), producing food-grade liquid smoke (grades A and B) that complies with strict safety standards. CSLS contains key phenolic compounds, organic acids, and carbonyls that provide dual antimicrobial and antioxidant actions. Minimum Inhibitory Concentrations (MIC) of 0.22% to 0.40% are effective against major spoilage pathogens such as Pseudomonas aeruginosa, Staphylococcus aureus, and Escherichia coli. Applications of CSLS at concentrations of 2.5% to 7.0% significantly extend the shelf life of various fish products (fillets, balls, cakes). Advanced delivery formulations, including edible chitosan coatings and chitosan/maltodextrin nanocapsules, offer sustained release, maintaining fish freshness for up to 48 hours at room temperature. Furthermore, purified CSLS exhibits low cytotoxicity and offers therapeutic benefits such as anti-inflammatory and oral ulcer healing properties. Despite these benefits, scalability, life cycle assessments (LCA), ecotoxicity in aquatic environments, and comprehensive consumer sensory acceptance remain critical gaps. This review outlines pathways to transition CSLS from pilot-scale applications to industrial-scale sustainable fisheries preservation.",
+      "abstract": "ABSTRACT Ultrathin self‐supporting ionic covalent organic framework (iCOF) proton exchange membranes (PEM) are crucial for low‐resistance sustainable energy applications but remain challenging to fabricate. The key to fabricating ultrathin self‐supporting iCOF membranes lies in the compact stacking of iCOF nanosheets, which remains inaccessible through micro‐interfacial polymerization systems. Herein, we report for the first time an ultrathin self‐supporting iCOF PEM constructed by growing few‐layer iCOF nanosheets at high‐curvature micro‐interfaces, alongside a proposed growth mechanism. The curved iCOF exhibits reduced interlayer attraction due to a twisted configuration, and enhanced solvation‐driven exfoliation arising from greater exposure of sulfonic acid groups to water. It avoids the commonly reported nanosphere‐like morphologies in previously reported micro‐interfacial assembly systems by regulating the oil‐in‐water microemulsion interface using weakly surface‐active octanoic acid, which effectively balances between the confined oil phase growth and the unconfined aqueous phase exfoliation. As‐prepared iCOF few‐layer nanosheets (1.3–1.5 nm) expose abundant reactive terminal groups for interlayer crosslinking under the vacuum filtration pressure gradient, leading to ultrathin self‐supporting iCOF PEM (3.2–15.1 µm) with compact layer stacking, good mechanical robustness, and excellent scalability (20 cm in diameter). A fuel cell peak power density of 2017.7 mW cm −2 at 80°C is achieved, surpassing recently reported iCOF‐based membranes.",
       "cited_by_count": 0,
       "topics": [
-        "纳滤"
+        "COF/MOF膜",
+        "聚酰胺/TFC"
       ],
       "keyword_hits": [
-        "nanofiltration"
+        "cof membrane",
+        "interfacial polymerization"
       ],
-      "score": 29,
+      "score": 27,
       "relevance_class": "膜领域相关",
       "key_numbers": [
-        "34.6%",
-        "0.22%",
-        "0.40%",
-        "2.5%",
-        "7.0%",
-        "48 hours"
+        "1.3–1.5 nm",
+        "3.2–15.1 µm"
       ],
-      "brief": "定位：膜领域相关；主题：纳滤；团队：State University of Semarang；摘要首句：This review article synthesizes findings from the last two decades (2010–2026) on the preparation, chemical composition, preservation efficacy, and safety profile of coconut shell liquid smoke (CSLS) as a natural, sustainable f…。",
-      "id": "doi:10.15294/joct.v3i2.63013"
+      "brief": "定位：膜领域相关；主题：COF/MOF膜 / 聚酰胺/TFC；团队：State Key Laboratory of Fine Chemicals Frontier Science Center for Smart Materials School of Chemical Engineering Dalian University of Technology Dalian China、School of Chemical Engineering Ocean and Life Sciences Dalian University of Technology Panjin China；摘要首句：ABSTRACT Ultrathin self‐supporting ionic covalent organic framework (iCOF) proton exchange membranes (PEM) are crucial for low‐resistance sustainable energy applications but remain challenging to fabricate.。",
+      "id": "doi:10.1002/aenm.71717"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1007/s10973-026-16413-3",
+      "title": "Thermodynamic modeling of ETC–CPC solar desalination systems—performance prediction, feasibility assessment, and experimental validation",
+      "publication_date": "2026-10-21",
+      "journal": "Journal of Thermal Analysis and Calorimetry",
+      "authors": [
+        "Meenal Kamlakar",
+        "Shridhar Kedar",
+        "Dipti Patil"
+      ],
+      "first_author": "Meenal Kamlakar",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 25,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Thermodynamic modeling of ETC–CPC solar desalination systems—performance prediction, feasibility assessment, and experimental validation。",
+      "id": "doi:10.1007/s10973-026-16413-3"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1038/s41598-026-76347-6",
+      "title": "Experimental enhancement of a double-slope solar still using external reflectors and nano-coated absorber plates for solar desalination",
+      "publication_date": "2026-10-21",
+      "journal": "Scientific Reports",
+      "authors": [
+        "Bethelhem Mulat Agegnehu",
+        "Yihun Tefera Sinte",
+        "Hussen Agegnehu Ali",
+        "Melese Shiferaw Kebede"
+      ],
+      "first_author": "Bethelhem Mulat Agegnehu",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 25,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Experimental enhancement of a double-slope solar still using external reflectors and nano-coated absorber plates for solar desalination。",
+      "id": "doi:10.1038/s41598-026-76347-6"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1007/s00226-026-01817-z",
+      "title": "Solar-driven photothermal-evaporation coupling: antibacterial-evaporation integrated wood-based photothermal materials for seawater desalination",
+      "publication_date": "2026-10-21",
+      "journal": "Wood Science and Technology",
+      "authors": [
+        "Hongyan Zhu",
+        "Qihui Jiao",
+        "Jin Zhang",
+        "Shijie Li",
+        "Yu Wu",
+        "Xiangyu Yang",
+        "Xinyu Li",
+        "Jianguo Zhao"
+      ],
+      "first_author": "Hongyan Zhu",
+      "institutions": [],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 25,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Solar-driven photothermal-evaporation coupling: antibacterial-evaporation integrated wood-based photothermal materials for seawater desalination。",
+      "id": "doi:10.1007/s00226-026-01817-z"
     },
     {
       "source_db": "Crossref",
@@ -1636,101 +1672,6 @@
       "key_numbers": [],
       "brief": "定位：领域扩展；主题：离子筛分；团队：Hefei University of Technology、Institute of Applied Physics and Computational Mathematics；摘要首句：Abstract Supersonic plasma jets generated by multi-component cathodes in vacuum arcs critically influence the breaking capacity of high-voltage vacuum circuit breakers and the beam quality of metal ion sources, yet the underlyi…。",
       "id": "doi:10.1088/1361-6595/aeb68c"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/ange.3718000",
-      "title": "Bioinspired Adaptive Ångström‐Channels in a Hydrogen‐Bonded Metal–Organic Framework for Selective Water Removal From Gas Streams by Molecular Sieving Dehydration",
-      "publication_date": "2026-10-15",
-      "journal": "Angewandte Chemie",
-      "authors": [
-        "Yingzhi He",
-        "Yunjia Jiang",
-        "Lingyao Wang",
-        "Weidong Zhu",
-        "Banglin Chen",
-        "Yuanbin Zhang"
-      ],
-      "first_author": "Yingzhi He",
-      "institutions": [
-        "Key Laboratory of the Ministry of Education for Advanced Catalysis Materials Zhejiang Key Laboratory of Advanced Catalysis and Adsorption Materials, College of Chemistry and Materials Science Zhejiang Normal University Jinhua P. R. China",
-        "Institute of Advanced Fluorine‐Containing Materials Zhejiang Normal University Jinhua P. R. China",
-        "Fujian Provincial Key Laboratory of Polymer Materials, College of Chemistry &amp; Materials Science Fujian Normal University Fuzhou P. R. China"
-      ],
-      "abstract": "ABSTRACT The removal of water from light hydrocarbons is a critical yet energy‐intensive step in petrochemical processes. Conventional adsorbents often suffer from high regeneration temperatures and undesirable co‐adsorption. Inspired by the selective water transport mechanism of aquaporins, we report a hydrogen‐bonded metal–organic framework, ZNU‐33, featuring bioinspired adaptive one‐dimensional channels. The pore walls are decorated with both positively charged (Hbpa + ) and negatively charged (HEDP 4− ) recognition sites. Using in situ single‐crystal x‐ray diffraction, we captured five phases of ZNU‐33, activated (ZNU‐33‐α), intermediate (ZNU‐33‐β), partially dehydrated (ZNU‐33‐γ and ZNU‐33‐γ2), and fully hydrated ZNU‐33, directly visualizing a water‑triggered structural transition. Structural snapshots reveal water uptake proceeding from free‐channel water to Cu 2+ coordination and then to extended hydrogen‐bonded water chains. ZNU‐33 exhibits high water uptake (9.50 mmol/g at 2.85 kPa and 298 K) and negligible adsorption of CO 2 and all light hydrocarbons. Breakthrough experiments demonstrate efficient water removal under wide flow rates, temperatures, and humidity levels, with water‐adsorption capacity recoverable under substantially milder activation conditions than those required by the investigated conventional zeolites. This work not only provides a high‑performance material for selective dehydration, but also establishes a bioinspired adaptive adsorption mechanism for designing water‐selective adsorbents.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "dehydration",
-        "molecular sieving"
-      ],
-      "score": 25,
-      "relevance_class": "领域扩展",
-      "key_numbers": [
-        "2.85 kPa"
-      ],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Key Laboratory of the Ministry of Education for Advanced Catalysis Materials Zhejiang Key Laboratory of Advanced Catalysis and Adsorption Materials, College of Chemistry and Materials Science Zhejiang Normal University Jinhua P. R. China、Institute of Advanced Fluorine‐Containing Materials Zhejiang Normal University Jinhua P. R. China；摘要首句：ABSTRACT The removal of water from light hydrocarbons is a critical yet energy‐intensive step in petrochemical processes.。",
-      "id": "doi:10.1002/ange.3718000"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1002/awwa.70161",
-      "title": "Brine Valorization Changes the Desalination Paradigm",
-      "publication_date": "2026-10-15",
-      "journal": "Journal AWWA",
-      "authors": [
-        "Nikolay Voutchkov"
-      ],
-      "first_author": "Nikolay Voutchkov",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 25,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Brine Valorization Changes the Desalination Paradigm。",
-      "id": "doi:10.1002/awwa.70161"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1557/s43578-026-01996-2",
-      "title": "Stratified heteroatom-doped melamine-derived porous activated carbon-framework electrodes for enhanced capacitive desalination",
-      "publication_date": "2026-10-15",
-      "journal": "Journal of Materials Research",
-      "authors": [
-        "Shafeeq Suhail Mohamed Shajidha",
-        "Ramya Perumal",
-        "Meera Sheriffa Begum Kadhar Mohamed"
-      ],
-      "first_author": "Shafeeq Suhail Mohamed Shajidha",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 25,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Stratified heteroatom-doped melamine-derived porous activated carbon-framework electrodes for enhanced capacitive desalination。",
-      "id": "doi:10.1557/s43578-026-01996-2"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -1770,54 +1711,90 @@
       ],
       "brief": "定位：膜领域相关；主题：COF/MOF膜；团队：Beijing Normal University, Zhuhai、Beijing Normal University；摘要首句：Metal–organic framework (MOF) membranes combine the structural designability of MOFs with a continuous membrane architecture that integrates reactant enrichment, active-site accessibility, and product separation.。",
       "id": "doi:10.3390/nano16201306"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.3390/molecules31203720",
+      "title": "Waste-Derived Zeolite-P (GIS): Synthesis, Polymorphism, Characterization, and Adsorption Applications for Water Purification and Selective Gas Separation",
+      "publication_date": "2026-10-16",
+      "journal": "Molecules",
+      "authors": [
+        "Rafik Abdelkrim Boudia",
+        "Stefano Bellucci",
+        "Mehdi Adjdir"
+      ],
+      "first_author": "Rafik Abdelkrim Boudia",
+      "institutions": [
+        "Laboratory of Applied Organic Synthesis, Faculty of Exact and Applied Sciences, University Oran1 Ahmed Ben Bella, BP 1524 El M’Naouer, Oran 31000, Algeria",
+        "Laboratory of Elaboration and Spectroscopic Characterizations of Structural and Electronic Properties Materials, Faculty of Technology, University of Saida Tahar Moulay University, P.B. 138 Ennasr, Saida 20000, Algeria",
+        "Qi S.r.l., Via Monte d’Oro, 2/A, 00071 Pomezia, Italy",
+        "Research Direction, Universidad ECOTEC, Km 13.5 Samborondón, Samborondón 092302, Ecuador",
+        "National Institute of Materials Physics (NIMP), 405A Atomistilor Street, 077125 Magurele, Romania"
+      ],
+      "abstract": "Zeolite-P is a synthetic member of the gismondine (GIS) framework family and is intrinsically microporous, with intersecting eight-membered-ring channels. Mesoporosity reported for some Zeolite-P samples is therefore a secondary textural feature arising from interparticle voids, crystal aggregation, defects, or deliberately hierarchical architectures rather than from the GIS framework itself. This critical review focuses specifically on waste-derived GIS/Zeolite-P and integrates polymorph selection (Na-P1 and Na-P2), phase-purity assessment, precursor-to-property relationships, shaping, regeneration, and adsorption under increasingly realistic conditions. Structural and compositional evidence from X-ray diffraction (XRD), scanning electron microscopy (SEM), Fourier-transform infrared spectroscopy (FT-IR), X-ray fluorescence (XRF), inductively coupled plasma optical emission spectroscopy (ICP-OES), solid-state 29Si and 27Al magic-angle-spinning nuclear magnetic resonance (MAS NMR), X-ray photoelectron spectroscopy (XPS), and Brunauer–Emmett–Teller (BET) analysis is evaluated in terms of what each technique can establish specifically for GIS materials. Waste-derived synthesis routes—including hydrothermal, alkali-fusion-assisted, microwave-assisted, ultrasound-assisted, sol–gel, and solvent-free methods—are compared without assuming that a waste precursor or a shorter synthesis is intrinsically lower-impact. Particular attention is paid to water purification, ion exchange, dehydration, and selective gas adsorption, while distinguishing single-solute batch tests from multicomponent, real-water, regeneration, and breakthrough evidence. The review also reconciles computational predictions with experiments: idealized pure-silica GIS models can overpredict CO2 uptake relative to realistic aluminosilicate Na-P1/Na-P2, for which extra-framework cations, hydration, and restricted diffusion strongly affect accessibility. The resulting analysis identifies phase purity, matrix effects, regeneration, leaching safety, shaping, and process-level techno-economic/life-cycle metrics as the key barriers to translation of waste-derived Zeolite-P from laboratory studies to deployable adsorbents.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "dehydration"
+      ],
+      "score": 18,
+      "relevance_class": "领域扩展",
+      "key_numbers": [],
+      "brief": "定位：领域扩展；主题：离子筛分 / 脱盐/水处理；团队：Laboratory of Applied Organic Synthesis, Faculty of Exact and Applied Sciences, University Oran1 Ahmed Ben Bella, BP 1524 El M’Naouer, Oran 31000, Algeria、Laboratory of Elaboration and Spectroscopic Characterizations of Structural and Electronic Properties Materials, Faculty of Technology, University of Saida Tahar Moulay University, P.B. 138 Ennasr, Saida 20000, Algeria；摘要首句：Zeolite-P is a synthetic member of the gismondine (GIS) framework family and is intrinsically microporous, with intersecting eight-membered-ring channels.。",
+      "id": "doi:10.3390/molecules31203720"
     }
   ],
   "trends": {
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 117,
-        "delta": 29
+        "count": 122,
+        "delta": 35
       },
       {
         "name": "离子筛分",
-        "count": 87,
-        "delta": -29
+        "count": 89,
+        "delta": -24
       },
       {
         "name": "纳滤",
-        "count": 62,
-        "delta": 0
+        "count": 65,
+        "delta": -4
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 37,
+        "count": 39,
         "delta": 2
       },
       {
         "name": "COF/MOF膜",
-        "count": 29,
-        "delta": 7
+        "count": 38,
+        "delta": 22
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 17,
-        "delta": -18
+        "count": 18,
+        "delta": -16
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 13,
-        "delta": 13
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "二维层状膜",
-        "count": 3,
-        "delta": -10
+        "count": 5,
+        "delta": -8
       },
       {
         "name": "硫属二维材料",
         "count": 1,
-        "delta": -4
+        "delta": -5
       }
     ],
     "journals": [
@@ -1828,8 +1805,8 @@
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 70,
-        "delta": 70
+        "count": 68,
+        "delta": 68
       },
       {
         "name": "Journal of Environmental Chemical Engineering",
@@ -1847,39 +1824,39 @@
         "delta": 33
       },
       {
-        "name": "Desalination",
+        "name": "Membranes",
         "count": 32,
         "delta": 32
       },
       {
-        "name": "Membranes",
+        "name": "Desalination",
         "count": 31,
         "delta": 31
       },
       {
-        "name": "Chemical Engineering Journal",
-        "count": 29,
-        "delta": 29
-      },
-      {
         "name": "Angewandte Chemie",
-        "count": 29,
-        "delta": 29
+        "count": 30,
+        "delta": 30
       },
       {
         "name": "Angewandte Chemie International Edition",
+        "count": 29,
+        "delta": 29
+      },
+      {
+        "name": "Chemical Engineering Journal",
         "count": 28,
         "delta": 28
       },
       {
         "name": "Small",
-        "count": 24,
-        "delta": 24
+        "count": 27,
+        "delta": 27
       },
       {
-        "name": "INTERNATIONAL JOURNAL OF CHEMISTRY AND CHEMICAL PROCESSES",
-        "count": 24,
-        "delta": 24
+        "name": "Nature Communications",
+        "count": 25,
+        "delta": 25
       }
     ],
     "authors": [
@@ -1930,8 +1907,8 @@
       },
       {
         "name": "Yanwei Sun",
-        "count": 17,
-        "delta": 17
+        "count": 18,
+        "delta": 18
       },
       {
         "name": "Sandrine Boivin",
@@ -1949,12 +1926,12 @@
         "delta": 16
       },
       {
-        "name": "Ahmad Fauzi Ismail",
+        "name": "Shu-Hsien Huang",
         "count": 14,
         "delta": 14
       },
       {
-        "name": "Shu-Hsien Huang",
+        "name": "Son Minh Te",
         "count": 14,
         "delta": 14
       }
@@ -1967,8 +1944,8 @@
       },
       {
         "name": "Tiangong University",
-        "count": 26,
-        "delta": 26
+        "count": 29,
+        "delta": 29
       },
       {
         "name": "Tsinghua University",
@@ -1977,8 +1954,18 @@
       },
       {
         "name": "State Key Laboratory of Advanced Separation Membrane Materials",
-        "count": 18,
-        "delta": 18
+        "count": 20,
+        "delta": 20
+      },
+      {
+        "name": "Tongji University",
+        "count": 19,
+        "delta": 19
+      },
+      {
+        "name": "Zhejiang University",
+        "count": 19,
+        "delta": 19
       },
       {
         "name": "Chinese Academy of Sciences",
@@ -1986,14 +1973,9 @@
         "delta": 18
       },
       {
-        "name": "Tongji University",
-        "count": 17,
-        "delta": 17
-      },
-      {
-        "name": "Zhejiang University",
-        "count": 16,
-        "delta": 16
+        "name": "National University of Singapore",
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "University of Chinese Academy of Sciences",
@@ -2001,14 +1983,9 @@
         "delta": 14
       },
       {
-        "name": "National University of Singapore",
+        "name": "Beijing Normal University, Zhuhai",
         "count": 14,
         "delta": 14
-      },
-      {
-        "name": "King Fahd University of Petroleum and Minerals",
-        "count": 13,
-        "delta": 13
       },
       {
         "name": "Tsinghua University , , ,",
@@ -2016,9 +1993,9 @@
         "delta": 13
       },
       {
-        "name": "Beijing Normal University, Zhuhai",
-        "count": 13,
-        "delta": 13
+        "name": "King Fahd University of Petroleum and Minerals",
+        "count": 12,
+        "delta": 12
       },
       {
         "name": "Zhejiang University of Technology , , ,",
@@ -2026,12 +2003,12 @@
         "delta": 12
       },
       {
-        "name": "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
+        "name": "Ministry of Education",
         "count": 12,
         "delta": 12
       },
       {
-        "name": "Center for Advanced Materials Research Advanced Institute of Natural Sciences Beijing Normal University Zhuhai China",
+        "name": "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
         "count": 12,
         "delta": 12
       }
