@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-10-23T00:40:09.637500+00:00",
-  "updated_at_local": "2026-10-23 08:39 (UTC+8)",
+  "updated_at": "2026-10-24T00:42:01.132402+00:00",
+  "updated_at_local": "2026-10-24 08:41 (UTC+8)",
   "stats": {
-    "fetched": 1221,
+    "fetched": 1216,
     "related": 43,
     "recommended": 25,
     "window_days": 7,
@@ -61,54 +61,6 @@
       ],
       "brief": "定位：核心膜分离；主题：离子筛分 / COF/MOF膜 / 纳米通道/限域传输；团队：Zhejiang University、Zhejiang University , , , ,；摘要首句：Abstract Membrane-based separation offers a highly promising paradigm for the precise extraction of monovalent cations, which is critical for bioinspired engineering and advanced ion-separation applications.。",
       "id": "doi:10.1021/acsnano.6c14330"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7222843040",
-      "openalex_url": "https://openalex.org/W7222843040",
-      "doi": "10.1038/s41467-026-78649-9",
-      "title": "Breaking water-structure constraints by Hofmeister effects in interfacial polymerization for polyamide membranes",
-      "publication_date": "2026-10-17",
-      "journal": "Nature Communications",
-      "authors": [
-        "Qingchen Tang",
-        "Hao Chen",
-        "Yu Chen",
-        "Hanyu Wu",
-        "Xingwang Meng",
-        "Wu Jin",
-        "Panjia Jiang",
-        "Yizhou Zhang",
-        "Xunda Feng"
-      ],
-      "first_author": "Qingchen Tang",
-      "institutions": [
-        "Donghua University",
-        "Jingchu University of Technology",
-        "Tohoku University",
-        "Institute for Materials Research, Tohoku University"
-      ],
-      "abstract": "Abstract Hydration critically governs the physicochemical behavior of solutes in both the aqueous bulk and interfacial environments. As typical chaotropic Hofmeister ions, weakly hydrated anions (WHAs) can reshape hydration structures and accumulate at water–hydrophobe interfaces. Notably, WHAs paradoxically suppress the solubility of certain small-molecule monomers in water while enhancing that of chemically analogous polymers. Here, we exploit WHA-mediated Hofmeister hydration control to regulate polyamide-forming interfacial polymerization (IP), using the piperazine (PIP) and trimesoyl chloride (TMC) nanofiltration system as the primary model. Introducing WHAs into the aqueous phase reduces the affinity of amine monomers for water and accelerates partitioning into the reaction front in the oil phase, remarkably reinforcing IP self-limitation. Simultaneously, interfacial WHA enrichment lowers interfacial tension and, together with accelerated amine delivery, potentially intensifies transport-driven interfacial instabilities. WHAs also lower interfacial water availability, attenuating acyl chloride hydrolysis. These synergistic effects yield hollow-ridged polyamide selective layers with reduced thickness and high crosslinking density, delivering enhanced water permeance and salt rejection. Crucially, module-scale fabrication of high-performance membranes demonstrates that WHA-mediated Hofmeister hydration control is directly compatible with established desalination pipelines.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "聚酰胺/TFC",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "salt rejection",
-        "polyamide membrane",
-        "interfacial polymerization",
-        "permeance",
-        "rejection",
-        "desalination"
-      ],
-      "score": 100,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：Donghua University、Jingchu University of Technology；摘要首句：Abstract Hydration critically governs the physicochemical behavior of solutes in both the aqueous bulk and interfacial environments.。",
-      "id": "doi:10.1038/s41467-026-78649-9"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -380,6 +332,42 @@
       "id": "doi:10.1016/j.jwpe.2026.111125"
     },
     {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7222978451",
+      "openalex_url": "https://openalex.org/W7222978451",
+      "doi": "10.1016/j.rineng.2026.113672",
+      "title": "From lab to industry: electrospun nanofiber membranes for water purification— history, materials, process engineering, and scale-up challenges",
+      "publication_date": "2026-10-19",
+      "journal": "Results in Engineering",
+      "authors": [
+        "Venkata Dinesh Avvari",
+        "Veinardi Suendo",
+        "Damar Rastri Adhika"
+      ],
+      "first_author": "Venkata Dinesh Avvari",
+      "institutions": [
+        "Bandung Institute of Technology"
+      ],
+      "abstract": "With the increasing need for safe water because of population increase, industry and contamination emergence, there is a need for improved and sustainable methods of water purification. One promising technology is electrospun polymeric nanofibers, owing to their high surface area, tuneable porosity, and high permeability and selectivity properties. Various methods of nanofiber fabrication using both single and multiple needles, as well as needleless and centrifugal methods, are compared based on their efficiency and suitability for large scale production and practical implementation. Application of electrospun nanofiber substrates together with interfacial polymerization for development of nanofiltration membranes is considered for large scale and commercialization. Although considerable progress has been made, some challenges persist which include lack of mechanical strength, fouling of membranes, absence of standard tests for performance assessment, difficulties during scaling without fiber homogeneity, among others. Additionally, environmental problems related to solvents used for fiber fabrication and excessive use of electricity are some of the major concerns when it comes to green fabrication of nanofibers. Some areas needing further attention and future research directions are highlighted in this study focusing on scalability, multifunctionality, validation of performance, and application of artificial intelligence to optimize the fabrication process.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤",
+        "聚酰胺/TFC",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "interfacial polymerization",
+        "permeability",
+        "selectivity"
+      ],
+      "score": 79,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC / 脱盐/水处理；团队：Bandung Institute of Technology；摘要首句：With the increasing need for safe water because of population increase, industry and contamination emergence, there is a need for improved and sustainable methods of water purification.。",
+      "id": "doi:10.1016/j.rineng.2026.113672"
+    },
+    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7222890562",
       "openalex_url": "https://openalex.org/W7222890562",
@@ -556,6 +544,41 @@
       "id": "doi:10.1016/j.desal.2026.120970"
     },
     {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1088/1402-4896/aeb8d8",
+      "title": "Influence of nanoscale effects and gradient pore-structure characteristics on the permeability of nanofiltration membranes",
+      "publication_date": "2026-10-23",
+      "journal": "Physica Scripta",
+      "authors": [
+        "Peifeng Lin",
+        "minglong huang",
+        "Minglong Huang",
+        "Tao Yang",
+        "Xiao Hu"
+      ],
+      "first_author": "Peifeng Lin",
+      "institutions": [
+        "Zhejiang Sci-Tech University",
+        "Hangzhou Changchuan Technology Co., Ltd."
+      ],
+      "abstract": "Abstract Understanding the coupled influence of nanoscale interfacial effects and pore structure is essential for clarifying water-transport mechanisms in nanofiltration (NF) membranes. Previous studies have mainly examined either nanoscale transport effects, such as wall slip and interfacial viscosity variation, or membrane structural parameters independently, while their combined effects on membrane permeability remain insufficiently understood. To address this gap, physical models of inhomogeneous, homogeneous, and gradient membrane structures were constructed, and nanopore-scale water transport was simulated using the lattice Boltzmann method (LBM) while accounting for wettability-dependent slip and interfacial viscosity. The results show that, compared with the no-slip condition, nanoscale interfacial effects suppress water transport in hydrophilic membranes but substantially enhance it in hydrophobic membranes, and their influence becomes stronger as the pore size decreases. In addition, pore-size uniformity, porosity, specific interface, and membrane thickness significantly affect permeability. A characteristic factor incorporating porosity, specific interface, and thickness was proposed to describe the permeability of gradient membranes, with smaller values corresponding to higher permeability. Structural variations exert a stronger influence on hydrophobic membranes because nanoscale interfacial effects amplify the response of water transport to pore-structure changes. These results clarify the coupled roles of nanoscale interfacial transport and pore structure in NF membrane permeability and provide a physical basis for the coordinated optimization of membrane structure and interfacial properties.",
+      "cited_by_count": 0,
+      "topics": [
+        "纳滤"
+      ],
+      "keyword_hits": [
+        "nanofiltration",
+        "permeability"
+      ],
+      "score": 72,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤；团队：Zhejiang Sci-Tech University、Hangzhou Changchuan Technology Co., Ltd.；摘要首句：Abstract Understanding the coupled influence of nanoscale interfacial effects and pore structure is essential for clarifying water-transport mechanisms in nanofiltration (NF) membranes.。",
+      "id": "doi:10.1088/1402-4896/aeb8d8"
+    },
+    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7222975843",
       "openalex_url": "https://openalex.org/W7222975843",
@@ -719,60 +742,6 @@
     },
     {
       "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7222792875",
-      "openalex_url": "https://openalex.org/W7222792875",
-      "doi": "10.1002/admt.71414",
-      "title": "Interfacially Regulated MXene‐Based Nanocomposite Membranes for Highly Selective Ion Transport and Salinity Gradient Energy Harvesting",
-      "publication_date": "2026-10-17",
-      "journal": "Advanced Materials Technologies",
-      "authors": [
-        "Randa I. Gaber",
-        "Seung‐Hyun Hong",
-        "Daniel Bahamón",
-        "Mahmoud A. Abdulhamid",
-        "Lourdes F. Vega",
-        "Ekaterina A. Pomerantseva",
-        "Emad Alhseinat",
-        "Seunghyun Hong",
-        "Daniel Bahamon",
-        "Ekaterina Pomerantseva"
-      ],
-      "first_author": "Randa I. Gaber",
-      "institutions": [
-        "Khalifa University of Science and Technology",
-        "King Fahd University of Petroleum and Minerals",
-        "Drexel University",
-        "Center for Membranes and Advanced Water Technology (CMAT) Khalifa University of Science and Technology Abu Dhabi UAE",
-        "Department of Chemical and Petroleum Engineering Khalifa University of Science and Technology Abu Dhabi UAE",
-        "Khalifa University of Science and Technology Abu Dhabi UAE",
-        "Sustainable and Resilient Materials Lab Center for Integrative Petroleum Research (CIPR) College of Petroleum Engineering and Geosciences (CPG) King Fahd University of Petroleum and Minerals (KFUPM) Dhahran Saudi Arabia",
-        "Department of Materials Science and Engineering Drexel University Philadelphia Pennsylvania USA"
-      ],
-      "abstract": "ABSTRACT Achieving high ion selectivity, low membrane resistance, and long‐term stability remains a key challenge in developing two‐dimensional nanomaterial polymer composite membranes, where interfacial interactions critically influence membrane structure and ion transport. Here, we report interfacially regulated MXene‐based nanocomposite membranes in which humic acid (HA) mediates interactions between Ti 3 C 2 T x MXene nanosheets and a sulfonated polyethersulfone matrix. Structural characterization together with molecular dynamics simulations indicates that HA incorporation modifies MXene organization and interfacial interactions within the membrane, which are associated with enhanced ion‐transport properties. The optimized membrane achieved near‐ideal monovalent cation selectivity (∼99%), a low area‐specific membrane resistance of 0.06 Ω·m 2 , and an energy conversion efficiency of 45.6%. The same membrane was evaluated over multiple electrochemical testing cycles totaling approximately 300 h, including dedicated 48 h stability measurements under heavy‐metal‐ and organic‐foulant‐containing conditions. A model‐based assessment of a conceptual reverse electrodialysis (RED) stack predicts a 37% increase in power generation, accompanied by an increase in energy conversion efficiency from 30.0% to 41.1%, relative to the commercial‐membrane scenario. These findings demonstrate that regulating interfacial interactions provides an effective design strategy for developing MXene‐based ion‐selective membranes for salinity‐gradient energy harvesting and related electrochemical separation processes.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "selective ion transport",
-        "selectivity"
-      ],
-      "score": 66,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "99%",
-        "45.6%",
-        "300 h",
-        "48 h",
-        "37%",
-        "30.0%",
-        "41.1%"
-      ],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：Khalifa University of Science and Technology、King Fahd University of Petroleum and Minerals；摘要首句：ABSTRACT Achieving high ion selectivity, low membrane resistance, and long‐term stability remains a key challenge in developing two‐dimensional nanomaterial polymer composite membranes, where interfacial interactions critically…。",
-      "id": "doi:10.1002/admt.71414"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7223026123",
       "openalex_url": "https://openalex.org/W7223026123",
       "doi": "10.59992/ijsr.2026.v5n10p7",
@@ -808,12 +777,12 @@
       "id": "doi:10.59992/ijsr.2026.v5n10p7"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7222847091",
-      "openalex_url": "https://openalex.org/W7222847091",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.2166/wst.2026.363",
       "title": "Multi-pass shell and tube concentric tubular module design for membrane distillation for desalination and wastewater treatment",
-      "publication_date": "2026-10-17",
+      "publication_date": "2026-10-19",
       "journal": "Water Science &amp; Technology",
       "authors": [
         "Raj Vardhan Patel",
@@ -824,10 +793,6 @@
       ],
       "first_author": "Raj Vardhan Patel",
       "institutions": [
-        "Central Salt and Marine Chemicals Research Institute",
-        "Academy of Scientific and Innovative Research",
-        "Indian Institute of Technology Roorkee",
-        "Indian Institute of Technology Madras",
         "a CSIR-Central Salt and Marine Chemicals Research Institute, Bhavnagar 364002, Gujarat, India",
         "b Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, Uttar Pradesh, India",
         "c Department of Polymer and Process Engineering, Indian Institute of Technology Roorkee, Roorkee 247667, Uttarakhand, India",
@@ -851,7 +816,7 @@
         "4.95 L m−2 h−1",
         "99%"
       ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Central Salt and Marine Chemicals Research Institute、Academy of Scientific and Innovative Research；摘要首句：ABSTRACT Graphical abstract illustrating a novel multi-pass concentric membrane distillation module designed for treating saline water and wastewater.。",
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：a CSIR-Central Salt and Marine Chemicals Research Institute, Bhavnagar 364002, Gujarat, India、b Academy of Scientific and Innovative Research (AcSIR), Ghaziabad 201002, Uttar Pradesh, India；摘要首句：ABSTRACT Graphical abstract illustrating a novel multi-pass concentric membrane distillation module designed for treating saline water and wastewater.。",
       "id": "doi:10.2166/wst.2026.363"
     },
     {
@@ -1372,6 +1337,48 @@
       "id": "doi:10.54254/2755-2721/2026.37812"
     },
     {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223119600",
+      "openalex_url": "https://openalex.org/W7223119600",
+      "doi": "10.1038/s41598-026-76347-6",
+      "title": "Experimental enhancement of a double-slope solar still using external reflectors and nano-coated absorber plates for solar desalination",
+      "publication_date": "2026-10-21",
+      "journal": "Scientific Reports",
+      "authors": [
+        "Bethelhem Mulat Agegnehu",
+        "Yihun Tefera Sinte",
+        "Hussen Agegnehu Ali",
+        "Melese Shiferaw Kebede"
+      ],
+      "first_author": "Bethelhem Mulat Agegnehu",
+      "institutions": [
+        "University of Gondar",
+        "Bahir Dar University"
+      ],
+      "abstract": "Freshwater scarcity, particularly in arid and off-grid regions, demands efficient and low-cost desalination technologies. While solar stills offer a sustainable solution, their low productivity remains a key limitation. Studies on the combined effect of external reflectors and nanoparticle-coated absorber plates in double-slope solar stills are scarce, and no such investigation has been conducted under the climatic conditions of Gondar, Ethiopia. This study addresses this gap by experimentally evaluating a double-slope solar still integrated with four externally mounted aluminum reflectors and interchangeable absorber plates coated with black paint, black paint + CuO nanoparticles (0.443 wt%), and black paint + Al 2 O 3 nanoparticles (0.443 wt%). Experiments were conducted in December 2023 and May 2024 at water depths of 2 cm, 2.5 cm, and 3 cm to optimize performance. A water depth of 2 cm consistently produced the highest distillate output across all configurations. The CuO-coated absorber plate with reflectors achieved the maximum productivity of 4.95 L day −1 (3.30 L m −2 day −1 ) with a thermal efficiency of 38.38%, substantially exceeding the typical efficiency range for conventional double-slope stills (25–34%). Reflectors alone increased productivity by 130.7% (1.37 to 3.16 L day −1 ), while the combined use of reflectors and CuO coating improved productivity by 261.3% (1.37 to 4.95 L day −1 ) and thermal efficiency by 27.10% points. The CuO coating outperformed Al 2 O 3 by 6.7% after normalization for irradiance variations. Theoretical predictions agreed closely with experimental results for the CuO configuration (difference < 0.5 L day −1 ), though the model over-predicted the black-paint case by 49%, highlighting the importance of accurate absorptance inputs. The proposed system offers a passive, low-cost solution for decentralized water production in off-grid communities, with demonstrated potential for significant productivity enhancement. Water quality testing is recommended to confirm compliance with drinking water standards in future studies.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 30,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "2 day",
+        "38.38%",
+        "25–34%",
+        "130.7%",
+        "261.3%",
+        "27.10%",
+        "6.7%",
+        "49%"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：University of Gondar、Bahir Dar University；摘要首句：Freshwater scarcity, particularly in arid and off-grid regions, demands efficient and low-cost desalination technologies.。",
+      "id": "doi:10.1038/s41598-026-76347-6"
+    },
+    {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
@@ -1651,36 +1658,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1038/s41598-026-76347-6",
-      "title": "Experimental enhancement of a double-slope solar still using external reflectors and nano-coated absorber plates for solar desalination",
-      "publication_date": "2026-10-21",
-      "journal": "Scientific Reports",
-      "authors": [
-        "Bethelhem Mulat Agegnehu",
-        "Yihun Tefera Sinte",
-        "Hussen Agegnehu Ali",
-        "Melese Shiferaw Kebede"
-      ],
-      "first_author": "Bethelhem Mulat Agegnehu",
-      "institutions": [],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 25,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Experimental enhancement of a double-slope solar still using external reflectors and nano-coated absorber plates for solar desalination。",
-      "id": "doi:10.1038/s41598-026-76347-6"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.1007/s00226-026-01817-z",
       "title": "Solar-driven photothermal-evaporation coupling: antibacterial-evaporation integrated wood-based photothermal materials for seawater desalination",
       "publication_date": "2026-10-21",
@@ -1749,48 +1726,48 @@
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 123,
-        "delta": 33
+        "count": 117,
+        "delta": 20
       },
       {
         "name": "离子筛分",
-        "count": 93,
-        "delta": -10
+        "count": 92,
+        "delta": -5
       },
       {
         "name": "纳滤",
-        "count": 71,
-        "delta": -2
+        "count": 77,
+        "delta": 5
       },
       {
         "name": "COF/MOF膜",
-        "count": 45,
-        "delta": 34
+        "count": 47,
+        "delta": 37
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 41,
-        "delta": 1
+        "count": 43,
+        "delta": 3
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 20,
-        "delta": -11
+        "count": 22,
+        "delta": -4
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 16,
+        "count": 17,
         "delta": 15
       },
       {
         "name": "二维层状膜",
-        "count": 7,
-        "delta": -4
+        "count": 9,
+        "delta": 1
       },
       {
         "name": "硫属二维材料",
-        "count": 2,
-        "delta": -4
+        "count": 3,
+        "delta": -2
       }
     ],
     "journals": [
@@ -1801,8 +1778,8 @@
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 66,
-        "delta": 66
+        "count": 64,
+        "delta": 64
       },
       {
         "name": "Journal of Environmental Chemical Engineering",
@@ -1811,8 +1788,13 @@
       },
       {
         "name": "Journal of Water Process Engineering",
-        "count": 51,
-        "delta": 51
+        "count": 50,
+        "delta": 50
+      },
+      {
+        "name": "Small",
+        "count": 34,
+        "delta": 34
       },
       {
         "name": "Membranes",
@@ -1820,17 +1802,12 @@
         "delta": 33
       },
       {
-        "name": "Desalination and Water Treatment",
+        "name": "Desalination",
         "count": 33,
         "delta": 33
       },
       {
-        "name": "Desalination",
-        "count": 32,
-        "delta": 32
-      },
-      {
-        "name": "Small",
+        "name": "Desalination and Water Treatment",
         "count": 31,
         "delta": 31
       },
@@ -1845,14 +1822,14 @@
         "delta": 30
       },
       {
-        "name": "Chemical Engineering Journal",
+        "name": "Nature Communications",
         "count": 28,
         "delta": 28
       },
       {
-        "name": "Nature Communications",
-        "count": 27,
-        "delta": 27
+        "name": "Chemical Engineering Journal",
+        "count": 28,
+        "delta": 28
       }
     ],
     "authors": [
@@ -1917,17 +1894,17 @@
         "delta": 16
       },
       {
-        "name": "Michael Abraham Beke",
-        "count": 15,
-        "delta": 15
-      },
-      {
         "name": "Shu-Hsien Huang",
         "count": 14,
         "delta": 14
       },
       {
         "name": "Son Minh Te",
+        "count": 14,
+        "delta": 14
+      },
+      {
+        "name": "Xing Zheng",
         "count": 14,
         "delta": 14
       }
@@ -1945,16 +1922,16 @@
       },
       {
         "name": "Tsinghua University",
-        "count": 26,
-        "delta": 26
-      },
-      {
-        "name": "State Key Laboratory of Advanced Separation Membrane Materials",
-        "count": 21,
-        "delta": 21
+        "count": 25,
+        "delta": 25
       },
       {
         "name": "Zhejiang University",
+        "count": 23,
+        "delta": 23
+      },
+      {
+        "name": "State Key Laboratory of Advanced Separation Membrane Materials",
         "count": 21,
         "delta": 21
       },
@@ -1974,19 +1951,14 @@
         "delta": 15
       },
       {
-        "name": "University of Chinese Academy of Sciences",
-        "count": 14,
-        "delta": 14
-      },
-      {
         "name": "Beijing Normal University, Zhuhai",
         "count": 14,
         "delta": 14
       },
       {
-        "name": "Tsinghua University , , ,",
-        "count": 12,
-        "delta": 12
+        "name": "University of Chinese Academy of Sciences",
+        "count": 13,
+        "delta": 13
       },
       {
         "name": "Zhejiang University of Technology , , ,",
@@ -2005,6 +1977,11 @@
       },
       {
         "name": "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
+        "count": 12,
+        "delta": 12
+      },
+      {
+        "name": "Center for Advanced Materials Research Advanced Institute of Natural Sciences Beijing Normal University Zhuhai China",
         "count": 12,
         "delta": 12
       }
