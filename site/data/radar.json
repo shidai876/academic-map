@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-10-28T01:21:06.034524+00:00",
-  "updated_at_local": "2026-10-28 09:20 (UTC+8)",
+  "updated_at": "2026-10-29T01:48:04.860164+00:00",
+  "updated_at_local": "2026-10-29 09:47 (UTC+8)",
   "stats": {
-    "fetched": 1244,
-    "related": 39,
-    "recommended": 18,
+    "fetched": 1236,
+    "related": 41,
+    "recommended": 19,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -15,9 +15,9 @@
   },
   "works": [
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223944929",
+      "openalex_url": "https://openalex.org/W7223944929",
       "doi": "10.1002/wer.70637",
       "title": "Tailored Graphene Oxide Incorporated PES/CA Mixed‐Matrix Loose Nanofiltration Membranes for Water Softening and Divalent Salt Removal",
       "publication_date": "2026-10-26",
@@ -30,10 +30,17 @@
         "Bilal Haider",
         "Muhammad Yasir",
         "Kashif Mairaj Deen",
+        "Nasir Mahmood Ahmad",
         "Nasir M. Ahmad"
       ],
       "first_author": "Mehwish Batool",
       "institutions": [
+        "University of the Punjab",
+        "COMSATS University Islamabad, Lahore Campus",
+        "Islamic University of Madinah",
+        "Tomas Bata University in Zlín",
+        "University of British Columbia",
+        "National University of Technology",
         "Department of Chemical Engineering COMSATS University Islamabad, Lahore Campus Lahore Pakistan",
         "Institute of Chemical Engineering and Technology University of the Punjab Lahore Pakistan",
         "Department of Chemical Engineering, Faculty of Engineering Islamic University of Madinah Madinah Saudi Arabia",
@@ -62,7 +69,7 @@
         "75%",
         "59%"
       ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Department of Chemical Engineering COMSATS University Islamabad, Lahore Campus Lahore Pakistan、Institute of Chemical Engineering and Technology University of the Punjab Lahore Pakistan；摘要首句：ABSTRACT Achieving a simultaneous enhancement of permeability and selectivity remains a central challenge in nanofiltration membrane design.。",
+      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：University of the Punjab、COMSATS University Islamabad, Lahore Campus；摘要首句：ABSTRACT Achieving a simultaneous enhancement of permeability and selectivity remains a central challenge in nanofiltration membrane design.。",
       "id": "doi:10.1002/wer.70637"
     },
     {
@@ -92,9 +99,7 @@
       "first_author": "Kaiqiang Cao",
       "institutions": [
         "Zhejiang University",
-        "Shaoxing University",
         "National Research Centre",
-        "National Water Research Center",
         "ERC of Membrane and Water Treatment (MOE), China-Portugal Belt and Road Joint Laboratory on Advanced Materials, Department of Polymer Science and Engineering, Zhejiang University, Hangzhou 310058, China",
         "Hangzhou Super Elements Co., Ltd., Hangzhou 310018, China",
         "Center for Healthcare Materials, Life Health Research Center, Shaoxing Institute, Zhejiang University, Shaoxing 312099, China",
@@ -119,7 +124,7 @@
         "95.1%",
         "91.0%"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；团队：Zhejiang University、Shaoxing University；摘要首句：Nanofiltration (NF) technology has emerged as a promising water treatment technology owing to its low energy consumption and high water flux.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳滤；团队：Zhejiang University、National Research Centre；摘要首句：Nanofiltration (NF) technology has emerged as a promising water treatment technology owing to its low energy consumption and high water flux.。",
       "id": "doi:10.3390/membranes16110356"
     },
     {
@@ -162,95 +167,44 @@
       "id": "doi:10.1016/j.desal.2026.120980"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7223183206",
-      "openalex_url": "https://openalex.org/W7223183206",
-      "doi": "10.1021/acs.nanolett.6c04374",
-      "title": "Mica–Polyethylenimine Membranes for High-Efficiency pH-Responsive Nanofiltration Enabled by a Strongly Coupled Charge Flip",
-      "publication_date": "2026-10-22",
-      "journal": "Nano Letters",
-      "authors": [
-        "Mingbo Xie",
-        "Huacun Li",
-        "Yeqiu Zhao",
-        "Jingjing Deng",
-        "Jinkang Liu",
-        "Yan Xu",
-        "Qingwei Wang",
-        "Meiqing Shi",
-        "Liyuan Chai",
-        "Gao‐Feng Han",
-        "LiYuan Zhang",
-        "Jong‐Beom Baek",
-        "Xu Yan",
-        "Gao-Feng Han",
-        "Liyuan Zhang",
-        "Jong-Beom Baek"
-      ],
-      "first_author": "Mingbo Xie",
-      "institutions": [
-        "Central South University",
-        "Chinese National Engineering Research Center for Control and Treatment of Heavy Metal Pollution",
-        "Jilin University",
-        "Ulsan National Institute of Science and Technology",
-        "Central South University , , ,",
-        "Chinese National Engineering Research Center for Control & Treatment of Heavy Metal Pollution , ,",
-        "State Key Laboratory of Advanced Metallurgy for Non-ferrous Metals , ,",
-        "Jilin University , , ,",
-        "Jiangxi Guishang New Materials Technology Company, Limited ,",
-        "Ulsan National Institute of Science and Technology (UNIST) , , ,"
-      ],
-      "abstract": "Abstract The pH-responsive two-dimensional nanofiltration membranes enable tunable separation, yet existing membranes suffer from weak charge gating. Herein, we prepared a mica–polyethylenimine membrane using a “coupled charge flip” strategy. The membrane exhibits a strong charge flip (zeta potential from +46.1 to −36.4 mV) across pH 2–12, originating from the synergy between polyethylenimine (zeta potential from +35.2 to +2.5 mV) and mica (zeta potential from −3.1 to −55.7 mV), yielding a charge-flip amplitude (82.5 mV) 41% greater than that of the best performing bipolar pH-responsive membranes. This enables superior pH-dependent molecular gating (e.g., methyl orange) with rejection ranging from 96.98 to 5.03% (pH 2–12) and a gating ratio of 19.28, which is 1.76 times that of the best reported pH-responsive membranes, while maintaining a water permeance of 155 L m–2 h–1 bar–1 and stable cycling over eight pH switches. This work provides a new framework for designing pH-responsive nanofiltration membranes with high gating ratios.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "permeance",
-        "rejection"
-      ],
-      "score": 79,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "41%",
-        "5.03%",
-        "155 L m–2 h–1 bar–1"
-      ],
-      "brief": "定位：核心膜分离；主题：纳滤；团队：Central South University、Chinese National Engineering Research Center for Control and Treatment of Heavy Metal Pollution；摘要首句：Abstract The pH-responsive two-dimensional nanofiltration membranes enable tunable separation, yet existing membranes suffer from weak charge gating.。",
-      "id": "doi:10.1021/acs.nanolett.6c04374"
-    },
-    {
       "source_db": "OpenAlex",
-      "openalex_id": "W7223445685",
-      "openalex_url": "https://openalex.org/W7223445685",
-      "doi": "10.32441/kjps.10.02.p22",
-      "title": "Heavy Metal Contamination in Drinking Water Sources of Kirkuk, Iraq: A Systematic Assessment of Published Data and Evaluation of Treatment Technologies",
-      "publication_date": "2026-10-22",
-      "journal": "Al-Kitab Journal for Pure Sciences",
+      "openalex_id": "W7223699158",
+      "openalex_url": "https://openalex.org/W7223699158",
+      "doi": "10.1016/j.memsci.2026.126343",
+      "title": "Macrocyclic-amine-based high-permeance antifouling polyamide nanofiltration membranes via synergistic interface engineering",
+      "publication_date": "2026-10-26",
+      "journal": "Journal of Membrane Science",
       "authors": [
-        "Noor Nabeel",
-        "Hayder M. Jasim"
+        "Weihong Huo",
+        "Liangjun Yue",
+        "Hao Guo",
+        "Hao Wang",
+        "Deqing Shi",
+        "Xinliang Liu",
+        "Wenbo Wang",
+        "Yingfei Hou"
       ],
-      "first_author": "Noor Nabeel",
-      "institutions": [],
-      "abstract": "This review systematically discussed the heavy metal contamination in drinking water sources in Kirkuk Governorate and similar areas of Iraq based on published data for the period 2010-2026. The concentrations of cadmium (Cd), lead (Pb), chromium (Cr), nickel (Ni), zinc (Zn) and copper (Cu) were collected from peer reviewed studies on water treatment plants, groundwater wells and industrial wastewater. The results showed that the treatment plants in Kirkuk municipality (Kiwan and Al-Dibs) are efficient in reducing heavy metals below the detection limits, while the industrial wastewater and shallow groundwater in the surrounding areas are highly contaminated. The cadmium and lead concentrations in Kirkuk industrial zones were 100 to 300 times higher than Iraqi Standard 417/2011 and WHO guidelines. Health risk indices (HPI > 100) classify several sources as critically polluted. This review explores the conventional and emerging treatment technologies including reverse osmosis, nanofiltration, ion exchange, chemical precipitation and low-cost adsorption for their suitability in the Iraqi context. Removal efficiencies of 85 to 99% were obtained by low-cost adsorbents such as activated carbon and clay minerals, which are recommended for decentralized rural systems, while membrane technologies (RO/NF) are optimal for urban treatment plants. The results suggest the need for continuous monitoring, tight control of industrial effluents and use of appropriate treatment technologies to protect the health of the peoples of Kirkuk.",
+      "first_author": "Weihong Huo",
+      "institutions": [
+        "China University of Petroleum, East China",
+        "State Key Laboratory of Heavy Oil",
+        "Weichai Power (China)"
+      ],
+      "abstract": "",
       "cited_by_count": 0,
       "topics": [
         "纳滤",
-        "脱盐/水处理"
+        "聚酰胺/TFC"
       ],
       "keyword_hits": [
         "nanofiltration",
-        "reverse osmosis"
+        "permeance"
       ],
-      "score": 77,
+      "score": 84,
       "relevance_class": "核心膜分离",
-      "key_numbers": [
-        "99%"
-      ],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；摘要首句：This review systematically discussed the heavy metal contamination in drinking water sources in Kirkuk Governorate and similar areas of Iraq based on published data for the period 2010-2026.。",
-      "id": "doi:10.32441/kjps.10.02.p22"
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：纳滤 / 聚酰胺/TFC；团队：China University of Petroleum, East China、State Key Laboratory of Heavy Oil；题名线索：Macrocyclic-amine-based high-permeance antifouling polyamide nanofiltration membranes via synergistic interface engineering。",
+      "id": "doi:10.1016/j.memsci.2026.126343"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -328,9 +282,9 @@
       "id": "doi:10.1088/1402-4896/aeb8d8"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223942889",
+      "openalex_url": "https://openalex.org/W7223942889",
       "doi": "10.1002/advs.78437",
       "title": "Methanol‐Regulated Interfacial Polymerization of Fluorinated Polyamide Membranes Enables Rapid Liquid Hydrocarbon Separation",
       "publication_date": "2026-10-27",
@@ -349,6 +303,7 @@
       ],
       "first_author": "Xingxiang Li",
       "institutions": [
+        "Harbin Institute of Technology",
         "State Key Laboratory of Urban‐rural Water Resources and Environment School of Environment Harbin Institute of Technology Harbin People's Republic of China"
       ],
       "abstract": "ABSTRACT Interfacially polymerized polyamide membranes have revolutionized industrial desalination, yet their intrinsically polar networks are poorly suited for molecular separations in nonpolar liquid hydrocarbons. Herein, classical polyamide chemistry is extended to hydrocarbon separations through the incorporation of a hydrophobic trifluoromethyl‐substituted diamine. Methanol was introduced as a cosolvent to overcome the limited aqueous solubility of the fluorinated monomer while regulating interfacial polymerization. Systematic investigation revealed how methanol‐mediated interfacial reaction kinetics and fluorination collectively govern polyamide network formation and membrane structure. The resulting fluorinated polyamide membrane exhibited a 12‐fold increase in toluene permeance and a 51‐fold enhancement in toluene/1,3,5‐triisopropylbenzene (TIPB) separation factor relative to conventional polyamide membranes. The membrane maintained 96%–98% TIPB rejection while sustaining a high average toluene permeance of 0.17 L m − 2 h − 1 bar − 1 during 21 days of continuous operation. Beyond model solute systems, the membrane demonstrated effective molecular discrimination in application‐relevant hydrocarbon mixtures, enabling the fractionation of representative Fischer–Tropsch liquids, rapid enrichment of linear α‐olefins, and efficient separation of light linear/branched alkanes as well as near‐boiling hydrocarbon mixtures. This work establishes fluorinated polyamide membranes as a versatile platform for nonpolar liquid hydrocarbon separations and expands the scope of the highly scalable interfacial polymerization technology beyond aqueous applications.",
@@ -373,13 +328,13 @@
         "1 bar",
         "21 days"
       ],
-      "brief": "定位：核心膜分离；主题：聚酰胺/TFC / 脱盐/水处理；团队：State Key Laboratory of Urban‐rural Water Resources and Environment School of Environment Harbin Institute of Technology Harbin People's Republic of China；摘要首句：ABSTRACT Interfacially polymerized polyamide membranes have revolutionized industrial desalination, yet their intrinsically polar networks are poorly suited for molecular separations in nonpolar liquid hydrocarbons.。",
+      "brief": "定位：核心膜分离；主题：聚酰胺/TFC / 脱盐/水处理；团队：Harbin Institute of Technology、State Key Laboratory of Urban‐rural Water Resources and Environment School of Environment Harbin Institute of Technology Harbin People's Republic of China；摘要首句：ABSTRACT Interfacially polymerized polyamide membranes have revolutionized industrial desalination, yet their intrinsically polar networks are poorly suited for molecular separations in nonpolar liquid hydrocarbons.。",
       "id": "doi:10.1002/advs.78437"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223898756",
+      "openalex_url": "https://openalex.org/W7223898756",
       "doi": "10.1002/adfm.79301",
       "title": "Morphology‐Engineered ZIF Nanosheet Membranes With 4‐Membered‐Ring Apertures for Propylene/Propane Separation",
       "publication_date": "2026-10-26",
@@ -399,6 +354,10 @@
       ],
       "first_author": "Luogang Wu",
       "institutions": [
+        "Nanjing Tech University",
+        "Beijing University of Technology",
+        "State Key Laboratory of Materials-Oriented Chemical Engineering",
+        "Shanghai Institute of Microsystem and Information Technology",
         "State Key Laboratory of Materials‐Oriented Chemical Engineering, College of Chemical Engineering Nanjing Tech University Nanjing People's Republic of China",
         "College of Materials Science &amp; Engineering Beijing University of Technology Beijing People's Republic of China",
         "School of Materials Science and Engineering Xiʹan University of Science and Technology Xiʹan People's Republic of China",
@@ -422,7 +381,7 @@
         "3 H",
         "274%"
       ],
-      "brief": "定位：核心膜分离；主题：二维层状膜；团队：State Key Laboratory of Materials‐Oriented Chemical Engineering, College of Chemical Engineering Nanjing Tech University Nanjing People's Republic of China、College of Materials Science &amp; Engineering Beijing University of Technology Beijing People's Republic of China；摘要首句：ABSTRACT Precise hydrocarbon separations remain a major challenge for membrane technologies because molecular discrimination is often limited by poor control over pore accessibility and transport pathways in conventional mixed‐…。",
+      "brief": "定位：核心膜分离；主题：二维层状膜；团队：Nanjing Tech University、Beijing University of Technology；摘要首句：ABSTRACT Precise hydrocarbon separations remain a major challenge for membrane technologies because molecular discrimination is often limited by poor control over pore accessibility and transport pathways in conventional mixed‐…。",
       "id": "doi:10.1002/adfm.79301"
     },
     {
@@ -514,9 +473,9 @@
       "id": "doi:10.1016/j.memsci.2026.126326"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223937695",
+      "openalex_url": "https://openalex.org/W7223937695",
       "doi": "10.1002/adfm.79344",
       "title": "Crown‐Ether‐Based Covalent Organic Network Membranes for Hydration‐Governed Li <sup>+</sup> /Mg <sup>2+</sup> Separation",
       "publication_date": "2026-10-26",
@@ -528,12 +487,14 @@
         "Rui Xie",
         "Xiao‐Jie Ju",
         "Wei Wang",
-        "Da‐Wei Pan",
+        "Dawei Pan",
         "Zhuang Liu",
-        "Liang‐Yin Chu"
+        "Liang‐Yin Chu",
+        "Da‐Wei Pan"
       ],
       "first_author": "Yi‐Fan Mao",
       "institutions": [
+        "Sichuan University",
         "School of Chemical Engineering Sichuan University Chengdu Sichuan China",
         "National Key Laboratory of Advanced Polymer Materials Sichuan University Chengdu Sichuan China"
       ],
@@ -552,13 +513,13 @@
         "3 nm",
         "0.9 nm"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：School of Chemical Engineering Sichuan University Chengdu Sichuan China、National Key Laboratory of Advanced Polymer Materials Sichuan University Chengdu Sichuan China；摘要首句：ABSTRACT Selective Li + /Mg 2+ separation remains a central challenge for sustainable lithium extraction because ion transport in confined aqueous environments is governed by coupled steric and hydration effects rather than ion…。",
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Sichuan University、School of Chemical Engineering Sichuan University Chengdu Sichuan China；摘要首句：ABSTRACT Selective Li + /Mg 2+ separation remains a central challenge for sustainable lithium extraction because ion transport in confined aqueous environments is governed by coupled steric and hydration effects rather than ion…。",
       "id": "doi:10.1002/adfm.79344"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7224010845",
+      "openalex_url": "https://openalex.org/W7224010845",
       "doi": "10.1002/anie.5441857",
       "title": "Coupling Ligand Tuning With Polymer‐Induced Aperture Regulation for Molecular Sieving in Flexible MOFs",
       "publication_date": "2026-10-27",
@@ -566,15 +527,19 @@
       "authors": [
         "Jun Hyoung Lee",
         "Ju Yeon Won",
-        "Amro M. O. Mohamed",
+        "Amro M.O. Mohamed",
         "Tae‐Wan Kim",
         "Na Hyeon Lee",
         "Kiwon Eum",
         "Jong Suk Lee",
-        "Yun‐Ho Ahn"
+        "Yun‐Ho Ahn",
+        "Amro M. O. Mohamed"
       ],
       "first_author": "Jun Hyoung Lee",
       "institutions": [
+        "Soongsil University",
+        "Sogang University",
+        "Heriot-Watt University",
         "Department of Chemical Engineering Soongsil University Seoul Republic of Korea",
         "School of Engineering and Physical Sciences Heriot‐Watt University Edinburgh UK",
         "Department of Chemical and Biomolecular Engineering Sogang University Seoul Republic of Korea"
@@ -595,7 +560,7 @@
         "1 H",
         "261.7 Bar"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：Department of Chemical Engineering Soongsil University Seoul Republic of Korea、School of Engineering and Physical Sciences Heriot‐Watt University Edinburgh UK；摘要首句：ABSTRACT Framework flexibility fundamentally limits molecular sieving in many metal–organic frameworks (MOFs) by enlarging their effective pore apertures beyond crystallographic constraints.。",
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Soongsil University、Sogang University；摘要首句：ABSTRACT Framework flexibility fundamentally limits molecular sieving in many metal–organic frameworks (MOFs) by enlarging their effective pore apertures beyond crystallographic constraints.。",
       "id": "doi:10.1002/anie.5441857"
     },
     {
@@ -683,23 +648,30 @@
       "id": "doi:10.1038/s41467-026-78819-9"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223655371",
+      "openalex_url": "https://openalex.org/W7223655371",
       "doi": "10.1002/cjce.70603",
       "title": "Low‐cost hydrophobic geopolymer membrane for water desalination through direct contact membrane distillation",
       "publication_date": "2026-10-26",
       "journal": "The Canadian Journal of Chemical Engineering",
       "authors": [
-        "Naeem Ahmad",
-        "Kashif Khan",
+        "Nur Afiqah Ahmad",
+        "Kashif Ali Khan",
         "Muhammad Irfan",
         "Noor Ul Amin",
         "Heqing Jiang",
-        "Saeed Gul"
+        "Saeed Gul",
+        "Naeem Ahmad",
+        "Kashif Khan"
       ],
-      "first_author": "Naeem Ahmad",
+      "first_author": "Nur Afiqah Ahmad",
       "institutions": [
+        "University of Engineering and Technology Peshawar",
+        "Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology",
+        "Abdul Wali Khan University Mardan",
+        "Chinese Academy of Sciences",
+        "Qingdao Institute of Bioenergy and Bioprocess Technology",
         "Department of Chemical Engineering University of Engineering &amp; Technology Peshawar Peshawar Pakistan",
         "Department of Chemical and Energy Engineering Pak‐Austria Fachhochschule: Institute of Applied Sciences and Technology Haripur Pakistan",
         "Department of Chemistry Abdul Wali Khan University Mardan Pakistan",
@@ -721,13 +693,130 @@
         "0.1339 μm",
         "97.4 ± 0.7%"
       ],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Department of Chemical Engineering University of Engineering &amp; Technology Peshawar Peshawar Pakistan、Department of Chemical and Energy Engineering Pak‐Austria Fachhochschule: Institute of Applied Sciences and Technology Haripur Pakistan；摘要首句：Abstract This research introduces environmentally friendly, sintering‐free, and cost‐effective hydrophobic geopolymer membranes developed through two distinct raw material routes, metakaolin (MK) and fly ash (FA), for water des…。",
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：University of Engineering and Technology Peshawar、Pak-Austria Fachhochschule: Institute of Applied Sciences and Technology；摘要首句：Abstract This research introduces environmentally friendly, sintering‐free, and cost‐effective hydrophobic geopolymer membranes developed through two distinct raw material routes, metakaolin (MK) and fly ash (FA), for water des…。",
       "id": "doi:10.1002/cjce.70603"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223417130",
+      "openalex_url": "https://openalex.org/W7223417130",
+      "doi": "10.1016/j.clwat.2026.100335",
+      "title": "Energy-efficient reverse osmosis desalination through GA-PSO motor control and hydraulic energy recovery",
+      "publication_date": "2026-10-23",
+      "journal": "Cleaner Water",
+      "authors": [
+        "Achraf El Allaoui",
+        "Hicham Loumissi",
+        "Ilham Idrissi Jouicha",
+        "Wafaa Dachry",
+        "Hassan Gziri",
+        "Loubna El Ansari",
+        "Hicham Medromi"
+      ],
+      "first_author": "Achraf El Allaoui",
+      "institutions": [
+        "Université Hassan 1er",
+        "University of Hassan II Casablanca"
+      ],
+      "abstract": "Improving the energy performance of seawater reverse osmosis (SWRO) requires coordinated consideration of the electric drive, hydraulic subsystem, membrane transport, and energy recovery. This study develops a numerical framework integrating a field-oriented-controlled permanent-magnet synchronous motor (PMSM), a high-pressure pump, hybrid genetic algorithm-particle swarm optimization (GA-PSO), and a solution-diffusion reverse osmosis model applied to nine commercial thin-film composite membranes. GA-PSO optimizes six proportional-integral controller gains using a multi-criterion objective comprising transient stator copper-loss energy, mechanical-speed tracking error, and speed overshoot; SWRO specific energy consumption (SEC) is not included in this optimization objective. Relative to an untuned midpoint-gain baseline, the optimized controller reduced transient stator copper-loss energy from 303.334 to 42.602 J (85.96%) and improved speed-transient performance under the simulated conditions. This reduction is specific to short-duration motor copper losses and does not establish a corresponding reduction in plant-level SEC. Eight independent optimization runs yielded a 2.71% coefficient of variation in the final normalized objective value. Comparisons with original equipment manufacturer design-tool calculations showed mean absolute percentage differences of 64.4% in net driving pressure, 30.0% in permeate flow, and 46.9% in SEC, highlighting substantial model discrepancies rather than experimental validation. At the reference ERD efficiency of 55%, the modeled membrane-specific SEC decreased by 24.9-30.5% across the nine commercial membranes, while increasing ERD efficiency to 85% yielded predicted SEC reductions of 38.4-47.1%. These improvements are attributable to hydraulic energy recovery rather than GA-PSO controller tuning. The findings distinguish drive-level transient improvements from membrane- and energy-recovery-related effects and identify the need for validated, dynamically coupled system-level energy assessment.",
+      "cited_by_count": 0,
+      "topics": [
+        "聚酰胺/TFC",
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis",
+        "thin-film composite",
+        "desalination"
+      ],
+      "score": 58,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [
+        "85.96%",
+        "2.71%",
+        "64.4%",
+        "30.0%",
+        "46.9%",
+        "55%",
+        "24.9-30.5%",
+        "85%"
+      ],
+      "brief": "定位：核心膜分离；主题：聚酰胺/TFC / 脱盐/水处理；团队：Université Hassan 1er、University of Hassan II Casablanca；摘要首句：Improving the energy performance of seawater reverse osmosis (SWRO) requires coordinated consideration of the electric drive, hydraulic subsystem, membrane transport, and energy recovery.。",
+      "id": "doi:10.1016/j.clwat.2026.100335"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223577343",
+      "openalex_url": "https://openalex.org/W7223577343",
+      "doi": "10.1016/j.memsci.2026.126332",
+      "title": "Bioinspired adaptive ion nanochannels for selective lithium recovery from highly acidic battery leachates",
+      "publication_date": "2026-10-25",
+      "journal": "Journal of Membrane Science",
+      "authors": [
+        "Jianyu Wang",
+        "Liuyuan Zhu",
+        "Jingzhang Cai",
+        "Yu Qiang",
+        "刘富池",
+        "Qin Shen",
+        "Shuai Wang"
+      ],
+      "first_author": "Jianyu Wang",
+      "institutions": [
+        "Zhejiang University",
+        "East China University of Science and Technology",
+        "Guangxi Normal University",
+        "Zhengzhou University"
+      ],
+      "abstract": "",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分",
+        "纳米通道/限域传输"
+      ],
+      "keyword_hits": [
+        "nanochannel"
+      ],
+      "score": 56,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Zhejiang University、East China University of Science and Technology；题名线索：Bioinspired adaptive ion nanochannels for selective lithium recovery from highly acidic battery leachates。",
+      "id": "doi:10.1016/j.memsci.2026.126332"
     },
     {
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.3390/membranes16110362",
+      "title": "Reconsideration of Gel Polarization Model Based on Solubility-Based Flux Model for RO and UF Membrane Fouling",
+      "publication_date": "2026-10-28",
+      "journal": "Membranes",
+      "authors": [
+        "Fumio Yokoyama",
+        "Mitsutoshi Nakajima"
+      ],
+      "first_author": "Fumio Yokoyama",
+      "institutions": [
+        "Alliance for Research on the Mediterranean and North Africa, University of Tsukuba, Ibaraki 305-8572, Japan"
+      ],
+      "abstract": "In reverse osmosis (RO) and ultrafiltration (UF) membrane filtration of soluble substances, concentration polarization can raise the solute concentration at the membrane surface above its saturated solubility, triggering precipitation until local equilibrium is reached. This surface precipitation reduces the permeate flux. We propose a solubility-based flux model demonstrating that, irrespective of whether the foulant is inorganic or organic, and regardless of the fouling pathway or the concentration profile within the fouling layer, the permeate flux converges to a constant value—the solubility-based critical flux—once the solute concentration at the fouling-layer surface reaches the saturated solubility. Application of the model to experimental data confirms its validity. Furthermore, the solubility-based flux model clarifies that the gelation concentration obtained from the classical gel polarization model corresponds physically to the saturated solubility of the solute in the bulk feed. This finding provides a practical guideline for membrane system design and optimal operation, including estimation of the maximum achievable water recovery.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "reverse osmosis"
+      ],
+      "score": 51,
+      "relevance_class": "核心膜分离",
+      "key_numbers": [],
+      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：Alliance for Research on the Mediterranean and North Africa, University of Tsukuba, Ibaraki 305-8572, Japan；摘要首句：In reverse osmosis (RO) and ultrafiltration (UF) membrane filtration of soluble substances, concentration polarization can raise the solute concentration at the membrane surface above its saturated solubility, triggering precip…。",
+      "id": "doi:10.3390/membranes16110362"
+    },
+    {
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223925961",
+      "openalex_url": "https://openalex.org/W7223925961",
       "doi": "10.1002/ange.5441857",
       "title": "Coupling Ligand Tuning With Polymer‐Induced Aperture Regulation for Molecular Sieving in Flexible MOFs",
       "publication_date": "2026-10-27",
@@ -735,15 +824,19 @@
       "authors": [
         "Jun Hyoung Lee",
         "Ju Yeon Won",
-        "Amro M. O. Mohamed",
+        "Amro M.O. Mohamed",
         "Tae‐Wan Kim",
         "Na Hyeon Lee",
         "Kiwon Eum",
         "Jong Suk Lee",
-        "Yun‐Ho Ahn"
+        "Yun‐Ho Ahn",
+        "Amro M. O. Mohamed"
       ],
       "first_author": "Jun Hyoung Lee",
       "institutions": [
+        "Soongsil University",
+        "Sogang University",
+        "Heriot-Watt University",
         "Department of Chemical Engineering Soongsil University Seoul Republic of Korea",
         "School of Engineering and Physical Sciences Heriot‐Watt University Edinburgh UK",
         "Department of Chemical and Biomolecular Engineering Sogang University Seoul Republic of Korea"
@@ -764,52 +857,13 @@
         "1 H",
         "261.7 Bar"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分；团队：Department of Chemical Engineering Soongsil University Seoul Republic of Korea、School of Engineering and Physical Sciences Heriot‐Watt University Edinburgh UK；摘要首句：ABSTRACT Framework flexibility fundamentally limits molecular sieving in many metal–organic frameworks (MOFs) by enlarging their effective pore apertures beyond crystallographic constraints.。",
+      "brief": "定位：核心膜分离；主题：离子筛分；团队：Soongsil University、Sogang University；摘要首句：ABSTRACT Framework flexibility fundamentally limits molecular sieving in many metal–organic frameworks (MOFs) by enlarging their effective pore apertures beyond crystallographic constraints.。",
       "id": "doi:10.1002/ange.5441857"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1063/5.0283231",
-      "title": "Analysis of rotor dynamic characteristics in turbine-type energy recovery devices for seawater desalination",
-      "publication_date": "2026-10-22",
-      "journal": "International Journal of Fluid Engineering",
-      "authors": [
-        "Shenghui Wang",
-        "Chengpeng Wang",
-        "Yexiang Xiao",
-        "Xianwu Luo",
-        "Qingfen Ma",
-        "Xiang Sun"
-      ],
-      "first_author": "Shenghui Wang",
-      "institutions": [
-        "The Institute of Seawater Desalination and Multipurpose Utilization, MNR 1 , Tianjin 300192,",
-        "Department of Energy and Power Engineering and State Key Laboratory of Hydroscience and Engineering, Tsinghua University 2 , Beijing 100084,",
-        "The Industrial Technology Research Center of Seawater Multipurpose Utilization 3 , Weihai 264200,",
-        "Key Laboratory of Seawater Desalination and Membrane Materials, Ministry of Natural Resources 4 , Tianjin 300192,",
-        "Mechanical and Electrical Engineering College, Hainan University 5 , Haikou 570228, Hainan,"
-      ],
-      "abstract": "As a critical energy-saving component in reverse osmosis desalination systems, turbine-type energy recovery devices require rigorous dynamic stability evaluation. To guarantee the safety and stability of these devices, this study employs free and constrained modal analyses of its rotor components using Ansys Workbench. The critical speeds, natural frequencies, and other pertinent parameters of the rotor under various rotational speeds and material properties are calculated. Additionally, the dynamic characteristics of rotors crafted from polyethylene, gray cast iron, stainless steel, structural steel, and 40Cr are examined. The findings reveal that the first six natural frequencies of the rotor in free mode are nearly zero, with the natural frequencies progressively increasing from the 7th to 12th modes, accompanied by varying degrees of deformation. Under constrained conditions, the modes of a turbine-type energy recovery device exhibit stability and are less susceptible to resonance. As the rotational speed varies, the natural frequencies of the modes gradually increase, with critical speeds emerging solely in the first three modes, specifically 93 336, 1.1786 × 105, and 1.3139 × 105 rpm, respectively. Furthermore, as the density and Young’s modulus of the rotor material increase, the first three critical speeds also exhibit a continuous upward trend. This research provides a foundational design basis for the structural stability of turbine-type energy recovery integrated machines.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "reverse osmosis",
-        "desalination"
-      ],
-      "score": 50,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：脱盐/水处理；团队：The Institute of Seawater Desalination and Multipurpose Utilization, MNR 1 , Tianjin 300192,、Department of Energy and Power Engineering and State Key Laboratory of Hydroscience and Engineering, Tsinghua University 2 , Beijing 100084,；摘要首句：As a critical energy-saving component in reverse osmosis desalination systems, turbine-type energy recovery devices require rigorous dynamic stability evaluation.。",
-      "id": "doi:10.1063/5.0283231"
-    },
-    {
       "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7223664409",
-      "openalex_url": "https://openalex.org/W7223664409",
+      "openalex_id": "W7165180369",
+      "openalex_url": "https://openalex.org/W7165180369",
       "doi": "10.1021/acsnano.6c12908",
       "title": "Ion Transport Enhancement in Charge-Regulating Hydrogels",
       "publication_date": "2026-10-26",
@@ -959,6 +1013,45 @@
     },
     {
       "source_db": "OpenAlex",
+      "openalex_id": "W7223954745",
+      "openalex_url": "https://openalex.org/W7223954745",
+      "doi": "10.1021/acsami.6c16769",
+      "title": "Surface-Localized Hydrogen Manganese Oxide Polyethersulfone Membranes for Selective Lithium Capture under Recirculating Flow",
+      "publication_date": "2026-10-27",
+      "journal": "ACS Applied Materials & Interfaces",
+      "authors": [
+        "Ignacio Manuel Argento Arruñada",
+        "R. Martı́n Negri",
+        "Michael Kappl"
+      ],
+      "first_author": "Ignacio Manuel Argento Arruñada",
+      "institutions": [
+        "Universidad de Buenos Aires",
+        "Max Planck Institute for Polymer Research"
+      ],
+      "abstract": "Abstract Selective lithium recovery from multication aqueous streams requires translating the high selectivity of lithium-ion-sieve powders into macroscopic materials without compromising the accessibility of their ion-exchange sites. Here, hydrogen manganese oxide (HMO) was localized at the surface of a commercial polyethersulfone (PES) membrane through an adhesive polydopamine (PDA) interlayer, providing direct access to the active phase while preserving the porous membrane architecture. Microscopy and surface analyses confirmed the formation of an HMO-rich interfacial layer, and the resulting PES–PDA–HMO membrane exhibited a Langmuir maximum uptake of 35.6 ± 0.7 mg Li g–1 HMO, corresponding to approximately 91% of the experimentally measured capacity of the free HMO powder (39.1 ± 0.2 mg g–1). Under closed-loop recirculating flow, Li+ uptake approached equilibrium within 6 h and was accompanied by proton release, while X-ray photoelectron spectroscopy directly confirmed Li incorporation into the HMO-containing surface. Lithium removal remained similar across recirculation flow rates of 10–150 mL min–1 under the closed-loop configuration, whereas increasing the HMO surface loading from 5.8 to 8.7 mg cm–2 increased Li+ removal from 68 ± 2 to 99 ± 3% at an initial concentration of 50 ppm. After five adsorption–regeneration cycles using lactic acid at pH 2.1, the membrane retained 90 and 85% of its initial removal performance at 25 and 250 ppm Li+, respectively, with no detectable Mn release. Importantly, selectivity was preserved under severe multication competition: in a solution containing 50 ppm Li+ and 250 ppm each of Co2+, Ni2+, and Mn2+, Li+ removal remained 65 ± 3%, whereas removal of the competing divalent ions remained near 1%. These results demonstrate that interfacial localization of HMO can preserve its ion-exchange functionality after macroscopic immobilization while enabling selective, regenerable lithium capture under dynamic aqueous conditions.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "selectivity"
+      ],
+      "score": 38,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "91%",
+        "6 h",
+        "99 ± 3%",
+        "85%",
+        "65 ± 3%",
+        "1%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Universidad de Buenos Aires、Max Planck Institute for Polymer Research；摘要首句：Abstract Selective lithium recovery from multication aqueous streams requires translating the high selectivity of lithium-ion-sieve powders into macroscopic materials without compromising the accessibility of their ion-exchange…。",
+      "id": "doi:10.1021/acsami.6c16769"
+    },
+    {
+      "source_db": "OpenAlex",
       "openalex_id": "W7223656077",
       "openalex_url": "https://openalex.org/W7223656077",
       "doi": "10.1002/aic.70735",
@@ -993,48 +1086,6 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Hunan University；摘要首句：Abstract Aqueous alkaline electrosynthesis enables production of formic acid (HCOOH) or formate (HCOO − ) using renewable electricity under mild conditions, but coexisting of alkaline electrolyte and organic product hinders dow…。",
       "id": "doi:10.1002/aic.70735"
-    },
-    {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7223223143",
-      "openalex_url": "https://openalex.org/W7223223143",
-      "doi": "10.1002/admi.70699",
-      "title": "A Self‐Cleaning Solar Evaporator Based on MXene/Aramid Nanofiber Aerogels for Efficient Water Desalination",
-      "publication_date": "2026-10-22",
-      "journal": "Advanced Materials Interfaces",
-      "authors": [
-        "Mandeep Singh",
-        "Si (Alex) Qin",
-        "Ken Aldren S. Usman",
-        "Yuxi Ma",
-        "Dan Liu",
-        "Weiwei Lei"
-      ],
-      "first_author": "Mandeep Singh",
-      "institutions": [
-        "Deakin University",
-        "Hong Kong Polytechnic University",
-        "RMIT University",
-        "Institute For Frontier Materials Deakin University Geelong Victoria Australia",
-        "Joint Research Centre for Fiber Innovations and Renewable Materials School of Fashion and Textiles The Hong Kong Polytechnic University Hong Kong, SAR China",
-        "School of Science RMIT University Melbourne Victoria Australia"
-      ],
-      "abstract": "ABSTRACT Due to its high energy conversion efficiency and broad accessibility to solar energy, interfacial solar steam generation presents a promising, and cost‐effective solution for desalination of saline water. However, salt accumulation on evaporator surfaces remains a major challenge, especially in the case of high‐salinity environments as the blockage it creates significantly hinders the efficiency as well as continuity of the evaporation process. Salt accumulation also significantly degrades the evaporator's surface over time, reducing its performance and efficiency. Researchers have explored various strategies, including surface modifications, hierarchical structural designs, and anti‐scaling coatings on evaporators. Despite promising results, achieving an optimal balance between maximum evaporation rates and energy efficiency remains a complex and ongoing challenge in this field of research. This study introduces tailor‐designed cylindrical MXene/aramid nanofiber aerogels as self‐cleaning solar evaporators that tolerate high salinity conditions and achieve evaporation rates of up to ∼2.26 kg m −2 h −1 at ∼80% efficiency. This self‐rotating photothermal evaporator exhibits periodic self‐regeneration rotation triggered by accumulated salt crystals to maintain its efficiency and performance. These findings represent a substantial advancement in solar thermal desalination technology for real‐world applications and provide a sustainable solution for efficient water purification, particularly in high‐salinity environments.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 38,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "2 h",
-        "80%"
-      ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Deakin University、Hong Kong Polytechnic University；摘要首句：ABSTRACT Due to its high energy conversion efficiency and broad accessibility to solar energy, interfacial solar steam generation presents a promising, and cost‐effective solution for desalination of saline water.。",
-      "id": "doi:10.1002/admi.70699"
     },
     {
       "source_db": "Crossref",
@@ -1075,6 +1126,74 @@
       "id": "doi:10.1021/acs.langmuir.5c06448"
     },
     {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1021/acs.iecr.6c01265",
+      "title": "Enhanced Conductivity, Electrochemical Performance, and Chemical Stability of Lithium-Ion Batteries Based on Electrospun Polyacrylonitrile Hybrid Membrane",
+      "publication_date": "2026-10-28",
+      "journal": "Industrial &amp; Engineering Chemistry Research",
+      "authors": [
+        "Yuhua Guo",
+        "Jiali Qiu",
+        "Weifu Sun"
+      ],
+      "first_author": "Yuhua Guo",
+      "institutions": [
+        "City University of Hong Kong , , ,",
+        "Beijing Institute of Technology , , ,"
+      ],
+      "abstract": "Abstract Replacing liquid electrolytes with solid ones is regarded as an essential strategy to mitigate safety concerns in lithium-ion batteries. However, the lower ionic conductivity of solid polymer electrolytes (SPEs) compared to conventional liquid electrolytes still hinders their practical application. In this work, we propose a composite polymer electrolyte (CPE) by incorporating a poly(ethylene oxide) (PEO) matrix with high-content lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) into an electrospun polyacrylonitrile (PAN)-based three-dimensional nanofiber framework. Active fillers of LLZTO nanoparticles and LiClO4 were further introduced into the PAN skeleton to construct additional ion-conducting pathways (designated as PLLP). This design of coembedding dual active fillers inside the electrospun nanofibers, rather than simply dispersing them in the PEO matrix, is distinct from conventional CPEs and provides continuous and fast-ion channels. The morphology and diameter distribution of electrospun fibers were optimized by varying PAN concentration. Consequently, the optimized PLLP composite electrolyte achieves a superior ionic conductivity of 1.12 × 10–4 S cm–1 at 30 °C, an electrochemical stability window up to 4.75 V, and a lithium-ion transference number of 0.53, which is substantially higher than those of conventional PEO-based electrolytes. Moreover, the LiFePO4/PLLP/Li solid-state battery delivers a high specific discharge capacity of 161 mAh g–1 at 60 °C at 0.5C after 95 cycles with a capacity retention of 96%, as well as excellent rate capability. These results demonstrate that the synergistic coupling of active fillers and a 3D electrospun framework provides an effective strategy for simultaneously enhancing ionic conductivity, electrochemical stability, and cycling performance in all-solid-state lithium batteries.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 31,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "96%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：City University of Hong Kong , , ,、Beijing Institute of Technology , , ,；摘要首句：Abstract Replacing liquid electrolytes with solid ones is regarded as an essential strategy to mitigate safety concerns in lithium-ion batteries.。",
+      "id": "doi:10.1021/acs.iecr.6c01265"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7223822855",
+      "openalex_url": "https://openalex.org/W7223822855",
+      "doi": "10.1002/adfm.79327",
+      "title": "Lattice‐Level Negative Thermal Expansion Enables Thermomechanical Self‐Compensation in High‐Rate Lithium Batteries",
+      "publication_date": "2026-10-26",
+      "journal": "Advanced Functional Materials",
+      "authors": [
+        "Yuhan Feng",
+        "Yaohui Dai",
+        "Chaozhong Liu",
+        "Lizhi Li",
+        "Zhenzhu Wang",
+        "Wenqiang Lu",
+        "X.C. Li",
+        "Bo Song"
+      ],
+      "first_author": "Yuhan Feng",
+      "institutions": [
+        "Harbin Institute of Technology"
+      ],
+      "abstract": "ABSTRACT Localized Joule heating in high‐rate lithium metal batteries often induces severe thermomechanical failure of polymer separators and accelerates thermal runaway in cells with Ni‐rich NCM cathode. Here we report a multiscale separator design strategy that translates lattice‐level negative thermal expansion into macroscopic thermomechanical self‐compensation. In this design, Cu 2 P 2 O 7 is coupled with the PVDF‐HFP matrix through a PDA mediated interface. Temperature‐dependent structural analysis and thermal‐response tests demonstrate the anisotropic lattice contraction of Cu 2 P 2 O 7 , which relieves the thermally induced deformation of PVDF‐HFP through PDA mediated interfacial interactions. The amine‐rich PDA layer further suppresses corrosive hydrofluoric acid during the cycling, improving interfacial durability. The resulting composite membrane maintains complete dimensional stability up to 200°C while preserving high ionic conductivity and a uniform Li + flux. As a result, Li||Li symmetric cells with the self‐compensating separator operate for more than 3000 h at 1 mA cm −2 . When paired with Ni‐rich NCM811 cathodes, full cells maintain 1000 stable cycles at 5 C and deliver 135 mAh g −1 at 60°C after 100 cycles. This work demonstrates a solid‐state negative thermal expansion strategy for active separator protection, providing a materials route for mitigating thermomechanical failure in high‐power lithium metal batteries.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [],
+      "score": 31,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "3000 h"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Harbin Institute of Technology；摘要首句：ABSTRACT Localized Joule heating in high‐rate lithium metal batteries often induces severe thermomechanical failure of polymer separators and accelerates thermal runaway in cells with Ni‐rich NCM cathode.。",
+      "id": "doi:10.1002/adfm.79327"
+    },
+    {
       "source_db": "OpenAlex + Crossref",
       "openalex_id": "W7223656446",
       "openalex_url": "https://openalex.org/W7223656446",
@@ -1103,7 +1222,6 @@
         "Brown University",
         "Anhui University of Science and Technology",
         "Al-Farabi Kazakh National University",
-        "Combustion Institute",
         "State Key Laboratory of Fire Science University of Science and Technology of China Hefei Anhui People's Republic of China",
         "Department of Chemistry Brown University Providence Rhode Island USA",
         "School of Engineering Science University of Science and Technology of China Hefei Anhui People's Republic of China",
@@ -1122,6 +1240,53 @@
       "key_numbers": [],
       "brief": "定位：膜领域相关；主题：离子筛分；团队：University of Science and Technology of China、State Key Laboratory of Fire Science；摘要首句：ABSTRACT Lithium metal batteries (LMBs) are regarded as the promising next‑generation high energy density storage, but their commercialization is hindered by uncontrolled Li dendrite growth and the persistent risk of thermal ru…。",
       "id": "doi:10.1002/adfm.79298"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.3390/en19215133",
+      "title": "Modeling and Experimental Validation of a Hybrid Thermal–Photovoltaic Multi-Stage Solar Desalination System",
+      "publication_date": "2026-10-28",
+      "journal": "Energies",
+      "authors": [
+        "Abderrafie El Amrani",
+        "Rachid Malek",
+        "Olivier Deblecker",
+        "Spiros Alexopoulos",
+        "Klemens Schwarzer",
+        "Hamid Chayeb",
+        "Khalil Kassmi",
+        "Najib Bachiri"
+      ],
+      "first_author": "Abderrafie El Amrani",
+      "institutions": [
+        "Faculty of Science, Department of Physics, Laboratory of Materials, Waves, Energy and Environment (LaMOn2E), Materials, Electronics and Renewable Energy (MEER) Team, Mohamed First University, Oujda 60000, Morocco",
+        "Faculty of Engineering-Electrical Power Engineering Unit, University of Mons, 7000 Mons, Belgium",
+        "Solar-Institut Jülich (SIJ), Fachhochschule Aachen (FHAachen), 52066 Aachen, Germany",
+        "Engineering Office of Energy and Environmental Technology (IBEU), 52428 Jülich, Germany",
+        "Association Humain and Environnement of Berkane (AHEB), Berkane 63300, Morocco"
+      ],
+      "abstract": "This study extends previous experimental investigations of a hybrid multi-stage solar desalination (MSD) system by developing and experimentally validating a detailed thermo-energetic model of the same installation. The system combines flat-plate thermal solar collectors with a photovoltaic (PV)-powered immersed electrical heater to supplement thermal energy during operation. A transient thermo-energetic model of the basin and eight distillation stages was developed, accounting for conduction, convection, radiation, and evaporation–condensation heat and mass transfer, and solved using the fourth-order Runge–Kutta (RK4) method in Python (version 3.12.11). The model was validated against experimental measurements collected over multiple campaigns and seasons using real brackish well water (TDS &gt; 3 g/L) at Douar El Hamri, eastern Morocco. Quantitative validation yielded mean absolute temperature errors of 2.41 °C in thermal-only operation and 2.42 °C in hybrid operation, with corresponding mean relative errors of 7.10% and 5.00%, respectively. Daily freshwater production reached 45 kg in thermal-only operation and 93 kg in hybrid operation, while the corresponding simulated values were 44.47 and 92.84 kg. The hybrid configuration also reduced the Specific Energy Consumption from 689.15 to 387.20 kWh·m−3 and increased the overall energy efficiency from 61.83% to 63.12% and the exergy efficiency from 8.69% to 10.86%. These results demonstrate that the developed model accurately reproduces the thermal behavior and freshwater production of the experimental system and provides a useful basis for performance assessment, system sizing, and future optimization of hybrid solar desalination systems for water-stressed regions.",
+      "cited_by_count": 0,
+      "topics": [
+        "脱盐/水处理"
+      ],
+      "keyword_hits": [
+        "desalination"
+      ],
+      "score": 30,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "7.10%",
+        "5.00%",
+        "61.83%",
+        "63.12%",
+        "8.69%",
+        "10.86%"
+      ],
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Faculty of Science, Department of Physics, Laboratory of Materials, Waves, Energy and Environment (LaMOn2E), Materials, Electronics and Renewable Energy (MEER) Team, Mohamed First University, Oujda 60000, Morocco、Faculty of Engineering-Electrical Power Engineering Unit, University of Mons, 7000 Mons, Belgium；摘要首句：This study extends previous experimental investigations of a hybrid multi-stage solar desalination (MSD) system by developing and experimentally validating a detailed thermo-energetic model of the same installation.。",
+      "id": "doi:10.3390/en19215133"
     },
     {
       "source_db": "Crossref",
@@ -1171,9 +1336,9 @@
       "id": "doi:10.1002/sus2.70099"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7223909146",
+      "openalex_url": "https://openalex.org/W7223909146",
       "doi": "10.1002/elt2.70072",
       "title": "Co <sub>0.05</sub> ‐Bi <sub>2</sub> S <sub>3</sub> /CF Photothermal Layer Integrated With Freeze‐Cast Alumina Vertical Channels for Efficient Interfacial Solar Desalination",
       "publication_date": "2026-10-26",
@@ -1183,16 +1348,23 @@
         "Sara Pattaro",
         "Michele Zanardo",
         "Eduardo Arango Durango",
-        "Enrique Rodríguez‐Castellón",
+        "Enrique Rodrı́guez-Castellón",
         "Davide Cristofori",
         "Vittorio Morandi",
         "Farid Akhtar",
         "Tofik Ahmed Shifa",
         "Elisa Moretti",
-        "Alberto Vomiero"
+        "Alberto Vomiero",
+        "Enrique Rodríguez‐Castellón"
       ],
       "first_author": "Muzammil Hussain",
       "institutions": [
+        "University of Padua",
+        "Ca' Foscari University of Venice",
+        "Luleå University of Technology",
+        "Institute of Condensed Matter Chemistry and Technologies for Energy",
+        "Universidad de Málaga",
+        "Institute of Nanostructured Materials",
         "Department of Molecular Sciences and Nanosystems Ca' Foscari University of Venice Venice Italy",
         "Division of Materials Science Department of Engineering Sciences and Mathematics Luleå University of Technology Luleå Sweden",
         "Department of Industrial Engineering University of Padova Padova Italy",
@@ -1217,7 +1389,7 @@
         "97.7%",
         "2 h"
       ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Department of Molecular Sciences and Nanosystems Ca' Foscari University of Venice Venice Italy、Division of Materials Science Department of Engineering Sciences and Mathematics Luleå University of Technology Luleå Sweden；摘要首句：ABSTRACT Sustainable freshwater production is one of the main issues for modern societies, and solar desalination is expected to play a significant role in the matter.。",
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：University of Padua、Ca' Foscari University of Venice；摘要首句：ABSTRACT Sustainable freshwater production is one of the main issues for modern societies, and solar desalination is expected to play a significant role in the matter.。",
       "id": "doi:10.1002/elt2.70072"
     },
     {
@@ -1293,6 +1465,51 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
+      "doi": "10.1002/adfm.79334",
+      "title": "Screening‐Effect‐Driven Growth of Large‐Area High‐Quality COF Films with Wavelength‐Dependent Photochromism",
+      "publication_date": "2026-10-27",
+      "journal": "Advanced Functional Materials",
+      "authors": [
+        "Furui Luo",
+        "Mengfan Xu",
+        "Xinping Cao",
+        "Jun Zhang",
+        "Lili Zhao",
+        "Ying Chu",
+        "Shengnan Guo",
+        "Xueying Wang",
+        "Ying‐yan Hu",
+        "Yongping Zhu",
+        "Song Wang"
+      ],
+      "first_author": "Furui Luo",
+      "institutions": [
+        "University of Chinese Academy of Sciences Beijing People's Republic of China",
+        "State Key Laboratory of Mesoscience and Process Engineering Institute of Process Engineering Chinese Academy of Sciences Beijing People's Republic of China",
+        "CAS Key Laboratory of Green Process and Engineering National Engineering Research Center of Green Recycling for Strategic Metal Resources Institute of Process Engineering Chinese Academy of Sciences Beijing People's Republic of China"
+      ],
+      "abstract": "ABSTRACT Competing heterogeneous and homogeneous nucleation severely restricts scalable, high‐yield synthesis of high‐quality covalent organic framework (COF) films, as bulk homogeneous nucleation generates particulate impurities and cuts film yield below 5% with exorbitant fabrication costs. Here we propose a screening‐effect‐mediated nucleation control strategy to fully suppress homogeneous nucleation by overlapping monomer depletion layers around substrate nuclei, implemented via a custom batch micro‐slit reactor that tunes inter‐substrate distance, polymerization kinetics, and surface wettability to achieve exclusive heterogeneous film growth. This approach affords high‐crystallinity COF films with ∼90% intrinsic yield and minimal particle contamination, applicable to 12 COF structures and capable of fabricating &gt;1 m 2 films at drastically reduced costs (6.0–27.5 USD/m 2 ). The impurity‐free films display pronounced wavelength‐dependent photochromism from selective 350–500 nm absorption, enabling high‐resolution optical patterning for anti‐counterfeiting and sensing. This work provides a scalable, low‐cost route for COF membrane production and establishes a universal kinetic framework to decouple dual nucleation processes in 2D crystalline porous materials.",
+      "cited_by_count": 0,
+      "topics": [
+        "COF/MOF膜"
+      ],
+      "keyword_hits": [
+        "cof membrane"
+      ],
+      "score": 29,
+      "relevance_class": "膜领域相关",
+      "key_numbers": [
+        "5%",
+        "90%",
+        "350–500 nm"
+      ],
+      "brief": "定位：膜领域相关；主题：COF/MOF膜；团队：University of Chinese Academy of Sciences Beijing People's Republic of China、State Key Laboratory of Mesoscience and Process Engineering Institute of Process Engineering Chinese Academy of Sciences Beijing People's Republic of China；摘要首句：ABSTRACT Competing heterogeneous and homogeneous nucleation severely restricts scalable, high‐yield synthesis of high‐quality covalent organic framework (COF) films, as bulk homogeneous nucleation generates particulate impuriti…。",
+      "id": "doi:10.1002/adfm.79334"
+    },
+    {
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1021/acsomega.6c07448",
       "title": "Introducing Chirality into Graphene Oxide Layers through a Facile Amino Acid-Based Covalent Functionalization",
       "publication_date": "2026-10-26",
@@ -1330,35 +1547,6 @@
       ],
       "brief": "定位：膜领域相关；主题：纳滤；团队：Sapienza Università di Roma , , P.le A. Moro 5 , ,、ENEA, Casaccia Research Centre , , ,；摘要首句：Abstract Graphene-based materials, including graphene oxide (GO), intrinsically lack stereocenters, limiting their usefulness in applications where chirality plays a crucial role.。",
       "id": "doi:10.1021/acsomega.6c07448"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1021/acs.est.6c14119",
-      "title": "Building Resilience into Large-Scale Seawater Desalination",
-      "publication_date": "2026-10-22",
-      "journal": "Environmental Science &amp; Technology",
-      "authors": [
-        "Menachem Elimelech"
-      ],
-      "first_author": "Menachem Elimelech",
-      "institutions": [
-        "Rice University , , , ,"
-      ],
-      "abstract": "",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 27,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Rice University , , , ,；题名线索：Building Resilience into Large-Scale Seawater Desalination。",
-      "id": "doi:10.1021/acs.est.6c14119"
     },
     {
       "source_db": "Crossref",
@@ -1484,37 +1672,6 @@
       "source_db": "Crossref",
       "openalex_id": "",
       "openalex_url": "",
-      "doi": "10.1021/acs.jpclett.6c03292",
-      "title": "Halide Identity Shapes Ion Pairing and Solvent Dynamics in Aqueous Lithium Halide Electrolytes",
-      "publication_date": "2026-10-22",
-      "journal": "The Journal of Physical Chemistry Letters",
-      "authors": [
-        "Dilshan Karunachandra",
-        "Subhajit Acharya",
-        "Saswata Dasgupta"
-      ],
-      "first_author": "Dilshan Karunachandra",
-      "institutions": [
-        "Kansas State University , , , ,"
-      ],
-      "abstract": "Abstract Predicting whether electrolytes associate or dissociate in water is challenging because direct ion attraction, hydration, solvent caging, and collective reorganization operate on comparable free-energy scales, and subtle changes in their balance can reverse the preferred ion-pairing state. Here, we develop machine-learned potentials trained on density-corrected r2SCAN to investigate how periodic trends across the halide series govern the thermodynamics, structure, and dynamics of aqueous lithium halide electrolytes. The resulting potentials of mean force reveal a systematic shift from the strongly stabilized contact ion pair in LiF toward solvent-shared and dissociated configurations for LiCl, LiBr, and LiI, with apparent dissociation constants spanning nearly 4 orders of magnitude. This thermodynamic progression emerges from the balance among direct ion attraction, hydration shell stability, solvent caging, and water-mediated screening. From F– to I–, the halide hydration shell becomes increasingly diffuse and labile, with faster water exchange and orientational relaxation. These changes provide a microscopic dynamical basis for the progression from structure-making to structure-breaking behavior, accompanied by a shift from strongly suppressed toward modestly enhanced water mobility. The same hydration contrast governs the coupling between ion separation and solvent reorganization during association and dissociation. Together, these results establish a unified molecular connection among association–dissociation equilibria, hydration shell dynamics, and solvent transport in aqueous electrolytes.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "ion separation"
-      ],
-      "score": 25,
-      "relevance_class": "领域扩展",
-      "key_numbers": [],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Kansas State University , , , ,；摘要首句：Abstract Predicting whether electrolytes associate or dissociate in water is challenging because direct ion attraction, hydration, solvent caging, and collective reorganization operate on comparable free-energy scales, and subt…。",
-      "id": "doi:10.1021/acs.jpclett.6c03292"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
       "doi": "10.1021/acsami.6c16944",
       "title": "Thermally Transformed ZnC8H4O4 Nanocrystals for Enhanced Sodium-Ion Storage",
       "publication_date": "2026-10-27",
@@ -1542,96 +1699,54 @@
       ],
       "brief": "定位：领域扩展；主题：离子筛分；团队：Northeastern University , , ,；摘要首句：Abstract Metal-organic terephthalates composed of earth-abundant elements are promising low-cost and structurally tuneable anodes for sodium-ion batteries, yet their electrochemical behavior, particularly in newly developed com…。",
       "id": "doi:10.1021/acsami.6c16944"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7223679418",
-      "openalex_url": "https://openalex.org/W7223679418",
-      "doi": "10.3389/fvets.2026.1980444",
-      "title": "EGFR promotes PEDV internalization via spike protein association and endo−/lysosomal trafficking",
-      "publication_date": "2026-10-26",
-      "journal": "Frontiers in Veterinary Science",
-      "authors": [
-        "Shuqi Yang",
-        "Xin Liu",
-        "Yongtao Li",
-        "Linyang Yu",
-        "Zeng Wang",
-        "Xinwei Wang",
-        "Jun Zhao",
-        "Lu Chen",
-        "Xia Yang",
-        "Wenqiang Jiao",
-        "Guangxu Xing",
-        "Hong Quan Duan",
-        "Dongliang Li"
-      ],
-      "first_author": "Shuqi Yang",
-      "institutions": [
-        "Henan Agricultural University",
-        "Henan Academy of Agricultural Sciences"
-      ],
-      "abstract": "Introduction Porcine epidemic diarrhea virus (PEDV) induces severe acute diarrhea, vomit ing, dehydration and high mortality rate in suckling piglets, leading to substantial economic losses for the global swine industry. Previous studies reported that EGFR can promote PEDV infection via modulation of the JAK-STAT type I interferon axis. However, the precise role of EGFR during the early viral entry phase remains unclear. Methods In this study, an EGFR-KO Vero cell line was constructed. Co-immunoprecipitation, viral attachment and internalization assays and confocal colocalization analysis were performed to investigate the role of EGFR in PEDV entry. Results The PEDV spike protein was found to associate with EGFR. EGFR knockout partially impaired viral internalization, whereas viral attachment remained unaffected. Further colocalization analysis showed that PEDV colocalized with EGFR in early endosomes, late endosomes and lysosomes, and that EGFR knockout impaired PEDV colocalization with late endosomes. Discussion EGFR was identified as a host co-factor. It supports PEDV infection by promoting viral internalization and facilitating post-internalization endo−/lysosomal trafficking. This work extends the understanding of coronavirus entry pathways.",
-      "cited_by_count": 0,
-      "topics": [
-        "离子筛分"
-      ],
-      "keyword_hits": [
-        "dehydration"
-      ],
-      "score": 18,
-      "relevance_class": "领域扩展",
-      "key_numbers": [],
-      "brief": "定位：领域扩展；主题：离子筛分；团队：Henan Agricultural University、Henan Academy of Agricultural Sciences；摘要首句：Introduction Porcine epidemic diarrhea virus (PEDV) induces severe acute diarrhea, vomit ing, dehydration and high mortality rate in suckling piglets, leading to substantial economic losses for the global swine industry.。",
-      "id": "doi:10.3389/fvets.2026.1980444"
     }
   ],
   "trends": {
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 108,
-        "delta": -9
+        "count": 110,
+        "delta": -12
       },
       {
         "name": "离子筛分",
-        "count": 100,
-        "delta": 13
+        "count": 103,
+        "delta": 14
       },
       {
         "name": "纳滤",
-        "count": 86,
-        "delta": 24
-      },
-      {
-        "name": "COF/MOF膜",
-        "count": 32,
-        "delta": 3
+        "count": 84,
+        "delta": 19
       },
       {
         "name": "聚酰胺/TFC",
-        "count": 32,
-        "delta": -5
+        "count": 29,
+        "delta": -10
+      },
+      {
+        "name": "COF/MOF膜",
+        "count": 24,
+        "delta": -14
       },
       {
         "name": "纳米通道/限域传输",
-        "count": 18,
-        "delta": 1
+        "count": 16,
+        "delta": -2
       },
       {
         "name": "二维层状膜",
         "count": 14,
-        "delta": 11
+        "delta": 9
       },
       {
         "name": "有机溶剂纳滤",
-        "count": 8,
-        "delta": -5
+        "count": 6,
+        "delta": -9
       },
       {
         "name": "硫属二维材料",
-        "count": 5,
-        "delta": 4
+        "count": 4,
+        "delta": 3
       }
     ],
     "journals": [
@@ -1642,8 +1757,8 @@
       },
       {
         "name": "Separation and Purification Technology",
-        "count": 65,
-        "delta": 65
+        "count": 63,
+        "delta": 63
       },
       {
         "name": "Journal of Environmental Chemical Engineering",
@@ -1652,23 +1767,23 @@
       },
       {
         "name": "Journal of Water Process Engineering",
-        "count": 43,
-        "delta": 43
+        "count": 42,
+        "delta": 42
       },
       {
         "name": "Desalination",
-        "count": 35,
-        "delta": 35
+        "count": 36,
+        "delta": 36
       },
       {
-        "name": "Small",
+        "name": "Langmuir",
         "count": 33,
         "delta": 33
       },
       {
-        "name": "Membranes",
-        "count": 30,
-        "delta": 30
+        "name": "Small",
+        "count": 32,
+        "delta": 32
       },
       {
         "name": "Nature Communications",
@@ -1676,22 +1791,22 @@
         "delta": 30
       },
       {
-        "name": "Langmuir",
+        "name": "Angewandte Chemie",
         "count": 30,
         "delta": 30
       },
       {
-        "name": "Angewandte Chemie",
+        "name": "Angewandte Chemie International Edition",
         "count": 29,
         "delta": 29
       },
       {
-        "name": "Chemical Engineering Journal",
+        "name": "Membranes",
         "count": 28,
         "delta": 28
       },
       {
-        "name": "Angewandte Chemie International Edition",
+        "name": "Chemical Engineering Journal",
         "count": 28,
         "delta": 28
       }
@@ -1776,18 +1891,18 @@
     "institutions": [
       {
         "name": "Nanjing Tech University",
-        "count": 31,
-        "delta": 31
-      },
-      {
-        "name": "Tiangong University",
-        "count": 27,
-        "delta": 27
+        "count": 32,
+        "delta": 32
       },
       {
         "name": "Zhejiang University",
-        "count": 25,
-        "delta": 25
+        "count": 26,
+        "delta": 26
+      },
+      {
+        "name": "Tiangong University",
+        "count": 26,
+        "delta": 26
       },
       {
         "name": "Tsinghua University",
@@ -1801,8 +1916,8 @@
       },
       {
         "name": "State Key Laboratory of Advanced Separation Membrane Materials",
-        "count": 18,
-        "delta": 18
+        "count": 17,
+        "delta": 17
       },
       {
         "name": "Central South University",
@@ -1816,8 +1931,8 @@
       },
       {
         "name": "Chinese Academy of Sciences",
-        "count": 14,
-        "delta": 14
+        "count": 15,
+        "delta": 15
       },
       {
         "name": "Beijing Normal University, Zhuhai",
@@ -1826,8 +1941,8 @@
       },
       {
         "name": "City University of Hong Kong",
-        "count": 13,
-        "delta": 13
+        "count": 14,
+        "delta": 14
       },
       {
         "name": "Central South University , , ,",
@@ -1840,12 +1955,12 @@
         "delta": 12
       },
       {
-        "name": "Ministry of Education",
+        "name": "Suzhou Research Institute",
         "count": 12,
         "delta": 12
       },
       {
-        "name": "Faculty of Arts and Sciences Beijing Normal University Zhuhai China",
+        "name": "Ministry of Education",
         "count": 12,
         "delta": 12
       }
