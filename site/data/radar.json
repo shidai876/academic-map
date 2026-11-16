@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "version": "2.2",
-  "updated_at": "2026-11-15T01:55:08.099799+00:00",
-  "updated_at_local": "2026-11-15 09:54 (UTC+8)",
+  "updated_at": "2026-11-16T02:06:12.600565+00:00",
+  "updated_at_local": "2026-11-16 10:05 (UTC+8)",
   "stats": {
-    "fetched": 1313,
-    "related": 31,
-    "recommended": 14,
+    "fetched": 1326,
+    "related": 30,
+    "recommended": 13,
     "window_days": 7,
     "sources": [
       "OpenAlex",
@@ -53,36 +53,6 @@
       ],
       "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；团队：Prince Sattam Bin Abdulaziz University、King Fahd University of Petroleum and Minerals；摘要首句：Abstract Machine learning models of desalination plants are often tested on random splits of time-ordered records, which can overstate their accuracy.。",
       "id": "doi:10.1007/s44444-026-00135-w"
-    },
-    {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7225862825",
-      "openalex_url": "https://openalex.org/W7225862825",
-      "doi": "10.36719/3104-4735/6/15-21",
-      "title": "Modern Water Purification Technologies: Integrated Treatment Processes and Sustainable Applications",
-      "publication_date": "2026-11-09",
-      "journal": "Journal of TECHNOLOGY STUDIES",
-      "authors": [
-        "Haji Beytullah Mutlu"
-      ],
-      "first_author": "Haji Beytullah Mutlu",
-      "institutions": [],
-      "abstract": "Water purification is essential for protecting public health, supporting economic activity, and reducing pressure on freshwater resources. This article reviews conventional and advanced technologies used to improve the quality of surface water, groundwater, and saline sources. It outlines the roles of source protection, coagulation and flocculation, sedimentation, granular and membrane filtration, adsorption, and disinfection within a multi-barrier treatment approach. Particular attention is given to membrane processes, including microfiltration, ultrafiltration, nanofiltration, reverse osmosis, forward osmosis, and electrodialysis, with emphasis on their separation mechanisms, operational requirements, and limitations. The study uses a narrative and comparative review of technical literature, standards, and recent research, including work published in Azerbaijani scientific journals on Caspian Sea desalination and water-resource protection. The comparison shows that no single method is suitable for every source: treatment trains should be selected according to raw-water quality, target contaminants, required water quality, energy demand, maintenance capacity, and residual management. The article concludes that combining appropriate treatment stages with routine monitoring and effective source-water governance offers a practical basis for reliable and sustainable water purification.",
-      "cited_by_count": 0,
-      "topics": [
-        "纳滤",
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "nanofiltration",
-        "reverse osmosis",
-        "desalination"
-      ],
-      "score": 84,
-      "relevance_class": "核心膜分离",
-      "key_numbers": [],
-      "brief": "定位：核心膜分离；主题：纳滤 / 脱盐/水处理；摘要首句：Water purification is essential for protecting public health, supporting economic activity, and reducing pressure on freshwater resources.。",
-      "id": "doi:10.36719/3104-4735/6/15-21"
     },
     {
       "source_db": "OpenAlex + Crossref",
@@ -171,9 +141,9 @@
       "id": "doi:10.1021/acs.est.6c10774"
     },
     {
-      "source_db": "OpenAlex + Crossref",
-      "openalex_id": "W7226010561",
-      "openalex_url": "https://openalex.org/W7226010561",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
       "doi": "10.1021/acs.macromol.6c00920",
       "title": "Mesophase-Derived Polymer Membranes with Precisely Defined Pores for Molecular and Ion Separations",
       "publication_date": "2026-11-13",
@@ -185,8 +155,6 @@
       ],
       "first_author": "Yizhou Zhang",
       "institutions": [
-        "Tohoku University",
-        "University of Pennsylvania",
         "Tohoku University , , ,",
         "University of Pennsylvania , , , ,"
       ],
@@ -207,7 +175,7 @@
         "1 nm",
         "0.5–2 nm"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：Tohoku University、University of Pennsylvania；摘要首句：Abstract Polymer membranes are central components in critical technologies, including energy generation and storage, water purification, and chemical separations.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 脱盐/水处理；团队：Tohoku University , , ,、University of Pennsylvania , , , ,；摘要首句：Abstract Polymer membranes are central components in critical technologies, including energy generation and storage, water purification, and chemical separations.。",
       "id": "doi:10.1021/acs.macromol.6c00920"
     },
     {
@@ -454,9 +422,9 @@
       "id": "doi:10.1038/s41598-026-74025-1"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
+      "source_db": "OpenAlex + Crossref",
+      "openalex_id": "W7225988764",
+      "openalex_url": "https://openalex.org/W7225988764",
       "doi": "10.1002/adfm.79609",
       "title": "Dual Molecular Confinement Engineering of Graphene Oxide‐Based Monovalent Cation‐Selective Membrane for Osmotic Energy Harvesting and Chlor‐Alkali Process",
       "publication_date": "2026-11-13",
@@ -478,6 +446,8 @@
       ],
       "first_author": "Wenwen Zhao",
       "institutions": [
+        "University of Jinan",
+        "Beijing Institute of Technology",
         "Institute for Advanced Interdisciplinary Research (iAIR) School of Chemistry and Chemical Engineering University of Jinan Jinan P. R. China",
         "School of Materials Science &amp; Engineering Beijing Institute of Technology Beijing P. R. China",
         "School of Physics and Technology University of Jinan Jinan P. R. China"
@@ -498,7 +468,7 @@
       "key_numbers": [
         "43.8%"
       ],
-      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：Institute for Advanced Interdisciplinary Research (iAIR) School of Chemistry and Chemical Engineering University of Jinan Jinan P. R. China、School of Materials Science &amp; Engineering Beijing Institute of Technology Beijing P. R. China；摘要首句：ABSTRACT Ion‐selective membranes are widely employed to extract energy and resources from seawater, yet their performance is significantly compromised by divalent ions present in natural seawater.。",
+      "brief": "定位：核心膜分离；主题：离子筛分 / 纳米通道/限域传输；团队：University of Jinan、Beijing Institute of Technology；摘要首句：ABSTRACT Ion‐selective membranes are widely employed to extract energy and resources from seawater, yet their performance is significantly compromised by divalent ions present in natural seawater.。",
       "id": "doi:10.1002/adfm.79609"
     },
     {
@@ -685,7 +655,6 @@
       ],
       "first_author": "Zhenyi Zhao",
       "institutions": [
-        "Tianjin University of Science and Technology",
         "Tianjin University",
         "State Key Laboratory of Chemical Engineering",
         "School of Chemical Engineering and Technology Tianjin University Tianjin People's Republic of China",
@@ -703,7 +672,7 @@
       "score": 38,
       "relevance_class": "膜领域相关",
       "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Tianjin University of Science and Technology、Tianjin University；摘要首句：ABSTRACT Pressure‐driven distillation (PD) has emerged as a transformative technology for harnessing non‐conventional water resources, leveraging hydraulic pressure to accelerate vapor generation and transport across vapor‐gap …。",
+      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Tianjin University、State Key Laboratory of Chemical Engineering；摘要首句：ABSTRACT Pressure‐driven distillation (PD) has emerged as a transformative technology for harnessing non‐conventional water resources, leveraging hydraulic pressure to accelerate vapor generation and transport across vapor‐gap …。",
       "id": "doi:10.1002/adfm.79639"
     },
     {
@@ -779,56 +748,70 @@
     },
     {
       "source_db": "OpenAlex",
-      "openalex_id": "W7225658054",
-      "openalex_url": "https://openalex.org/W7225658054",
-      "doi": "10.3389/fceng.2026.2007392",
-      "title": "Molecular design of ion-selective polymer membranes for electrochemical water purification and resource recovery",
-      "publication_date": "2026-11-09",
-      "journal": "Frontiers in Chemical Engineering",
+      "openalex_id": "W7226026154",
+      "openalex_url": "https://openalex.org/W7226026154",
+      "doi": "10.1002/smtd.71202",
+      "title": "Stable Solid‐State Lithium‐Sulfur Batteries Enabled by Covalently Coupled Electrolyte–Electrode Interfaces",
+      "publication_date": "2026-11-13",
+      "journal": "Small Methods",
       "authors": [
-        "Sitaraman Krishnan",
-        "Gowri Mohandass"
+        "Xianzhi Wu",
+        "Shaochuan Li",
+        "Kaiqi Jian",
+        "Haoran Zhang",
+        "Qiaoying Cao",
+        "Yong Xiao",
+        "Hang Hu",
+        "Jiashen Li",
+        "Yeru Liang"
       ],
-      "first_author": "Sitaraman Krishnan",
+      "first_author": "Xianzhi Wu",
       "institutions": [
-        "Clarkson University",
-        "Central Electrochemical Research Institute",
-        "Academy of Scientific and Innovative Research"
+        "South China Agricultural University",
+        "University of Manchester"
       ],
-      "abstract": "Ion-selective membranes enable electrochemical water purification and resource recovery. Effective molecular design must balance preferential target-ion uptake, rapid transport, and limited water crossover under changing feed and electrical conditions. This review examines how fixed charge, hydration, pathway connectivity, and ion-specific interactions govern transport in charged polymers, microporous materials, recognition membranes, selective surface layers, and covalent organic frameworks. Hydration reshapes transport pathways, making their hydrated dimensions and connectivity more informative than dry pore size alone. Strong binding can favor uptake while slowing release and passage, so selective uptake need not yield selective flux. Designs that partly decouple charge density from swelling or binding affinity from mobility offer ways to balance discrimination and throughput. Practical deployment requires reproducible selectivity, resistance, and water-transport properties across large-scale membrane production. Transport-state retention then requires maintaining these properties as polymer chemistry, hydration, and interfaces evolve during operation. Evaluating them together connects molecular design, manufacturing quality, and durability to current efficiency, product purity, concentration, recovery, and energy consumption in complex feeds.",
+      "abstract": "ABSTRACT Solid‐state lithium–sulfur batteries (SSLSBs) are fundamentally limited by large interfacial resistance, interfacial instability, and polysulfide shuttling at solid–solid electrode/electrolyte contacts. Here, a covalent interfacial engineering strategy is proposed to chemically integrate sulfur/carbon cathodes with polymer electrolytes via surface functionalization and in situ interfacial polymerization. The resulting covalently bonded siloxane interphase establishes robust molecular‐level coupling across the solid‐state electrolyte‐cathode interface. This chemically integrated interface significantly reduces interfacial resistance, stabilizes impedance evolution during cycling, and introduces selective permeation that suppresses polysulfide migration while maintaining efficient Li + transport. Consequently, the SSLSBs exhibit enhanced cycling stability, reduced voltage polarization, and improved rate capability, delivering 819.1 mAh g − 1 at 0.5 C with 50.6% retention after 300 cycles and 506.4 mAh g − 1 at 2 C. This work highlights covalent interface coupling as an effective paradigm for addressing interfacial limitations in SSLSBs.",
       "cited_by_count": 0,
       "topics": [
-        "脱盐/水处理"
+        "离子筛分",
+        "聚酰胺/TFC"
       ],
       "keyword_hits": [
-        "selectivity"
+        "interfacial polymerization"
       ],
-      "score": 38,
+      "score": 36,
       "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Clarkson University、Central Electrochemical Research Institute；摘要首句：Ion-selective membranes enable electrochemical water purification and resource recovery.。",
-      "id": "doi:10.3389/fceng.2026.2007392"
+      "key_numbers": [
+        "50.6%"
+      ],
+      "brief": "定位：膜领域相关；主题：离子筛分 / 聚酰胺/TFC；团队：South China Agricultural University、University of Manchester；摘要首句：ABSTRACT Solid‐state lithium–sulfur batteries (SSLSBs) are fundamentally limited by large interfacial resistance, interfacial instability, and polysulfide shuttling at solid–solid electrode/electrolyte contacts.。",
+      "id": "doi:10.1002/smtd.71202"
     },
     {
-      "source_db": "OpenAlex",
-      "openalex_id": "W7225904132",
-      "openalex_url": "https://openalex.org/W7225904132",
-      "doi": "10.1002/app.71794",
-      "title": "Electrospun Poly(Vinyl Alcohol)/ TiO 2 Nanofiber Membranes With Improved Wettability and Thermal Dimensional Stability for Lithium‐Ion Battery Separators",
-      "publication_date": "2026-11-11",
-      "journal": "Journal of Applied Polymer Science",
+      "source_db": "Crossref",
+      "openalex_id": "",
+      "openalex_url": "",
+      "doi": "10.1021/acssuschemeng.6c08681",
+      "title": "Closed-Loop Fabrication of Regenerated Cellulose Battery Separator via Solvent-Guided Structural Regulation",
+      "publication_date": "2026-11-13",
+      "journal": "ACS Sustainable Chemistry &amp; Engineering",
       "authors": [
-        "Oki Ade Putra",
-        "Kristina Pardede",
-        "Fawwaz Putra Widodo",
-        "Muhammad Novri Al‐Zanni",
-        "Irsyad Savero"
+        "Yangyang Zhang",
+        "Lulu Ren",
+        "Latdavanh Phiaxaixalakham",
+        "Wentian Song",
+        "Yuanyuan Li",
+        "Yifeng Chu",
+        "Qinfeng He",
+        "Zhikun Wang",
+        "Xuejun Yu"
       ],
-      "first_author": "Oki Ade Putra",
+      "first_author": "Yangyang Zhang",
       "institutions": [
-        "Diponegoro University"
+        "Zhejiang A&F University , , ,",
+        "Everrising Holdings (Japan) Co., Ltd. , 1-23 Toranomon , , ,"
       ],
-      "abstract": "ABSTRACT Electrospun poly(vinyl alcohol) (PVA)/titanium dioxide (TiO 2 ) nanofiber membranes with 0, 5, 10, and 15 wt% TiO 2 (relative to PVA) were prepared through a water‐based route and characterized for lithium‐ion battery separator applications. Their morphology, electrolyte wettability and uptake, thermal dimensional stability, and mechanical properties were evaluated. All membranes displayed nonwoven nanofiber structures, while FTIR spectra supported TiO 2 incorporation. Compared with a commercial polypropylene (PP) separator evaluated under identical conditions, the PVA/TiO 2 membranes exhibited greater apparent porosity (75.76%–80.72% vs. 41%), electrolyte uptake (303.23%–369.69% vs. 67%), and wettability (contact angles of 27°–47° vs. approximately 72°). PVTi10 showed the most balanced physicochemical properties, combining 80.72% apparent porosity, 369.69% electrolyte uptake, a 27° contact angle, 5.23% shrinkage after heating at 200°C for 30 min, and 8.91 MPa tensile stress. In preliminary NMC/graphite full‐cell testing at 1 A g −1 , the PVTi10‐based cell delivered approximately 189 mAh g −1 , compared with 128 mAh g −1 for the PP‐based cell. These results identify 10 wt% TiO 2 as the most balanced composition investigated, while separator‐specific ionic conductivity, Li + transference number, and long‐term cycling stability remain unmeasured.",
+      "abstract": "Abstract The development of battery separators derived from renewable feedstocks that can simultaneously achieve high porosity, robust mechanical strength, excellent thermal stability, reliable electrochemical performance, and satisfactory environmental sustainability remains a core challenge in the field of sustainable energy storage material. Herein, we report a regenerated cellulose membrane prepared through a dissolution/regeneration process using lithium bromide Molecular dynamics simulation results show that water is the effective antisolvent for driving the formation of cellulose–cellulose H-bonds, yielding cellulose with a better crystalline structure. Subsequently, tert-butanol was utilized to replace water in the cellulose membrane precursor prior to drying, preventing capillary-induced pore collapse. This membrane exhibits high porosity of 70.1%, excellent electrolyte uptake capacity of 243.7%, ionic conductivity of 0.77 mS/cm, excellent thermal stability (no shrinkage at 150 °C), and roust mechanical strength. The Na/HC half-cells assembled with this membrane displays high cycle capacity retention rate of 87.1% at 0.1 C after 500 cycles, which is comparable to commercial separators. This membrane fabrication process enables closed-loop solvent recycling, and the membrane fully degraded after 4 months of soil burial, and life cycle assessment indicated lower impacts than commercial battery separators. These results establish a practical closed-loop strategy for sustainable, high-performance battery separators.",
       "cited_by_count": 0,
       "topics": [
         "离子筛分"
@@ -837,17 +820,12 @@
       "score": 31,
       "relevance_class": "膜领域相关",
       "key_numbers": [
-        "75.76%",
-        "80.72%",
-        "41%",
-        "303.23%",
-        "369.69%",
-        "67%",
-        "5.23%",
-        "8.91 MPa"
+        "70.1%",
+        "243.7%",
+        "87.1%"
       ],
-      "brief": "定位：膜领域相关；主题：离子筛分；团队：Diponegoro University；摘要首句：ABSTRACT Electrospun poly(vinyl alcohol) (PVA)/titanium dioxide (TiO 2 ) nanofiber membranes with 0, 5, 10, and 15 wt% TiO 2 (relative to PVA) were prepared through a water‐based route and characterized for lithium‐ion battery …。",
-      "id": "doi:10.1002/app.71794"
+      "brief": "定位：膜领域相关；主题：离子筛分；团队：Zhejiang A&F University , , ,、Everrising Holdings (Japan) Co., Ltd. , 1-23 Toranomon , , ,；摘要首句：Abstract The development of battery separators derived from renewable feedstocks that can simultaneously achieve high porosity, robust mechanical strength, excellent thermal stability, reliable electrochemical performance, and …。",
+      "id": "doi:10.1021/acssuschemeng.6c08681"
     },
     {
       "source_db": "OpenAlex",
@@ -970,48 +948,6 @@
       ],
       "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：School of Chemical Engineering University of Chinese Academy of Sciences Beijing People's Republic of China、School of Chemical Sciences University of Chinese Academy of Sciences Beijing People's Republic of China；摘要首句：ABSTRACT Fully utilizing all components of waste biomass while enabling scalable structural design remains a critical challenge for solar‐driven interfacial desalination.。",
       "id": "doi:10.1002/adfm.79621"
-    },
-    {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.3390/en19215379",
-      "title": "The Nexus Between Heat and Vacuum Pumps: A Novel Hybrid Desalination System",
-      "publication_date": "2026-11-09",
-      "journal": "Energies",
-      "authors": [
-        "Evgeny V. Solomin",
-        "Konstantin V. Osintsev",
-        "Andrey S. Martyanov",
-        "Nikita A. Pshenisnov"
-      ],
-      "first_author": "Evgeny V. Solomin",
-      "institutions": [
-        "Department of Industrial Thermal Power Engineering, South Ural State University (National Research University), 454080 Chelyabinsk, Russia",
-        "Department of Electric Power Generation Stations, Network and Supply-Systems, South Ural State University (National Research University), 454080 Chelyabinsk, Russia"
-      ],
-      "abstract": "The thermal vacuum distillation of seawater, preheated by a hybrid solar heat pump, is a candidate technology for autonomous and hot-climate sites, but experimental energy and exergy data for it are scarce. The objective of this study is to determine the energy and exergy characteristics of a laboratory vacuum distiller and to describe them with a semi-empirical model whose validity limits are stated explicitly. A 5 L batch distiller was tested at four temperature/pressure regimes (75 °C/0.4 atm, 85 °C/0.6 atm, 90 °C/0.7 atm and 100 °C/1 atm). The model combines empirical correlations for heating and maintenance energies with an evaporation fraction; this is calibrated on the four regimes and restricted to physically admissible conditions. The productivity increased from 125 to 334 g/h, and the specific energy consumption was 3.8–5.7 Wh/g. The vacuum regime had the highest specific energy consumption (5.7 Wh/g against 3.8–4.1 Wh/g at 85–100 °C), so no energy advantage of vacuum operation was demonstrated. The calibrated model reproduced measured productivity and total energy values within 2.7% and 4.5%, respectively; leave-one-out cross-validation gave errors up to 94%, so the predictive capability of the model is limited and the model should be regarded as a descriptive fit of the four measured regimes. The eight model parameters were fitted to twelve measured values, and no independent validation data were available. The effect of pressure cannot be separated from that of temperature, because the two variables increase together (correlation coefficient, 0.99). The exergy efficiency was 1.6–3.2%: 93.8–95.8% of the fuel exergy was destroyed by irreversibilities and 2.6–3.1% was lost with the residual hot water; 41–44% of the exergy destruction occurred in the heating stage. Relative to the minimum work of separation, the second-law efficiency was only 0.014–0.020%. The measured energy inputs exclude the heat pump and the photovoltaic–thermal panel; therefore, the benefit of renewable-energy integration is prospective and was not quantified. Scientific novelty: This study conducts a combined experimental, semi-empirical and exergy assessment of the thermal vacuum distillation of seawater preheated by a hybrid solar-powered heat pump, with explicitly defined model validity limits. Practical contribution: This study presents laboratory-scale reference values of the specific energy consumption and exergy efficiency of the model, and identifies the main loss sources for the design of an industrial prototype. The delivery of distilled water to remote areas by unmanned aerial vehicles is considered only as a prospective application and was not studied.",
-      "cited_by_count": 0,
-      "topics": [
-        "脱盐/水处理"
-      ],
-      "keyword_hits": [
-        "desalination"
-      ],
-      "score": 30,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [
-        "2.7%",
-        "4.5%",
-        "94%",
-        "1.6–3.2%",
-        "93.8–95.8%",
-        "2.6–3.1%",
-        "41–44%",
-        "0.014–0.020%"
-      ],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；团队：Department of Industrial Thermal Power Engineering, South Ural State University (National Research University), 454080 Chelyabinsk, Russia、Department of Electric Power Generation Stations, Network and Supply-Systems, South Ural State University (National Research University), 454080 Chelyabinsk, Russia；摘要首句：The thermal vacuum distillation of seawater, preheated by a hybrid solar heat pump, is a candidate technology for autonomous and hot-climate sites, but experimental energy and exergy data for it are scarce.。",
-      "id": "doi:10.3390/en19215379"
     },
     {
       "source_db": "Crossref",
@@ -1160,86 +1096,131 @@
       "id": "doi:10.1007/s10973-026-16645-3"
     },
     {
-      "source_db": "Crossref",
-      "openalex_id": "",
-      "openalex_url": "",
-      "doi": "10.1007/s42108-026-00563-z",
-      "title": "Renewable-energy-driven experimental thermo-hydraulic and salinity-dependent performance of a gravity-fed parabolic-trough solar desalination system",
-      "publication_date": "2026-11-09",
-      "journal": "International Journal of Energy and Water Resources",
+      "source_db": "OpenAlex",
+      "openalex_id": "W7230457675",
+      "openalex_url": "https://openalex.org/W7230457675",
+      "doi": "10.1002/smll.76724",
+      "title": "Coordination‐Chemistry‐Directed Nanofluidic Ion‐Channel Engineering Enables Trimodal Self‐Powered, Colorimetric, and Wireless Humidity Transduction in a Wet‐Spun Biopolymer Fiber",
+      "publication_date": "2026-11-13",
+      "journal": "Small",
       "authors": [
-        "W. Bunpheng",
-        "S. Jaganathan",
-        "X. Wang",
-        "R. Dhairiyasamy",
-        "S. Singh",
-        "D. Varshney"
+        "Xun Liu",
+        "Jiashuai Zhang",
+        "S Chen",
+        "Yingjia Tong",
+        "Qufu Weı",
+        "Pengfei Lv"
       ],
-      "first_author": "W. Bunpheng",
-      "institutions": [],
-      "abstract": "",
+      "first_author": "Xun Liu",
+      "institutions": [
+        "Jiangnan University"
+      ],
+      "abstract": "ABSTRACT Wearable humidity monitoring is central to personalized healthcare, yet few nanostructured platforms unite colorimetric, self‐powered, and wireless transduction within a single fiber. Here, a hydrochromic fiber is fabricated by wet‐spinning a sodium alginate (SA)/tricarboxylated bacterial cellulose (TBC) dope into a CoCl 2 coagulation bath. Shear‐aligned TBC nanorods form anisotropic ion‐transport nanochannels, while coordinated Co 2+ ions act as both ionic cross‐linkers and hydrochromic centers, switching reversibly between tetrahedral (blue, dry) and octahedral (pink, wet) geometries for naked‐eye humidity readout. Paired with Ag and Zn wire electrodes, the resulting galvanic cell delivers a peak open‐circuit voltage of ∼900 mV at 91% relative humidity (RH), a peak sensitivity of 13.75 mV %RH −1 , response/recovery times of 1.1/1.28 s, and stable operation over 200 wet–dry cycles across 10°C–70°C. Molecular dynamics simulations show that water uptake reorganizes the hydrogen‐bond network and drives Co 2+ /Cl − transport from a sub‐diffusive to a diffusive regime. Interfaced with a Bluetooth Low Energy microcontroller, the fiber enables real‐time wireless tracking of respiration, including sleep apnea events, and diaper‐wetness alerts; a Random Forest classifier discriminates six respiratory states with 99.2% accuracy in a single‐subject proof‐of‐concept test. This coordination‐chemistry strategy is transferable to other metal‐biopolymer systems.",
       "cited_by_count": 0,
       "topics": [
-        "脱盐/水处理"
+        "纳米通道/限域传输"
       ],
       "keyword_hits": [
-        "desalination"
+        "nanochannel",
+        "nanofluidic"
       ],
-      "score": 25,
-      "relevance_class": "膜领域相关",
-      "key_numbers": [],
-      "brief": "定位：膜领域相关；主题：脱盐/水处理；题名线索：Renewable-energy-driven experimental thermo-hydraulic and salinity-dependent performance of a gravity-fed parabolic-trough solar desalination system。",
-      "id": "doi:10.1007/s42108-026-00563-z"
+      "score": 18,
+      "relevance_class": "领域扩展",
+      "key_numbers": [
+        "91%",
+        "99.2%"
+      ],
+      "brief": "定位：领域扩展；主题：纳米通道/限域传输；团队：Jiangnan University；摘要首句：ABSTRACT Wearable humidity monitoring is central to personalized healthcare, yet few nanostructured platforms unite colorimetric, self‐powered, and wireless transduction within a single fiber.。",
+      "id": "doi:10.1002/smll.76724"
+    },
+    {
+      "source_db": "OpenAlex",
+      "openalex_id": "W7227710305",
+      "openalex_url": "https://openalex.org/W7227710305",
+      "doi": "10.1002/smll.76717",
+      "title": "Coordinative Organic–Inorganic Heterostructured Hierarchical Composite Gel Polymer Electrolytes Enabling Ultrahigh‐Power and Ultra‐Durable Solid‐State Zinc–Air Batteries",
+      "publication_date": "2026-11-13",
+      "journal": "Small",
+      "authors": [
+        "Yu‐Chieh Ting",
+        "Tsung‐Wei Hsueh",
+        "Chia‐Hsien Lin",
+        "Yi‐Chen Tsai",
+        "Pei‐Han Wu",
+        "Shih‐Yuan Lu"
+      ],
+      "first_author": "Yu‐Chieh Ting",
+      "institutions": [
+        "National Tsing Hua University"
+      ],
+      "abstract": "ABSTRACT Rechargeable solid‐state zinc‐air batteries (ZABs) are highly promising energy storage devices for next‐generation portable electronics, yet their practical deployment is severely hindered by issues of dehydration of gel polymer electrolytes (GPEs) and dendrite formation on Zn electrodes. We report an organic‐inorganic heterostructured hierarchical composite GPE, PANa‐NCF‐NiFeLDH, featuring sodium polyacrylate (PANa), nitrogen‐doped carbon foam (NCF), and NiFe layered double hydroxide (NiFeLDH). Electrostatic coordination between Ni/Fe Lewis acid sites of NiFeLDH and carboxylate groups of PANa, creates nano‐crack network to facilitate electrolyte adsorption and ion transport, modulates electron density and polarity of PANa chains to promote uniform Zn deposition, and provides energy adsorption heterojunctions to enhance mechanical strength. Exceptional liquid electrolyte uptake (1700%) and retention (92.9%), ionic conductivity (322 m S/cm), and tensile strength (2500 kPa) are achieved. The abundant hydroxyl groups of NiFeLDH facilitates hydroxyl ion transport, reconstructs hydrogen bond network, and immobilizes free water molecules, leading to enhanced liquid electrolyte uptake and retention and suppression of parasitic reactions. The PANa‐NCF‐NiFeLDH GPE based solid‐state ZAB delivers an ultrahigh peak power density of 229 mW/cm 2 and sustains an outstanding lifespan of 1494 cycles (249 h). Even after a three‐week storage in concentrated alkaline media, the PANa‐NCF‐NiFeLDH GPE maintains its performance without noticeable degradation.",
+      "cited_by_count": 0,
+      "topics": [
+        "离子筛分"
+      ],
+      "keyword_hits": [
+        "dehydration"
+      ],
+      "score": 18,
+      "relevance_class": "领域扩展",
+      "key_numbers": [
+        "1700%",
+        "92.9%",
+        "2500 kPa",
+        "249 h"
+      ],
+      "brief": "定位：领域扩展；主题：离子筛分；团队：National Tsing Hua University；摘要首句：ABSTRACT Rechargeable solid‐state zinc‐air batteries (ZABs) are highly promising energy storage devices for next‐generation portable electronics, yet their practical deployment is severely hindered by issues of dehydration of g…。",
+      "id": "doi:10.1002/smll.76717"
     }
   ],
   "trends": {
     "topics": [
       {
         "name": "脱盐/水处理",
-        "count": 117,
-        "delta": -32
+        "count": 112,
+        "delta": -31
       },
       {
         "name": "离子筛分",
-        "count": 69,
-        "delta": -39
+        "count": 67,
+        "delta": -42
       },
       {
         "name": "纳滤",
-        "count": 60,
-        "delta": -270
-      },
-      {
-        "name": "聚酰胺/TFC",
-        "count": 21,
-        "delta": -68
+        "count": 51,
+        "delta": -244
       },
       {
         "name": "纳米通道/限域传输",
         "count": 18,
-        "delta": -37
+        "delta": -36
       },
       {
-        "name": "有机溶剂纳滤",
-        "count": 11,
-        "delta": -33
+        "name": "聚酰胺/TFC",
+        "count": 16,
+        "delta": -69
       },
       {
         "name": "二维层状膜",
         "count": 11,
-        "delta": -20
+        "delta": -19
+      },
+      {
+        "name": "有机溶剂纳滤",
+        "count": 8,
+        "delta": -33
       },
       {
         "name": "COF/MOF膜",
-        "count": 2,
-        "delta": -32
+        "count": 1,
+        "delta": -29
       }
     ],
     "journals": [
       {
         "name": "Journal of Membrane Science",
-        "count": 207,
-        "delta": 207
+        "count": 203,
+        "delta": 203
       },
       {
         "name": "Separation and Purification Technology",
@@ -1253,13 +1234,13 @@
       },
       {
         "name": "Advanced Functional Materials",
-        "count": 44,
-        "delta": 44
+        "count": 48,
+        "delta": 48
       },
       {
         "name": "Membranes",
-        "count": 41,
-        "delta": 41
+        "count": 42,
+        "delta": 42
       },
       {
         "name": "Journal of Water Process Engineering",
@@ -1268,8 +1249,8 @@
       },
       {
         "name": "Small",
-        "count": 38,
-        "delta": 38
+        "count": 39,
+        "delta": 39
       },
       {
         "name": "Langmuir",
@@ -1278,13 +1259,8 @@
       },
       {
         "name": "Environmental Science &amp; Technology",
-        "count": 32,
-        "delta": 32
-      },
-      {
-        "name": "Angewandte Chemie International Edition",
-        "count": 31,
-        "delta": 31
+        "count": 33,
+        "delta": 33
       },
       {
         "name": "Chemical Engineering Journal",
@@ -1292,7 +1268,12 @@
         "delta": 31
       },
       {
-        "name": "Angewandte Chemie",
+        "name": "Angewandte Chemie International Edition",
+        "count": 29,
+        "delta": 29
+      },
+      {
+        "name": "ACS Omega",
         "count": 27,
         "delta": 27
       }
@@ -1319,14 +1300,14 @@
         "delta": 16
       },
       {
-        "name": "Chuanjie Fang",
+        "name": "Qin Shen",
         "count": 15,
         "delta": 15
       },
       {
-        "name": "Qin Shen",
-        "count": 15,
-        "delta": 15
+        "name": "Chuanjie Fang",
+        "count": 14,
+        "delta": 14
       },
       {
         "name": "Xinyu Zhang",
@@ -1377,8 +1358,8 @@
     "institutions": [
       {
         "name": "University of Science and Technology of China",
-        "count": 35,
-        "delta": 35
+        "count": 34,
+        "delta": 34
       },
       {
         "name": "Zhejiang University",
@@ -1386,22 +1367,17 @@
         "delta": 26
       },
       {
-        "name": "Chinese Academy of Sciences",
-        "count": 22,
-        "delta": 22
-      },
-      {
         "name": "Tiangong University",
         "count": 22,
         "delta": 22
       },
       {
-        "name": "Donghua University",
+        "name": "Chinese Academy of Sciences",
         "count": 20,
         "delta": 20
       },
       {
-        "name": "Nanjing Tech University",
+        "name": "Donghua University",
         "count": 19,
         "delta": 19
       },
@@ -1421,7 +1397,17 @@
         "delta": 18
       },
       {
+        "name": "Nanjing Tech University",
+        "count": 16,
+        "delta": 16
+      },
+      {
         "name": "Tianjin University",
+        "count": 15,
+        "delta": 15
+      },
+      {
+        "name": "Zhejiang Sci-Tech University",
         "count": 14,
         "delta": 14
       },
@@ -1432,11 +1418,6 @@
       },
       {
         "name": "Beijing University of Chemical Technology",
-        "count": 13,
-        "delta": 13
-      },
-      {
-        "name": "Zhejiang Sci-Tech University",
         "count": 13,
         "delta": 13
       },
